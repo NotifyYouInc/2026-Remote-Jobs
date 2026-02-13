@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Averna](https://scoutify.ai/companies/averna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Quebec, CA |
+| Location | Canada |
 | Category | Project Manager |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000107544205-technical-project-manager-test-engineering-english-version) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000107566105-technical-project-manager-test-engineering-english-version) |
 
 ## About This Role
 

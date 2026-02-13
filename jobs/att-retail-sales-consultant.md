@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Roseville, California, United States |
+| Location | Edmond, Oklahoma, United States |
 | Category | Sales Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACARoseville2030-Douglas-BlvdRETRET/Retail-Sales-Consultant_R-95421-1) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAOKEdmond1255-E-2nd-StRETRET/Retail-Sales-Consultant_R-100285-1) |
 
 ## About This Role
 

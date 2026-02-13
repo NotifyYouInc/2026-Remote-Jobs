@@ -5,12 +5,12 @@
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000107401165-account-executive-enterprise) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000107611716-account-executive-enterprise) |
 
 ## About This Role
 
-This sales position at Freshworks CRM was posted on 2026-02-04.
+This sales position at Freshworks CRM was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

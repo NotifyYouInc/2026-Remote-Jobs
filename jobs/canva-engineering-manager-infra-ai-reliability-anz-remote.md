@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Sydney, New South Wales, Australia |
 | Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000847517-engineering-manager-infra-ai-reliability-anz-remote) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000849386-engineering-manager-infra-ai-reliability-anz-remote) |
 
 ## About This Role
 
-This operations position at Canva was posted on 2026-02-05.
+This operations position at Canva was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
