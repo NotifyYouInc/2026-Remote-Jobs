@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Business Development |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000107404825-business-development-manager-midwest-territory) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000107850518-business-development-manager-midwest-territory) |
 
 ## About This Role
 
-This business development position at Eurofins Scientific was posted on 2026-02-05.
+This business development position at Eurofins Scientific was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | West Palm Beach, Florida, United States |
 | Category | Business Development |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107615006-partner-business-development-ai-data-transformation-americas) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107768608-partner-business-development-ai-data-transformation-americas) |
 
 ## About This Role
 
-This business development position at ServiceNow was posted on 2026-02-05.
+This business development position at ServiceNow was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

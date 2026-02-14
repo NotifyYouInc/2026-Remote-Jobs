@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zip](https://scoutify.ai/companies/zip?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/zip/957c81ac-7ff7-4d1b-9b4b-3eb60305b6da) |
+| Location | United States |
+| Category | Business Development |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/zip/c35c04e8-a0d8-4690-a436-2690d97f52c0) |
 
 ## About This Role
 
-This sales position at Zip was posted on 2026-02-04.
+This business development position at Zip was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

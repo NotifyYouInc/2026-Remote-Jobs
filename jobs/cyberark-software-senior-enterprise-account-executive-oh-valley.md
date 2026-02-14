@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Indianapolis, Indiana, United States |
-| Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000107607194-senior-enterprise-account-executive-oh-valley) |
+| Category | Business Development |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000107830493-senior-enterprise-account-executive-oh-valley) |
 
 ## About This Role
 
-This sales position at CyberArk Software was posted on 2026-02-05.
+This business development position at CyberArk Software was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-Commercialization_R-99557) |
+| Location | Dallas, Texas, United States |
+| Category | Product Marketing Management |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-Commercialization_R-93748) |
 
 ## About This Role
 
-This operations position at AT&T was posted on 2026-02-05.
+This product marketing management position at AT&T was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

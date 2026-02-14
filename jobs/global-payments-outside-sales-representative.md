@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Waterloo, Iowa, United States |
+| Location | Cherry Hill, New Jersey, United States |
 | Category | Sales |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Waterloo-Iowa-USA/Core-GE-RM_R0069380) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Cherry-Hill-New-Jersey-USA/Outside-Sales-Representative_R0069608) |
 
 ## About This Role
 
-This sales position at Global Payments was posted on 2026-02-04.
+This sales position at Global Payments was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
