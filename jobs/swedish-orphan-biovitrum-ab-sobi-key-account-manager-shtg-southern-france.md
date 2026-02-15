@@ -6,7 +6,7 @@
 | Location | Paris, Île-de-France, France |
 | Category | Customer Success |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sobi/744000107751016-key-account-manager-shtg-southern-france) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sobi/744000107753832-key-account-manager-shtg-southern-france) |
 
 ## About This Role
 
