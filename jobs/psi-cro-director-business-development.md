@@ -5,12 +5,12 @@
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United Kingdom |
 | Category | Business Development |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000107516275-director-business-development) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000108194555-director-business-development) |
 
 ## About This Role
 
-This business development position at Psi Cro was posted on 2026-02-05.
+This business development position at Psi Cro was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

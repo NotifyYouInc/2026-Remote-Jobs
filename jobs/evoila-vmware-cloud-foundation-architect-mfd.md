@@ -1,0 +1,22 @@
+# Vmware Cloud Foundation Architect (m/f/d) at evoila
+
+| Field | Details |
+|-------|---------|
+| Company | [evoila](https://scoutify.ai/companies/evoila?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Madrid, Madrid, Spain |
+| Category | Solutions Architect |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://evoila.wd3.myworkdayjobs.com/evoilajobs/job/Madrid-Remote/Vmware-Cloud-Foundation-Architect--m-f-d-_JR100265-1) |
+
+## About This Role
+
+This solutions architect position at evoila was posted on 2026-02-09.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

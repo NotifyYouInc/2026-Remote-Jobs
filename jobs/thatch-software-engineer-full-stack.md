@@ -1,16 +1,16 @@
-# Software Engineer, Full Stack at Thatch
+# Software Engineer: Full Stack at Thatch
 
 | Field | Details |
 |-------|---------|
 | Company | [Thatch](https://scoutify.ai/companies/thatch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thatch/jobs/5110359008) |
+| Posted | 2026-02-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thatch/jobs/5113761008) |
 
 ## About This Role
 
-This software engineer position at Thatch was posted on 2026-02-06.
+This software engineer position at Thatch was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

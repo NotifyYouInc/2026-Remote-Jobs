@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Product Designer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000107478026-ux-designer) |
+| Category | Ux Researcher |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000108202865-ux-designer) |
 
 ## About This Role
 
-This product designer position at Utility Warehouse was posted on 2026-02-05.
+This ux researcher position at Utility Warehouse was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

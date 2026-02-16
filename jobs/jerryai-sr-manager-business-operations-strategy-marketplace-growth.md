@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Palo Alto, California, United States |
 | Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/266f8b8e-c09f-4520-af1f-e31c865927eb) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/bb97ecc4-1d19-454e-b5af-5d38dcd903a4) |
 
 ## About This Role
 
-This operations position at Jerry.ai was posted on 2026-02-06.
+This operations position at Jerry.ai was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Karnataka, IN |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PW-II/SENIOR--SOFTWARE-ENGINEER_R-2407462-1) |
+| Posted | 2026-02-07 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-RMZ-Millenia-Biz-Park/SENIOR--SOFTWARE-ENGINEER_R-2324851) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-06.
+This software engineer position at Walmart was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

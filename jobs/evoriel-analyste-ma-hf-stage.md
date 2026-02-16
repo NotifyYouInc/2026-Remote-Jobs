@@ -5,12 +5,12 @@
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000107761175-analyste-ma-hf-stage) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000108159045-analyste-ma-hf-stage) |
 
 ## About This Role
 
-This corporate finance position at Evoriel was posted on 2026-02-06.
+This corporate finance position at Evoriel was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

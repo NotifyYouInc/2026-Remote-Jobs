@@ -6,7 +6,7 @@
 | Location | Berlin, State of Berlin, Germany |
 | Category | Operations |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000107805517-chief-of-staff-to-the-cto) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000107838666-chief-of-staff-to-the-cto) |
 
 ## About This Role
 
