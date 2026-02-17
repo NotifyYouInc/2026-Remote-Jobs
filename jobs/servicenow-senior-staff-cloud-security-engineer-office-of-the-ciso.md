@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107567800-senior-staff-cloud-security-engineer-office-of-the-ciso) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108269485-senior-staff-cloud-security-engineer-office-of-the-ciso) |
 
 ## About This Role
 
-This cybersecurity engineer position at ServiceNow was posted on 2026-02-05.
+This cybersecurity engineer position at ServiceNow was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

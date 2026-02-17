@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bellaire, Texas, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bellaire-Texas/Bilingual-Spanish-Outside-Sales-Representative_R-100391) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Nashville-Tennessee/Bilingual-Spanish-Outside-Sales-Representative_R-100829) |
 
 ## About This Role
 
-This sales position at AT&T was posted on 2026-02-05.
+This sales position at AT&T was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

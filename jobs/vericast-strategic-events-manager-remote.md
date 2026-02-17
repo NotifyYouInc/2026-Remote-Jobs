@@ -5,12 +5,12 @@
 | Company | [Vericast](https://scoutify.ai/companies/vericast?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000107402123-strategic-events-manager-remote) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000108313215-strategic-events-manager-remote) |
 
 ## About This Role
 
-This operations position at Vericast was posted on 2026-02-04.
+This operations position at Vericast was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

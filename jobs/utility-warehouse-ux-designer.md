@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Ux Researcher |
+| Category | UX Researcher |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000108202865-ux-designer) |
 

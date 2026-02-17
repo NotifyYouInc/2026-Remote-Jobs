@@ -5,12 +5,12 @@
 | Company | [DocPlanner](https://scoutify.ai/companies/docplanner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000107498266-junior-customer-success-onboarding-manager-mwd-hybrid-in-berlin-koln-oder-munchen) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000108313655-junior-customer-success-onboarding-manager-mwd-hybrid-in-berlin-koln-oder-munchen) |
 
 ## About This Role
 
-This customer success position at DocPlanner was posted on 2026-02-05.
+This customer success position at DocPlanner was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

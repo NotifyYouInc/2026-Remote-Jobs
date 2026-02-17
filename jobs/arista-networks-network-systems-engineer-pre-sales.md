@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Diego, California, United States |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000108201652-network-systems-engineer-pre-sales) |
 
 ## About This Role
 
-This solutions architect position at Arista Networks was posted on 2026-02-09.
+This technical & solutions architect position at Arista Networks was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

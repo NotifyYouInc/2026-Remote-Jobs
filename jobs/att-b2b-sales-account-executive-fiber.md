@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Cullman-Alabama/B2B-Sales-Account-Executive---Fiber_R-99569) |
+| Location | Brookfield, Wisconsin, United States |
+| Category | Sales |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Brookfield-Wisconsin/B2B-Sales-Account-Executive---Fiber_R-99480) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-02-06.
+This sales position at AT&T was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

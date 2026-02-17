@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000108207365-consultante-junior-analyst-en-transformation-digitale-cto-advisory-cloud-cdi) |
 
 ## About This Role
 
-This strategy and operations position at Wavestone was posted on 2026-02-09.
+This strategy & operations position at Wavestone was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

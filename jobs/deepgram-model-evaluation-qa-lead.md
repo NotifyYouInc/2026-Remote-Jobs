@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Deepgram](https://scoutify.ai/companies/deepgram?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/deepgram/1111c5de-2f90-4f38-a353-115a64a9ca33) |
 

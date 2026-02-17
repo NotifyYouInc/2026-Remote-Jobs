@@ -5,12 +5,12 @@
 | Company | [BlueOptima](https://scoutify.ai/companies/blueoptima?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BlueOptima/744000108146510-senior-account-executive) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BlueOptima/744000108414535-senior-account-executive) |
 
 ## About This Role
 
-This sales position at BlueOptima was posted on 2026-02-09.
+This sales position at BlueOptima was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

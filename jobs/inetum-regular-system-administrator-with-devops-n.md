@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000108203425-regular-system-administrator-with-devops-n) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-02-09.
+This devops engineer position at Inetum was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

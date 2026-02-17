@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Senior-Director--AI-Insights_R100119859) |
 
 ## About This Role
 
-This strategy and operations position at ASM Global was posted on 2026-02-09.
+This strategy & operations position at ASM Global was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
