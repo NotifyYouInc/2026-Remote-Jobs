@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M3](https://scoutify.ai/companies/m3?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Madrid, Madrid, Spain |
 | Category | Project Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/M3USA/744000107536533-expert-network-project-manager-multi-lingual-remote) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/M3USA/744000108548098-expert-network-project-manager-multi-lingual-remote) |
 
 ## About This Role
 
-This project manager position at M3 was posted on 2026-02-05.
+This project manager position at M3 was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

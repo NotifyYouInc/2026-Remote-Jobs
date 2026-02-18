@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Sales |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Nashville-Tennessee/Bilingual-Spanish-Outside-Sales-Representative_R-100829) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Chicago-Illinois/Bilingual-Spanish-Outside-Sales-Representative_R-100944) |
 
 ## About This Role
 

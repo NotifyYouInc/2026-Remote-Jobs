@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Miami, Florida, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Miami-Florida-USA/Outside-Sales-Representative---Software_R0067328) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/San-Antonio-Texas-USA/Outside-Sales-Representative---Software_R0069659) |
 
 ## About This Role
 
-This sales position at Global Payments was posted on 2026-02-09.
+This sales position at Global Payments was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | District of Columbia, US |
 | Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-NY-New-York-Remote-Employees/Field-Sales-Representative_R239130) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MD-Maryland-Remote-Employees/Field-Sales-Representative_R241541) |
 
 ## About This Role
 
-This sales position at Arrow Electronics was posted on 2026-02-06.
+This sales position at Arrow Electronics was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

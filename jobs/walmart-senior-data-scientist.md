@@ -1,16 +1,16 @@
-# SENIOR, DATA SCIENTIST at Walmart
+# Senior, Data Scientist at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Karnataka, IN |
-| Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP2/SENIOR--DATA-SCIENTIST_R-2403013) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/Senior--Data-Scientist_R-2262317-1) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-02-05.
+This machine learning engineer position at Walmart was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

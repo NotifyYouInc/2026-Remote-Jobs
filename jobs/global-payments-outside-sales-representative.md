@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cherry Hill, New Jersey, United States |
+| Location | Waterloo, Iowa, United States |
 | Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Cherry-Hill-New-Jersey-USA/Outside-Sales-Representative_R0069608) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Waterloo-Iowa-USA/Outside-Sales-Representative_R0069732) |
 
 ## About This Role
 
-This sales position at Global Payments was posted on 2026-02-06.
+This sales position at Global Payments was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [DocPlanner](https://scoutify.ai/companies/docplanner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Curitiba, Paraná, Brazil |
 | Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000107744560-inside-sales-upsell-ia-bilingue-espanhol) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000108634691-inside-sales-upsell-ia-bilingue-espanhol) |
 
 ## About This Role
 
-This sales position at DocPlanner was posted on 2026-02-06.
+This sales position at DocPlanner was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

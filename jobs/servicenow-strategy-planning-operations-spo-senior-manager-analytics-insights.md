@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Strategy And Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107627153-strategy-planning-operations-spo-senior-manager-analytics-insights) |
+| Category | Operations |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108657852-strategy-planning-operations-spo-senior-manager-analytics-insights) |
 
 ## About This Role
 
-This strategy and operations position at ServiceNow was posted on 2026-02-06.
+This operations position at ServiceNow was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

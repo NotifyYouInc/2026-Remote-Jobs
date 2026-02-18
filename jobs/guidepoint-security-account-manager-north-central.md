@@ -5,12 +5,12 @@
 | Company | [GuidePoint Security](https://scoutify.ai/companies/guidepointsecurity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/guidepointsecurity/jobs/5798440004?gh_jid=5798440004) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://boards.greenhouse.io/guidepointsecurity/jobs/5799152004?gh_jid=5799152004) |
 
 ## About This Role
 
-This customer success position at GuidePoint Security was posted on 2026-02-09.
+This customer success position at GuidePoint Security was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

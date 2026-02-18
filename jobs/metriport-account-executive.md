@@ -5,12 +5,12 @@
 | Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Sales |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/75a38869-13e4-4ee7-b485-76544cf56b44) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/metriport/jobs/F1O7yhO-account-executive) |
 
 ## About This Role
 
-This sales position at Metriport was posted on 2026-02-08.
+This sales position at Metriport was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
