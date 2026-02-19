@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Waterloo, Iowa, United States |
+| Location | Madison, Wisconsin, United States |
 | Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Waterloo-Iowa-USA/Outside-Sales-Representative_R0069732) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Madison-Wisconsin-USA/Outside-Sales-Representative_R0069736) |
 
 ## About This Role
 
-This sales position at Global Payments was posted on 2026-02-10.
+This sales position at Global Payments was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

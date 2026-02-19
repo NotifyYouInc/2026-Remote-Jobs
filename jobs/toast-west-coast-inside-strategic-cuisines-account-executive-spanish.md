@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | San Diego, California, United States |
 | Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7603205) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7603940) |
 
 ## About This Role
 
-This sales position at Toast was posted on 2026-02-10.
+This sales position at Toast was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

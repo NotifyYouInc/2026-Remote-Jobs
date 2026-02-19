@@ -1,16 +1,16 @@
-# Sales Development Representative  at PHMG
+# Sales Development Representative at PHMG
 
 | Field | Details |
 |-------|---------|
 | Company | [PHMG](https://scoutify.ai/companies/phmg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Business Development |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.phmg.com/open-positions/?gh_jid=8414180002) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://careers.phmg.com/open-positions/?gh_jid=8419112002) |
 
 ## About This Role
 
-This business development position at PHMG was posted on 2026-02-09.
+This business development position at PHMG was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

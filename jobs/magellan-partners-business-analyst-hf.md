@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000108582653-business-analyst-hf) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000108818725-business-analyst-hf) |
 
 ## About This Role
 
-This business analyst position at Magellan Partners was posted on 2026-02-10.
+This business analyst position at Magellan Partners was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

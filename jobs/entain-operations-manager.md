@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107468492-operations-manager) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000108794495-operations-manager) |
 
 ## About This Role
 
-This operations position at Entain was posted on 2026-02-05.
+This operations position at Entain was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

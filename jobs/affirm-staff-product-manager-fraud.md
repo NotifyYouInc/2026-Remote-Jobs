@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7621004003) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7621002003) |
 
 ## About This Role
 
-This product manager position at Affirm was posted on 2026-02-06.
+This product manager position at Affirm was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

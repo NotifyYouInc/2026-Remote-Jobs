@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000108215433-digital-sales-representative) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000108828626-digital-sales-representative) |
 
 ## About This Role
 
-This sales position at Intuitive Surgical was posted on 2026-02-09.
+This sales position at Intuitive Surgical was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 
