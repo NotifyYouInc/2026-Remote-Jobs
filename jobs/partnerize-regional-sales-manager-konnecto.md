@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Partnerize](https://scoutify.ai/companies/partnerize?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Austin, Texas, United States |
 | Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://partnerize.com/company/jobs/?gh_jid=7628181003) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://partnerize.com/company/jobs/?gh_jid=7629784003) |
 
 ## About This Role
 
-This sales position at Partnerize was posted on 2026-02-11.
+This sales position at Partnerize was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

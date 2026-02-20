@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lifted, an Upwork Company™](https://scoutify.ai/companies/liftedanupworkcompany?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990011614806-senior-backend-engineer-c-php) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990011656969-senior-backend-engineer-c-php) |
 
 ## About This Role
 
-This software engineer position at Lifted, an Upwork Company™ was posted on 2026-02-10.
+This software engineer position at Lifted, an Upwork Company™ was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | Ivano-Frankivsk, Ivano-Frankivsk, Ukraine |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000108180886-senior-ios-developer) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000109021697-senior-ios-developer) |
 
 ## About This Role
 
-This software engineer position at Lions Candle-Dispatch Solution was posted on 2026-02-09.
+This software engineer position at Lions Candle-Dispatch Solution was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

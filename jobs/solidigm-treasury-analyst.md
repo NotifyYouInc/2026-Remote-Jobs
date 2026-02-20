@@ -5,12 +5,12 @@
 | Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | China |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000108154755-treasury-analyst) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000109145285-treasury-analyst) |
 
 ## About This Role
 
-This corporate finance position at Solidigm was posted on 2026-02-09.
+This corporate finance position at Solidigm was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

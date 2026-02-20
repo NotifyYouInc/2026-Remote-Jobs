@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Illinois, US |
+| Location | Mexico |
 | Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Illinois---Remote/Senior-Enterprise-Account-Executive_R02578) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Mexico---Remote/Senior-Enterprise-Account-Executive_R02547) |
 
 ## About This Role
 
-This sales position at Cohesity was posted on 2026-02-11.
+This sales position at Cohesity was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

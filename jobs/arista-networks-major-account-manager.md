@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Cleveland, Ohio, United States |
 | Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000107798123-major-account-manager) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000109070155-major-account-manager) |
 
 ## About This Role
 
-This customer success position at Arista Networks was posted on 2026-02-06.
+This customer success position at Arista Networks was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

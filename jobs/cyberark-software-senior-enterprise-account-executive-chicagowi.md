@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000108837195-senior-enterprise-account-executive-chicagowi) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109042091-senior-enterprise-account-executive-chicagowi) |
 
 ## About This Role
 
-This sales position at CyberArk Software was posted on 2026-02-11.
+This sales position at CyberArk Software was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

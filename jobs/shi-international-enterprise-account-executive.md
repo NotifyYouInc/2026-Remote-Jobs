@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Salt Lake City, Utah, United States |
 | Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---PA---Home-Office/Enterprise-Account-Executive_JR2547) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---UT---Home-Office/Enterprise-Account-Executive_JR2543) |
 
 ## About This Role
 
-This sales position at SHI International was posted on 2026-02-11.
+This sales position at SHI International was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

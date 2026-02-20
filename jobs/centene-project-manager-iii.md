@@ -1,16 +1,16 @@
-# Project Manager III at Centene
+# Project Manager  III at Centene
 
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Florida, US |
 | Category | Project Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Project-Manager-III_1630307) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Project-Manager--III_1629322) |
 
 ## About This Role
 
-This project manager position at Centene was posted on 2026-02-06.
+This project manager position at Centene was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 
