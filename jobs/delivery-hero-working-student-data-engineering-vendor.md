@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000107480275-working-student-data-engineering-vendor) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000109255146-working-student-data-engineering-vendor) |
 
 ## About This Role
 
-This data engineer position at Delivery Hero was posted on 2026-02-05.
+This data engineer position at Delivery Hero was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BrainStation](https://scoutify.ai/companies/brainstation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | Not specified |
 | Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7624430003) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7631642003) |
 
 ## About This Role
 
-This sales position at BrainStation was posted on 2026-02-09.
+This sales position at BrainStation was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

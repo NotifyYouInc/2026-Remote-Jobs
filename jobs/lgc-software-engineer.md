@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LGC](https://scoutify.ai/companies/lgc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000108543284-software-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000109204228-software-engineer) |
 
 ## About This Role
 
-This software engineer position at LGC was posted on 2026-02-10.
+This devops engineer position at LGC was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

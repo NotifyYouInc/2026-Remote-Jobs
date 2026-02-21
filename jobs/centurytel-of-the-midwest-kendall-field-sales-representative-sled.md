@@ -1,16 +1,16 @@
-# Field Sales Representative, SLED   at CenturyTel of the Midwest-Kendall
+# Field Sales Representative, SLED at CenturyTel of the Midwest-Kendall
 
 | Field | Details |
 |-------|---------|
 | Company | [CenturyTel of the Midwest-Kendall](https://scoutify.ai/companies/centurytelofthemidwestkendall?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Brightspeed/744000108806186-field-sales-representative-sled) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Brightspeed/744000109236030-field-sales-representative-sled) |
 
 ## About This Role
 
-This sales position at CenturyTel of the Midwest-Kendall was posted on 2026-02-11.
+This sales position at CenturyTel of the Midwest-Kendall was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

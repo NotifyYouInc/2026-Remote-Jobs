@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Operations |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/9ecb5b37-65fe-4c0e-8ead-3a4d5937d482) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/f6a64bb4-5c28-4cdd-9b93-9234a4e98a78) |
 
 ## About This Role
 
-This operations position at Jerry.ai was posted on 2026-02-09.
+This operations position at Jerry.ai was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

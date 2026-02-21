@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
+| Location | United States |
 | Category | Sales |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7602254) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7616364) |
 
 ## About This Role
 
-This sales position at Twilio was posted on 2026-02-12.
+This sales position at Twilio was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

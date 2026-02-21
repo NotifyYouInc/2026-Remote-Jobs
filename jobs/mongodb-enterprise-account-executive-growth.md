@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7362626) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7600753) |
 
 ## About This Role
 
-This sales position at MongoDB was posted on 2026-02-05.
+This sales position at MongoDB was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

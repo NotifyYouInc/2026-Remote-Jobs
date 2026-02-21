@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXDallas--Two-ATT-Plaza-211-S-Akard-St---Dat211-S-Akard-St/Principal-System-Engineering_R-100183) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-System-Engineering_R-100985) |
 
 ## About This Role
 
-This technical & solutions architect position at AT&T was posted on 2026-02-10.
+This devops engineer position at AT&T was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

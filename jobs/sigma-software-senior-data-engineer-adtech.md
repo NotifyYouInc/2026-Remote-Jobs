@@ -1,0 +1,22 @@
+# Senior Data Engineer (AdTech) at Sigma Software
+
+| Field | Details |
+|-------|---------|
+| Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Data Engineer |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000109204875-senior-data-engineer-adtech) |
+
+## About This Role
+
+This data engineer position at Sigma Software was posted on 2026-02-13.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

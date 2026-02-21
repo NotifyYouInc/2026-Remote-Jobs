@@ -5,12 +5,12 @@
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000108241555-idn-account-manager-sfsacramento-ca) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000109281722-idn-account-manager-sfsacramento-ca) |
 
 ## About This Role
 
-This customer success position at Dr. Reddy's Laboratories was posted on 2026-02-09.
+This customer success position at Dr. Reddy's Laboratories was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

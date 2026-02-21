@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109033925-senior-site-reliability-engineer) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109295725-senior-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at CyberArk Software was posted on 2026-02-12.
+This devops engineer position at CyberArk Software was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

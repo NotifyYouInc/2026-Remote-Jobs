@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playson](https://scoutify.ai/companies/playson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
+| Location | Not specified |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/playson/1588fcb7-c44f-4314-935f-b59bd0e9997c) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/playson/719f6f8f-3f52-4a81-8d8d-9392c270775c) |
 
 ## About This Role
 
-This customer success position at Playson was posted on 2026-02-05.
+This customer success position at Playson was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico |
+| Location | Colombia |
 | Category | Sales |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Mexico---Remote/Senior-Enterprise-Account-Executive_R02547) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Colombia---Remote/Senior-Enterprise-Account-Executive_R02713) |
 
 ## About This Role
 
-This sales position at Cohesity was posted on 2026-02-12.
+This sales position at Cohesity was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dynata](https://scoutify.ai/companies/dynata?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
+| Location | United States |
 | Category | Project Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/UK-London/Senior-Project-Manager_REQ13061) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Remote--USA/Senior-Project-Manager_REQ12912-1) |
 
 ## About This Role
 
-This project manager position at Dynata was posted on 2026-02-10.
+This project manager position at Dynata was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

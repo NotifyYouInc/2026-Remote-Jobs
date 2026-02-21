@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000107829054-senior-enterprise-account-executive-mmink) |
+| Category | Sales |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109295486-senior-enterprise-account-executive-mmink) |
 
 ## About This Role
 
-This business development position at CyberArk Software was posted on 2026-02-06.
+This sales position at CyberArk Software was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

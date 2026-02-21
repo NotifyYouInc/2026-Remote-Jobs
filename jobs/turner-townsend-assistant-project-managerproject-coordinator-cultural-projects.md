@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Project Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000109075461-assistant-project-managerproject-coordinator-cultural-projects) |
+| Category | Operations |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000109263136-assistant-project-managerproject-coordinator-cultural-projects) |
 
 ## About This Role
 
-This project manager position at Turner & Townsend was posted on 2026-02-12.
+This operations position at Turner & Townsend was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

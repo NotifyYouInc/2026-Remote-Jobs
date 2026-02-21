@@ -5,12 +5,12 @@
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Italy |
 | Category | Project Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000108219796-junior-project-manager) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000109267845-junior-project-manager) |
 
 ## About This Role
 
-This project manager position at AUTO1 Group was posted on 2026-02-09.
+This project manager position at AUTO1 Group was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
