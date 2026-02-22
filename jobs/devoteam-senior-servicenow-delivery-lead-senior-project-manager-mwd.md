@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hamburg, Hamburg, Germany |
+| Location | Germany |
 | Category | Program Manager |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000109195245-senior-servicenow-delivery-lead-senior-project-manager-mwd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000109196445-senior-servicenow-delivery-lead-senior-project-manager-mwd) |
 
 ## About This Role
 
