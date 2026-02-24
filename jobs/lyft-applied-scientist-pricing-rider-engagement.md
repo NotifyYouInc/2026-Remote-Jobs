@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8403401002?gh_jid=8403401002) |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8404373002?gh_jid=8404373002) |
 
 ## About This Role
 

@@ -6,7 +6,7 @@
 | Location | Not specified |
 | Category | Customer Success |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/qualio/jobs/7630284003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/qualio/jobs/7630325003) |
 
 ## About This Role
 
