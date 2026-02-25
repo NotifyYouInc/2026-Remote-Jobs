@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109578425-graduate-specialist-program-sales-engineering) |
+| Category | Account Manager |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109819965-graduate-specialist-program-sales-engineering) |
 
 ## About This Role
 
-This sales position at Robert Bosch was posted on 2026-02-16.
+This account manager position at Robert Bosch was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

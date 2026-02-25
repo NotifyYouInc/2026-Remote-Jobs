@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | France |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7613787?gh_jid=7613787) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7625030?gh_jid=7625030) |
 
 ## About This Role
 
-This customer success position at Samsara was posted on 2026-02-13.
+This customer success position at Samsara was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

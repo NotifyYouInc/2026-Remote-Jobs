@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sitemate](https://scoutify.ai/companies/sitemate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/e378cbcb-76e8-4116-a356-50a5ec756820) |
+| Category | Business Development |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/77ab5bcb-6e06-46f1-9984-8d04b68dd9a5) |
 
 ## About This Role
 
-This sales position at Sitemate was posted on 2026-02-05.
+This business development position at Sitemate was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

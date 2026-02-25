@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109305550-graduate-specialist-program-supply-chain) |
+| Category | Leadership Development Program |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109820515-graduate-specialist-program-supply-chain) |
 
 ## About This Role
 
-This operations position at Robert Bosch was posted on 2026-02-13.
+This leadership development program position at Robert Bosch was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

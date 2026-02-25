@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
-| Category | Business Development |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Chicago/Product-Sales-Specialist_R5030975-3) |
+| Category | Account Executive |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Product-Sales-Specialist_R5031310-3) |
 
 ## About This Role
 
-This business development position at GE Vernova was posted on 2026-02-05.
+This account executive position at GE Vernova was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 
