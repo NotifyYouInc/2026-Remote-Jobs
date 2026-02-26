@@ -1,16 +1,16 @@
-# Senior Risk & Control Analyst Line 1 at Latitude Financial Services
+# Senior Risk & Control Analyst, Line 1 at Latitude Financial Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Latitude Financial Services](https://scoutify.ai/companies/latitude-financial-services?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Operations |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://latitudefinancial.wd3.myworkdayjobs.com/careers/job/AUS-VIC-Melbourne/Senior-Risk---Control-Analyst-Line-1_R7522) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://latitudefinancial.wd3.myworkdayjobs.com/careers/job/AUS-VIC-Melbourne/Senior-Risk---Control-Analyst--Line-1_R7550-1) |
 
 ## About This Role
 
-This operations position at Latitude Financial Services was posted on 2026-02-16.
+This compliance & risk management position at Latitude Financial Services was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sitemate](https://scoutify.ai/companies/sitemate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Customer Success |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/7d6436c8-23e3-438b-8dcb-fb13de123eaa) |
+| Category | Account Manager |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/2a25f3d7-6c35-4922-b41e-648459f3f10b) |
 
 ## About This Role
 
-This customer success position at Sitemate was posted on 2026-02-11.
+This account manager position at Sitemate was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

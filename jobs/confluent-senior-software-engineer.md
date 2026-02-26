@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Confluent](https://scoutify.ai/companies/confluent?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ontario, CA |
+| Location | United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/confluent/267d1cb2-52d6-4578-b852-2dbfb15795a1) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/confluent/0c8cd0e5-8a53-47bc-9699-2934fbdaa7be) |
 
 ## About This Role
 
-This software engineer position at Confluent was posted on 2026-02-13.
+This software engineer position at Confluent was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

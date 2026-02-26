@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/35255ab1-73ba-486c-af7e-2b00e1c7ad4f) |
+| Location | Ukraine |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/bc1e2325-8851-430f-b0fd-27d6e9e920e4) |
 
 ## About This Role
 
-This software engineer position at Ruby Labs was posted on 2026-02-06.
+This ai / llm engineer position at Ruby Labs was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

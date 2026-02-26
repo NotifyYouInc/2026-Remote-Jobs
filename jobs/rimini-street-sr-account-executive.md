@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United Kingdom |
-| Category | Sales |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-United-Kingdom/Sr-Account-Executive_R-102028) |
+| Location | Texas, US |
+| Category | Account Executive |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-TX/Sr-Account-Executive_R-102035) |
 
 ## About This Role
 
-This sales position at Rimini Street was posted on 2026-02-12.
+This account executive position at Rimini Street was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United Kingdom |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4775312101?gh_jid=4775312101) |
+| Location | United States |
+| Category | Account Executive |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4784879101?gh_jid=4784879101) |
 
 ## About This Role
 
-This sales position at NiCE was posted on 2026-02-09.
+This account executive position at NiCE was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

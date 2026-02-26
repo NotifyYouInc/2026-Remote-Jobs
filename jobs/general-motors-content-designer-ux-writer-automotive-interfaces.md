@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | UX Writer & Content Designer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Content-Designer--UX-Writer---Automotive-Interfaces-_JR-202601372) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Content-Designer--UX-Writer---Automotive-Interfaces-_JR-202603747) |
 
 ## About This Role
 
-This ux writer & content designer position at General Motors was posted on 2026-02-17.
+This ux writer & content designer position at General Motors was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

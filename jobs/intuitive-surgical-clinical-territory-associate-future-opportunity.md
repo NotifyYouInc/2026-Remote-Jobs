@@ -1,16 +1,16 @@
-# Clinical Territory Associate - Future Opportunity  at Intuitive Surgical
+# Clinical Territory Associate - Future Opportunity at Intuitive Surgical
 
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Vermont, US |
 | Category | Account Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000109812615-clinical-territory-associate-future-opportunity) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000110037370-clinical-territory-associate-future-opportunity) |
 
 ## About This Role
 
-This account manager position at Intuitive Surgical was posted on 2026-02-17.
+This account manager position at Intuitive Surgical was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

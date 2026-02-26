@@ -1,16 +1,16 @@
-# ​​Principal AI Security Researcher​ at Leidos
+# Principal AI Security Researcher at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/XMLNAME---Principal-AI-Security-Researcher-_R-00175440) |
+| Category | Security Engineer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Principal-AI-Security-Researcher_R-00176309) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-02-06.
+This security engineer position at Leidos was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

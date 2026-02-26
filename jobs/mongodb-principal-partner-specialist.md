@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7525990) |
+| Location | Gurugram, Haryana, India |
+| Category | Channel / Partner Sales |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7625229) |
 
 ## About This Role
 
-This sales position at MongoDB was posted on 2026-02-09.
+This channel / partner sales position at MongoDB was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

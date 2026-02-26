@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107610677-customer-success-advocate-moveworks) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110021035-customer-success-advocate-moveworks) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-02-05.
+This customer success position at ServiceNow was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

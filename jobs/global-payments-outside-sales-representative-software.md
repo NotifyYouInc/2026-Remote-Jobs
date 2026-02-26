@@ -1,16 +1,16 @@
-# Outside Sales Representative - Software at Global Payments
+# Outside Sales Representative-Software at Global Payments
 
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/San-Antonio-Texas-USA/Outside-Sales-Representative---Software_R0069659) |
+| Location | Tampa, Florida, United States |
+| Category | Account Executive |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Tampa-Florida-USA/Outside-Sales-Representative-Software_R0068456) |
 
 ## About This Role
 
-This sales position at Global Payments was posted on 2026-02-10.
+This account executive position at Global Payments was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
