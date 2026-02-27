@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Mumbai/Senior-Safety-Writer_26348) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Mumbai/Senior-Safety-Writer_2694-1) |
 
 ## About This Role
 
-This compliance & risk management position at Covance was posted on 2026-02-19.
+This compliance & risk management position at Covance was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

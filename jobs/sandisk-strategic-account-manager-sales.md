@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Milpitas, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Account Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000110048845-strategic-account-manager-sales) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000110294135-strategic-account-manager-sales) |
 
 ## About This Role
 
-This account manager position at SanDisk was posted on 2026-02-18.
+This account manager position at SanDisk was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

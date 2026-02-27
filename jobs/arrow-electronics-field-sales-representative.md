@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | District of Columbia, US |
-| Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MD-Maryland-Remote-Employees/Field-Sales-Representative_R241541) |
+| Location | South Dakota, US |
+| Category | Account Executive |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-SD-South-Dakota-Remote-Employees/Field-Sales-Representative_R240976) |
 
 ## About This Role
 
-This sales position at Arrow Electronics was posted on 2026-02-10.
+This account executive position at Arrow Electronics was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

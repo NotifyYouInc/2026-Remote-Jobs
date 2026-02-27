@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 3 locations |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Peoria-IL/Territory-Sales-Specialist_Essity269408-1) |
+| Category | Account Executive |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Charlotte-NC/Territory-Sales-Specialist_Essity269117-1) |
 
 ## About This Role
 
-This sales position at Essity was posted on 2026-02-06.
+This account executive position at Essity was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

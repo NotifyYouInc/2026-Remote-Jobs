@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nature](https://scoutify.ai/companies/nature?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Virginia, US |
 | Category | Marketing |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://nature.wd108.myworkdayjobs.com/externalcareers/job/Remote-USA/Media-Relations-Intern_JR102068) |
+| Apply | [View on company site](https://nature.wd108.myworkdayjobs.com/externalcareers/job/Remote---Virginia/Media-Relations-Intern_JR102049) |
 
 ## About This Role
 

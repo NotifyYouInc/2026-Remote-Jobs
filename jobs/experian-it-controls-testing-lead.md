@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000109815305-it-controls-testing-lead) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000110247786-it-controls-testing-lead) |
 
 ## About This Role
 
-This compliance & risk management position at Experian was posted on 2026-02-17.
+This compliance & risk management position at Experian was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
