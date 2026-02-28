@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brex](https://scoutify.ai/companies/brex?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.brex.com/careers/8430394002?gh_jid=8430394002) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://www.brex.com/careers/8431911002?gh_jid=8431911002) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Brex was posted on 2026-02-19.
+This talent acquisition / recruiting position at Brex was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

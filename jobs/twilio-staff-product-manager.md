@@ -5,12 +5,12 @@
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7610326) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7593382) |
 
 ## About This Role
 
-This product manager position at Twilio was posted on 2026-02-12.
+This product manager position at Twilio was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

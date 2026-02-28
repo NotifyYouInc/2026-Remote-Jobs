@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Focus Financial Partners](https://scoutify.ai/companies/focus-financial-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5766078004) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5809932004) |
 
 ## About This Role
 
-This corporate finance position at Focus Financial Partners was posted on 2026-02-19.
+This corporate finance position at Focus Financial Partners was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

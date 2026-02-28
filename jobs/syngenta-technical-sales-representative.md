@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Woodland, California, United States |
-| Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000107552236-technical-sales-representative) |
+| Category | Account Executive |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000110460125-technical-sales-representative) |
 
 ## About This Role
 
-This sales position at Syngenta was posted on 2026-02-05.
+This account executive position at Syngenta was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Raleigh, North Carolina, United States |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000107846665-business-development-manager-southeast-territory) |
+| Category | Engineering Manager |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000110470941-business-development-manager-southeast-territory) |
 
 ## About This Role
 
-This business development position at Eurofins Scientific was posted on 2026-02-06.
+This engineering manager position at Eurofins Scientific was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

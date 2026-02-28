@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108646185-principal-technical-consultant-data-integrations-specialist-platform-products-expert-implementation-services) |
+| Location | Chicago, Illinois, United States |
+| Category | Customer Success |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110454315-principal-technical-consultant-data-integrations-specialist-platform-products-expert-implementation-services) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-02-11.
+This customer success position at ServiceNow was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 
