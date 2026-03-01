@@ -1,16 +1,16 @@
-# Senior Graphic Designer - UK  at Bjak
+# Technical Program Manager, Research at Deepgram
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Marketing |
+| Company | [Deepgram](https://scoutify.ai/companies/deepgram?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Program Manager |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/62693708-6967-4a96-abe8-621673bd61f5) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deepgram/69d7f329-968a-4c9d-a0b4-972f83f1206c) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-02-21.
+This program manager position at Deepgram was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

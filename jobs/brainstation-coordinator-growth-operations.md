@@ -1,16 +1,16 @@
-# Business Development Representative at BrainStation
+# Coordinator, Growth Operations at BrainStation
 
 | Field | Details |
 |-------|---------|
 | Company | [BrainStation](https://scoutify.ai/companies/brainstation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
-| Category | Business Development |
+| Category | Growth Marketing |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7639644003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7639646003) |
 
 ## About This Role
 
-This business development position at BrainStation was posted on 2026-02-21.
+This growth marketing position at BrainStation was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

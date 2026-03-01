@@ -1,16 +1,16 @@
-# Account Executive at BrainStation
+# Regional Sales Account Manager at Regal Rexnord
 
 | Field | Details |
 |-------|---------|
-| Company | [BrainStation](https://scoutify.ai/companies/brainstation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | 15 locations |
 | Category | Account Executive |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7639642003) |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Auburn-Alabama-United-States/Regional-Sales-Account-Manager_R26_00851) |
 
 ## About This Role
 
-This account executive position at BrainStation was posted on 2026-02-21.
+This account executive position at Regal Rexnord was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

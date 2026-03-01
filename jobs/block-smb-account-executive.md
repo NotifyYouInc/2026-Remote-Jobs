@@ -1,16 +1,16 @@
-# Account Executive at BrainStation
+# SMB Account Executive at Block
 
 | Field | Details |
 |-------|---------|
-| Company | [BrainStation](https://scoutify.ai/companies/brainstation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Not specified |
 | Category | Account Executive |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7639642003) |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5128617008?gh_jid=5128617008) |
 
 ## About This Role
 
-This account executive position at BrainStation was posted on 2026-02-21.
+This account executive position at Block was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

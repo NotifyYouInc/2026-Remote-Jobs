@@ -1,16 +1,16 @@
-# Senior Technical Recruiter at Brex
+# Managing Lead Counsel - SCRI at McKesson
 
 | Field | Details |
 |-------|---------|
-| Company | [Brex](https://scoutify.ai/companies/brex?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 4 locations |
-| Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.brex.com/careers/8428989002?gh_jid=8428989002) |
+| Category | Legal |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TN-Nashville/Managing-Lead-Counsel---SCRI_JR0143085) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Brex was posted on 2026-02-20.
+This legal position at McKesson was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

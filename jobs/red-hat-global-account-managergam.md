@@ -1,16 +1,16 @@
-# Account Executive at BrainStation
+# Global Account Manager/GAM at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [BrainStation](https://scoutify.ai/companies/brainstation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Ontario, CA |
 | Category | Account Executive |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7639642003) |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-CA-ON/Global-Account-Manager-GAM_R-054259-1) |
 
 ## About This Role
 
-This account executive position at BrainStation was posted on 2026-02-21.
+This account executive position at Red Hat was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Graphic Designer - UK  at Bjak
+# Principal People Scientist at Zoom
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Marketing |
+| Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Data Scientist |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/62693708-6967-4a96-abe8-621673bd61f5) |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Principal-People-Scientist_R18596-2) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-02-21.
+This data scientist position at Zoom was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

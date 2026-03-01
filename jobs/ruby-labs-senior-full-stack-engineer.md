@@ -1,16 +1,16 @@
-# Senior Graphic Designer - UK  at Bjak
+# Senior Full-Stack Engineer at Ruby Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Marketing |
+| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Serbia |
+| Category | Frontend Engineer |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/62693708-6967-4a96-abe8-621673bd61f5) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/b4d1cb92-4052-424e-a7b1-a3b1773f6a83) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-02-21.
+This frontend engineer position at Ruby Labs was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

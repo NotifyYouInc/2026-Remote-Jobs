@@ -1,16 +1,16 @@
-# Senior Graphic Designer - UK  at Bjak
+# Senior Data Scientist - Artificial Intelligence at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Marketing |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Machine Learning Engineer |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/62693708-6967-4a96-abe8-621673bd61f5) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=78616) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-02-21.
+This machine learning engineer position at IBM was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

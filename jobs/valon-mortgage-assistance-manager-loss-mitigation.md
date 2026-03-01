@@ -1,16 +1,16 @@
-# Senior Graphic Designer - UK  at Bjak
+# Mortgage Assistance Manager (Loss Mitigation)  at Valon
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Marketing |
+| Company | [Valon](https://scoutify.ai/companies/valon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Not specified |
+| Category | Operations |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/62693708-6967-4a96-abe8-621673bd61f5) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/valonvm/138ac098-137c-43a5-9fb5-89876e92488a) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-02-21.
+This operations position at Valon was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

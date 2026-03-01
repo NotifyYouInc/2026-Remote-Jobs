@@ -1,4 +1,4 @@
-# Business Development Representative at BrainStation
+# Associate Learning Advisor at BrainStation
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Business Development |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7639644003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7639643003) |
 
 ## About This Role
 
