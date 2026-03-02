@@ -1,16 +1,16 @@
-# Email Lifecycle Marketing Manager at QIMA
+# Head of Growth at Waydev
 
 | Field | Details |
 |-------|---------|
-| Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Waydev](https://scoutify.ai/companies/waydev?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
 | Category | Growth Marketing |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000110563765-email-lifecycle-marketing-manager) |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/waydev/jobs/ecnmEt7-head-of-growth) |
 
 ## About This Role
 
-This growth marketing position at QIMA was posted on 2026-02-23.
+This growth marketing position at Waydev was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Email Lifecycle Marketing Manager at QIMA
+# Digital Marketing Manager at ACCOR
 
 | Field | Details |
 |-------|---------|
-| Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Growth Marketing |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000110563765-email-lifecycle-marketing-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110672645-digital-marketing-manager) |
 
 ## About This Role
 
-This growth marketing position at QIMA was posted on 2026-02-23.
+This growth marketing position at ACCOR was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

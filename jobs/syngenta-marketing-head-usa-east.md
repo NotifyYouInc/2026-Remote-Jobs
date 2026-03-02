@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
+| Location | Wellington, Florida, United States |
 | Category | Marketing |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000110462625-marketing-head-usa-east) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000110471296-marketing-head-usa-east) |
 
 ## About This Role
 

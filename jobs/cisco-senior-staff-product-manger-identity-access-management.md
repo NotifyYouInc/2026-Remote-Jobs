@@ -1,16 +1,16 @@
-# Inside Account Executive - Architecture at Cisco
+# Senior Staff Product Manger - Identity & Access Management at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Account Executive |
+| Location | 6 locations |
+| Category | Product Manager |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chicago-Illinois-US/Inside-Account-Executive---Architecture_2008524) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seattle-Washington-US/Senior-Staff-Product-Manger---Identity---Access-Management_2004060-1) |
 
 ## About This Role
 
-This account executive position at Cisco was posted on 2026-02-23.
+This product manager position at Cisco was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

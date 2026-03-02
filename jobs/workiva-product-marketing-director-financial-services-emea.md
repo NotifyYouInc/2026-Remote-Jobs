@@ -1,16 +1,16 @@
-# Email Lifecycle Marketing Manager at QIMA
+# Product Marketing Director, Financial Services - EMEA at Workiva
 
 | Field | Details |
 |-------|---------|
-| Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Growth Marketing |
+| Category | Content Marketing |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000110563765-email-lifecycle-marketing-manager) |
+| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/London/Product-Marketing-Director--Financial-Services---EMEA_R11432) |
 
 ## About This Role
 
-This growth marketing position at QIMA was posted on 2026-02-23.
+This content marketing position at Workiva was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Inside Account Executive - Architecture at Cisco
+# Sales Executive at SailPoint Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | South Korea |
 | Category | Account Executive |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chicago-Illinois-US/Inside-Account-Executive---Architecture_2008524) |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-South-Korea/Sales-Executive_R011729) |
 
 ## About This Role
 
-This account executive position at Cisco was posted on 2026-02-23.
+This account executive position at SailPoint Technologies was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

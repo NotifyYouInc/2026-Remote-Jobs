@@ -6,7 +6,7 @@
 | Location | Fairfield, California, United States |
 | Category | Account Executive |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000110464976-consultative-phone-sales-associate-remote) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000110480445-consultative-phone-sales-associate-remote) |
 
 ## About This Role
 

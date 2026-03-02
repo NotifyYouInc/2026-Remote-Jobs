@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Towson, Maryland, United States |
+| Location | 2 locations |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Senior-Talent-Acquisition-Sourcing-Manager_REQ-1000045185) |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Mexico-City-Mexico/Senior-Talent-Acquisition-Sourcing-Manager_REQ-1000046181) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Stanley Black & Decker was posted on 2026-02-17.
+This talent acquisition / recruiting position at Stanley Black & Decker was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Inside Account Executive - Architecture at Cisco
+# Hybrid Account Executive, LinkedIn Talent Solutions at LinkedIn
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | 2 locations |
 | Category | Account Executive |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chicago-Illinois-US/Inside-Account-Executive---Architecture_2008524) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000110673336-hybrid-account-executive-linkedin-talent-solutions) |
 
 ## About This Role
 
-This account executive position at Cisco was posted on 2026-02-23.
+This account executive position at LinkedIn was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

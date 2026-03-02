@@ -1,16 +1,16 @@
-# Account Executive - Australia/ New Zealand at Remote
+# RTO Assessor at APM Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
-| Category | Account Executive |
+| Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | New South Wales, AU |
+| Category | Learning & Development |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7639711003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000000887708-rto-assessor) |
 
 ## About This Role
 
-This account executive position at Remote was posted on 2026-02-23.
+This learning & development position at APM Group was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

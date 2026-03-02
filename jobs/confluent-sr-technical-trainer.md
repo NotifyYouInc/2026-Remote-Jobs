@@ -1,16 +1,16 @@
-# Account Executive - Australia/ New Zealand at Remote
+# Sr. Technical Trainer at Confluent
 
 | Field | Details |
 |-------|---------|
-| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
-| Category | Account Executive |
+| Company | [Confluent](https://scoutify.ai/companies/confluent?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Not specified |
+| Category | Customer Success |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7639711003) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/confluent/ba215741-a47e-4051-af6b-7961697abaf5) |
 
 ## About This Role
 
-This account executive position at Remote was posted on 2026-02-23.
+This customer success position at Confluent was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

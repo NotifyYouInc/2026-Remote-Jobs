@@ -1,16 +1,16 @@
-# Email Lifecycle Marketing Manager at QIMA
+# Pre-Sales Consultant EAM UK - Ultimo at IFS
 
 | Field | Details |
 |-------|---------|
-| Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Growth Marketing |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000110563765-email-lifecycle-marketing-manager) |
+| Category | Sales Engineer |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000110549605-pre-sales-consultant-eam-uk-ultimo) |
 
 ## About This Role
 
-This growth marketing position at QIMA was posted on 2026-02-23.
+This sales engineer position at IFS was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Account Executive - Australia/ New Zealand at Remote
+# Senior Research Scientist at MongoDB
 
 | Field | Details |
 |-------|---------|
-| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
-| Category | Account Executive |
+| Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Sydney, New South Wales, Australia |
+| Category | AI / ML Research |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7639711003) |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7604302) |
 
 ## About This Role
 
-This account executive position at Remote was posted on 2026-02-23.
+This ai / ml research position at MongoDB was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Account Executive - Australia/ New Zealand at Remote
+# Full Stack Developer at Ciena
 
 | Field | Details |
 |-------|---------|
-| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
-| Category | Account Executive |
+| Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Gurugram, Haryana, India |
+| Category | Frontend Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7639711003) |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Full-Stack-Developer_R030088) |
 
 ## About This Role
 
-This account executive position at Remote was posted on 2026-02-23.
+This frontend engineer position at Ciena was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

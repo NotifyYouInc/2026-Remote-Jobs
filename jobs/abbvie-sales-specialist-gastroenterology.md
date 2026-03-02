@@ -1,16 +1,16 @@
-# Account Executive - Australia/ New Zealand at Remote
+# Sales Specialist Gastroenterology at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Athens, Attica, Greece |
 | Category | Account Executive |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7639711003) |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011792626-sales-specialist-gastroenterology) |
 
 ## About This Role
 
-This account executive position at Remote was posted on 2026-02-23.
+This account executive position at AbbVie was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 
