@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000108828626-digital-sales-representative) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Account Executive |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000110915035-digital-sales-representative) |
 
 ## About This Role
 
-This sales position at Intuitive Surgical was posted on 2026-02-11.
+This account executive position at Intuitive Surgical was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

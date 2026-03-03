@@ -5,12 +5,12 @@
 | Company | [phData](https://scoutify.ai/companies/phdata?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Marketing |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7624112) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7612347) |
 
 ## About This Role
 
-This marketing position at phData was posted on 2026-02-19.
+This marketing position at phData was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

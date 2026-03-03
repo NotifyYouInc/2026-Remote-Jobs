@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Compton, California, United States |
-| Category | Sales Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACACompton1633-S-AlamedaRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-99025-1) |
+| Location | North Hollywood, California, United States |
+| Category | Account Executive |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACANorth-Hollywood6000-Lankershim-BlvdRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-92918) |
 
 ## About This Role
 
-This sales engineer position at AT&T was posted on 2026-02-05.
+This account executive position at AT&T was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

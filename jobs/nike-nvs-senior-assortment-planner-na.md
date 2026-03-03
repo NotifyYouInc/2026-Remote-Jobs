@@ -5,12 +5,12 @@
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Beaverton, Oregon, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NVS-Senior-Assortment-Planner--NA_R-79274) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NVS-Senior-Assortment-Planner--NA_R-79645) |
 
 ## About This Role
 
-This business analyst position at Nike was posted on 2026-02-18.
+This business analyst position at Nike was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
