@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Karnataka, IN |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Analyst-Technical-Operations_R0056266) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Analyst-Technical-Operations_R0056268) |
 
 ## About This Role
 
-This operations position at Empower was posted on 2026-02-05.
+This devops engineer position at Empower was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

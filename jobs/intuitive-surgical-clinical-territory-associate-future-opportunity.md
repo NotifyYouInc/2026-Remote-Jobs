@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Vermont, US |
+| Location | Portland, Oregon, United States |
 | Category | Account Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000110037370-clinical-territory-associate-future-opportunity) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000111200355-clinical-territory-associate-future-opportunity) |
 
 ## About This Role
 
-This account manager position at Intuitive Surgical was posted on 2026-02-18.
+This account manager position at Intuitive Surgical was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Georgia, US |
-| Category | Business Analyst |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7584281?gh_jid=7584281) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7652125?gh_jid=7652125) |
 
 ## About This Role
 
-This business analyst position at Samsara was posted on 2026-02-08.
+This human resources / people ops position at Samsara was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

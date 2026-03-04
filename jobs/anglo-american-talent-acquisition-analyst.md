@@ -5,12 +5,12 @@
 | Company | [Anglo American](https://scoutify.ai/companies/angloamerican?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000110305955-talent-acquisition-analyst) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000111299560-talent-acquisition-analyst) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Anglo American was posted on 2026-02-20.
+This talent acquisition / recruiting position at Anglo American was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

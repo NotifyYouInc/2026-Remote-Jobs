@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Budapest, Budapest, Hungary |
 | Category | Growth Marketing |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000110563765-email-lifecycle-marketing-manager) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000111208235-email-lifecycle-marketing-manager) |
 
 ## About This Role
 
-This growth marketing position at QIMA was posted on 2026-02-23.
+This growth marketing position at QIMA was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

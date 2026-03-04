@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abacus Insights](https://scoutify.ai/companies/abacus-insights-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Pune, Maharashtra, India |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8428293002?gh_jid=8428293002) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8436217002?gh_jid=8436217002) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Abacus Insights was posted on 2026-02-18.
+This talent acquisition / recruiting position at Abacus Insights was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

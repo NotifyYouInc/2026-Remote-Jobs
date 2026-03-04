@@ -1,16 +1,16 @@
-#  Sr. Territory Manager, Eyecare at AbbVie
+# Sr. Territory Manager, Eyecare at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chandigarh, Chandigarh, India |
+| Location | Visakhapatnam, Andhra Pradesh, India |
 | Category | Account Executive |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011703706-sr-territory-manager-eyecare) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011837676-sr-territory-manager-eyecare) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-02-17.
+This account executive position at AbbVie was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

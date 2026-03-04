@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 6 locations |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Orlando-Florida/B2B-Sales-Account-Executive_R-100469) |
+| Location | Southfield, Michigan, United States |
+| Category | Account Executive |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Southfield-Michigan/B2B-Sales-Account-Executive_R-102345) |
 
 ## About This Role
 
-This sales position at AT&T was posted on 2026-02-09.
+This account executive position at AT&T was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

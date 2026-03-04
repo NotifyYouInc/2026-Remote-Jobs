@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7608001431582050613/detail) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7607998865689758005/detail) |
 
 ## About This Role
 
-This devops engineer position at TikTok was posted on 2026-02-24.
+This devops engineer position at TikTok was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 
