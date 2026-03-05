@@ -5,12 +5,12 @@
 | Company | [McFadyen Digital](https://scoutify.ai/companies/mcfadyendigital?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Vienna, Virginia, United States |
 | Category | Business Development |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/McFadyenDigital/744000108256068-sales-director-digital-solutions) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/McFadyenDigital/744000111462300-sales-director-digital-solutions) |
 
 ## About This Role
 
-This business development position at McFadyen Digital was posted on 2026-02-09.
+This business development position at McFadyen Digital was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

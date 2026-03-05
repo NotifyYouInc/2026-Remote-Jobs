@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Massachusetts, US |
-| Category | Business Development |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Remote---USA---Massachusetts/Account-Executive---Enterprise--Greater-Boston-Area-_R26_151) |
+| Category | Account Executive |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Remote---USA---Massachusetts/Account-Executive---Enterprise--Greater-Boston-Area-_R26_235) |
 
 ## About This Role
 
-This business development position at Arctic Wolf was posted on 2026-02-05.
+This account executive position at Arctic Wolf was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

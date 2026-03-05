@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Morristown, Tennessee, United States |
 | Category | Engineering Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011785276-business-development-manager-facial-aesthetics-morristown-nj) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011861816-business-development-manager-facial-aesthetics-morristown-nj) |
 
 ## About This Role
 
-This engineering manager position at AbbVie was posted on 2026-02-20.
+This engineering manager position at AbbVie was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Home-Office-Netherlands/Account-Manager_R013083) |
+| Location | Germany |
+| Category | Account Executive |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Frankfurt-Germany/Account-Manager_R013097-1) |
 
 ## About This Role
 
-This customer success position at AVEVA was posted on 2026-02-12.
+This account executive position at AVEVA was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Kerala, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Software-Engineer_J00174600) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Software-Engineer_J00174684) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-02-06.
+This software engineer position at Equifax was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

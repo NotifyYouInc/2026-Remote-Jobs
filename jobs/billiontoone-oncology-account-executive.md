@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BillionToOne](https://scoutify.ai/companies/billiontoone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | St. Louis, Missouri, United States |
 | Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4520857005) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4666489005) |
 
 ## About This Role
 
-This account executive position at BillionToOne was posted on 2026-02-20.
+This account executive position at BillionToOne was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sully.ai](https://scoutify.ai/companies/sully-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/sully-ai/jobs/E8e5Raz-head-of-sales) |
+| Category | Sales Leadership |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sully-ai/9af831f7-8784-4ab5-aeea-9ca5dcf5b0f6) |
 
 ## About This Role
 
-This sales position at Sully.ai was posted on 2026-02-13.
+This sales leadership position at Sully.ai was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

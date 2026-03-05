@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Rowland Heights, California, United States |
+| Location | Bakersfield, California, United States |
 | Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Rowland-Heights-California/Bilingual-Spanish-Field-Sales-Representative_R-102364) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bakersfield-California/Bilingual-Spanish-Field-Sales-Representative_R-102521) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-02-25.
+This account executive position at AT&T was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011833206-specialty-representative-gastroenterology-manhattan-n-ny) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011861822-specialty-representative-gastroenterology-manhattan-n-ny) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-02-24.
+This account executive position at AbbVie was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

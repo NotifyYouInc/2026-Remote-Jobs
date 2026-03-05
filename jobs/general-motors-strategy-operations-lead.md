@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Operations |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Strategy---Operations-Lead_JR-202600572-1) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Strategy---Operations-Lead_JR-202604339) |
 
 ## About This Role
 
-This operations position at General Motors was posted on 2026-02-23.
+This operations position at General Motors was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

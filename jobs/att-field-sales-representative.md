@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Rowland Heights, California, United States |
+| Location | 2 locations |
 | Category | Account Executive |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Rowland-Heights-California/Field-Sales-Representative_R-102366) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Midland-Texas/Field-Sales-Representative_R-102503) |
 
 ## About This Role
 

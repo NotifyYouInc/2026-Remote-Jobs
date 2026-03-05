@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Miami, Florida, United States |
 | Category | Sales Leadership |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011832716-district-manager-hospital-surgical-allergan-aesthetics-florida) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011861342-district-manager-hospital-surgical-allergan-aesthetics-florida) |
 
 ## About This Role
 
-This sales leadership position at AbbVie was posted on 2026-02-24.
+This sales leadership position at AbbVie was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# B2B Sales Account Executive Fiber at AT&T
+# B2B Sales Account Executive - Fiber at AT&T
 
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/B2B-Sales-Account-Executive-Fiber_R-100939) |
+| Location | Shreveport, Louisiana, United States |
+| Category | Account Executive |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Shreveport-Louisiana/B2B-Sales-Account-Executive---Fiber_R-102602) |
 
 ## About This Role
 
-This sales position at AT&T was posted on 2026-02-10.
+This account executive position at AT&T was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
