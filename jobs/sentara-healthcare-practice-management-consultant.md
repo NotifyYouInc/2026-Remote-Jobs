@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Harrisonburg, Virginia, United States |
+| Location | Virginia Beach, Virginia, United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Harrisonburg-VA/Practice-Management-Consultant_JR-94641) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Virginia-Beach-VA/Practice-Management-Consultant_JR-94643) |
 
 ## About This Role
 
-This strategy / management consulting position at Sentara Healthcare was posted on 2026-02-24.
+This strategy / management consulting position at Sentara Healthcare was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

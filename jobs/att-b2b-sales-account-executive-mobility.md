@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Shreveport, Louisiana, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Account Executive |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Shreveport-Louisiana/B2B-Sales-Account-Executive---Mobility_R-102601) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Nashville-Tennessee/B2B-Sales-Account-Executive---Mobility_R-100980) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Poland |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000109191365-associate-principal-engineer) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000111771700-associate-principal-engineer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-02-13.
+This software engineer position at Nagarro was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

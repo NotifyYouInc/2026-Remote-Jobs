@@ -1,0 +1,22 @@
+# Director, Product Security Engineering at SailPoint Technologies
+
+| Field | Details |
+|-------|---------|
+| Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | 2 locations |
+| Category | Security Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Headquarters-Austin-Texas-USA/Director--Product-Security-Engineering_R012799) |
+
+## About This Role
+
+This security engineer position at SailPoint Technologies was posted on 2026-02-26.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Alabama, US |
+| Location | Reno, Nevada, United States |
 | Category | Account Executive |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAALGardendale521-Fieldstown-RdRETRET/Retail-Sales-Consultant_R-99825-2) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USANVReno75-Damonte-Ranch-PkwyRETRET/Retail-Sales-Consultant_R-102561-1) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-02-23.
+This account executive position at AT&T was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Richmond, Victoria, Australia |
-| Category | Strategy & Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000109124841-functional-analyst-hotels-operations-technology) |
+| Category | Business Analyst |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000111719656-functional-analyst-hotels-operations-technology) |
 
 ## About This Role
 
-This strategy & operations position at Endeavour Group Careers was posted on 2026-02-13.
+This business analyst position at Endeavour Group Careers was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

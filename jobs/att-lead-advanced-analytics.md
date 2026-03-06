@@ -1,16 +1,16 @@
-# Lead Advanced Analytics at AT&T
+# Lead-Advanced Analytics at AT&T
 
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Advanced-Analytics_R-87527) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Advanced-Analytics_R-98040) |
 
 ## About This Role
 
-This data analyst position at AT&T was posted on 2026-02-26.
+This data scientist position at AT&T was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

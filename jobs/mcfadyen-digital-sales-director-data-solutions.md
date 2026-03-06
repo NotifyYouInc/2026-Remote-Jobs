@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [McFadyen Digital](https://scoutify.ai/companies/mcfadyendigital?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Vienna, Virginia, United States |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/McFadyenDigital/744000107830376-sales-director-data-solutions) |
+| Category | Sales Leadership |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/McFadyenDigital/744000111763075-sales-director-data-solutions) |
 
 ## About This Role
 
-This business development position at McFadyen Digital was posted on 2026-02-06.
+This sales leadership position at McFadyen Digital was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bismarck, North Dakota, United States |
+| Location | Denver, Colorado, United States |
 | Category | Account Executive |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000110873865-account-associate-rise-program) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000111704205-account-associate-rise-program) |
 
 ## About This Role
 
-This account executive position at Veolia was posted on 2026-02-23.
+This account executive position at Veolia was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

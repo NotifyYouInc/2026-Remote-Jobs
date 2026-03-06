@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Waltham, Massachusetts, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111530665-advisory-solution-consultant) |
+| Location | Chicago, Illinois, United States |
+| Category | Account Executive |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111729875-advisory-solution-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at ServiceNow was posted on 2026-02-26.
+This account executive position at ServiceNow was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

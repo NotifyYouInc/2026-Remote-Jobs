@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Jackson, Mississippi, United States |
+| Location | Tampa, Florida, United States |
 | Category | Legal |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5813046004) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5814112004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-02-25.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

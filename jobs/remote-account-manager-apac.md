@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
+| Location | Philippines |
 | Category | Account Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7645478003) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7646863003) |
 
 ## About This Role
 
-This account manager position at Remote was posted on 2026-02-26.
+This account manager position at Remote was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oakville, Ontario, Canada |
+| Location | Kelowna, British Columbia, Canada |
 | Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Oakville-Ontario/Mobile-Mortgage-Specialist_R_1475087) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Kelowna-British-Columbia/Mobile-Mortgage-Specialist_R_1475681) |
 
 ## About This Role
 
-This account executive position at TD Bank was posted on 2026-02-24.
+This account executive position at TD Bank was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

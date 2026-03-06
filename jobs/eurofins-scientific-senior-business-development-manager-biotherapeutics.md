@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Saint Charles, Missouri, United States |
+| Location | San Diego, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000111475917-senior-business-development-manager-biotherapeutics) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000111719281-senior-business-development-manager-biotherapeutics) |
 
 ## About This Role
 
-This engineering manager position at Eurofins Scientific was posted on 2026-02-25.
+This engineering manager position at Eurofins Scientific was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

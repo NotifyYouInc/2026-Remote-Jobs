@@ -5,12 +5,12 @@
 | Company | [Third Bridge](https://scoutify.ai/companies/thirdbridge?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Business Development |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ThirdBridge/744000111475796-associate-client-services) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ThirdBridge/744000111726145-associate-client-services) |
 
 ## About This Role
 
-This business development position at Third Bridge was posted on 2026-02-25.
+This business development position at Third Bridge was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

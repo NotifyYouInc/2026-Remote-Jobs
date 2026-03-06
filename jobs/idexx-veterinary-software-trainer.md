@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IDEXX](https://scoutify.ai/companies/idexx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Frisco, Texas, United States |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Customer Success |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Frisco-TX/Veterinary-Software-Trainer_J-051674) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Auckland-New-Zealand/Veterinary-Software-Trainer_J-051639) |
 
 ## About This Role
 
-This customer success position at IDEXX was posted on 2026-02-18.
+This customer success position at IDEXX was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
