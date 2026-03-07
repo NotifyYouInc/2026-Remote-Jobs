@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Account Executive |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Charlotte-NC/Territory-Sales-Specialist_Essity269117-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Minneapolis-MN/Territory-Sales-Specialist_Essity269906-2) |
 
 ## About This Role
 
-This account executive position at Essity was posted on 2026-02-19.
+This account executive position at Essity was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

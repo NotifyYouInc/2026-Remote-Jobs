@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Little Rock, Arkansas, United States |
+| Location | 3 locations |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Little-Rock-AR/CRB-Treasury-Mgmt-Advisor-II---Little-Rock--AR_R0069833) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Little-Rock-AR/CRB-Treasury-Mgmt-Advisor-II---Little-Rock--AR_R0069850) |
 
 ## About This Role
 
-This account executive position at Huntington Bancshares was posted on 2026-02-26.
+This account executive position at Huntington Bancshares was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

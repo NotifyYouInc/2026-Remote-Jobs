@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harsco](https://scoutify.ai/companies/harsco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Providence, Rhode Island, United States |
-| Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000108247428-regional-account-manager) |
+| Location | Pomona, California, United States |
+| Category | Account Executive |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000111926065-regional-account-manager) |
 
 ## About This Role
 
-This customer success position at Harsco was posted on 2026-02-09.
+This account executive position at Harsco was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

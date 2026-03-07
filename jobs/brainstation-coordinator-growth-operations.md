@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BrainStation](https://scoutify.ai/companies/brainstation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | New York, US |
 | Category | Growth Marketing |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7639646003) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7647965003) |
 
 ## About This Role
 
-This growth marketing position at BrainStation was posted on 2026-02-21.
+This growth marketing position at BrainStation was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

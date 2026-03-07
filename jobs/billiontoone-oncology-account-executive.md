@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BillionToOne](https://scoutify.ai/companies/billiontoone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Detroit, Michigan, United States |
 | Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4666489005) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4666425005) |
 
 ## About This Role
 
-This account executive position at BillionToOne was posted on 2026-02-25.
+This account executive position at BillionToOne was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

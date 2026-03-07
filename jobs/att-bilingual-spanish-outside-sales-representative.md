@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Chicago-Illinois/Bilingual-Spanish-Outside-Sales-Representative_R-100944) |
+| Location | 4 locations |
+| Category | Account Executive |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAMOKirkwood--W-Adams-Ave---Co115-W-Adams-Ave/Bilingual-Spanish-Outside-Sales-Representative_R-102790) |
 
 ## About This Role
 
-This sales position at AT&T was posted on 2026-02-10.
+This account executive position at AT&T was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

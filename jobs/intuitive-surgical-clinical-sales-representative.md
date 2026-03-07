@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tallahassee, Florida, United States |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000107745618-clinical-sales-representative) |
+| Location | 2 locations |
+| Category | Account Executive |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000111932045-clinical-sales-representative) |
 
 ## About This Role
 
-This sales position at Intuitive Surgical was posted on 2026-02-06.
+This account executive position at Intuitive Surgical was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
