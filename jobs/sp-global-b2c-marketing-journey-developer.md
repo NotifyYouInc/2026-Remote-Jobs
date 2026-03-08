@@ -1,16 +1,16 @@
-# Data Engineer Intern (Internship) at Abacus Insights
+# B2C Marketing Journey Developer at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Abacus Insights](https://scoutify.ai/companies/abacus-insights-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8442485002?gh_jid=8442485002) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/B2C-Marketing-Journey-Developer_324645-2) |
 
 ## About This Role
 
-This software engineer position at Abacus Insights was posted on 2026-03-01.
+This software engineer position at S&P Global was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

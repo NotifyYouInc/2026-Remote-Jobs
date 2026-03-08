@@ -1,16 +1,16 @@
-# Data Engineer Intern (Internship) at Abacus Insights
+# Analytics Analyst at Cushman & Wakefield
 
 | Field | Details |
 |-------|---------|
-| Company | [Abacus Insights](https://scoutify.ai/companies/abacus-insights-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | Data Analyst |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8442485002?gh_jid=8442485002) |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Analytics-Analyst_R307482) |
 
 ## About This Role
 
-This software engineer position at Abacus Insights was posted on 2026-03-01.
+This data analyst position at Cushman & Wakefield was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

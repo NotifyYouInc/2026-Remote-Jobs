@@ -1,16 +1,16 @@
-# Data Engineer Intern (Internship) at Abacus Insights
+# Senior Software Engineer - OpenShift Networking at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [Abacus Insights](https://scoutify.ai/companies/abacus-insights-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Ireland |
 | Category | Software Engineer |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8442485002?gh_jid=8442485002) |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-Ireland/Senior-Software-Engineer---OpenShift-Networking_R-053283-1) |
 
 ## About This Role
 
-This software engineer position at Abacus Insights was posted on 2026-03-01.
+This software engineer position at Red Hat was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

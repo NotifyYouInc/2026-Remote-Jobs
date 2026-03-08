@@ -1,16 +1,16 @@
-# QA Automation Specialist at EVERSANA
+# ServiceNow Developer at Medtronic
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Colombia |
 | Category | Software Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000112021047-qa-automation-specialist) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/ServiceNow-Developer_R53765) |
 
 ## About This Role
 
-This software engineer position at EVERSANA was posted on 2026-03-01.
+This software engineer position at Medtronic was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

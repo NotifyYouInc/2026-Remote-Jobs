@@ -1,16 +1,16 @@
-# Senior Software Engineer at Empower
+# Senior Software Engineer, Delivery Services at Toast
 
 | Field | Details |
 |-------|---------|
-| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Karnataka, IN |
+| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Alberta, CA |
 | Category | Frontend Engineer |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Software-Engineer_R0054867) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7643460) |
 
 ## About This Role
 
-This frontend engineer position at Empower was posted on 2026-02-28.
+This frontend engineer position at Toast was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

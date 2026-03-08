@@ -1,16 +1,16 @@
-# QA Automation Specialist at EVERSANA
+# Software Engineer II at Marqeta
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Marqeta](https://scoutify.ai/companies/marqeta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000112021047-qa-automation-specialist) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/marqeta/jobs/6183568) |
 
 ## About This Role
 
-This software engineer position at EVERSANA was posted on 2026-03-01.
+This software engineer position at Marqeta was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

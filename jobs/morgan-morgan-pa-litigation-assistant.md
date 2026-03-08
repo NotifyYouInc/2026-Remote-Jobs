@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Legal |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5815187004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5815246004) |
 
 ## About This Role
 
