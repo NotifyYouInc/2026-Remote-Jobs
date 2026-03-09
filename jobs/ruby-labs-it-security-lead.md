@@ -5,12 +5,12 @@
 | Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ukraine |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/ef6fec5a-6863-4ea8-a8e5-218e37141623) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/a20f8abc-d6bc-4fa3-a147-efbc11549a42) |
 
 ## About This Role
 
-This security engineer position at Ruby Labs was posted on 2026-02-17.
+This security engineer position at Ruby Labs was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

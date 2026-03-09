@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Florence, Alabama, United States |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Nashville-Tennessee/B2B-Sales-Account-Executive---Mobility_R-100980) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Florence-Alabama/B2B-Sales-Account-Executive---Mobility_R-102467) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-02-26.
+This account executive position at AT&T was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

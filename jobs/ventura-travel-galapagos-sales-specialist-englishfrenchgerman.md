@@ -6,7 +6,7 @@
 | Location | 3 locations |
 | Category | Account Executive |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.venturatravel.org/jobs/7663935?gh_jid=7663935) |
+| Apply | [View on company site](https://www.venturatravel.org/jobs/7664043?gh_jid=7664043) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sylhet, Sylhet Division, Bangladesh |
-| Category | Business Development |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000107462496-specialist-field-sales) |
+| Location | Gazipur, Dhaka Division, Bangladesh |
+| Category | Account Executive |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000112044937-specialist-field-sales) |
 
 ## About This Role
 
-This business development position at Delivery Hero was posted on 2026-02-05.
+This account executive position at Delivery Hero was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 
