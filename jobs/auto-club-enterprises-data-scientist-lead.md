@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Independence, Missouri, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Independence-OH-Remote/Data-Scientist-Lead_JR202634923) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX-Remote/Data-Scientist-Lead_JR202635109) |
 
 ## About This Role
 
-This data scientist position at Auto Club Enterprises was posted on 2026-02-25.
+This data scientist position at Auto Club Enterprises was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

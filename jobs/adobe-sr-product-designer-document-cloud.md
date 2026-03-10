@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Product Designer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Product-Designer--Document-Cloud_R165934-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Product-Designer--Document-Cloud_R165936-1) |
 
 ## About This Role
 
-This product designer position at Adobe was posted on 2026-02-27.
+This product designer position at Adobe was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

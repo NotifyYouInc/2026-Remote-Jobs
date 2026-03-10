@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cleveland, Ohio, United States |
-| Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000109070155-major-account-manager) |
+| Location | San Francisco, California, United States |
+| Category | Account Manager |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000112273347-major-account-manager) |
 
 ## About This Role
 
-This customer success position at Arista Networks was posted on 2026-02-12.
+This account manager position at Arista Networks was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

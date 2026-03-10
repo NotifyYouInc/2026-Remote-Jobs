@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Channel / Partner Sales |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000111462135-channel-account-manager) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000112286637-channel-account-manager) |
 
 ## About This Role
 
-This channel / partner sales position at Arista Networks was posted on 2026-02-25.
+This channel / partner sales position at Arista Networks was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

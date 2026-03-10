@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Brazil |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Product-Owner-III_Req1514103) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Product-Owner-III_Req1549929) |
 
 ## About This Role
 
-This product manager position at Santander was posted on 2026-02-05.
+This product manager position at Santander was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

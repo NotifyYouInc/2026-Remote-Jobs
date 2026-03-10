@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Reynoldsburg, Ohio, United States |
+| Location | Framingham, Massachusetts, United States |
 | Category | Account Executive |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Reynoldsburg-Ohio/B2B-Sales-Account-Executive_R-102316) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Framingham-Massachusetts/B2B-Sales-Account-Executive_R-102937) |
 
 ## About This Role
 

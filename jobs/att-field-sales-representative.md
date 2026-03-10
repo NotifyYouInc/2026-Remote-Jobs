@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Pontiac, Michigan, United States |
 | Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Midland-Texas/Field-Sales-Representative_R-102503) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Pontiac-Michigan/Field-Sales-Representative_R-102931) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-02-25.
+This account executive position at AT&T was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

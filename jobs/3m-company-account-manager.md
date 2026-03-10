@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Chongqing, Chongqing, China |
 | Category | Account Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-Sichuan-Chengdu/Account-Manager_R01162403) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-ChongQing-Remote/Account-Manager_R01162409-1) |
 
 ## About This Role
 
-This account manager position at 3M Company was posted on 2026-03-02.
+This account manager position at 3M Company was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

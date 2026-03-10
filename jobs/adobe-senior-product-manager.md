@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Rhode Island, US |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R165825) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Rhode-Island/Senior-Product-Manager_R164020) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-02-25.
+This product manager position at Adobe was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

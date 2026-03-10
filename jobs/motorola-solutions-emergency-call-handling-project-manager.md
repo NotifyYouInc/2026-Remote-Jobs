@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Maryland, US |
+| Location | St. Petersburg, Florida, United States |
 | Category | Project Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/New-York-Remote-Work/Emergency-Call-Handling-Project-Manager_R62334) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/St-Petersburg-FL-FL99/Emergency-Call-Handling-Project-Manager_R62024) |
 
 ## About This Role
 
-This project manager position at Motorola Solutions was posted on 2026-03-02.
+This project manager position at Motorola Solutions was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

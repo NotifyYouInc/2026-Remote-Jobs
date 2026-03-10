@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Channel / Partner Sales |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110892785-sr-partner-manager) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112290017-sr-partner-manager) |
 
 ## About This Role
 
-This channel / partner sales position at ServiceNow was posted on 2026-02-23.
+This channel / partner sales position at ServiceNow was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

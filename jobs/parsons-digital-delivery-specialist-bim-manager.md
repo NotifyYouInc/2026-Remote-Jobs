@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Digital-Delivery-Specialist--BIM-Manager-_R177728) |
+| Location | United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Digital-Delivery-Specialist--BIM-Manager-_R178096-1) |
 
 ## About This Role
 
-This business analyst position at Parsons was posted on 2026-02-19.
+This technology / it consulting position at Parsons was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

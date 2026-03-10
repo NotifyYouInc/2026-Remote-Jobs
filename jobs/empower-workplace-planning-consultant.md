@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Workplace-Planning-Consultant_R0056927) |
+| Location | 2 locations |
+| Category | Account Executive |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Workplace-Planning-Consultant_R0056967) |
 
 ## About This Role
 
-This financial advisory & consulting position at Empower was posted on 2026-02-27.
+This account executive position at Empower was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

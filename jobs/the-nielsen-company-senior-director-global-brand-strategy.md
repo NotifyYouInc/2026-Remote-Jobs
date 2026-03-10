@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Marketing |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011551781-senior-director-global-brand-strategy) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011926476-senior-director-global-brand-strategy) |
 
 ## About This Role
 
-This marketing position at The Nielsen Company was posted on 2026-02-05.
+This marketing position at The Nielsen Company was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Detroit, Michigan, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Detroit-Michigan-United-States/Delivery-Consultant_R26-1056) |
+| Category | Customer Success |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Detroit-Michigan-United-States/Delivery-Consultant_R25-9504) |
 
 ## About This Role
 
-This technology / it consulting position at Rockwell Automation was posted on 2026-02-26.
+This customer success position at Rockwell Automation was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

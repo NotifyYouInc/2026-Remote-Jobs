@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000108858874-client-success-summer-intern-remote-paid) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000112283523-client-success-summer-intern-remote-paid) |
 
 ## About This Role
 
-This customer success position at Experian was posted on 2026-02-11.
+This customer success position at Experian was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

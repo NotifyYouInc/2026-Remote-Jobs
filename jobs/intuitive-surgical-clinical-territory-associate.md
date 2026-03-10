@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | Jackson, Mississippi, United States |
 | Category | Account Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000110238015-clinical-territory-associate) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000112277312-clinical-territory-associate) |
 
 ## About This Role
 
-This account manager position at Intuitive Surgical was posted on 2026-02-19.
+This account manager position at Intuitive Surgical was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

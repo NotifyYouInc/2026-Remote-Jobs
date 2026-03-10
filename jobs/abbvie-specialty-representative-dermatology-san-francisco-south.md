@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Jose, California, United States |
 | Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011837096-specialty-representative-dermatology-san-francisco-south) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011929576-specialty-representative-dermatology-san-francisco-south) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-02-25.
+This account executive position at AbbVie was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
