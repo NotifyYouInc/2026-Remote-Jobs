@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Waltham, Massachusetts, United States |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109309035-sr-business-operations-mgr) |
+| Category | Business Analyst |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112546457-sr-business-operations-mgr) |
 
 ## About This Role
 
-This operations position at ServiceNow was posted on 2026-02-13.
+This business analyst position at ServiceNow was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | South Korea |
+| Location | Japan |
 | Category | Account Executive |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-South-Korea/Sales-Executive_R011729) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Japan/Sales-Executive_R012346) |
 
 ## About This Role
 
-This account executive position at SailPoint Technologies was posted on 2026-02-23.
+This account executive position at SailPoint Technologies was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

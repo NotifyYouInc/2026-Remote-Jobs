@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BillionToOne](https://scoutify.ai/companies/billiontoone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | Greenville, North Carolina, United States |
 | Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4668010005) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4515982005) |
 
 ## About This Role
 
-This account executive position at BillionToOne was posted on 2026-03-02.
+This account executive position at BillionToOne was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

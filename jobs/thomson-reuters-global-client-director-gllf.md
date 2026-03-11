@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | London, England, United Kingdom |
 | Category | Account Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Washington-District-of-Columbia/Global-Client-Director--GLLF_JREQ198665) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Global-Client-Director--GLLF_JREQ198936) |
 
 ## About This Role
 
-This account manager position at Thomson Reuters was posted on 2026-02-26.
+This account manager position at Thomson Reuters was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

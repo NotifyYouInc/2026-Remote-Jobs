@@ -5,12 +5,12 @@
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mascot, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Mascot-NSW-2020/Senior-Financial-Analyst_REQ99182) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Mascot-NSW-2020/Senior-Financial-Analyst_REQ83840) |
 
 ## About This Role
 
-This corporate finance position at TJX was posted on 2026-03-02.
+This corporate finance position at TJX was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

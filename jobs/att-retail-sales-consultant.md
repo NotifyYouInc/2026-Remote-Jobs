@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Reno, Nevada, United States |
+| Location | Memphis, Tennessee, United States |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USANVReno75-Damonte-Ranch-PkwyRETRET/Retail-Sales-Consultant_R-102561-1) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATNMemphis2282-Union-AveRETRET/Retail-Sales-Consultant_R-103084-2) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-02-26.
+This account executive position at AT&T was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

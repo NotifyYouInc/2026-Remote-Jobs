@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111762196-staff-network-engineer) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112542434-staff-network-engineer) |
 
 ## About This Role
 
-This devops engineer position at ServiceNow was posted on 2026-02-27.
+This devops engineer position at ServiceNow was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

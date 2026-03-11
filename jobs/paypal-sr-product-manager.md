@@ -5,12 +5,12 @@
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Product-Manager_R0135301) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Product-Manager_R0135488) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-02-25.
+This product manager position at PayPal was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Business Development |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Field-Sales-Development-Representative_JR113977) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Toronto-ON/Field-Sales-Development-Representative_JR114130) |
 
 ## About This Role
 
-This business development position at ServiceTitan was posted on 2026-02-23.
+This business development position at ServiceTitan was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

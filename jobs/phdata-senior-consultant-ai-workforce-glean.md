@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [phData](https://scoutify.ai/companies/phdata?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7602846) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7651819) |
 
 ## About This Role
 
-This strategy / management consulting position at phData was posted on 2026-02-26.
+This strategy / management consulting position at phData was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

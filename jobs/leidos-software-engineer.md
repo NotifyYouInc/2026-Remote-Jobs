@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Engineer_R-00175645) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Software-Engineer_R-00177408) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-10.
+This software engineer position at Leidos was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

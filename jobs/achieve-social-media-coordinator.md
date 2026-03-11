@@ -5,12 +5,12 @@
 | Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 3 locations |
 | Category | Social Media / Community |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011720827-social-media-coordinator) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011956806-social-media-coordinator) |
 
 ## About This Role
 
-This social media / community position at Achieve was posted on 2026-02-17.
+This social media / community position at Achieve was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

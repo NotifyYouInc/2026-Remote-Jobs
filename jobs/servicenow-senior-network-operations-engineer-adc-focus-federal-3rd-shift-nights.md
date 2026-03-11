@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112340163-senior-network-operations-engineer-adc-focus-federal-3rd-shift-nights) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112563907-senior-network-operations-engineer-adc-focus-federal-3rd-shift-nights) |
 
 ## About This Role
 
-This it & systems administration position at ServiceNow was posted on 2026-03-03.
+This it & systems administration position at ServiceNow was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

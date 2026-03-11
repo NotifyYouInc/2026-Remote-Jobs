@@ -5,12 +5,12 @@
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Australia |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000111298805-manager-cash-management) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000112536828-manager-cash-management) |
 
 ## About This Role
 
-This corporate finance position at Endeavour Group Careers was posted on 2026-02-25.
+This corporate finance position at Endeavour Group Careers was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

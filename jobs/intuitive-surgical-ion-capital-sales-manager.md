@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000111186735-ion-capital-sales-manager) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000112534909-ion-capital-sales-manager) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-02-24.
+This account executive position at Intuitive Surgical was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
