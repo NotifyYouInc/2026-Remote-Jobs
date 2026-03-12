@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Topeka, Kansas, United States |
+| Location | Tulsa, Oklahoma, United States |
 | Category | Customer Success |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Topeka-Kansas/Installation-Technician_R-102678) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Tulsa-Oklahoma/Installation-Technician_R-103268) |
 
 ## About This Role
 
-This customer success position at AT&T was posted on 2026-02-27.
+This customer success position at AT&T was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

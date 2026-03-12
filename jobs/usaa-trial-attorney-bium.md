@@ -1,16 +1,16 @@
-# Trial Attorney BI/UM at USAA
+# Trial Attorney (BI/UM) at USAA
 
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Virginia Beach, Virginia, United States |
+| Location | Irvine, California, United States |
 | Category | Legal |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Virginia-BeachVirginia-Virginia-Beach-Staff-Counsel-2/Trial-Attorney-BI-UM_R0115558) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Irvine-CA---Staff-Counsel/Trial-Attorney--BI-UM-_R0115872) |
 
 ## About This Role
 
-This legal position at USAA was posted on 2026-02-19.
+This legal position at USAA was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

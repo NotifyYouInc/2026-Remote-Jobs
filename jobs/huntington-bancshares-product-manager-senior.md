@@ -1,16 +1,16 @@
-# Product Manager Senior at Huntington Bancshares
+# Product Manager-Senior at Huntington Bancshares
 
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Chicago-IL/Product-Manager-Senior_R0069076) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Product-Manager-Senior_R0069771) |
 
 ## About This Role
 
-This product manager position at Huntington Bancshares was posted on 2026-02-10.
+This product manager position at Huntington Bancshares was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

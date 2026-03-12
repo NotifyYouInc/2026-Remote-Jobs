@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Stretford, England, United Kingdom |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000108210765-global-financial-controller-business-assurance) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000112779207-global-financial-controller-business-assurance) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-02-09.
+This corporate finance position at SGS was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

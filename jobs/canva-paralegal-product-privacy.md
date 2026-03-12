@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Legal |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000899834-paralegal-product-privacy) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000912794-paralegal-product-privacy) |
 
 ## About This Role
 
-This legal position at Canva was posted on 2026-02-27.
+This legal position at Canva was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

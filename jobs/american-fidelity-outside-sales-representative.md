@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Fidelity](https://scoutify.ai/companies/americanfidelity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Miami, Florida, United States |
 | Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Las-Vegas-Nevada/Outside-Sales-Representative_JR556) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Miami-Florida/Outside-Sales-Representative_JR572) |
 
 ## About This Role
 
-This account executive position at American Fidelity was posted on 2026-03-02.
+This account executive position at American Fidelity was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

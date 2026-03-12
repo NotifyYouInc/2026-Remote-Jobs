@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | North Hollywood, California, United States |
+| Location | Joliet, Illinois, United States |
 | Category | Account Executive |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACANorth-Hollywood6000-Lankershim-BlvdRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-92918) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAILJoliet3340-Mall-Loop-DrRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-100993-1) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-02-23.
+This account executive position at AT&T was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

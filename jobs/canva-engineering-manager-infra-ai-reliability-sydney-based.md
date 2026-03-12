@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Engineering Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000894593-engineering-manager-infra-ai-reliability-sydney-based) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000912614-engineering-manager-infra-ai-reliability-sydney-based) |
 
 ## About This Role
 
-This engineering manager position at Canva was posted on 2026-02-25.
+This engineering manager position at Canva was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cali, Valle del Cauca Department, Colombia |
+| Location | Hemel Hempstead, England, United Kingdom |
 | Category | Account Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Colombia/Account-Manager_R-01339066) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hemel-Hempstead-United-Kingdom/Account-Manager_R-01343443) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-02-20.
+This account manager position at Thermo Fisher Scientific was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

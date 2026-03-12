@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/44c6e990-d95a-4b3b-9a63-66a5f5a54168) |
+| Category | Security Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/cbfd68c7-7d16-4338-bbc2-d9f36e39240c) |
 
 ## About This Role
 
-This cybersecurity engineer position at Metriport was posted on 2026-02-08.
+This security engineer position at Metriport was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

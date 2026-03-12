@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpartanNash](https://scoutify.ai/companies/spartannash?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bismarck, North Dakota, United States |
+| Location | Michigan, US |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Bismarck-North-Dakota/Associate-Engagement-Coordinator_R83602) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Roscommon-Michigan/Associate-Engagement-Coordinator_R83753) |
 
 ## About This Role
 
-This human resources / people ops position at SpartanNash was posted on 2026-02-27.
+This human resources / people ops position at SpartanNash was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tennessee, US |
-| Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Tennessee/Account-Executive--Business-Sales---Memphis--TN_REQ344177) |
+| Category | Account Executive |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Tennessee/Account-Executive--Business-Sales---Memphis--TN_REQ346994) |
 
 ## About This Role
 
-This sales position at T-Mobile was posted on 2026-02-05.
+This account executive position at T-Mobile was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

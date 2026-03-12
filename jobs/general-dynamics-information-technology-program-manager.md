@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Rockville, Maryland, United States |
+| Location | Not specified |
 | Category | Program Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Program-Manager_RQ214763) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Program-Manager_RQ215993-1) |
 
 ## About This Role
 
-This program manager position at General Dynamics Information Technology was posted on 2026-02-12.
+This program manager position at General Dynamics Information Technology was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

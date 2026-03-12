@@ -1,16 +1,16 @@
-# Manager Accounts Receivable at Ensemble Health Partners
+# Manager, Accounts Receivable at Ensemble Health Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Manager-Accounts-Receivable_R40492) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Manager--Accounts-Receivable_R041340) |
 
 ## About This Role
 
-This corporate finance position at Ensemble Health Partners was posted on 2026-02-09.
+This corporate finance position at Ensemble Health Partners was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

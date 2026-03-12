@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Formic](https://scoutify.ai/companies/formic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | New York City, New York, United States |
 | Category | Customer Success |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/formic/jobs/4657598006) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/formic/jobs/4660121006) |
 
 ## About This Role
 
-This customer success position at Formic was posted on 2026-02-24.
+This customer success position at Formic was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 
