@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Sales Leadership |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112788497-director-services-sales) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113030676-director-services-sales) |
 
 ## About This Role
 
-This sales leadership position at ServiceNow was posted on 2026-03-04.
+This sales leadership position at ServiceNow was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

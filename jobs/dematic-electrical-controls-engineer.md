@@ -5,12 +5,12 @@
 | Company | [Dematic](https://scoutify.ai/companies/kiongroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 6 locations |
 | Category | Industrial Automation |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Homebased-MI-United-States/Controls-Engineer_JR-0084583-1) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Homebased-MI-United-States/Electrical-Controls-Engineer_JR-0086898) |
 
 ## About This Role
 
-This industrial automation position at Dematic was posted on 2026-03-04.
+This industrial automation position at Dematic was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

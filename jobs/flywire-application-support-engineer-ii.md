@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000111924926-application-support-engineer-ii) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000113033907-application-support-engineer-ii) |
 
 ## About This Role
 
-This customer success position at Flywire was posted on 2026-02-27.
+This customer success position at Flywire was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

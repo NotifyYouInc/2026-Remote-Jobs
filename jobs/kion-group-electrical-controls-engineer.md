@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KION Group](https://scoutify.ai/companies/kion-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 6 locations |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Homebased-MI-United-States/Controls-Engineer_JR-0084583-2) |
+| Category | Industrial Automation |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Homebased-MI-United-States/Electrical-Controls-Engineer_JR-0086898-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at KION Group was posted on 2026-03-04.
+This industrial automation position at KION Group was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7626385003) |
+| Location | Malaysia |
+| Category | Accounting |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7655220003) |
 
 ## About This Role
 
-This operations position at Remote was posted on 2026-02-13.
+This accounting position at Remote was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

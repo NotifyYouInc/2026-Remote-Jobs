@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Illinois, US |
 | Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Brazil---Sao-Paulo---Remote/Enterprise-Account-Executive_R02775) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Illinois---Remote/Enterprise-Account-Executive_R02809) |
 
 ## About This Role
 
-This account executive position at Cohesity was posted on 2026-02-24.
+This account executive position at Cohesity was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

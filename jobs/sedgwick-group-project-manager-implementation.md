@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tennessee, US |
+| Location | United States |
 | Category | Project Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-TN/Project-Manager---Implementation_R70690) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/US-Telecommuter/Project-Manager---Implementation_R71353) |
 
 ## About This Role
 
-This project manager position at Sedgwick Group was posted on 2026-02-12.
+This project manager position at Sedgwick Group was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

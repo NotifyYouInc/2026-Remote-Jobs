@@ -5,12 +5,12 @@
 | Company | [Cornerstone Building Brands](https://scoutify.ai/companies/cornerstonebuildingbrands?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Harrisburg, Pennsylvania, United States |
 | Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990011976056-territory-sales-manager) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990011999026-territory-sales-manager) |
 
 ## About This Role
 
-This account executive position at Cornerstone Building Brands was posted on 2026-03-04.
+This account executive position at Cornerstone Building Brands was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
