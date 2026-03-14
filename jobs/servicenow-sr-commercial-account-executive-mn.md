@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111477685-sr-commercial-account-executive-mn) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113270877-sr-commercial-account-executive-mn) |
 
 ## About This Role
 
-This account executive position at ServiceNow was posted on 2026-02-25.
+This account executive position at ServiceNow was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Banco PAN](https://scoutify.ai/companies/banco-pan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Brazil |
 | Category | Product Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bancopan/jobs/5809847004) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bancopan/jobs/5814915004) |
 
 ## About This Role
 
-This product manager position at Banco PAN was posted on 2026-02-23.
+This product manager position at Banco PAN was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NY/Regional-Sales-Manager--Enterprise--Remote-_R27466) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-IL/Regional-Sales-Manager--Enterprise--Remote-_R27715) |
 
 ## About This Role
 
-This account executive position at CrowdStrike was posted on 2026-02-20.
+This account executive position at CrowdStrike was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

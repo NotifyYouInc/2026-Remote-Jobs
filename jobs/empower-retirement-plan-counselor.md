@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | North Carolina, US |
 | Category | Customer Success |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/VA-Richmond---Remote/Retirement-Plan-Counselor_R0056806) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/NC-Winston-Salem---Remote/Retirement-Plan-Counselor_R0057093) |
 
 ## About This Role
 
-This customer success position at Empower was posted on 2026-02-25.
+This customer success position at Empower was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

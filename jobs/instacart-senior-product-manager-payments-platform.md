@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Alberta, CA |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7665463) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7665465) |
 
 ## About This Role
 
-This product manager position at Instacart was posted on 2026-03-02.
+This product manager position at Instacart was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

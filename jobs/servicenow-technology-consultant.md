@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111715375-technology-consultant) |
+| Category | Customer Success |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113281658-technology-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at ServiceNow was posted on 2026-02-26.
+This customer success position at ServiceNow was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

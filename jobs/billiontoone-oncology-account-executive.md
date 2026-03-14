@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BillionToOne](https://scoutify.ai/companies/billiontoone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | New Jersey, US |
 | Category | Account Executive |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4666425005) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4618030005) |
 
 ## About This Role
 
-This account executive position at BillionToOne was posted on 2026-02-27.
+This account executive position at BillionToOne was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

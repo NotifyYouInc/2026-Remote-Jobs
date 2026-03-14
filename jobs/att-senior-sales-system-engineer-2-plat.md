@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | San Antonio, Texas, United States |
 | Category | Account Executive |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Akron-Ohio/Senior-Sales-System-Engineer-2-Plat_R-103251) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Antonio-Texas/Senior-Sales-System-Engineer-2-Plat_R-103465) |
 
 ## About This Role
 

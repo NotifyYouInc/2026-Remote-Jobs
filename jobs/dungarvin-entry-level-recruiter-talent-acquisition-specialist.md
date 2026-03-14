@@ -5,12 +5,12 @@
 | Company | [Dungarvin](https://scoutify.ai/companies/dungarvin?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000112274035-entry-level-recruiter-talent-acquisition-specialist) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000113250830-entry-level-recruiter-talent-acquisition-specialist) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Dungarvin was posted on 2026-03-02.
+This talent acquisition / recruiting position at Dungarvin was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Territory Sales Manager  (Sioux Falls, SD) at Allstate
+# Territory Sales Manager (Sioux Falls, SD) at Allstate
 
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sioux Falls, South Dakota, United States |
-| Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---SD-Remote/Territory-Sales-Manager---Sioux-Falls--SD-_R26771) |
+| Category | Channel / Partner Sales |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---SD-Remote/Territory-Sales-Manager--Sioux-Falls--SD-_R27319) |
 
 ## About This Role
 
-This account executive position at Allstate was posted on 2026-02-25.
+This channel / partner sales position at Allstate was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
