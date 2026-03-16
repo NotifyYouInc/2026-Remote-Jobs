@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avantor Asia Middle East Africa (AMEA)](https://scoutify.ai/companies/avantor-asia-middle-east-africa-amea?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | Washington, US |
 | Category | Account Executive |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://vwr.wd1.myworkdayjobs.com/avantorjobs/job/Remote---Texas/Sales-Representative_R-171215) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://vwr.wd1.myworkdayjobs.com/avantorjobs/job/Remote---Washington/Sales-Representative_R-169152) |
 
 ## About This Role
 
-This account executive position at Avantor Asia Middle East Africa (AMEA) was posted on 2026-02-19.
+This account executive position at Avantor Asia Middle East Africa (AMEA) was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

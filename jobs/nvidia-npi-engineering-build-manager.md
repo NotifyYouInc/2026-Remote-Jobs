@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Israel |
 | Category | Project Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/NPI-Engineering-Build-Manager_JR2013526) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/NPI-Engineering-Build-Manager_JR2013945) |
 
 ## About This Role
 
-This project manager position at Nvidia was posted on 2026-02-25.
+This project manager position at Nvidia was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

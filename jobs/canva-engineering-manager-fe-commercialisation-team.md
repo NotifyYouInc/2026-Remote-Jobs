@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Engineering Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000912457-engineering-manager-fe-commercialisation-team) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000918068-engineering-manager-fe-commercialisation-team) |
 
 ## About This Role
 
-This engineering manager position at Canva was posted on 2026-03-05.
+This engineering manager position at Canva was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

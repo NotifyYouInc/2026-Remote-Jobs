@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Data Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Data-Engineer_RQ214351-2) |
+| Location | Virginia, US |
+| Category | Software Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Crystal-City/Senior-Data-Engineer_RQ216242-2) |
 
 ## About This Role
 
-This data engineer position at General Dynamics Information Technology was posted on 2026-02-13.
+This software engineer position at General Dynamics Information Technology was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

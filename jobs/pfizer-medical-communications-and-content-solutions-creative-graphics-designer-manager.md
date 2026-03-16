@@ -5,12 +5,12 @@
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
 | Category | Content Marketing |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Remote/Medical-Communications-and-Content-Solutions--Creative-Graphics-Designer-Manager_4952885) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Remote/Medical-Communications-and-Content-Solutions--Creative-Graphics-Designer-Manager_4953088) |
 
 ## About This Role
 
-This content marketing position at Pfizer was posted on 2026-03-05.
+This content marketing position at Pfizer was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

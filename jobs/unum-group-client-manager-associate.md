@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unum Group](https://scoutify.ai/companies/unum-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Account Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://unum.wd1.myworkdayjobs.com/external/job/Seattle-Washington-USA/Client-Manager-Associate_834637) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://unum.wd1.myworkdayjobs.com/external/job/Charlotte-North-Carolina-USA/Client-Manager-Associate_834790-1) |
 
 ## About This Role
 
-This account manager position at Unum Group was posted on 2026-02-17.
+This account manager position at Unum Group was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

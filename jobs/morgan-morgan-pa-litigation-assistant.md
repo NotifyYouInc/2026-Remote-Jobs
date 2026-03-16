@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Daytona Beach, Florida, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | Legal |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5821160004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5821228004) |
 
 ## About This Role
 
