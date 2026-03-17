@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Delhi, Delhi, India |
-| Category | Channel / Partner Sales |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Delhi-Regional-Office/Territory-Sales-Officer_R-1175479) |
+| Category | Account Executive |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Delhi-Regional-Office/Territory-Sales-Officer_R-1175902-1) |
 
 ## About This Role
 
-This channel / partner sales position at Unilever was posted on 2026-03-08.
+This account executive position at Unilever was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

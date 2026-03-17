@@ -5,12 +5,12 @@
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ohio, US |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Staff-Endpoint-Lifecycle-Operations-Engineer_R5029387-2) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Staff-Endpoint-Lifecycle-Operations-Engineer_R5029396-2) |
 
 ## About This Role
 
-This it & systems administration position at GE Aerospace was posted on 2026-03-07.
+This it & systems administration position at GE Aerospace was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

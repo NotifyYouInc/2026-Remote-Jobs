@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Not specified |
 | Category | Project Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Houston/Lead-Project-Manager_R5033937-2) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Atlanta/Lead-Project-Manager_R5034334-1) |
 
 ## About This Role
 
-This project manager position at GE Vernova was posted on 2026-03-06.
+This project manager position at GE Vernova was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Global Ecosystem Marketing Manager, Emerging Partnerships & Industry Verticals at Red Hat
+
+| Field | Details |
+|-------|---------|
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | North Carolina, US |
+| Category | Growth Marketing |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-NC/Global-Ecosystem-Marketing-Manager--Emerging-Partnerships---Industry-Verticals_R-055075-1) |
+
+## About This Role
+
+This growth marketing position at Red Hat was posted on 2026-03-10.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -1,16 +1,16 @@
-# Senior Visual Designer (Advanced English)  - PE - Remote at Thoughtworks
+# Senior Visual Designer (Advanced English) - PE - Remote . at Thoughtworks
 
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Porto Alegre, Rio Grande do Sul, Brazil |
 | Category | Venture Capital / Private Equity |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7690147?gh_jid=7690147) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7696825?gh_jid=7696825) |
 
 ## About This Role
 
-This venture capital / private equity position at Thoughtworks was posted on 2026-03-07.
+This venture capital / private equity position at Thoughtworks was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

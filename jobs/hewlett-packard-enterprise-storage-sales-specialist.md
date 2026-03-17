@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oklahoma, US |
-| Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Oklahoma-United-States-of-America/Storage-Sales-Specialist_1202045) |
+| Location | South Carolina, US |
+| Category | Account Executive |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-North-Carolina-United-States-of-America/Storage-Sales-Specialist_1203711) |
 
 ## About This Role
 
-This sales position at Hewlett Packard Enterprise was posted on 2026-02-10.
+This account executive position at Hewlett Packard Enterprise was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

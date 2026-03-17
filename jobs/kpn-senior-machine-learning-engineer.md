@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000113359517-senior-machine-learning-engineer) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000113587889-senior-machine-learning-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at KPN was posted on 2026-03-08.
+This ai / llm engineer position at KPN was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

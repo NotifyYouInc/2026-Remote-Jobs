@@ -1,16 +1,16 @@
-# Outside Sales Representative-Software at Global Payments
+# Outside Sales Representative - Software at Global Payments
 
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Stamford, Connecticut, United States |
 | Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/San-Antonio-Texas-USA/Outside-Sales-Representative-Software_R0069660) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Stamford-Connecticut-USA/Outside-Sales-Representative---Software_R0068526) |
 
 ## About This Role
 
-This account executive position at Global Payments was posted on 2026-02-20.
+This account executive position at Global Payments was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

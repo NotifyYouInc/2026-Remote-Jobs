@@ -5,12 +5,12 @@
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/6389227003) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/6499241003) |
 
 ## About This Role
 
-This financial crimes & aml position at Careers at Tide was posted on 2026-03-04.
+This financial crimes & aml position at Careers at Tide was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

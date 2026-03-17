@@ -5,12 +5,12 @@
 | Company | [Dynata](https://scoutify.ai/companies/dynata?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Project Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Philippines-Cebu/Project-Manager_REQ12752) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Philippines-Cebu/Project-Manager_REQ12899) |
 
 ## About This Role
 
-This project manager position at Dynata was posted on 2026-02-06.
+This project manager position at Dynata was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

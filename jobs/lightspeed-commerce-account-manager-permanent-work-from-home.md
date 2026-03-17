@@ -5,12 +5,12 @@
 | Company | [Lightspeed Commerce](https://scoutify.ai/companies/lightspeed-commerce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Account Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/7625399) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/7676859) |
 
 ## About This Role
 
-This account manager position at Lightspeed Commerce was posted on 2026-02-18.
+This account manager position at Lightspeed Commerce was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CSG Systems International](https://scoutify.ai/companies/csg-systems-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
-| Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/India-Remote/Billing-Systems-Analyst-I_31343) |
+| Category | Customer Success |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/India-Remote/Billing-Systems-Analyst-I_31411) |
 
 ## About This Role
 
-This operations position at CSG Systems International was posted on 2026-02-12.
+This customer success position at CSG Systems International was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

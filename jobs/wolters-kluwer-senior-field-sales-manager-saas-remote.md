@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgia, US |
+| Location | Delaware, US |
 | Category | Account Executive |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-GA-Remote/Senior-Field-Sales-Manager--SaaS--Remote-_R0055279) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-TX-Remote/Senior-Field-Sales-Manager--SaaS--Remote-_R0055531) |
 
 ## About This Role
 
-This account executive position at Wolters Kluwer was posted on 2026-03-06.
+This account executive position at Wolters Kluwer was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

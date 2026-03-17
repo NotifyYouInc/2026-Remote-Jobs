@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Lubbock, Texas, United States |
-| Category | Sales |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lubbock-Texas/Specialist-Sales-Executive-Mobility_R-101057) |
+| Location | Tustin, California, United States |
+| Category | Account Executive |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Tustin-California/Specialist-Sales-Executive-Mobility_R-103688) |
 
 ## About This Role
 
-This sales position at AT&T was posted on 2026-02-12.
+This account executive position at AT&T was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
