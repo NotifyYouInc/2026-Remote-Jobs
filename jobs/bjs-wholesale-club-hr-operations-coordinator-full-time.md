@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BJ's Wholesale Club](https://scoutify.ai/companies/bj-s-wholesale-club?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | St. Johns, Florida, United States |
+| Location | Florida, US |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://bjswholesaleclub.wd1.myworkdayjobs.com/bjscareers/job/St-Johns-FL-0398/HR-Operations-Coordinator-Full-Time_R229731) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://bjswholesaleclub.wd1.myworkdayjobs.com/bjscareers/job/North-Jacksonville-FL-0231/HR-Operations-Coordinator-Full-Time_R230364) |
 
 ## About This Role
 
-This human resources / people ops position at BJ's Wholesale Club was posted on 2026-03-02.
+This human resources / people ops position at BJ's Wholesale Club was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

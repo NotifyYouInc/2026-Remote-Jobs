@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BrainStation](https://scoutify.ai/companies/brainstation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Growth Marketing |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7652977003) |
+| Location | London, England, United Kingdom |
+| Category | Social Media / Community |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7660788003) |
 
 ## About This Role
 
-This growth marketing position at BrainStation was posted on 2026-03-04.
+This social media / community position at BrainStation was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

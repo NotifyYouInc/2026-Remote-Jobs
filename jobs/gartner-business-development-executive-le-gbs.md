@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Indiana, US |
+| Location | Illinois, US |
 | Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Indiana/Business-Development-Executive--LE--GBS_108343) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Illinois/Business-Development-Executive--LE--GBS_105114) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-03-05.
+This account executive position at Gartner was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

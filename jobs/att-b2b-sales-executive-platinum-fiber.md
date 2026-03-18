@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | San Diego, California, United States |
 | Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Francisco-California/B2B-Sales-Executive---Platinum-Fiber_R-103511) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Diego-California/B2B-Sales-Executive---Platinum-Fiber_R-103686) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-09.
+This account executive position at AT&T was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

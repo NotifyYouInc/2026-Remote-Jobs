@@ -5,12 +5,12 @@
 | Company | [Chainguard](https://scoutify.ai/companies/chainguard?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4651135006) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4656633006) |
 
 ## About This Role
 
-This business development position at Chainguard was posted on 2026-02-06.
+This business development position at Chainguard was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

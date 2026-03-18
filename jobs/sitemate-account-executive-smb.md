@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sitemate](https://scoutify.ai/companies/sitemate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/ae640684-a9c9-4eea-b204-f9fef20c17a3) |
+| Location | London, England, United Kingdom |
+| Category | Account Executive |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/c9293312-8801-4c26-ac4a-00d3177540e8) |
 
 ## About This Role
 
-This sales position at Sitemate was posted on 2026-02-09.
+This account executive position at Sitemate was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

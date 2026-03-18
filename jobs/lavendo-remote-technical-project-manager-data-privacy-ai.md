@@ -5,12 +5,12 @@
 | Company | [Lavendo](https://scoutify.ai/companies/lavendo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Belgrade, Central Serbia, Serbia |
 | Category | Project Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/lavendo/e43feb6f-4067-43ae-a4e3-30c61373981f) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lavendo/40ab9b0f-b20e-47df-b991-2066eda3c60e) |
 
 ## About This Role
 
-This project manager position at Lavendo was posted on 2026-02-17.
+This project manager position at Lavendo was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

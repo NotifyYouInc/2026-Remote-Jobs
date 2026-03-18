@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Taktile](https://scoutify.ai/companies/taktile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/taktile/4d8c0eca-e2f8-43b8-a57d-81511334c88e) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/taktile/35d7f824-1680-4c42-ab51-dccaed4ed819) |
 
 ## About This Role
 
-This ai / llm engineer position at Taktile was posted on 2026-02-19.
+This software engineer position at Taktile was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

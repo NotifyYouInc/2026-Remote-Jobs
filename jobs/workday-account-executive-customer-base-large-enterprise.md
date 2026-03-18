@@ -1,16 +1,16 @@
-# Account Executive - Customer Base, Large Enterprise at Workday
+# Account Executive - Customer Base Large Enterprise at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USADCHome-Office-Washington-DC-Metro/Account-Executive---Customer-Base--Large-Enterprise_JR-0104245) |
+| Location | Massachusetts, US |
+| Category | Account Executive |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-NY-Remote/Account-Executive---Customer-Base-Large-Enterprise_JR-0105083) |
 
 ## About This Role
 
-This sales position at Workday was posted on 2026-02-11.
+This account executive position at Workday was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

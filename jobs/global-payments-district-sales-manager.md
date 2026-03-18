@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Louisville, Kentucky, United States |
+| Location | North Carolina, US |
 | Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Louisville-Kentucky-USA/District-Sales-Manager_R0070295) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Remote-Office-North-Carolina-USA/District-Sales-Manager_R0070372) |
 
 ## About This Role
 
-This account executive position at Global Payments was posted on 2026-03-05.
+This account executive position at Global Payments was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Focus Financial Partners](https://scoutify.ai/companies/focus-financial-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
-| Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5820107004) |
+| Category | Project Manager |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5823426004) |
 
 ## About This Role
 
-This business analyst position at Focus Financial Partners was posted on 2026-03-05.
+This project manager position at Focus Financial Partners was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

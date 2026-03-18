@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chamberlain Group](https://scoutify.ai/companies/chamberlain?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgia, US |
-| Category | Sales |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Remote---Georgia/New-Business-Sales-Manager_JR30267) |
+| Location | District of Columbia, US |
+| Category | Channel / Partner Sales |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Remote---New-Hampshire/New-Business-Sales-Manager_JR30265) |
 
 ## About This Role
 
-This sales position at Chamberlain Group was posted on 2026-02-13.
+This channel / partner sales position at Chamberlain Group was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
