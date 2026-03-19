@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | 4 locations |
 | Category | Engineering Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Seoul-Republic-of-Korea/Regional-Automation---Genomics-Marketing-Development-Manager_R1306763) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Sydney-New-South-Wales-Australia/Regional-Automation---Genomics-Marketing-Development-Manager_R1307302) |
 
 ## About This Role
 
-This engineering manager position at Danaher was posted on 2026-03-10.
+This engineering manager position at Danaher was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bhāgalpur, Bihar, India |
 | Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011982926-sr-territory-manager-eyecare) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012096906-sr-territory-manager-eyecare) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-05.
+This account executive position at AbbVie was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

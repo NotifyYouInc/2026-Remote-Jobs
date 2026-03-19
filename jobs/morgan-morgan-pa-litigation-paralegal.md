@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | Columbia, South Carolina, United States |
 | Category | Legal |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5821117004) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5824771004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-03-06.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

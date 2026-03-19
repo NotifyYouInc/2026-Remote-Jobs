@@ -6,7 +6,7 @@
 | Location | Florida, US |
 | Category | Account Executive |
 | Posted | 2026-03-11 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-TX-Remote/Senior-Sales-Executive--New-Logo--Remote-_R0055410) |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-FL-Remote/Senior-Sales-Executive--New-Logo--Remote-_R0055407) |
 
 ## About This Role
 

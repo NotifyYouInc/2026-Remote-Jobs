@@ -1,0 +1,22 @@
+# Regulatory Affairs Analyst at BP
+
+| Field | Details |
+|-------|---------|
+| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Chicago, Illinois, United States |
+| Category | Compliance & Risk Management |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Illinois---Chicago/Regulatory-Affairs-Analyst_RQ107577) |
+
+## About This Role
+
+This compliance & risk management position at BP was posted on 2026-03-12.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

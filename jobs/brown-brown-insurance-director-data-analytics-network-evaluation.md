@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Data Scientist |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---USA/Director---Data-Analytics---Network-Evaluation_R26_0000000660) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---USA/Director---Data-Analytics---Network-Evaluation_R26_0000000661) |
 
 ## About This Role
 
-This data scientist position at Brown & Brown Insurance was posted on 2026-02-19.
+This strategy / management consulting position at Brown & Brown Insurance was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Illinois, US |
+| Location | New Jersey, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011957606-manager-sop-dashboard-finance-planning-systems) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012095791-manager-sop-dashboard-finance-planning-systems) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-03-04.
+This corporate finance position at AbbVie was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

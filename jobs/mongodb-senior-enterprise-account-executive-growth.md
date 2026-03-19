@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Sales |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7610209) |
+| Location | Canberra, Australian Capital Territory, Australia |
+| Category | Account Executive |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7698317) |
 
 ## About This Role
 
-This sales position at MongoDB was posted on 2026-02-13.
+This account executive position at MongoDB was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

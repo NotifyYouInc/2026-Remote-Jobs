@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Detroit, Michigan, United States |
-| Category | Account Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/MI-Detroit---Remote/Retirement-Plan-Advisor_R0057172) |
+| Location | Austin, Texas, United States |
+| Category | Account Executive |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/TX-Austin/Retirement-Plan-Advisor_R0057351-1) |
 
 ## About This Role
 
-This account manager position at Empower was posted on 2026-03-10.
+This account executive position at Empower was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

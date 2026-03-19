@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Brazil---Remote/Junior-Software-Engineer_R20742) |
+| Location | United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Junior-Software-Engineer_R21150) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-02-06.
+This frontend engineer position at Wex was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

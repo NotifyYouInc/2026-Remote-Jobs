@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Jose, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R166368) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R166575) |
 
 ## About This Role
 
-This ai / ml research position at Adobe was posted on 2026-03-09.
+This ai / ml research position at Adobe was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

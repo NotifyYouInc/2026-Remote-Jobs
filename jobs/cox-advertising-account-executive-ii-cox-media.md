@@ -1,16 +1,16 @@
-# Advertising Account Executive II ( Cox Media) at Cox
+# Advertising Account Executive II (Cox Media) at Cox
 
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Lafayette, Louisiana, United States |
 | Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Fort-Smith-AR/Advertising-Account-Executive-II---Cox-Media-_R202674131) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Lafayette-LA/Advertising-Account-Executive-II--Cox-Media-_R202674455) |
 
 ## About This Role
 
-This account executive position at Cox was posted on 2026-03-04.
+This account executive position at Cox was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

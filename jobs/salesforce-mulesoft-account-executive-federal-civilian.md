@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington-DC---Remote/MuleSoft-Account-Executive--Federal-Civilian_JR332106-1) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington-DC---Remote/Prime-Named-Account-Executive-8_JR333348) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-03-10.
+This account executive position at Salesforce was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

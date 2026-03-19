@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Asana](https://scoutify.ai/companies/asana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
+| Location | San Francisco, California, United States |
 | Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.asana.com/jobs/apply/7624427?gh_jid=7624427) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/7552132?gh_jid=7552132) |
 
 ## About This Role
 
-This account executive position at Asana was posted on 2026-02-20.
+This account executive position at Asana was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

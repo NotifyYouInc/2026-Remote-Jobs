@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | New York City, New York, United States |
 | Category | Program Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000111699424-project-director) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000114206312-project-director) |
 
 ## About This Role
 
-This program manager position at Lions Candle-Dispatch Solution was posted on 2026-02-26.
+This program manager position at Lions Candle-Dispatch Solution was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

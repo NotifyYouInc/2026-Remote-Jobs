@@ -1,12 +1,12 @@
-# Sr. Professional Medical Representative at AbbVie
+# Sr. Professional Medical Representative  at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Taiyuan, Shanxi, China |
+| Location | Huangshi, Hubei, China |
 | Category | Account Executive |
 | Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012075046-sr-professional-medical-representative) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012097681-sr-professional-medical-representative) |
 
 ## About This Role
 

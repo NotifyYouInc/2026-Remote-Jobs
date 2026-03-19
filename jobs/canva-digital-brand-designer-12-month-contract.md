@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Marketing |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000894610-digital-brand-designer-12-month-contract) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000928610-digital-brand-designer-12-month-contract) |
 
 ## About This Role
 
-This marketing position at Canva was posted on 2026-02-25.
+This marketing position at Canva was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
