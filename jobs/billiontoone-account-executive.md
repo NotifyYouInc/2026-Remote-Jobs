@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BillionToOne](https://scoutify.ai/companies/billiontoone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Roanoke, Virginia, United States |
+| Location | Greenville, North Carolina, United States |
 | Category | Account Executive |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4672191005) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4672785005) |
 
 ## About This Role
 
-This account executive position at BillionToOne was posted on 2026-03-11.
+This account executive position at BillionToOne was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

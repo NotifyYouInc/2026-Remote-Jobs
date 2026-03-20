@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, US |
+| Location | Not specified |
 | Category | Sales Leadership |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Market-General-Manager--Patient-Care-Solutions_R4029965-2) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Market-General-Manager--Patient-Care-Solutions_R4037214) |
 
 ## About This Role
 
-This sales leadership position at GE HealthCare was posted on 2026-03-10.
+This sales leadership position at GE HealthCare was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

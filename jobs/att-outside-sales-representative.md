@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | 4 locations |
 | Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Orlando-Florida/Outside-Sales-Representative_R-103265) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Tustin-California/Outside-Sales-Representative_R-103973) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-05.
+This account executive position at AT&T was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

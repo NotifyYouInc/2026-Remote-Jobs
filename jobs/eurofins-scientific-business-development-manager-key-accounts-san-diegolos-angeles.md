@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Diego, California, United States |
-| Category | Business Development |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000108878765-business-development-manager-key-accounts-san-diegolos-angeles) |
+| Category | Engineering Manager |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000114461217-business-development-manager-key-accounts-san-diegolos-angeles) |
 
 ## About This Role
 
-This business development position at Eurofins Scientific was posted on 2026-02-11.
+This engineering manager position at Eurofins Scientific was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

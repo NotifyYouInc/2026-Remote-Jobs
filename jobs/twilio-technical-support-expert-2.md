@@ -5,12 +5,12 @@
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Colombia |
 | Category | Customer Success |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7651788) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7698048) |
 
 ## About This Role
 
-This customer success position at Twilio was posted on 2026-03-03.
+This customer success position at Twilio was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

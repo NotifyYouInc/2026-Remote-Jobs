@@ -5,12 +5,12 @@
 | Company | [EML](https://scoutify.ai/companies/eml?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Legal |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Melbourne-Victoria/Liability-Specialist_JR5225) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Melbourne-Victoria/Liability-Specialist_JR5315) |
 
 ## About This Role
 
-This legal position at EML was posted on 2026-02-24.
+This legal position at EML was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

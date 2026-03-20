@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ohio, US |
+| Location | New Hampshire, US |
 | Category | Account Executive |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-OH-Ohio-Remote-Employees/Field-Sales-Representative-II_R240991) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MA-Massachusetts-Remote-Employees/Field-Sales-Representative-II_R239709) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-02-19.
+This account executive position at Arrow Electronics was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

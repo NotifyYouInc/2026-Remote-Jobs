@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Bilingual-Mandarin-Outside-Sales-Representative_R-100973) |
+| Location | 3 locations |
+| Category | Account Executive |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Tustin-California/Bilingual-Mandarin-Outside-Sales-Representative_R-103978) |
 
 ## About This Role
 
-This sales position at AT&T was posted on 2026-02-10.
+This account executive position at AT&T was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

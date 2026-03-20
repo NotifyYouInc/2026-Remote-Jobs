@@ -5,12 +5,12 @@
 | Company | [PAR Technology Corporation](https://scoutify.ai/companies/par-technology-corporation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 4 locations |
 | Category | Growth Marketing |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/par%20technology/2b86079c-faee-417c-90bf-0d4dd9338d27) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/par%20technology/3c8d325f-35ea-4953-b387-631014fd926c) |
 
 ## About This Role
 
-This growth marketing position at PAR Technology Corporation was posted on 2026-03-11.
+This growth marketing position at PAR Technology Corporation was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

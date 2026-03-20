@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wenzhou, Zhejiang, China |
+| Location | Qinhuangdao, Hebei, China |
 | Category | Account Executive |
 | Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012099836-sr-medical-infocomm-rep-medical-aesth) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012119659-sr-medical-infocomm-rep-medical-aesth) |
 
 ## About This Role
 

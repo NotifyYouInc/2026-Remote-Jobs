@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | West Virginia, US |
-| Category | Sales |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-West-Virginia/Account-Executive--Business-Sales_REQ345894) |
+| Location | New York, US |
+| Category | Account Executive |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-New-York/Account-Executive--Business-Sales_REQ348410) |
 
 ## About This Role
 
-This sales position at T-Mobile was posted on 2026-02-13.
+This account executive position at T-Mobile was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

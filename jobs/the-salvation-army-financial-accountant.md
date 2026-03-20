@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Salvation Army](https://scoutify.ai/companies/the-salvation-army?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://salvationarmyca.wd3.myworkdayjobs.com/tsacb/job/Toronto-ON/Financial-Accountant_JR109497) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://salvationarmyca.wd3.myworkdayjobs.com/tsacb/job/Territorial-Headquarters/Financial-Accountant_JR109687-1) |
 
 ## About This Role
 
-This corporate finance position at The Salvation Army was posted on 2026-03-05.
+This corporate finance position at The Salvation Army was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

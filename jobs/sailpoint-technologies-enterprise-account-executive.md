@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, US |
-| Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-California-USA/Software-Sales-Executive_R012041) |
+| Location | South Carolina, US |
+| Category | Account Executive |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-South-Carolina-USA/Enterprise-Account-Executive_R012928) |
 
 ## About This Role
 
-This sales position at SailPoint Technologies was posted on 2026-02-10.
+This account executive position at SailPoint Technologies was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

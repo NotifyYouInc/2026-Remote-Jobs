@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Marketing |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/61caa915-e40d-4227-93e9-7d7ede4607a9) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/ccd9c3ac-1c30-4207-9498-867332a2e83b) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-03-06.
+This marketing position at Bjak was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
