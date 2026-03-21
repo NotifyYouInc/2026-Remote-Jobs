@@ -5,12 +5,12 @@
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Business-Systems-Analyst-Sr_R0069286) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Systems-Analyst-Sr_R0070031) |
 
 ## About This Role
 
-This business analyst position at Huntington Bancshares was posted on 2026-02-17.
+This business analyst position at Huntington Bancshares was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

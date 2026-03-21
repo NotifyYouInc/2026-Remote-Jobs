@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Affinity.co](https://scoutify.ai/companies/affinity-co?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.affinity.co/company/careers/job?gh_jid=7628830003) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affinity/jobs/7664587003) |
 
 ## About This Role
 
-This software engineer position at Affinity.co was posted on 2026-02-11.
+This machine learning engineer position at Affinity.co was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SEAKR Engineering](https://scoutify.ai/companies/seakrengineering?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Centennial, Colorado, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEAKREngineering/744000111936435-senior-verification-engineer) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEAKREngineering/744000114724757-senior-verification-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at SEAKR Engineering was posted on 2026-02-27.
+This semiconductor / chip design position at SEAKR Engineering was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

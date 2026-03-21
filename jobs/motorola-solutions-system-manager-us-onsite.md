@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pennsylvania, US |
+| Location | District of Columbia, US |
 | Category | Customer Success |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Pennsylvania-Remote-Work/System-Manager---US-Onsite_R61999) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Maryland-Remote-Work/System-Manager---US-Onsite_R62933) |
 
 ## About This Role
 
-This customer success position at Motorola Solutions was posted on 2026-02-24.
+This customer success position at Motorola Solutions was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

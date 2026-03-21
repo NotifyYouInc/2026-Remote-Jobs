@@ -5,12 +5,12 @@
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Security Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000111926045-security-analyst-associate-pam) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000114737477-security-analyst-associate-pam) |
 
 ## About This Role
 
-This security engineer position at Northwestern Medicine was posted on 2026-02-27.
+This security engineer position at Northwestern Medicine was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

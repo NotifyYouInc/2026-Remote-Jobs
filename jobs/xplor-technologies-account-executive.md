@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ithaca, New York, United States |
+| Location | Clearwater, Florida, United States |
 | Category | Account Executive |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000110874366-account-executive) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000114739247-account-executive) |
 
 ## About This Role
 
-This account executive position at Xplor Technologies was posted on 2026-02-23.
+This account executive position at Xplor Technologies was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

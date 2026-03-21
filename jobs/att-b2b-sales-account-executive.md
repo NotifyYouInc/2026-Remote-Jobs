@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Fort Lauderdale, Florida, United States |
 | Category | Account Executive |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Austin-Texas/B2B-Sales-Account-Executive_R-103979) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Fort-Lauderdale-Florida/B2B-Sales-Account-Executive_R-104061) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-12.
+This account executive position at AT&T was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Red Cross](https://scoutify.ai/companies/americanredcross?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oregon, US |
+| Location | North Carolina, US |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Statewide-OR/Apheresis-Telerecruiter_RC86704) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Statewide-NC/Apheresis-Telerecruiter_RC86970) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at American Red Cross was posted on 2026-03-04.
+This talent acquisition / recruiting position at American Red Cross was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

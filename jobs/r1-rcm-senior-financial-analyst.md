@@ -5,12 +5,12 @@
 | Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Remote-USA/Senior-Financial-Analyst_R260000001416) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Remote-USA/Senior-Financial-Analyst_R260000001419-1) |
 
 ## About This Role
 
-This corporate finance position at R1 Rcm was posted on 2026-03-04.
+This corporate finance position at R1 Rcm was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

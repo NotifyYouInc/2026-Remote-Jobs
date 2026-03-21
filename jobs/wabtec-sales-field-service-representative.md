@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hayward, California, United States |
 | Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011979986-sales-field-service-representative) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012142716-sales-field-service-representative) |
 
 ## About This Role
 
-This account executive position at Wabtec was posted on 2026-03-04.
+This account executive position at Wabtec was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

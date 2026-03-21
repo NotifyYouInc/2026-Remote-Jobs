@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [White Cap Supply Holdings](https://scoutify.ai/companies/whitecap?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Honolulu, Hawaii, United States |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://whitecap.wd1.myworkdayjobs.com/careers/job/Honolulu_96819/Credit-and-Collections-Analyst_WCJR-031076-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://whitecap.wd1.myworkdayjobs.com/careers/job/Credit-and-Collections-Analyst_WCJR-031208-1) |
 
 ## About This Role
 
-This corporate finance position at White Cap Supply Holdings was posted on 2026-03-06.
+This corporate finance position at White Cap Supply Holdings was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

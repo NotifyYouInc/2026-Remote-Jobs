@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Charlotte, North Carolina, United States |
 | Category | Project Manager |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bogota-COL/Project-Manager_REQ485588) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Project-Manager_REQ492170) |
 
 ## About This Role
 
-This project manager position at JLL was posted on 2026-02-16.
+This project manager position at JLL was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpartanNash](https://scoutify.ai/companies/spartannash?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Michigan, US |
+| Location | West Fargo, North Dakota, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Roscommon-Michigan/Associate-Engagement-Coordinator_R83753) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/West-Fargo-North-Dakota/Associate-Engagement-Coordinator_R84090) |
 
 ## About This Role
 
-This human resources / people ops position at SpartanNash was posted on 2026-03-04.
+This human resources / people ops position at SpartanNash was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

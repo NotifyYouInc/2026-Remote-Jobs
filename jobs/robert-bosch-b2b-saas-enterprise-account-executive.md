@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Farmington Hills, Michigan, United States |
 | Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113008037-b2b-saas-enterprise-account-executive) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114739838-b2b-saas-enterprise-account-executive) |
 
 ## About This Role
 
-This account executive position at Robert Bosch was posted on 2026-03-05.
+This account executive position at Robert Bosch was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

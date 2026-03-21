@@ -5,12 +5,12 @@
 | Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/7642920) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/7717983) |
 
 ## About This Role
 
-This account executive position at DoorDash was posted on 2026-02-20.
+This account executive position at DoorDash was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
