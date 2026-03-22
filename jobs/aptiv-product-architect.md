@@ -1,16 +1,16 @@
-# Associate Director, Oncology Program Management at BeOne
+# Product Architect at Aptiv
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Program Manager |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Associate-Director--Oncology-Program-Management_R33755) |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Remote-Worksite/Product-Architect_J000693971-1) |
 
 ## About This Role
 
-This program manager position at BeOne was posted on 2026-03-14.
+This technical & solutions architect position at Aptiv was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

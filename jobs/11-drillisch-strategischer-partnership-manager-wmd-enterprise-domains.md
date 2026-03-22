@@ -1,16 +1,16 @@
-# Specialist Sales Executive at AT&T
+# Strategischer Partnership Manager (w/m/d) - Enterprise Domains at 1&1 Drillisch
 
 | Field | Details |
 |-------|---------|
-| Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hollywood, California, United States |
+| Company | [1&1 Drillisch](https://scoutify.ai/companies/1-1-drillisch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Account Executive |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Hollywood-Florida/Specialist-Sales-Executive_R-103849) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ionos/jobs/4810024101) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-14.
+This account executive position at 1&1 Drillisch was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

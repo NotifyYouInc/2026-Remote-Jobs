@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BrainStation](https://scoutify.ai/companies/brainstation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Social Media / Community |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7660788003) |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7665002003) |
 
 ## About This Role
 
-This social media / community position at BrainStation was posted on 2026-03-10.
+This social media / community position at BrainStation was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

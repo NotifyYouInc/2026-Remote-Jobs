@@ -1,16 +1,16 @@
-# Associate Director, Oncology Program Management at BeOne
+# Level 2 Incident Response Analyst at Allstate
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Program Manager |
+| Category | SOC & Incident Response |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Associate-Director--Oncology-Program-Management_R33755) |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Level-2-Incident-Response-Analyst_R27455) |
 
 ## About This Role
 
-This program manager position at BeOne was posted on 2026-03-14.
+This soc & incident response position at Allstate was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

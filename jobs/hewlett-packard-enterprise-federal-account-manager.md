@@ -1,16 +1,16 @@
-# Principal Presales, Systems Engineer at Hewlett Packard Enterprise
+# Federal Account manager at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Iowa, US |
-| Category | Sales Engineer |
+| Location | Ottawa, Ontario, Canada |
+| Category | Account Executive |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Iowa-United-States-of-America/Principal-Presales--Systems-Engineer_1203173) |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Ottawa-Ontario/Federal-Account-manager_1203851-3) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-03-14.
+This account executive position at Hewlett Packard Enterprise was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 
