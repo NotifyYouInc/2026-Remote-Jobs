@@ -5,12 +5,12 @@
 | Company | [Sitemate](https://scoutify.ai/companies/sitemate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/c9293312-8801-4c26-ac4a-00d3177540e8) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/3be82936-110d-4c21-8677-908cee24f4bb) |
 
 ## About This Role
 
-This account executive position at Sitemate was posted on 2026-03-10.
+This account executive position at Sitemate was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

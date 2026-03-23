@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chamberlain Group](https://scoutify.ai/companies/chamberlain?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Illinois, US |
+| Location | California, US |
 | Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Remote---Illinois/Sr-Field-Sales-Representative_JR30373) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Remote---California/Sr-Field-Sales-Representative_JR30429) |
 
 ## About This Role
 
-This account executive position at Chamberlain Group was posted on 2026-03-04.
+This account executive position at Chamberlain Group was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

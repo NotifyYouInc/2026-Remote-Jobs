@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EML](https://scoutify.ai/companies/eml?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Sales Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Melbourne-Victoria/Technical-Specialist_JR5300) |
+| Location | 3 locations |
+| Category | Legal |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Canberra-Australian-Capital-Territory/Technical-Specialist_JR5314) |
 
 ## About This Role
 
-This sales engineer position at EML was posted on 2026-03-10.
+This legal position at EML was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

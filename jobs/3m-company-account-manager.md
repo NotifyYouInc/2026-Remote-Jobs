@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chongqing, Chongqing, China |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Account Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-ChongQing-Remote/Account-Manager_R01162409-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/TW-Taipei-City-Taipei/Account-Manager_R01162670) |
 
 ## About This Role
 
-This account manager position at 3M Company was posted on 2026-03-03.
+This account manager position at 3M Company was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

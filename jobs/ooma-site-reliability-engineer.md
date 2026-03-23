@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ooma](https://scoutify.ai/companies/ooma?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ooma/jobs/5050690007) |
+| Category | Database Administration |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ooma/jobs/5068078007) |
 
 ## About This Role
 
-This devops engineer position at Ooma was posted on 2026-02-12.
+This database administration position at Ooma was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3200412/transportation-representative) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3205012/transportation-representative) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-10.
+This business analyst position at Amazon was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Indigo Books & Music](https://scoutify.ai/companies/indigobooksmusic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000114736507-manager-global-sourcing-product-development) |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000114764127-manager-global-sourcing-product-development) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Indigo Books & Music was posted on 2026-03-13.
+This talent acquisition / recruiting position at Indigo Books & Music was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

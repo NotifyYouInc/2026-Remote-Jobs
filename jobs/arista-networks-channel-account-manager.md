@@ -1,16 +1,16 @@
-# Channel Account Manager at Arista Networks
+# Channel Account Manager  at Arista Networks
 
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Anaheim, California, United States |
 | Category | Channel / Partner Sales |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000112286637-channel-account-manager) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000114853027-channel-account-manager) |
 
 ## About This Role
 
-This channel / partner sales position at Arista Networks was posted on 2026-03-02.
+This channel / partner sales position at Arista Networks was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

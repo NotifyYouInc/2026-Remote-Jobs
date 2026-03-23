@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fulcrum.](https://scoutify.ai/companies/fulcrum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
-| Category | Customer Success |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/fulcrum/d82f3deb-078f-4b12-8dc7-188a96d7bbaf) |
+| Category | Marketing Operations |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fulcrum/642ce694-e9f7-44e8-a6a3-3fce79df3106) |
 
 ## About This Role
 
-This customer success position at Fulcrum. was posted on 2026-03-01.
+This marketing operations position at Fulcrum. was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 
