@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Northglenn, Colorado, United States |
 | Category | Engineering Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000109825560-business-development-manager-food) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000115048722-business-development-manager-food) |
 
 ## About This Role
 
-This engineering manager position at SGS was posted on 2026-02-17.
+This engineering manager position at SGS was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

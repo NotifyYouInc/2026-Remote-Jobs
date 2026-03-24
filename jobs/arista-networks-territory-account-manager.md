@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Account Executive |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000114155717-territory-account-manager) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000115079015-territory-account-manager) |
 
 ## About This Role
 
-This account executive position at Arista Networks was posted on 2026-03-11.
+This account executive position at Arista Networks was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

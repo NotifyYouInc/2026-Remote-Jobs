@@ -1,16 +1,16 @@
-# FIELD SERVICE SPECIALIST at Vantive
+# Field Service Specialist at Vantive
 
 | Field | Details |
 |-------|---------|
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mississippi, US |
+| Location | Springfield, Missouri, United States |
 | Category | Customer Success |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Mississippi-remote/FIELD-SERVICE-SPECIALIST_JR-185801-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Springfield-Illinois/Field-Service-Specialist_JR-186204-1) |
 
 ## About This Role
 
-This customer success position at Vantive was posted on 2026-02-27.
+This customer success position at Vantive was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

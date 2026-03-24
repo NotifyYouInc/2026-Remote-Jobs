@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Stamford, Connecticut, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Stamford-Connecticut-USA/Outside-Sales-Representative---Software_R0068526) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/San-Antonio-Texas-USA/Outside-Sales-Representative---Software_R0069663) |
 
 ## About This Role
 
-This account executive position at Global Payments was posted on 2026-03-09.
+This account executive position at Global Payments was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

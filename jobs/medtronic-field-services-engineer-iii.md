@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York, US |
+| Location | Fort Worth, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-New-Jersey-United-States-of-America/Field-Services-Engineer-III_R61198-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Texas-United-States-of-America/Field-Services-Engineer-III_R61642-1) |
 
 ## About This Role
 
-This customer success position at Medtronic was posted on 2026-03-11.
+This customer success position at Medtronic was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

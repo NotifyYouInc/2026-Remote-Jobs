@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 6 locations |
+| Location | 3 locations |
 | Category | Account Executive |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Regional-Sales-Account-Executive--Cox-Fleet-_R202673894-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Florida/Regional-Sales-Account-Executive--Cox-Fleet-_R202674583) |
 
 ## About This Role
 
-This account executive position at Cox was posted on 2026-02-28.
+This account executive position at Cox was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

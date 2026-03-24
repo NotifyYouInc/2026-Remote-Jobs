@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Detroit, Michigan, United States |
 | Category | Account Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000110247425-advisory-systems-engineer-detroit) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000115079028-advisory-systems-engineer-detroit) |
 
 ## About This Role
 
-This account manager position at Arista Networks was posted on 2026-02-19.
+This account manager position at Arista Networks was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

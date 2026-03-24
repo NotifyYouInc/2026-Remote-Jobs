@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Tulsa, Oklahoma, United States |
 | Category | Customer Success |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Canberra/Field-Service-Technician_R0020278) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Tulsa-OK-US/Field-Service-Technician_R0020901) |
 
 ## About This Role
 
-This customer success position at Aristocrat Leisure was posted on 2026-03-05.
+This customer success position at Aristocrat Leisure was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

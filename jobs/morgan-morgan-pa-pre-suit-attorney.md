@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Savannah, Georgia, United States |
 | Category | Legal |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5801099004) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5829662004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-02-23.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

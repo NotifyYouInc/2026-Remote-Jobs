@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EMC Insurance](https://scoutify.ai/companies/emcins?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Idaho, US |
-| Category | Channel / Partner Sales |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Idaho/Territory-Management-Consultant_R6300) |
+| Location | 3 locations |
+| Category | Account Executive |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Wisconsin/Territory-Management-Consultant_R6316) |
 
 ## About This Role
 
-This channel / partner sales position at EMC Insurance was posted on 2026-03-09.
+This account executive position at EMC Insurance was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

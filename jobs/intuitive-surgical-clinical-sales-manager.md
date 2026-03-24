@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Seoul, Seoul, South Korea |
 | Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000110312665-clinical-sales-manager) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000115127447-clinical-sales-manager) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-02-20.
+This account executive position at Intuitive Surgical was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

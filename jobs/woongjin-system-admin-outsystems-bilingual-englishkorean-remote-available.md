@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000114761731-system-admin-outsystems-bilingual-englishkorean-remote-available) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000115091146-system-admin-outsystems-bilingual-englishkorean-remote-available) |
 
 ## About This Role
 
-This it & systems administration position at Woongjin was posted on 2026-03-13.
+This it & systems administration position at Woongjin was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Cloud-Account-Executive-8_JR333398) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Senior-Account-Executive--Tableau--Aerospace-Federal-Systems-Integrators_JR333394) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-03-13.
+This account executive position at Salesforce was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

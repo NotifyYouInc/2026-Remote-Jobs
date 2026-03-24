@@ -1,16 +1,16 @@
-# B2B Sales Account Executive - Mobility at AT&T
+# B2B Sales Account Executive Mobility at AT&T
 
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florence, Alabama, United States |
+| Location | Tacoma, Washington, United States |
 | Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Florence-Alabama/B2B-Sales-Account-Executive---Mobility_R-102467) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Tacoma-Washington/B2B-Sales-Account-Executive-Mobility_R-104190) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-02.
+This account executive position at AT&T was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

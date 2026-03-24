@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Shreveport, Louisiana, United States |
 | Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Midland-TX/Territory-Sales-Manager--Autotrader-_R202674239) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Shreveport-LA/Territory-Sales-Manager--Autotrader-_R202674628) |
 
 ## About This Role
 
-This account executive position at Cox was posted on 2026-03-10.
+This account executive position at Cox was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | North Carolina, US |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Enterprise-Account-Director--Creativity---Productivity_R164450) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-North-Carolina/Enterprise-Account-Director--Digital-Media_R164453) |
 
 ## About This Role
 
-This account executive position at Adobe was posted on 2026-03-13.
+This account executive position at Adobe was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

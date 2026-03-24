@@ -1,16 +1,16 @@
-# Sr. CRM Account Executive - Manufacturing at ServiceNow
+# Sr CRM Account Executive - Manufacturing at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | 3 locations |
 | Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110488296-sr-crm-account-executive-manufacturing) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115068832-sr-crm-account-executive-manufacturing) |
 
 ## About This Role
 
-This account executive position at ServiceNow was posted on 2026-02-20.
+This account executive position at ServiceNow was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Director Analyst, Research & Development at Gartner
+# Director, Analyst, Research & Development at Gartner
 
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Nova Scotia, CA |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---United-States/Director-Analyst--Research---Development_107792) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Nova-Scotia/Director--Analyst--Research---Development_108362-2) |
 
 ## About This Role
 
-This strategy / management consulting position at Gartner was posted on 2026-02-18.
+This strategy / management consulting position at Gartner was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

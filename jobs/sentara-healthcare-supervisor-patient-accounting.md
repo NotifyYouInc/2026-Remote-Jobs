@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Norfolk, Virginia, United States |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Norfolk-VA/Supervisor--Patient-Accounting_JR-95312) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Norfolk-VA/Supervisor--Patient-Accounting_JR-95719) |
 
 ## About This Role
 
-This corporate finance position at Sentara Healthcare was posted on 2026-03-04.
+This corporate finance position at Sentara Healthcare was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FMC Corporation](https://scoutify.ai/companies/fmc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oklahoma, US |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://fmc.wd12.myworkdayjobs.com/FMC/job/USA-OK-Remote/Field-Sales-Representative_R-1415) |
+| Location | Nebraska, US |
+| Category | Account Executive |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://fmc.wd12.myworkdayjobs.com/FMC/job/USA-NE-Remote/Field-Sales-Representative_R-1623) |
 
 ## About This Role
 
-This business development position at FMC Corporation was posted on 2026-02-06.
+This account executive position at FMC Corporation was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

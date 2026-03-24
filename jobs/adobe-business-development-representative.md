@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chile |
+| Location | Karnataka, IN |
 | Category | Business Development |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Chile/Business-Development-Representative_R166068) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Business-Development-Representative_R166297) |
 
 ## About This Role
 
-This business development position at Adobe was posted on 2026-02-27.
+This business development position at Adobe was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

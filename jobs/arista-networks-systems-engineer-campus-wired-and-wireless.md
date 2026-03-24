@@ -1,16 +1,16 @@
-# Systems Engineer - Campus ( Wired and Wireless) at Arista Networks
+# Systems Engineer - Campus (Wired and Wireless) at Arista Networks
 
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000108298650-systems-engineer-campus-wired-and-wireless) |
+| Category | Business Development |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000115077977-systems-engineer-campus-wired-and-wireless) |
 
 ## About This Role
 
-This technical & solutions architect position at Arista Networks was posted on 2026-02-09.
+This business development position at Arista Networks was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

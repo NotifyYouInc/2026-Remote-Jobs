@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hartford, Connecticut, United States |
-| Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000108803125-clinical-sales-representative-future-opportunity) |
+| Location | San Francisco, California, United States |
+| Category | Account Executive |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000115081467-clinical-sales-representative-future-opportunity) |
 
 ## About This Role
 
-This sales position at Intuitive Surgical was posted on 2026-02-11.
+This account executive position at Intuitive Surgical was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

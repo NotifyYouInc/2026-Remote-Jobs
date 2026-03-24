@@ -5,12 +5,12 @@
 | Company | [American Red Cross](https://scoutify.ai/companies/americanredcross?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Houston-TX/Regional-Philanthropy-Officer--Corporate-Donors_RC81770) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Houston-TX/Regional-Philanthropy-Officer--Corporate-Donors_RC86949) |
 
 ## About This Role
 
-This account executive position at American Red Cross was posted on 2026-02-24.
+This account executive position at American Red Cross was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Affera Mapping Specialist, CAS at Medtronic
+# Senior Affera Mapping Specialist - CAS at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Spokane, Washington, United States |
-| Category | Account Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Spokane-Washington-United-States-of-America/Senior-Affera-Mapping-Specialist--CAS_R60366-1) |
+| Location | Fresno, California, United States |
+| Category | Customer Success |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fresno-California-United-States-of-America/Senior-Affera-Mapping-Specialist---CAS_R62060-1) |
 
 ## About This Role
 
-This account manager position at Medtronic was posted on 2026-02-27.
+This customer success position at Medtronic was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

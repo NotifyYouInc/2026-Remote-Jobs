@@ -5,12 +5,12 @@
 | Company | [CenturyTel of the Midwest-Kendall](https://scoutify.ai/companies/centurytelofthemidwestkendall?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Project Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Brightspeed/744000113049057-project-manager-fiber-engineering-construction) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Brightspeed/744000115059518-project-manager-fiber-engineering-construction) |
 
 ## About This Role
 
-This project manager position at CenturyTel of the Midwest-Kendall was posted on 2026-03-06.
+This project manager position at CenturyTel of the Midwest-Kendall was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

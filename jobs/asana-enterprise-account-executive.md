@@ -5,12 +5,12 @@
 | Company | [Asana](https://scoutify.ai/companies/asana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Account Executive |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.asana.com/jobs/apply/7581811?gh_jid=7581811) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/5694272?gh_jid=5694272) |
 
 ## About This Role
 
-This account executive position at Asana was posted on 2026-02-18.
+This account executive position at Asana was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
