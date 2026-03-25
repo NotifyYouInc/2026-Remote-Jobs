@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Financial-Analyst-3_R164938-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Financial-Analyst-3_R166598) |
 
 ## About This Role
 
-This corporate finance position at Adobe was posted on 2026-03-15.
+This corporate finance position at Adobe was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

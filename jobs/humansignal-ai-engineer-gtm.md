@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HumanSignal](https://scoutify.ai/companies/humansignal?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | 3 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/humansignal/jobs/5826301004) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/humansignal/jobs/5828847004) |
 
 ## About This Role
 
-This ai / llm engineer position at HumanSignal was posted on 2026-03-15.
+This ai / llm engineer position at HumanSignal was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

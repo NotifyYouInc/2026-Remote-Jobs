@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Grand Rapids, Michigan, United States |
+| Location | Bellwood, Illinois, United States |
 | Category | Customer Success |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Grand-Rapids-Michigan/Installation-Technician_R-104229) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bellwood-Illinois/Installation-Technician_R-104363) |
 
 ## About This Role
 
-This customer success position at AT&T was posted on 2026-03-16.
+This customer success position at AT&T was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

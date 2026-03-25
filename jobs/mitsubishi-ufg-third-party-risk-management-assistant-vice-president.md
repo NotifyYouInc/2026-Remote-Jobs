@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Tempe, Arizona, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tampa-FL/SME-Insurance-Third-Party-Risk-Management--Assistant-Vice-President_10070639-WD) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tempe-AZ/Third-Party-Risk-Management--Assistant-Vice-President_10075645-WD) |
 
 ## About This Role
 
-This compliance & risk management position at Mitsubishi UFG was posted on 2026-03-12.
+This compliance & risk management position at Mitsubishi UFG was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

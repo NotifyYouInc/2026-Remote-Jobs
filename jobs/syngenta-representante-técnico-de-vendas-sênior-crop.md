@@ -1,16 +1,16 @@
-# Representante Técnico de Vendas Sênior - (CROP) at Syngenta
+# Representante Técnico de Vendas Sênior - CROP at Syngenta
 
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
+| Location | Sorriso, Mato Grosso, Brazil |
 | Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000112783686-representante-tecnico-de-vendas-senior-crop) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000115294857-representante-tecnico-de-vendas-senior-crop) |
 
 ## About This Role
 
-This account executive position at Syngenta was posted on 2026-03-04.
+This account executive position at Syngenta was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

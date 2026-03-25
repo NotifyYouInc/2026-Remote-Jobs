@@ -1,16 +1,16 @@
-#  Senior Engineering Manager-Quality  at Athena Health
+#  Senior Engineering Manager Quality at Athena Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/XMLNAME--Senior-Engineering-Manager-Quality-_R14510) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/XMLNAME--Senior-Engineering-Manager-Quality_R14671) |
 
 ## About This Role
 
-This engineering manager position at Athena Health was posted on 2026-03-02.
+This engineering manager position at Athena Health was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

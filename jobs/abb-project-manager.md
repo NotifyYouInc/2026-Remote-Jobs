@@ -1,16 +1,16 @@
-# Project manager at ABB
+# Project Manager at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Sant Quirze del Vallès, Catalonia, Spain |
 | Category | Project Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Brno-Jihomoravsk-kraj-Czechia/Projektov-manager_JR00023390) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Sant-Quirze-del-Valles-Barcelona-Spain/Project-Manager_JR00026792) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-02-05.
+This project manager position at ABB was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

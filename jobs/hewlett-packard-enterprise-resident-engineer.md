@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Jersey, US |
-| Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-New-Jersey-United-States-of-America/Resident-Engineer_1202577) |
+| Location | Texas, US |
+| Category | Customer Success |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/Resident-Engineer_1197809-3) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-02-27.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

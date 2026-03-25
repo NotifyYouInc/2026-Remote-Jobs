@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/IT-Service-Delivery-Manager_R0068846) |
+| Location | Columbus, Ohio, United States |
+| Category | Engineering Manager |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IT-Service-Delivery-Manager_R0070438-1) |
 
 ## About This Role
 
-This operations position at Huntington Bancshares was posted on 2026-02-12.
+This engineering manager position at Huntington Bancshares was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
