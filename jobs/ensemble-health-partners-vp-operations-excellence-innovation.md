@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Operations |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/VP--Operations-Excellence---Innovation_R036632) |
+| Category | Program Manager |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/VP--Operations-Excellence---Innovation_R041366) |
 
 ## About This Role
 
-This operations position at Ensemble Health Partners was posted on 2026-03-09.
+This program manager position at Ensemble Health Partners was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

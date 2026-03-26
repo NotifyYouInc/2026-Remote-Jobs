@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Financial Advisory & Consulting |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000113278878-senior-building-consultant) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000115514727-senior-building-consultant) |
 
 ## About This Role
 
-This financial advisory & consulting position at J.S. Held was posted on 2026-03-06.
+This financial advisory & consulting position at J.S. Held was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

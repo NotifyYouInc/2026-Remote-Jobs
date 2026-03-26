@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Remote---United-States/Key-DSO-Dental-Account-Manager_R000108578) |
+| Category | Account Executive |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Remote---United-States/Key-DSO-Dental-Account-Manager_R000108822) |
 
 ## About This Role
 
-This customer success position at Guardian Life was posted on 2026-02-10.
+This account executive position at Guardian Life was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

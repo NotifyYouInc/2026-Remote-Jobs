@@ -5,12 +5,12 @@
 | Company | [Lendi Group](https://scoutify.ai/companies/lendigroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000115129677-senior-business-analyst-lending-transformation-12-month-ftc) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000115538557-senior-business-analyst-lending-transformation-12-month-ftc) |
 
 ## About This Role
 
-This business analyst position at Lendi Group was posted on 2026-03-17.
+This business analyst position at Lendi Group was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

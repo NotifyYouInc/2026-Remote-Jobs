@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zip](https://scoutify.ai/companies/zip?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/zip/c35c04e8-a0d8-4690-a436-2690d97f52c0) |
+| Location | Germany |
+| Category | Account Executive |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/zip/4e3d47fa-f399-4032-8c05-bb97d79cce39) |
 
 ## About This Role
 
-This business development position at Zip was posted on 2026-02-06.
+This account executive position at Zip was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

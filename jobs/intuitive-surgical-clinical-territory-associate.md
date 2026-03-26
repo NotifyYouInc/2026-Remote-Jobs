@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Newnan, Georgia, United States |
 | Category | Account Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000115043715-clinical-territory-associate) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000115540963-clinical-territory-associate) |
 
 ## About This Role
 
-This account manager position at Intuitive Surgical was posted on 2026-03-16.
+This account manager position at Intuitive Surgical was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

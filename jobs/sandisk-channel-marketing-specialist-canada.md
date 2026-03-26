@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Marketing |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000113282237-channel-marketing-specialist-canada) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000115528171-channel-marketing-specialist-canada) |
 
 ## About This Role
 
-This marketing position at SanDisk was posted on 2026-03-06.
+This marketing position at SanDisk was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

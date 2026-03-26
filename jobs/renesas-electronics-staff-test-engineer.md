@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tempe, Arizona, United States |
+| Location | Palm Bay, Florida, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000115309079-staff-test-engineer) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000115518727-staff-test-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Renesas Electronics was posted on 2026-03-17.
+This electrical / hardware engineer position at Renesas Electronics was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

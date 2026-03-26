@@ -5,12 +5,12 @@
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Solution-Consultant_JR0037152) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Solution-Consultant_JR0037113) |
 
 ## About This Role
 
-This offensive security & pentesting position at Trellix was posted on 2026-03-10.
+This offensive security & pentesting position at Trellix was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

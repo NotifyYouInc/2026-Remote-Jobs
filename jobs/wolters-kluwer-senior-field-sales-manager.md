@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Virginia, US |
-| Category | Account Executive |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-VA-Remote/Senior-Field-Sales-Manager_R0054837) |
+| Location | Not specified |
+| Category | Sales Leadership |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-VT-Remote/Senior-Field-Sales-Manager_R0054777-1) |
 
 ## About This Role
 
-This account executive position at Wolters Kluwer was posted on 2026-02-23.
+This sales leadership position at Wolters Kluwer was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

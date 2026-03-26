@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Barranquilla, Atlántico, Colombia |
+| Location | Cúcuta, Norte de Santander Department, Colombia |
 | Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia--Barranquilla-Remote/VISITADOR-MEDICO_31144305) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Cucuta---Remote/VISITADOR-MEDICO_31145061) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-03-10.
+This account executive position at Abbott was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

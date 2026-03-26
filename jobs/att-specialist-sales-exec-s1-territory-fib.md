@@ -1,16 +1,16 @@
-# Specialist Sales Exec S1-Territory Fib at AT&T
+# Specialist Sales Exec S1 - Territory Fib at AT&T
 
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Toledo, Ohio, United States |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Durham-North-Carolina/Specialist-Sales-Exec-S1-Territory-Fib_R-102659) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Toledo-Ohio/Specialist-Sales-Exec-S1---Territory-Fib_R-99654) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-13.
+This account executive position at AT&T was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

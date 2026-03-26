@@ -1,16 +1,16 @@
-# Clinical Territory Associate - Future Opportunity  at Intuitive Surgical
+# Clinical Territory Associate - Future Opportunity at Intuitive Surgical
 
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Baltimore, Maryland, United States |
-| Category | Business Development |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000113815527-clinical-territory-associate-future-opportunity) |
+| Location | New Jersey, US |
+| Category | Account Manager |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000115579573-clinical-territory-associate-future-opportunity) |
 
 ## About This Role
 
-This business development position at Intuitive Surgical was posted on 2026-03-10.
+This account manager position at Intuitive Surgical was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

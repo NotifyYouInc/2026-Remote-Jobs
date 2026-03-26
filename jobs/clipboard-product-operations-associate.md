@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clipboard](https://scoutify.ai/companies/clipboard?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Product Manager |
 | Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clipboard/83b78d23-bed2-41e4-8288-5736a1c7334c) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clipboard/23f7ad1e-b569-402b-91cc-38380860464d) |
 
 ## About This Role
 

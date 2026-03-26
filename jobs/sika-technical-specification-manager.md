@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Business Development |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000113802986-technical-specification-manager) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000115524670-technical-specification-manager) |
 
 ## About This Role
 
-This business development position at Sika was posted on 2026-03-10.
+This business development position at Sika was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

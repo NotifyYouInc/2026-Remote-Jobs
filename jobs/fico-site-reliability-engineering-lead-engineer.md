@@ -5,12 +5,12 @@
 | Company | [FICO](https://scoutify.ai/companies/fico?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-Mexico/Site-Reliability-Engineering--Lead-Engineer_31618) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-Mexico/Site-Reliability-Engineering--Lead-Engineer_31619) |
 
 ## About This Role
 
-This devops engineer position at FICO was posted on 2026-03-17.
+This devops engineer position at FICO was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

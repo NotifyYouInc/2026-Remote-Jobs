@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Spscommerce](https://scoutify.ai/companies/spscommerce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/Philippines-Remote/Consultant-II_R-000409) |
+| Category | Customer Success |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/Philippines-Remote/Consultant-II_R-000559-1) |
 
 ## About This Role
 
-This technology / it consulting position at Spscommerce was posted on 2026-02-21.
+This customer success position at Spscommerce was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
