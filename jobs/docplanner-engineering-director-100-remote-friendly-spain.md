@@ -5,12 +5,12 @@
 | Company | [DocPlanner](https://scoutify.ai/companies/docplanner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Engineering Manager |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000111992728-engineering-director-100-remote-friendly-spain) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000115736198-engineering-director-100-remote-friendly-spain) |
 
 ## About This Role
 
-This engineering manager position at DocPlanner was posted on 2026-02-28.
+This engineering manager position at DocPlanner was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

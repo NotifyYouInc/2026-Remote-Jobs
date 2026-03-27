@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Orlando, Florida, United States |
 | Category | Sales Leadership |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Atlanta-Georgia/Manager-Sales_R-100813) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Orlando-Florida/Manager-Sales_R-103259-1) |
 
 ## About This Role
 
-This sales leadership position at AT&T was posted on 2026-03-16.
+This sales leadership position at AT&T was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Civil Science](https://scoutify.ai/companies/civil-science?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Project Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/civilscience/jobs/5064318007) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/civilscience/jobs/5084452007) |
 
 ## About This Role
 
-This project manager position at Civil Science was posted on 2026-02-26.
+This project manager position at Civil Science was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

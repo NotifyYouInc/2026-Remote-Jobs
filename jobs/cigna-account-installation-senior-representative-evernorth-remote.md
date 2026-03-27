@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Account-Installation-Senior-Representative---Evernorth---Remote_26002463) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Account-Installation-Senior-Representative---Evernorth---Remote_26003072-1) |
 
 ## About This Role
 
-This customer success position at Cigna was posted on 2026-03-10.
+This customer success position at Cigna was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

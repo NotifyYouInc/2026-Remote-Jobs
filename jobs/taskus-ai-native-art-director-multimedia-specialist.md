@@ -1,16 +1,16 @@
-# AI Native  Art Director- Multimedia Specialist at TaskUs
+# AI Native Art Director Multimedia Specialist at TaskUs
 
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Marketing |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/USA---Remote/AI-Native--Art-Director--Multimedia-Specialist_R_2603_3865) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/USA---Remote/AI-Native-Art-Director-Multimedia-Specialist_R_2603_4218-1) |
 
 ## About This Role
 
-This marketing position at TaskUs was posted on 2026-03-12.
+This marketing position at TaskUs was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

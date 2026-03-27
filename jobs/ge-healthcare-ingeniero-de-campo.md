@@ -1,16 +1,16 @@
-# Ingeniero de campo at GE HealthCare
+# Ingeniero de Campo at GE HealthCare
 
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Puebla, Puebla, Mexico |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Ingeniero-de-campo_R4036194-1) |
+| Category | Customer Success |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Ingeniero-de-Campo_R4038035-2) |
 
 ## About This Role
 
-This electrical / hardware engineer position at GE HealthCare was posted on 2026-02-27.
+This customer success position at GE HealthCare was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

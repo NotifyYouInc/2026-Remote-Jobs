@@ -1,16 +1,16 @@
-# Hospital Surgical Rep (HS), Allergan Aesthetics, Denver N, CO  at AbbVie
+# Hospital Surgical Rep (HS), Allergan Aesthetics, Denver N, CO at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Account Executive |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012208945-hospital-surgical-rep-hs-allergan-aesthetics-denver-n-co) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012233336-hospital-surgical-rep-hs-allergan-aesthetics-denver-n-co) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-18.
+This account executive position at AbbVie was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

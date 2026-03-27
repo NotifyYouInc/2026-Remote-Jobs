@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 5 locations |
-| Category | Operations |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Poughkeepsie-NY/Sr-VP--Mission-Critical-Project-Management_REQ483236) |
+| Location | 4 locations |
+| Category | Project Manager |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Sr-VP--Mission-Critical-Project-Management_REQ494508) |
 
 ## About This Role
 
-This operations position at JLL was posted on 2026-02-07.
+This project manager position at JLL was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Denver, Colorado, United States |
 | Category | UX Researcher |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115321158-senior-interaction-product-designer) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115741028-senior-interaction-product-designer) |
 
 ## About This Role
 
-This ux researcher position at CapTech Consulting was posted on 2026-03-17.
+This ux researcher position at CapTech Consulting was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

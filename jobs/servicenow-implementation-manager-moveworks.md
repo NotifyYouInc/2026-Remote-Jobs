@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York, US |
-| Category | Customer Success |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111461239-implementation-manager-moveworks) |
+| Location | Mountain View, California, United States |
+| Category | Implementation / Professional Services |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115755854-implementation-manager-moveworks) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-02-25.
+This implementation / professional services position at ServiceNow was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

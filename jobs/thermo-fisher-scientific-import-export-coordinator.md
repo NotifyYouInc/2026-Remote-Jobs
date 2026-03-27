@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Argentina |
+| Location | Brazil |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Argentina/Import-Export-Coordinator_R-01342793) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Brazil/Import-Export-Coordinator_R-01345768) |
 
 ## About This Role
 
-This compliance & risk management position at Thermo Fisher Scientific was posted on 2026-02-24.
+This compliance & risk management position at Thermo Fisher Scientific was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

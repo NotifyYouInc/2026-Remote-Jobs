@@ -5,12 +5,12 @@
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Overland Park, Kansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000108575002-senior-d365-business-analyst) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000115747607-senior-d365-business-analyst) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-02-10.
+This business analyst position at EVERSANA was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

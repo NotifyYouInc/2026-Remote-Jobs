@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Missouri, US |
+| Location | Tucson, Arizona, United States |
 | Category | Account Executive |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Saint-Louis-Missouri/Field-Sales-Representative_R-104488) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Tucson-Arizona/Field-Sales-Representative_R-104619) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-18.
+This account executive position at AT&T was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

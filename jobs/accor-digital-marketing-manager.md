@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Growth Marketing |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000115584537-digital-marketing-manager) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000115797797-digital-marketing-manager) |
 
 ## About This Role
 
-This growth marketing position at ACCOR was posted on 2026-03-19.
+This growth marketing position at ACCOR was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bellwood, Illinois, United States |
+| Location | Waukesha, Wisconsin, United States |
 | Category | Customer Success |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bellwood-Illinois/Installation-Technician_R-104363) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Waukesha-Wisconsin/Installation-Technician_R-104618) |
 
 ## About This Role
 
-This customer success position at AT&T was posted on 2026-03-17.
+This customer success position at AT&T was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

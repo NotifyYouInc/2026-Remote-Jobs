@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Fargo, North Dakota, United States |
-| Category | Business Development |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000109267551-crop-protection-sales-representative) |
+| Location | Salinas, California, United States |
+| Category | Account Executive |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000115739327-crop-protection-sales-representative) |
 
 ## About This Role
 
-This business development position at Syngenta was posted on 2026-02-13.
+This account executive position at Syngenta was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
