@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cyber-AI-ML-Intern-_R-00168592) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cyber-AI-ML-Intern-_R-00178756) |
 
 ## About This Role
 
-This ai / llm engineer position at Leidos was posted on 2026-02-20.
+This ai / llm engineer position at Leidos was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

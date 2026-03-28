@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Japan |
+| Location | United Kingdom |
 | Category | Sales Leadership |
 | Posted | 2026-03-20 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Japan---Remote/Director--Partner-Sales_26WD99394-2) |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/United-Kingdom---Remote/Director--Partner-Sales_26WD95671-2) |
 
 ## About This Role
 

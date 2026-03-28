@@ -5,12 +5,12 @@
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Texas, US |
 | Category | Customer Success |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Remote/Customer-Success-Manager_JR0142063) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Remote/Customer-Success-Manager_JR0144591) |
 
 ## About This Role
 
-This customer success position at McKesson was posted on 2026-02-11.
+This customer success position at McKesson was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

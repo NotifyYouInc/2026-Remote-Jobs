@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iCapital Network](https://scoutify.ai/companies/icapitalnetwork?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Development |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8466068002) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8470640002) |
 
 ## About This Role
 
-This business development position at iCapital Network was posted on 2026-03-18.
+This business development position at iCapital Network was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ACCEL Schools](https://scoutify.ai/companies/accel-schools?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/accelschools/jobs/7654781003) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/accelschools/jobs/7674167003) |
 
 ## About This Role
 
-This corporate finance position at ACCEL Schools was posted on 2026-03-05.
+This corporate finance position at ACCEL Schools was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

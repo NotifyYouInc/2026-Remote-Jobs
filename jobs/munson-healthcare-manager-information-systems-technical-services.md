@@ -5,12 +5,12 @@
 | Company | [Munson Healthcare](https://scoutify.ai/companies/munsonhealthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990012171486-manager-information-systems-technical-services) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990012248636-manager-information-systems-technical-services) |
 
 ## About This Role
 
-This engineering manager position at Munson Healthcare was posted on 2026-03-16.
+This engineering manager position at Munson Healthcare was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

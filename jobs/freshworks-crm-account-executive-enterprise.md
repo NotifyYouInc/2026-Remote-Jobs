@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000108195243-account-executive-enterprise) |
+| Location | San Mateo, California, United States |
+| Category | Account Executive |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000115967337-account-executive-enterprise) |
 
 ## About This Role
 
-This sales position at Freshworks CRM was posted on 2026-02-09.
+This account executive position at Freshworks CRM was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | United States |
 | Category | Account Executive |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012232146-key-account-manager-strategic-governmentmilitary-programs-ndt-rvi) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012246906-key-account-manager-strategic-governmentmilitary-programs-ndt-rvi) |
 
 ## About This Role
 
-This account executive position at Wabtec was posted on 2026-03-19.
+This account executive position at Wabtec was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

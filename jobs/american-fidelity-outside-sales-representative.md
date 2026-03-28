@@ -5,12 +5,12 @@
 | Company | [American Fidelity](https://scoutify.ai/companies/americanfidelity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Riverside-California/Outside-Sales-Representative_JR601) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Riverside-California/Outside-Sales-Representative_JR622) |
 
 ## About This Role
 
-This account executive position at American Fidelity was posted on 2026-03-16.
+This account executive position at American Fidelity was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

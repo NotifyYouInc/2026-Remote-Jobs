@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Redondo Beach, California, United States |
+| Location | Aurora, Colorado, United States |
 | Category | Legal |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Contracts-Administrator---Level-3-or-4_R10224540) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Contracts-Administrator---Level-3-or-4_R10219185-1) |
 
 ## About This Role
 
-This legal position at Northrop Grumman was posted on 2026-03-02.
+This legal position at Northrop Grumman was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

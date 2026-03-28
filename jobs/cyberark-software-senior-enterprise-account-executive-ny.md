@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Sales |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109041918-senior-enterprise-account-executive-ny) |
+| Location | New York, US |
+| Category | Account Executive |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000115940494-senior-enterprise-account-executive-ny) |
 
 ## About This Role
 
-This sales position at CyberArk Software was posted on 2026-02-12.
+This account executive position at CyberArk Software was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

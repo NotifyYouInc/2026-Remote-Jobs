@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Manhattan, New York, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Legal |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5830784004) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5833341004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-03-17.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

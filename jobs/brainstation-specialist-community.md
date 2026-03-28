@@ -5,12 +5,12 @@
 | Company | [BrainStation](https://scoutify.ai/companies/brainstation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
 | Category | Social Media / Community |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7665002003) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7674384003) |
 
 ## About This Role
 
-This social media / community position at BrainStation was posted on 2026-03-14.
+This social media / community position at BrainStation was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Detroit, Michigan, United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-Washington-DC-1001-G-Street-NW-Suite-500-West/Senior-Consultant---Engagement-Manager_R0033616) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-Detroit-MI-500-Woodward-Ave-Suite-2700/Senior-Consultant---Engagement-Manager_R0033615) |
 
 ## About This Role
 
-This strategy / management consulting position at Epiqsystems was posted on 2026-03-17.
+This strategy / management consulting position at Epiqsystems was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

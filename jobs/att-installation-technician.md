@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Waukesha, Wisconsin, United States |
+| Location | Bartlett, Tennessee, United States |
 | Category | Customer Success |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Waukesha-Wisconsin/Installation-Technician_R-104618) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bartlett-Tennessee/Installation-Technician_R-104721) |
 
 ## About This Role
 
-This customer success position at AT&T was posted on 2026-03-19.
+This customer success position at AT&T was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

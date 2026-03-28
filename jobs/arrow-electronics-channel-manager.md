@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | Arkansas, US |
 | Category | Channel / Partner Sales |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Colorado-Remote-Employees/Channel-Manager_R241199) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-OH-Ohio-Remote-Employees/Channel-Manager_R239739) |
 
 ## About This Role
 
-This channel / partner sales position at Arrow Electronics was posted on 2026-03-06.
+This channel / partner sales position at Arrow Electronics was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
