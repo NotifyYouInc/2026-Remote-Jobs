@@ -1,16 +1,16 @@
-# Sr Medical Infocomm Rep - Medical Aesth at AbbVie
+# Oncology Diagnostic Liaison - Michigan/Tennessee at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Xi’an, Shaanxi, China |
-| Category | Account Executive |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012256991-sr-medical-infocomm-rep-medical-aesth) |
+| Location | Nashville, Tennessee, United States |
+| Category | Business Development |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012255936-oncology-diagnostic-liaison-michigantennessee) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-22.
+This business development position at AbbVie was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

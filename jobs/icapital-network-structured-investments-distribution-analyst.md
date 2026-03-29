@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [iCapital Network](https://scoutify.ai/companies/icapitalnetwork?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Boca Raton, Florida, United States |
 | Category | Business Development |
 | Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8470640002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8470632002) |
 
 ## About This Role
 

@@ -1,4 +1,4 @@
-# Communications Specialist at General Dynamics Information Technology
+# Senior Marketing and Communications Specialist at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Not specified |
 | Category | Marketing |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Communications-Specialist_RQ216258) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Marketing-and-Communications-Specialist_RQ216259) |
 
 ## About This Role
 

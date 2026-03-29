@@ -1,16 +1,16 @@
-# Sr Medical Infocomm Rep - Medical Aesth at AbbVie
+# Senior Sales Executive - Energy and Industrials at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Xi’an, Shaanxi, China |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | New York, US |
 | Category | Account Executive |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012256991-sr-medical-infocomm-rep-medical-aesth) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Virtual-NY/Senior-Sales-Executive---Energy-and-Industrials_326630-2) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-22.
+This account executive position at S&P Global was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

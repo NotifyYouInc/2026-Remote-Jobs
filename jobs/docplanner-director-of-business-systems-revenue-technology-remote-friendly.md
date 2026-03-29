@@ -1,12 +1,12 @@
-# Engineering Director (100% Remote-friendly, Poland) at DocPlanner
+# Director of Business Systems & Revenue Technology (Remote friendly) at DocPlanner
 
 | Field | Details |
 |-------|---------|
 | Company | [DocPlanner](https://scoutify.ai/companies/docplanner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Engineering Manager |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000116018637-engineering-director-100-remote-friendly-poland) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000116022967-director-of-business-systems-revenue-technology-remote-friendly) |
 
 ## About This Role
 

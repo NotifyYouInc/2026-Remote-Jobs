@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Louisville, Kentucky, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Legal |
 | Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5833307004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5833363004) |
 
 ## About This Role
 

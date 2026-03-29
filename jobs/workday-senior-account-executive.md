@@ -1,16 +1,16 @@
-# Sr Medical Infocomm Rep - Medical Aesth at AbbVie
+# Senior Account Executive at Workday
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Xi’an, Shaanxi, China |
+| Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Account Executive |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012256991-sr-medical-infocomm-rep-medical-aesth) |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Korea-Seoul/Senior-Account-Executive_JR-0105234) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-22.
+This account executive position at Workday was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

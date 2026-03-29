@@ -1,16 +1,16 @@
-# Communications Specialist at General Dynamics Information Technology
+# ServiceNow Developer Senior at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
-| Category | Marketing |
+| Category | Software Engineer |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Communications-Specialist_RQ216258) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/ServiceNow-Developer-Senior_RQ216815) |
 
 ## About This Role
 
-This marketing position at General Dynamics Information Technology was posted on 2026-03-22.
+This software engineer position at General Dynamics Information Technology was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

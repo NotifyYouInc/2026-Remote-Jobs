@@ -1,16 +1,16 @@
-# Sr Medical Infocomm Rep - Medical Aesth at AbbVie
+# Oncology Specialist - San Diego, CA at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Xi’an, Shaanxi, China |
+| Location | San Diego, California, United States |
 | Category | Account Executive |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012256991-sr-medical-infocomm-rep-medical-aesth) |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012256116-oncology-specialist-san-diego-ca) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-22.
+This account executive position at AbbVie was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 
