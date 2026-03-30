@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10372190/transportation-representative-av) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373131/transportation-representative-av) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-20.
+This business analyst position at Amazon was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

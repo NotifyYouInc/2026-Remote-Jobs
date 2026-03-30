@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Social Media / Community |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000910620-creative-lead-indonesia) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000948605-creative-lead-indonesia) |
 
 ## About This Role
 
-This social media / community position at Canva was posted on 2026-03-04.
+This social media / community position at Canva was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

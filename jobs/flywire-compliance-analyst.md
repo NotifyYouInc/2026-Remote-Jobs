@@ -6,7 +6,7 @@
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Compliance & Risk Management |
 | Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000115954187-compliance-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000115965027-compliance-analyst) |
 
 ## About This Role
 

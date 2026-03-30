@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Telangana, IN |
-| Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3201824/transportation-representative-transportation-representative) |
+| Location | Texas, US |
+| Category | Business Analyst |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373177/transportation-representative-transportation-representative) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-03-11.
+This business analyst position at Amazon was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

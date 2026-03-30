@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Product-Manager_R164618) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Manager_R166766) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-03-17.
+This product manager position at Adobe was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

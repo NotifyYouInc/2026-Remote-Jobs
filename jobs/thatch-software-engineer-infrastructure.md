@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thatch](https://scoutify.ai/companies/thatch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://thatch.com/jobs/5136101008?gh_jid=5136101008) |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://thatch.com/jobs/5161129008?gh_jid=5161129008) |
 
 ## About This Role
 
-This devops engineer position at Thatch was posted on 2026-03-20.
+This devops engineer position at Thatch was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

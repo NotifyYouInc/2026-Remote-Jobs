@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
+| Location | 3 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Brazil-Remote/Senior-Formal-Verification-Engineer_JR2014574) |
+| Posted | 2026-03-22 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Formal-Verification-Engineer_JR2015149) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-03-09.
+This semiconductor / chip design position at Nvidia was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 
