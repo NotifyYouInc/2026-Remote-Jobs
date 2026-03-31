@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New South Wales, AU |
-| Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011527986-account-manager-hcv) |
+| Location | Hornsby, New South Wales, Australia |
+| Category | Account Executive |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012280456-account-manager-hcv) |
 
 ## About This Role
 
-This customer success position at AbbVie was posted on 2026-02-05.
+This account executive position at AbbVie was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chesapeake, Virginia, United States |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Account Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Chesapeake-VA/Inside-Solutions-Advisor--Cox-Business-_R202674191-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Oklahoma-City-OK/Inside-Solutions-Advisor--Cox-Business-_R202674908) |
 
 ## About This Role
 
-This account manager position at Cox was posted on 2026-03-13.
+This account manager position at Cox was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

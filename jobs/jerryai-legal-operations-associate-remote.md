@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Legal |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/9f3dcd66-b791-4682-b0e9-2ffdb47214a6) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/03e3a649-8570-43a8-ba0f-389a7582c390) |
 
 ## About This Role
 
-This legal position at Jerry.ai was posted on 2026-03-16.
+This legal position at Jerry.ai was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

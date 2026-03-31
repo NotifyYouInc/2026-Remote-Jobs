@@ -5,12 +5,12 @@
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5821572004) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5831986004) |
 
 ## About This Role
 
-This customer success position at Natera was posted on 2026-03-09.
+This customer success position at Natera was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

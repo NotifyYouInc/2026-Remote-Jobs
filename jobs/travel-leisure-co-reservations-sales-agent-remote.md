@@ -5,12 +5,12 @@
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | Account Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Florida-USA-work-from-home/Reservations-Sales-Agent-Remote_R-118123) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Florida-USA-work-from-home/Reservations-Sales-Agent-Remote_R-119422) |
 
 ## About This Role
 
-This account manager position at Travel + Leisure Co. was posted on 2026-03-02.
+This account manager position at Travel + Leisure Co. was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

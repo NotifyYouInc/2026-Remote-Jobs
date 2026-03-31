@@ -5,12 +5,12 @@
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Georgia, US |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7727679?gh_jid=7727679) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7742721?gh_jid=7742721) |
 
 ## About This Role
 
-This human resources / people ops position at Samsara was posted on 2026-03-20.
+This human resources / people ops position at Samsara was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

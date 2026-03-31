@@ -1,16 +1,16 @@
-# Enterprise Account Executive - Higher Education  at ServiceNow
+# Enterprise Account Executive - Higher Education at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Orlando, Florida, United States |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108254205-enterprise-account-executive-higher-education) |
+| Location | Addison, Illinois, United States |
+| Category | Account Executive |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000116296482-enterprise-account-executive-higher-education) |
 
 ## About This Role
 
-This sales position at ServiceNow was posted on 2026-02-09.
+This account executive position at ServiceNow was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/Account-Manager_R0034569) |
+| Location | South Bend, Indiana, United States |
+| Category | Business Development |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/South-Bend-IN/Account-Manager_R0035375) |
 
 ## About This Role
 
-This customer success position at HUB International was posted on 2026-02-12.
+This business development position at HUB International was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

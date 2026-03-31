@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Brazil |
 | Category | Business Development |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Clientes-Invest-I_Req1554644) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Clientes-Invest-I_Req1554645) |
 
 ## About This Role
 
-This business development position at Santander was posted on 2026-03-20.
+This business development position at Santander was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

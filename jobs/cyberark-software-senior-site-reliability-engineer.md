@@ -1,16 +1,16 @@
-# Senior Site Reliability Engineer at CyberArk Software
+# Senior Site Reliability Engineer  at CyberArk Software
 
 | Field | Details |
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Needham, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109295725-senior-site-reliability-engineer) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000116274179-senior-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at CyberArk Software was posted on 2026-02-13.
+This devops engineer position at CyberArk Software was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

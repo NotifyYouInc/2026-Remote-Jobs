@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Australia |
 | Category | Account Executive |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000113076787-regional-sales-manager-port-solutions) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000116302587-regional-sales-manager-port-solutions) |
 
 ## About This Role
 
-This account executive position at Konecranes was posted on 2026-03-06.
+This account executive position at Konecranes was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Account Executive |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012253256-oncology-specialist-minneapolis-mn) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012274276-oncology-specialist-minneapolis-mn) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-20.
+This account executive position at AbbVie was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
