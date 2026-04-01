@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wonder](https://scoutify.ai/companies/wonder?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Utah, US |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://wonder.wd1.myworkdayjobs.com/WG/job/Remote---Utah-Tier-3/Account-Executive_JR100829-1) |
+| Location | New York City, New York, United States |
+| Category | Account Executive |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://wonder.wd1.myworkdayjobs.com/WG/job/Remote---New-York-Tier-1/Account-Executive_JR100976-1) |
 
 ## About This Role
 
-This sales position at Wonder was posted on 2026-02-09.
+This account executive position at Wonder was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

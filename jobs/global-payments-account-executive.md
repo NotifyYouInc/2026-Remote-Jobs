@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Virginia, US |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Falls-Church-Virginia-USA/Account-Executive_R0069793) |
+| Location | Atlanta, Georgia, United States |
+| Category | Account Executive |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Atlanta-Georgia-USA/Account-Executive_R0070348) |
 
 ## About This Role
 
-This sales position at Global Payments was posted on 2026-02-09.
+This account executive position at Global Payments was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

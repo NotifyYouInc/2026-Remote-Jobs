@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Delivery-Manager_JR113851) |
+| Category | Project Manager |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Delivery-Manager_JR114297) |
 
 ## About This Role
 
-This customer success position at ServiceTitan was posted on 2026-02-18.
+This project manager position at ServiceTitan was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

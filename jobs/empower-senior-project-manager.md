@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Karnataka, IN |
+| Location | United States |
 | Category | Project Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Project-Manager_R0054857) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Project-Manager_R0057560) |
 
 ## About This Role
 
-This project manager position at Empower was posted on 2026-02-10.
+This project manager position at Empower was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

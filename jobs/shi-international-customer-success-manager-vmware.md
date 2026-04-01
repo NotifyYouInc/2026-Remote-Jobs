@@ -5,12 +5,12 @@
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Customer-Success-Manager---VMware_JR2739) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Customer-Success-Manager---VMware_JR2791) |
 
 ## About This Role
 
-This customer success position at SHI International was posted on 2026-03-13.
+This customer success position at SHI International was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

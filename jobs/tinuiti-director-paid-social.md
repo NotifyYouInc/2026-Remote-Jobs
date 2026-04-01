@@ -5,12 +5,12 @@
 | Company | [Tinuiti](https://scoutify.ai/companies/tinuiti?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Director--Paid-Social_R26_140) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Director--Paid-Social_R26_243) |
 
 ## About This Role
 
-This digital / performance marketing position at Tinuiti was posted on 2026-02-23.
+This digital / performance marketing position at Tinuiti was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

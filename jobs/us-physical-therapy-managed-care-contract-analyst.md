@@ -5,12 +5,12 @@
 | Company | [U.S. Physical Therapy](https://scoutify.ai/companies/usphysicaltherapy?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990011767516-managed-care-contract-analyst) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990012298886-managed-care-contract-analyst) |
 
 ## About This Role
 
-This corporate finance position at U.S. Physical Therapy was posted on 2026-02-19.
+This corporate finance position at U.S. Physical Therapy was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

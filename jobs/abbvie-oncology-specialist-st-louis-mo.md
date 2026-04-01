@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | Account Executive |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012253036-oncology-specialist-st-louis-mo) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012297676-oncology-specialist-st-louis-mo) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-20.
+This account executive position at AbbVie was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airtable](https://scoutify.ai/companies/airtable?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Account Executive |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/airtable/jobs/8403127002) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/airtable/jobs/8475259002) |
 
 ## About This Role
 
-This account executive position at Airtable was posted on 2026-02-28.
+This account executive position at Airtable was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

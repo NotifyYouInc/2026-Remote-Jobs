@@ -5,12 +5,12 @@
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | California, US |
 | Category | Security Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Remote---California-Southern/Cybersecurity-Control-Accessor-Senior_6935) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Remote---California-Northern/Cybersecurity-Control-Accessor-Senior_7289) |
 
 ## About This Role
 
-This security engineer position at AeroVironment was posted on 2026-03-03.
+This security engineer position at AeroVironment was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

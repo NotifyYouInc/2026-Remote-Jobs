@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000115964491-compliance-manager) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000116492427-compliance-manager) |
 
 ## About This Role
 
-This compliance & risk management position at Flywire was posted on 2026-03-20.
+This compliance & risk management position at Flywire was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

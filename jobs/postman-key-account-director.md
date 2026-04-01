@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Postman](https://scoutify.ai/companies/postman?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Account Executive |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/postman/jobs/7673950003) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/postman/jobs/7677674003) |
 
 ## About This Role
 
-This account executive position at Postman was posted on 2026-03-23.
+This account executive position at Postman was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

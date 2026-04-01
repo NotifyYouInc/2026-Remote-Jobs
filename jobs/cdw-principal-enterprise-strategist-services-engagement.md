@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Illinois, US |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Virtual---Illinois/Principal-Enterprise-Strategist---Services-Engagement_R26_00000851) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Virtual---Illinois/Principal-Enterprise-Strategist---Services-Engagement_R26_00001283) |
 
 ## About This Role
 
-This technical & solutions architect position at CDW was posted on 2026-02-16.
+This strategy / management consulting position at CDW was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000116318967-senior-director-regulatory-compliance-apac) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000116534667-senior-director-regulatory-compliance-apac) |
 
 ## About This Role
 
-This compliance & risk management position at Xplor Technologies was posted on 2026-03-24.
+This compliance & risk management position at Xplor Technologies was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

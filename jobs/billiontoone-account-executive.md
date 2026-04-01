@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BillionToOne](https://scoutify.ai/companies/billiontoone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Harrisburg, Pennsylvania, United States |
+| Location | Sterling Heights, Michigan, United States |
 | Category | Account Executive |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4676440005) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4677082005) |
 
 ## About This Role
 
-This account executive position at BillionToOne was posted on 2026-03-23.
+This account executive position at BillionToOne was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
