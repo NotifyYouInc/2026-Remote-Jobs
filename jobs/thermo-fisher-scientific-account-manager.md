@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | China |
 | Category | Account Executive |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/Account-Manager_R-01346158) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/Account-Manager_R-01346098) |
 
 ## About This Role
 
-This account executive position at Thermo Fisher Scientific was posted on 2026-03-25.
+This account executive position at Thermo Fisher Scientific was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
+| Location | San Jose, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Applied-Scientist_R166109) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Scientist_R166828) |
 
 ## About This Role
 
-This ai / llm engineer position at Adobe was posted on 2026-03-06.
+This ai / llm engineer position at Adobe was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

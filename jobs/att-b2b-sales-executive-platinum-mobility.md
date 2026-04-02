@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Ramon, California, United States |
+| Location | 3 locations |
 | Category | Account Executive |
 | Posted | 2026-03-25 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Ramon-California/B2B-Sales-Executive---Platinum-Mobility_R-104839-1) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Ramon-California/B2B-Sales-Executive---Platinum-Mobility_R-105120-1) |
 
 ## About This Role
 

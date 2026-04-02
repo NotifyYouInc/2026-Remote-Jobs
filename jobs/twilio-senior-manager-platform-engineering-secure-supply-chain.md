@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Alberta, CA |
+| Location | British Columbia, CA |
 | Category | Engineering Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7708025) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7755317) |
 
 ## About This Role
 
-This engineering manager position at Twilio was posted on 2026-03-13.
+This engineering manager position at Twilio was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

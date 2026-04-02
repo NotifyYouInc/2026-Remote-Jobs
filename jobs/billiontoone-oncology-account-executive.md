@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BillionToOne](https://scoutify.ai/companies/billiontoone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Jersey, US |
+| Location | Sarasota, Florida, United States |
 | Category | Account Executive |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4618030005) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4676840005) |
 
 ## About This Role
 
-This account executive position at BillionToOne was posted on 2026-03-06.
+This account executive position at BillionToOne was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

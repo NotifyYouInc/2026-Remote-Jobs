@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | North Carolina, US |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Clinical-Auditing-Specialist-II---Vendor-and-Information-System-Audits_R-01343197) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Clinical-Auditing-Specialist-II---Vendor-and-Information-System-Audits_R-01343198) |
 
 ## About This Role
 
-This compliance & risk management position at Thermo Fisher Scientific was posted on 2026-03-17.
+This compliance & risk management position at Thermo Fisher Scientific was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

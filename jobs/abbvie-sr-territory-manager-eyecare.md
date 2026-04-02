@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bhāgalpur, Bihar, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Account Executive |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012096906-sr-territory-manager-eyecare) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012321236-sr-territory-manager-eyecare) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-11.
+This account executive position at AbbVie was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

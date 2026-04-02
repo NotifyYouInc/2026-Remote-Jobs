@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Artesia, California, United States |
+| Location | Roanoke, Virginia, United States |
 | Category | Account Executive |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000115980617-outside-sales-representative) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000116709457-outside-sales-representative) |
 
 ## About This Role
 
-This account executive position at REXEL was posted on 2026-03-20.
+This account executive position at REXEL was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

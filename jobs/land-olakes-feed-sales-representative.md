@@ -5,12 +5,12 @@
 | Company | [Land O'Lakes](https://scoutify.ai/companies/landolakes?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Virtual-USA/Feed-Sales-Representative_R-38379) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Lancaster-PA-USA/Feed-Sales-Representative_R-38451) |
 
 ## About This Role
 
-This account executive position at Land O'Lakes was posted on 2026-03-11.
+This account executive position at Land O'Lakes was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Program Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7737111) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7749567) |
 
 ## About This Role
 
-This program manager position at Instacart was posted on 2026-03-19.
+This program manager position at Instacart was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

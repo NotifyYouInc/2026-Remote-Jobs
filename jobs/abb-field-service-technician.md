@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Customer Success |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-WI-Neenah/Field-Service-Technician_JR00026316) |
+| Location | Bolingbrook, Illinois, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Wisconsin-United-States-of-America/Field-Service-Engineer_JR00018258) |
 
 ## About This Role
 
-This customer success position at ABB was posted on 2026-03-05.
+This electrical / hardware engineer position at ABB was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

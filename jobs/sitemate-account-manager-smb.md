@@ -5,12 +5,12 @@
 | Company | [Sitemate](https://scoutify.ai/companies/sitemate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Account Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/f7e4badb-b077-4c15-a4f2-df3a28bc2d3b) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/d9e10f80-03f9-4509-af75-d52187bca5cb) |
 
 ## About This Role
 
-This account manager position at Sitemate was posted on 2026-03-12.
+This account manager position at Sitemate was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

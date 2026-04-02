@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Datong, Shanxi, China |
+| Location | Kunming, Yunnan, China |
 | Category | Account Executive |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012281096-sr-professional-medical-representative) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012320583-sr-professional-medical-representative) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-24.
+This account executive position at AbbVie was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

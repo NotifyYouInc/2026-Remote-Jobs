@@ -5,12 +5,12 @@
 | Company | [The Ward Law Group PL](https://scoutify.ai/companies/thewardlawgrouppl?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Colombia |
 | Category | Legal |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWardLawGroupPL/744000116486977-virtual-legal-assistant-remote) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWardLawGroupPL/744000116698017-virtual-legal-assistant-remote) |
 
 ## About This Role
 
-This legal position at The Ward Law Group PL was posted on 2026-03-24.
+This legal position at The Ward Law Group PL was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 
