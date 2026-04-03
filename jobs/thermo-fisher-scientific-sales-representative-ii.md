@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Baltimore-Maryland-USA/Sales-Representative-II_R-01344495) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Indianapolis-Indiana-USA/Sales-Representative-II_R-01346728) |
 
 ## About This Role
 
-This account executive position at Thermo Fisher Scientific was posted on 2026-03-04.
+This account executive position at Thermo Fisher Scientific was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

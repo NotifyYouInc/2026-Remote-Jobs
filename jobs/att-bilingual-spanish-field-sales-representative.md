@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tucson, Arizona, United States |
+| Location | 15 locations |
 | Category | Account Executive |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Tucson-Arizona/Bilingual-Spanish-Field-Sales-Representative_R-104621) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bloomington-Minnesota/Bilingual-Spanish-Field-Sales-Representative_R-105210) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-19.
+This account executive position at AT&T was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

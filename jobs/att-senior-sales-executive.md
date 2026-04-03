@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | Toledo, Ohio, United States |
 | Category | Account Executive |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Cincinnati-Ohio/Senior-Sales-Executive_R-104951) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Brecksville-Ohio/Senior-Sales-Executive_R-105221) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-25.
+This account executive position at AT&T was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

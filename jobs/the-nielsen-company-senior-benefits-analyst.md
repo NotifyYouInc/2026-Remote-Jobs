@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011866646-senior-benefits-analyst) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012338516-senior-benefits-analyst) |
 
 ## About This Role
 
-This human resources / people ops position at The Nielsen Company was posted on 2026-02-25.
+This human resources / people ops position at The Nielsen Company was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | China |
-| Category | Software Engineer |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a6bba412-578d-42ff-b49b-ecf76d9f7747) |
+| Location | Singapore |
+| Category | Frontend Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/578873a8-2147-4cd1-8a86-9b1204684c27) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-02-08.
+This frontend engineer position at Bjak was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

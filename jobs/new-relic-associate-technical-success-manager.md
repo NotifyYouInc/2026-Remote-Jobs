@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [New Relic](https://scoutify.ai/companies/new-relic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | India |
 | Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5148437008) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5161920008) |
 
 ## About This Role
 
-This customer success position at New Relic was posted on 2026-03-13.
+This customer success position at New Relic was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

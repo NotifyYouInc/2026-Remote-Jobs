@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [InterWorks](https://scoutify.ai/companies/interworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, US |
-| Category | Data Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/interworks/jobs/4653129006) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/interworks/jobs/4667474006) |
 
 ## About This Role
 
-This data engineer position at InterWorks was posted on 2026-02-10.
+This software engineer position at InterWorks was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

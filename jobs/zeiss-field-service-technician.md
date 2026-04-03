@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgia, US |
+| Location | California, US |
 | Category | Customer Success |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-GA/Field-Service-Technician_JR_1048019) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-CA/Field-Service-Technician_JR_1048270-1) |
 
 ## About This Role
 
-This customer success position at Zeiss was posted on 2026-03-17.
+This customer success position at Zeiss was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

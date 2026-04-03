@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeycomb](https://scoutify.ai/companies/honeycomb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Business Development |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/honeycomb/jobs/5162765008) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/honeycomb/jobs/5162767008) |
 
 ## About This Role
 
-This business development position at Honeycomb was posted on 2026-03-24.
+This business development position at Honeycomb was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

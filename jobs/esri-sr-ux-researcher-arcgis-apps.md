@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Redlands, California, United States |
+| Location | 4 locations |
 | Category | UX Researcher |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.esri.com/careers/5029318007?gh_jid=5029318007) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://www.esri.com/careers/5091354007?gh_jid=5091354007) |
 
 ## About This Role
 
-This ux researcher position at Esri was posted on 2026-03-03.
+This ux researcher position at Esri was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

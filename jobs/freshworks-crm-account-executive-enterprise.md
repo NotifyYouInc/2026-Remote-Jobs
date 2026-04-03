@@ -1,16 +1,16 @@
-# Account Executive - Enterprise at Freshworks CRM
+# Account Executive - Enterprise  at Freshworks CRM
 
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Mateo, California, United States |
+| Location | Lafayette, Louisiana, United States |
 | Category | Account Executive |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000115967337-account-executive-enterprise) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000117064187-account-executive-enterprise) |
 
 ## About This Role
 
-This account executive position at Freshworks CRM was posted on 2026-03-20.
+This account executive position at Freshworks CRM was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Focus Financial Partners](https://scoutify.ai/companies/focus-financial-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5828485004) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5838380004) |
 
 ## About This Role
 
-This corporate finance position at Focus Financial Partners was posted on 2026-03-13.
+This corporate finance position at Focus Financial Partners was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

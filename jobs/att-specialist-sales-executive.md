@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hollywood, California, United States |
+| Location | 3 locations |
 | Category | Account Executive |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Hollywood-Florida/Specialist-Sales-Executive_R-103849) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Miami-Florida/Specialist-Sales-Executive_R-105213) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-14.
+This account executive position at AT&T was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
