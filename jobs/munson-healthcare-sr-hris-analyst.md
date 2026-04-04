@@ -5,12 +5,12 @@
 | Company | [Munson Healthcare](https://scoutify.ai/companies/munsonhealthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990012338414-sr-hris-analyst) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990012363996-sr-hris-analyst) |
 
 ## About This Role
 
-This human resources / people ops position at Munson Healthcare was posted on 2026-03-26.
+This human resources / people ops position at Munson Healthcare was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

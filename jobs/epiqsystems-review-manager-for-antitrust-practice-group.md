@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | 6 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Remote-United-States/Review-Manager-for-Antitrust-Practice-Group_R0033485) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Kansas-City-KS/Review-Manager-for-Antitrust-Practice-Group_R0033773) |
 
 ## About This Role
 
-This technology / it consulting position at Epiqsystems was posted on 2026-02-26.
+This technology / it consulting position at Epiqsystems was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

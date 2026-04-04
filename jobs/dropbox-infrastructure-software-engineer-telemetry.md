@@ -5,12 +5,12 @@
 | Company | [Dropbox](https://scoutify.ai/companies/dropbox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.dropbox.com/listing/7543397?gh_jid=7543397) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.dropbox.com/listing/7543392?gh_jid=7543392) |
 
 ## About This Role
 
-This software engineer position at Dropbox was posted on 2026-03-13.
+This software engineer position at Dropbox was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/27442dc3-30db-4b51-87ac-2b5ec54a895f) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/a70ab352-b096-4e2d-9b3c-d095f5ccf4b0) |
 
 ## About This Role
 
-This human resources / people ops position at Jerry.ai was posted on 2026-03-23.
+This human resources / people ops position at Jerry.ai was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

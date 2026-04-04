@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/North-Palm-Beach-Florida/B2B-Sales-Account-Executive_R-104986) |
+| Posted | 2026-03-28 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Fort-Lauderdale-Florida/B2B-Sales-Account-Executive_R-103984) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-25.
+This account executive position at AT&T was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

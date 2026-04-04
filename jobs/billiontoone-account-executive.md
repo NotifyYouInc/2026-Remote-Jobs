@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BillionToOne](https://scoutify.ai/companies/billiontoone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Providence, Rhode Island, United States |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4675718005) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/billiontoone/jobs/4678463005) |
 
 ## About This Role
 
-This account executive position at BillionToOne was posted on 2026-03-26.
+This account executive position at BillionToOne was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

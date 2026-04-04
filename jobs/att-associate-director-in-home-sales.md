@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cypress, Texas, United States |
+| Location | Arlington Heights, Illinois, United States |
 | Category | Sales Leadership |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXCypress--Mueschke-Rd---Wcr16618-Mueschke-Rd/Associate-Director-In-Home-Sales_R-103923-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAILArlington-Heights--W-Algonquin-Rd---Adm95-W-Algonquin-Rd/Associate-Director-In-Home-Sales_R-105264) |
 
 ## About This Role
 
-This sales leadership position at AT&T was posted on 2026-03-12.
+This sales leadership position at AT&T was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

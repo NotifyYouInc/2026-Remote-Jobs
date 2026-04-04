@@ -5,12 +5,12 @@
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2226603857745880) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1462703578549930) |
 
 ## About This Role
 
-This product manager position at Meta was posted on 2026-03-25.
+This product manager position at Meta was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

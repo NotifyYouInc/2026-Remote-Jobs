@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Jersey City, New Jersey, United States |
 | Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011952776-specialty-representative-rheumatology-jersey-cityedison) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012364480-specialty-representative-rheumatology-jersey-cityedison) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-03.
+This account executive position at AbbVie was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Marketing |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Intern_JR0036940) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Intern_JR0037197) |
 
 ## About This Role
 
-This marketing position at Trellix was posted on 2026-03-23.
+This marketing position at Trellix was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

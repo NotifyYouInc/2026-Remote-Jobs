@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Savannah, Georgia, United States |
-| Category | Account Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Savannah-GA/Regional-Banking-Sales-and-Service-Coordinator_R0069197) |
+| Location | Killeen, Texas, United States |
+| Category | Account Executive |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Killeen-TX/Regional-Banking-Sales-and-Service-Coordinator_R0070675) |
 
 ## About This Role
 
-This account manager position at Huntington Bancshares was posted on 2026-03-03.
+This account executive position at Huntington Bancshares was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

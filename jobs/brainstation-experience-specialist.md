@@ -5,12 +5,12 @@
 | Company | [BrainStation](https://scoutify.ai/companies/brainstation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Customer Success |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7674406003) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7682273003) |
 
 ## About This Role
 
-This customer success position at BrainStation was posted on 2026-03-20.
+This customer success position at BrainStation was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

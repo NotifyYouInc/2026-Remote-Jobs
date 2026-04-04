@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nabla](https://scoutify.ai/companies/nabla?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/nabla/0c03d56d-657d-458a-b77d-0539634572ce) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nabla/379115a4-8e13-46d9-a8e1-f04c1f172d30) |
 
 ## About This Role
 
-This customer success position at Nabla was posted on 2026-02-19.
+This customer success position at Nabla was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

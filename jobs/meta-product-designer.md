@@ -5,12 +5,12 @@
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Product Designer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/3924938937639215) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/4303076493254144) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-03-26.
+This product designer position at Meta was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

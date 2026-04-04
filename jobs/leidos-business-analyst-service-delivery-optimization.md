@@ -1,16 +1,16 @@
-# Business Analyst – Service Delivery Optimization at Leidos
+# Business Analyst - Service Delivery Optimization at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Analyst---Service-Delivery-Optimization_R-00176412) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Analyst---Service-Delivery-Optimization_R-00179490) |
 
 ## About This Role
 
-This business analyst position at Leidos was posted on 2026-02-19.
+This business analyst position at Leidos was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

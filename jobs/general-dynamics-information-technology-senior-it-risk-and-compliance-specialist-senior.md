@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/Senior-IT-Risk-and-Compliance-Specialist-Senior_RQ210009-1) |
+| Category | SOC & Incident Response |
+| Posted | 2026-03-28 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/Senior-IT-Risk-and-Compliance-Specialist-Senior_RQ216565-2) |
 
 ## About This Role
 
-This compliance & risk management position at General Dynamics Information Technology was posted on 2026-03-02.
+This soc & incident response position at General Dynamics Information Technology was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

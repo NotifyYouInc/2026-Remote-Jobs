@@ -5,12 +5,12 @@
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director--Product-Management_R041891) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director--Product-Management_R041765) |
 
 ## About This Role
 
-This product manager position at Ensemble Health Partners was posted on 2026-03-23.
+This product manager position at Ensemble Health Partners was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

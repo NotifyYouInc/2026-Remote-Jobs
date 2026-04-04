@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BrainStation](https://scoutify.ai/companies/brainstation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | United States |
 | Category | Account Executive |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7674355003) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7682252003) |
 
 ## About This Role
 
-This account executive position at BrainStation was posted on 2026-03-20.
+This account executive position at BrainStation was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

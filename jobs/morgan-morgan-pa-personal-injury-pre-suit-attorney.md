@@ -1,16 +1,16 @@
-# Personal Injury Pre-Suit Attorney at Morgan & Morgan, P.A.
+# Personal Injury Pre Suit Attorney at Morgan & Morgan, P.A.
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Sacramento, California, United States |
 | Category | Legal |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5808968004) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5839705004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-02-20.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

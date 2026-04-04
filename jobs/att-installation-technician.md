@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | Customer Success |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Antonio-Texas/Installation-Technician_R-104719) |
+| Posted | 2026-03-28 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Wilmington-North-Carolina/Installation-Technician_R-105343) |
 
 ## About This Role
 
-This customer success position at AT&T was posted on 2026-03-20.
+This customer success position at AT&T was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

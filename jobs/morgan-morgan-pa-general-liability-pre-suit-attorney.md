@@ -1,16 +1,16 @@
-# General Liability Pre-Suit Attorney at Morgan & Morgan, P.A.
+# General Liability Pre Suit Attorney at Morgan & Morgan, P.A.
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Sacramento, California, United States |
 | Category | Legal |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5822490004) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5839781004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-03-09.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

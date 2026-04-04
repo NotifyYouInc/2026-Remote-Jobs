@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Cape Town, Western Cape, South Africa |
 | Category | Marketing |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990012342966-photoshop-designerartworker-genai-imagery-specialist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990012359266-photoshop-designerartworker-genai-imagery-specialist) |
 
 ## About This Role
 
