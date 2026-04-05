@@ -1,16 +1,16 @@
-# Transportation Representative, Transportation Representative at Amazon
+# Remote Support Specialist 3 – Magnetic Resonance at Varian
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Telangana, IN |
+| Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Cayman Islands |
 | Category | Customer Success |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10378706/transportation-representative-transportation-representative) |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CYA-M/Remote-Support-Specialist-3---Magnetic-Resonance_R-27677) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-03-28.
+This customer success position at Varian was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 
