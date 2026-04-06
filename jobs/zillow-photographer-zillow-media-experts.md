@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Not specified |
 | Category | Marketing |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Photographer--Zillow-Media-Experts_P749431) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Photographer--Zillow-Media-Experts_P749877) |
 
 ## About This Role
 
-This marketing position at Zillow was posted on 2026-02-24.
+This marketing position at Zillow was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

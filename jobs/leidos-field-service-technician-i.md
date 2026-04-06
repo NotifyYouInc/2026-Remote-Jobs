@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hawaii, US |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/8621-Kailua-Kona-HI-Home-Office/Field-Service-Technician-I_R-00178923-1) |
+| Location | Torrance, California, United States |
+| Category | Customer Success |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6497-Torrance-CA-Home-Office/Field-Service-Technician-I_R-00179359-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Leidos was posted on 2026-03-20.
+This customer success position at Leidos was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
