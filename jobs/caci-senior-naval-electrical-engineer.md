@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Senior-Naval-Electrical-Engineer_322348-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Senior-Naval-Electrical-Engineer_324038) |
 
 ## About This Role
 
-This electrical / hardware engineer position at CACI was posted on 2026-02-20.
+This electrical / hardware engineer position at CACI was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

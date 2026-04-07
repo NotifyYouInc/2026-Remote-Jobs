@@ -5,12 +5,12 @@
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Florida, US |
 | Category | Business Development |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Remote-Florida---United-States/Jr-Outbound-AdvisorChoice-Consultant_R-0009617) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Remote-Florida---United-States/Jr-Outbound-AdvisorChoice-Consultant_R-0010330) |
 
 ## About This Role
 
-This business development position at Raymond James Financial was posted on 2026-02-20.
+This business development position at Raymond James Financial was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

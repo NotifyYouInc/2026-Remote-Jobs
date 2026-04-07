@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 9 locations |
+| Location | 10 locations |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Puyallup-Washington/Bilingual-Mandarin-Field-Sales-Representative_R-102646) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAWARenton--S-Grady-Way-Suite-600707-S-Grady-Way-Suite-600/Bilingual-Mandarin-Field-Sales-Representative_R-105424) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-02-26.
+This account executive position at AT&T was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117051417-representante-commercialemarketing-sur-le-terrain-stage-dete-de-4-mois-pour-etudiants-field-salesmarketing-representative-4-month-summer-student) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117735685-representante-commercialemarketing-sur-le-terrain-stage-dete-de-4-mois-pour-etudiants-field-salesmarketing-representative-4-month-summer-student) |
 
 ## About This Role
 
-This account executive position at Robert Bosch was posted on 2026-03-26.
+This account executive position at Robert Bosch was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

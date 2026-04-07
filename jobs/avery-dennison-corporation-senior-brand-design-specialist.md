@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Cramlington, England, United Kingdom |
 | Category | Marketing |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000115741998-senior-brand-design-specialist) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000117733707-senior-brand-design-specialist) |
 
 ## About This Role
 
-This marketing position at Avery Dennison Corporation was posted on 2026-03-19.
+This marketing position at Avery Dennison Corporation was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

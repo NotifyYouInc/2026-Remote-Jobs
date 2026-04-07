@@ -5,12 +5,12 @@
 | Company | [Dexterra Group](https://scoutify.ai/companies/dexterragroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Alexandria, Virginia, United States |
 | Category | Project Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dexterra/744000117410367-remote-federal-proposal-manager-facilities-management) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dexterra/744000117747027-remote-federal-proposal-manager-facilities-management) |
 
 ## About This Role
 
-This project manager position at Dexterra Group was posted on 2026-03-27.
+This project manager position at Dexterra Group was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

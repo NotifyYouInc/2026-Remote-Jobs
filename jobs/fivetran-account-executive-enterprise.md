@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | British Columbia, CA |
+| Location | Indiana, US |
 | Category | Account Executive |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7659461003) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7683686003) |
 
 ## About This Role
 
-This account executive position at Fivetran was posted on 2026-03-12.
+This account executive position at Fivetran was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

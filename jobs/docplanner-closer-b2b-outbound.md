@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DocPlanner](https://scoutify.ai/companies/docplanner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Rio de Janeiro, Rio de Janeiro, Brazil |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000108200696-closer-b2b-outbound) |
+| Category | Account Executive |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000117724610-closer-b2b-outbound) |
 
 ## About This Role
 
-This sales position at DocPlanner was posted on 2026-02-09.
+This account executive position at DocPlanner was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

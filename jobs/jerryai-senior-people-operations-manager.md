@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 3 locations |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/fb1fdb23-f80c-4573-896c-f0653f2deeeb) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/9f98e3ef-b829-43df-a02c-01e2533d9f91) |
 
 ## About This Role
 
-This human resources / people ops position at Jerry.ai was posted on 2026-03-16.
+This human resources / people ops position at Jerry.ai was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

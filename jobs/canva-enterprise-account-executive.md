@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Singapore, Singapore |
+| Location | Not specified |
 | Category | Account Executive |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000937863-enterprise-account-executive) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000966038-enterprise-account-executive) |
 
 ## About This Role
 
-This account executive position at Canva was posted on 2026-03-17.
+This account executive position at Canva was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

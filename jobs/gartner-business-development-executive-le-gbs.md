@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | North Carolina, US |
+| Location | Chicago, Illinois, United States |
 | Category | Account Executive |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---North-Carolina/Business-Development-Executive--LE--GBS_109080) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Florida/Business-Development-Executive--LE--GBS_109017) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-03-28.
+This account executive position at Gartner was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

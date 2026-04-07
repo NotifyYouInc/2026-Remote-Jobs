@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117375230-staff-ai-implementation-engineer-moveworks) |
+| Location | San Francisco, California, United States |
+| Category | Customer Success |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117738417-staff-ai-implementation-engineer-moveworks) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-03-27.
+This customer success position at ServiceNow was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

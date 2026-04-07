@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Andover, Minnesota, United States |
+| Location | Louisville, Kentucky, United States |
 | Category | Account Executive |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/MA---Andover---Remote/Retirement-Plan-Advisor_R0057424) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KY-Louisville---Remote/Retirement-Plan-Advisor_R0057659) |
 
 ## About This Role
 
-This account executive position at Empower was posted on 2026-03-17.
+This account executive position at Empower was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

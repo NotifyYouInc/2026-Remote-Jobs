@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Virginia, US |
+| Location | Pleasanton, California, United States |
 | Category | Channel / Partner Sales |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Workday-Wellness-Partner-Manager_JR-0105067) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Workday-Wellness-Partner-Manager_JR-0105701) |
 
 ## About This Role
 
-This channel / partner sales position at Workday was posted on 2026-03-06.
+This channel / partner sales position at Workday was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

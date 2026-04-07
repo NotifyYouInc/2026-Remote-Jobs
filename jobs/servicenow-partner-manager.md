@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | Not specified |
 | Category | Business Development |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108627875-partner-manager) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117708817-partner-manager) |
 
 ## About This Role
 
-This business development position at ServiceNow was posted on 2026-02-10.
+This business development position at ServiceNow was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

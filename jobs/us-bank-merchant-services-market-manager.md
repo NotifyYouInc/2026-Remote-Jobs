@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Colorado, US |
+| Location | Ohio, US |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-CO/Merchant-Services-Market-Manager_2026-0004195) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-OH/Merchant-Services-Market-Manager_2026-0005962) |
 
 ## About This Role
 
-This account executive position at U.S. Bank was posted on 2026-02-26.
+This account executive position at U.S. Bank was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

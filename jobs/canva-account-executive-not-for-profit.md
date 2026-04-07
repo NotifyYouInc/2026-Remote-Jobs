@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000849842-account-executive-not-for-profit) |
+| Category | Account Executive |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000966184-account-executive-not-for-profit) |
 
 ## About This Role
 
-This business development position at Canva was posted on 2026-02-06.
+This account executive position at Canva was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
