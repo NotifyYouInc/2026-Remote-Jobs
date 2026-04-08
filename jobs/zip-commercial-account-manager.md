@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zip](https://scoutify.ai/companies/zip?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | San Francisco, California, United States |
 | Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/zip/e7bb007d-9626-4ed5-9b54-0e60b2b35d76) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/zip/1bbcaf79-2f1b-460e-a1e2-001734012f1a) |
 
 ## About This Role
 
-This account executive position at Zip was posted on 2026-03-30.
+This account executive position at Zip was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

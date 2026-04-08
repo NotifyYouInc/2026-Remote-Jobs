@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Waltham, Massachusetts, United States |
 | Category | Marketing Operations |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000116708997-ai-product-portfolio-director-martech) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117989968-ai-product-portfolio-director-martech) |
 
 ## About This Role
 
-This marketing operations position at ServiceNow was posted on 2026-03-25.
+This marketing operations position at ServiceNow was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

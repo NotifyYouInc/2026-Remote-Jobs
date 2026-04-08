@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Account Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112781117-territory-account-manager-remote) |
+| Location | Philadelphia, Pennsylvania, United States |
+| Category | Account Executive |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117987667-territory-account-manager-remote) |
 
 ## About This Role
 
-This account manager position at Robert Bosch was posted on 2026-03-04.
+This account executive position at Robert Bosch was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

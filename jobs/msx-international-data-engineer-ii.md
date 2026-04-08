@@ -5,12 +5,12 @@
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | São Caetano do Sul, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012363055-data-engineer-ii) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012402303-data-engineer-ii) |
 
 ## About This Role
 
-This software engineer position at MSX International was posted on 2026-03-27.
+This software engineer position at MSX International was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

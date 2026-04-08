@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Statesville, North Carolina, United States |
+| Location | North Carolina, US |
 | Category | Customer Success |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Statesville-North-Carolina/Installation-Technician_R-105466) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Winston-Salem-North-Carolina/Installation-Technician_R-105570) |
 
 ## About This Role
 
-This customer success position at AT&T was posted on 2026-03-30.
+This customer success position at AT&T was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

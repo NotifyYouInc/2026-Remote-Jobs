@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CCC Intelligent Solutions](https://scoutify.ai/companies/cccis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Des-Moines-IA/Client-Solutions-Advisor_0014567-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Pittsburgh-PA/Client-Solutions-Advisor_0014584) |
 
 ## About This Role
 
-This customer success position at CCC Intelligent Solutions was posted on 2026-03-25.
+This customer success position at CCC Intelligent Solutions was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

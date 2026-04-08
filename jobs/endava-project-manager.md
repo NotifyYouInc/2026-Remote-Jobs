@@ -1,16 +1,16 @@
-# Project Manager at Endava
+# Project Manager  at Endava
 
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Colorado, US |
 | Category | Project Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000114455397-project-manager) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000117985347-project-manager) |
 
 ## About This Role
 
-This project manager position at Endava was posted on 2026-03-12.
+This project manager position at Endava was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

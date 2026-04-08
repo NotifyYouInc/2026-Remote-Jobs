@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | Plano, Texas, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000116708322-senior-tester-9204585) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000117984707-senior-tester-9204585) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-03-25.
+This software engineer position at Endava was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Remote---United-States/Medical-Writer_R46240) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Remote---United-States/Medical-Writer_R46295) |
 
 ## About This Role
 
-This compliance & risk management position at Regeneron was posted on 2026-03-29.
+This compliance & risk management position at Regeneron was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

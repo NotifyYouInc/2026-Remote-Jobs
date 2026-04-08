@@ -5,12 +5,12 @@
 | Company | [Dungarvin](https://scoutify.ai/companies/dungarvin?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000117408987-onboarding-associate) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000117983357-onboarding-associate) |
 
 ## About This Role
 
-This human resources / people ops position at Dungarvin was posted on 2026-03-27.
+This human resources / people ops position at Dungarvin was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

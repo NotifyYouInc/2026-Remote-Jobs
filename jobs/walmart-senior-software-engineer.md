@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-SUNNYVALE-TECH-CORNERS-BLDG-6-CA-SUNNYVALE-Home-Office/Senior--Software-Engineer_R-2405107-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/Senior--Software-Engineer_R-2455167) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-03-30.
+This devops engineer position at Walmart was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

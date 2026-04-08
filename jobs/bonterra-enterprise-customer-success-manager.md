@@ -5,12 +5,12 @@
 | Company | [Bonterra](https://scoutify.ai/companies/bonterra?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/Enterprise-Customer-Success-Manager_R2025-0451) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/Enterprise-Customer-Success-Manager_R2026-0136) |
 
 ## About This Role
 
-This customer success position at Bonterra was posted on 2026-02-11.
+This customer success position at Bonterra was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

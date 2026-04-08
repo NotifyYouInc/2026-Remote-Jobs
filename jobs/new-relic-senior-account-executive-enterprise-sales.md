@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [New Relic](https://scoutify.ai/companies/new-relic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | India |
 | Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5166385008) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5112071008) |
 
 ## About This Role
 
-This account executive position at New Relic was posted on 2026-03-30.
+This account executive position at New Relic was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

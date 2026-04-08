@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Marketing |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---Mass---Boston/Group-Field-Marketing-Manager--THV_Req-46434) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-Washington-Remote/Group-Field-Marketing-Manager--THV_Req-46995) |
 
 ## About This Role
 
-This marketing position at Edwards Lifesciences was posted on 2026-03-06.
+This marketing position at Edwards Lifesciences was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

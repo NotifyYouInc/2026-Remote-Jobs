@@ -1,16 +1,16 @@
-# AI Product Portfolio Director at ServiceNow
+# AI Product Portfolio Director  at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Addison, Illinois, United States |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000116300468-ai-product-portfolio-director) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117989810-ai-product-portfolio-director) |
 
 ## About This Role
 
-This asset management / portfolio management position at ServiceNow was posted on 2026-03-23.
+This asset management / portfolio management position at ServiceNow was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

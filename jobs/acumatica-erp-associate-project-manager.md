@@ -5,12 +5,12 @@
 | Company | [Acumatica](https://scoutify.ai/companies/acumatica?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Westerville, Ohio, United States |
 | Category | Project Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000116698515-erp-associate-project-manager) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000117987107-erp-associate-project-manager) |
 
 ## About This Role
 
-This project manager position at Acumatica was posted on 2026-03-25.
+This project manager position at Acumatica was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 
