@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Palm Bay, Florida, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000117993707-senior-test-engineer) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000118254912-senior-test-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Renesas Electronics was posted on 2026-03-31.
+This electrical / hardware engineer position at Renesas Electronics was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

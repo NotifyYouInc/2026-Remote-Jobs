@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bellevue, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-BELLEVUE-WALMART-GLOBAL-TECH-WA-BELLEVUE-Home-Office/Software-Engineer-III_R-2451454) |
+| Location | Sunnyvale, California, United States |
+| Category | Mobile Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2448756) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-03-31.
+This mobile engineer position at Walmart was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

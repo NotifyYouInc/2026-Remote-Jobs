@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sepang, Selangor, Malaysia |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000118041297-people-culture-executive) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000118309787-people-culture-executive) |
 
 ## About This Role
 
-This human resources / people ops position at ACCOR was posted on 2026-04-01.
+This human resources / people ops position at ACCOR was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

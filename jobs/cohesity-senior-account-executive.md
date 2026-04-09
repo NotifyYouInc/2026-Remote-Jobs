@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Business Development |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Boston-Metro-Area---Massachusetts---USA-Remote/Senior-Account-Executive_R02465) |
+| Location | Hong Kong, Hong Kong |
+| Category | Account Executive |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Hong-Kong---Remote/Senior-Account-Executive_R03080-1) |
 
 ## About This Role
 
-This business development position at Cohesity was posted on 2026-02-05.
+This account executive position at Cohesity was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

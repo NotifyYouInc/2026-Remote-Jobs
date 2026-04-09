@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000110297094-business-development-manager-japan-eurofins-discovery) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000118323237-business-development-manager-japan-eurofins-discovery) |
 
 ## About This Role
 
-This engineering manager position at Eurofins Scientific was posted on 2026-02-20.
+This engineering manager position at Eurofins Scientific was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

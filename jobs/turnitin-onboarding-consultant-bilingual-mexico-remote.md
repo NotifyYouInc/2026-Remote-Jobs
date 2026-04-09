@@ -5,12 +5,12 @@
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000117048617-onboarding-consultant-bilingual-mexico-remote) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000118250226-onboarding-consultant-bilingual-mexico-remote) |
 
 ## About This Role
 
-This customer success position at Turnitin was posted on 2026-03-26.
+This customer success position at Turnitin was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Quince](https://scoutify.ai/companies/quince?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Jersey, US |
-| Category | Operations |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quince/jobs/5164758008) |
+| Location | United States |
+| Category | Learning & Development |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quince/jobs/5170806008) |
 
 ## About This Role
 
-This operations position at Quince was posted on 2026-03-30.
+This learning & development position at Quince was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

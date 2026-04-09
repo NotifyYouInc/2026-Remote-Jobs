@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Remote/Technical-Architect_JR333345) |
+| Location | Argentina |
+| Category | DevOps Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Remote/Technical-Architect_JR335018) |
 
 ## About This Role
 
-This technical & solutions architect position at Salesforce was posted on 2026-03-16.
+This devops engineer position at Salesforce was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

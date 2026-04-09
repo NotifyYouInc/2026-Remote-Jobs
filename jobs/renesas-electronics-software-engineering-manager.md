@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Engineering Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000110869695-software-engineering-manager) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000118257168-software-engineering-manager) |
 
 ## About This Role
 
-This engineering manager position at Renesas Electronics was posted on 2026-02-23.
+This engineering manager position at Renesas Electronics was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

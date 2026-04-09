@@ -5,12 +5,12 @@
 | Company | [VXI Global Solutions](https://scoutify.ai/companies/vxi-global-solutions?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Florida, US |
 | Category | Customer Success |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://vxi.wd12.myworkdayjobs.com/careers/job/Virtual--Alabama/US-Virtual---Technical-Support-Advisor---Work-from-Home_R26_01704) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://vxi.wd12.myworkdayjobs.com/careers/job/Virtual--Alabama/US-Virtual---Technical-Support-Advisor---Work-from-Home_R26_02130) |
 
 ## About This Role
 
-This customer success position at VXI Global Solutions was posted on 2026-03-06.
+This customer success position at VXI Global Solutions was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

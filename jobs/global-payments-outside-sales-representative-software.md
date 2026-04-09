@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | New York City, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Jacksonville-Florida-USA/Outside-Sales-Representative---Software_R0070522) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/New-York-City-New-York-USA/Outside-Sales-Representative---Software_R0070339) |
 
 ## About This Role
 
-This account executive position at Global Payments was posted on 2026-03-26.
+This account executive position at Global Payments was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

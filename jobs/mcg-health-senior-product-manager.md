@@ -5,12 +5,12 @@
 | Company | [MCG Health](https://scoutify.ai/companies/mcghealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mcghealth/jobs/8419813002) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mcghealth/jobs/8488415002) |
 
 ## About This Role
 
-This product manager position at MCG Health was posted on 2026-02-12.
+This product manager position at MCG Health was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

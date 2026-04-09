@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Delaware, US |
+| Location | Connecticut, US |
 | Category | Customer Success |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Pennsylvania/Dealercom-Performance-Manager_R202674285) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote-New-York-100/Dealercom-Performance-Manager_R202675294) |
 
 ## About This Role
 
-This customer success position at Cox was posted on 2026-03-09.
+This customer success position at Cox was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | California, US |
 | Category | Sales Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7660857003) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7674292003) |
 
 ## About This Role
 
-This sales engineer position at Fivetran was posted on 2026-03-10.
+This sales engineer position at Fivetran was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Columbia, South Carolina, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000117051958-sr-staff-embedded-ai-engineer) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000118252083-sr-staff-embedded-ai-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Renesas Electronics was posted on 2026-03-26.
+This ai / llm engineer position at Renesas Electronics was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

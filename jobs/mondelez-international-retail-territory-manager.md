@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Lincoln, Nebraska, United States |
 | Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Warner-Robins-Georgia-United-States/Retail-Territory-Manager_R-153398) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Presque-Isle-Maine-United-States/Retail-Territory-Manager_R-162715) |
 
 ## About This Role
 
-This account executive position at Mondelez International was posted on 2026-02-20.
+This account executive position at Mondelez International was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Shenzhen, Guangdong, China |
 | Category | Account Executive |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012406116-kam-manager) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012422391-kam-manager) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-01.
+This account executive position at AbbVie was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Account Executive |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Pittsburgh----Home-Office/Sales-Representative_R243742) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Philadelphia-Home-Office/Sales-Representative_R245427) |
 
 ## About This Role
 
-This account executive position at Sysco was posted on 2026-03-19.
+This account executive position at Sysco was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
