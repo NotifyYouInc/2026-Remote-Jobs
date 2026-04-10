@@ -1,16 +1,16 @@
-# (IND) SENIOR DIRECTOR, SOFTWARE ENGINEERING at Walmart
+# (IND) Senior Director, Software Engineering at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Karnataka, IN |
 | Category | Engineering Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/XMLNAME--IND--SENIOR-DIRECTOR--SOFTWARE-ENGINEERING_R-2250728) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/XMLNAME--IND--Senior-Director--Software-Engineering_R-2358568-1) |
 
 ## About This Role
 
-This engineering manager position at Walmart was posted on 2026-03-30.
+This engineering manager position at Walmart was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

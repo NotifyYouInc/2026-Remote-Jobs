@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Chicago, Illinois, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112081998-senior-data-scientist) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000118506366-senior-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at NielsenIQ was posted on 2026-03-02.
+This machine learning engineer position at NielsenIQ was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

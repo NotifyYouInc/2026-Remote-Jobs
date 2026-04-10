@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Averna](https://scoutify.ai/companies/averna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Project Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000115045827-technical-project-manager-manufacturing-test-english-version) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000118467487-technical-project-manager-manufacturing-test-english-version) |
 
 ## About This Role
 
-This project manager position at Averna was posted on 2026-03-16.
+This project manager position at Averna was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

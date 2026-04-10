@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | North Carolina, US |
+| Location | Florida, US |
 | Category | Customer Success |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Winston-Salem-North-Carolina/Installation-Technician_R-105570) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Lake-Worth-Florida/Installation-Technician_R-105913) |
 
 ## About This Role
 
-This customer success position at AT&T was posted on 2026-03-31.
+This customer success position at AT&T was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

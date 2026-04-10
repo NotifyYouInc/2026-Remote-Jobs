@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Saskatchewan, CA |
-| Category | Data Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Saskatchewan/Intern_R0040214) |
+| Location | Louisiana, US |
+| Category | Business Development |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Louisiana-United-States/Intern_R0040736-1) |
 
 ## About This Role
 
-This data analyst position at Harris Computer was posted on 2026-03-10.
+This business development position at Harris Computer was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

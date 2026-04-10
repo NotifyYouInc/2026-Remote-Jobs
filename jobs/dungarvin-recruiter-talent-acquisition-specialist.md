@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dungarvin](https://scoutify.ai/companies/dungarvin?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Baton Rouge, Louisiana, United States |
+| Location | 2 locations |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000116705031-recruiter-talent-acquisition-specialist) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000118474647-recruiter-talent-acquisition-specialist) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Dungarvin was posted on 2026-03-25.
+This talent acquisition / recruiting position at Dungarvin was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

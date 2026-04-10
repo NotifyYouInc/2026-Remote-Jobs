@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Schiltigheim, Grand Est, France |
-| Category | Software Engineer |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000117501612-alternance-developpeur-java-services-publics-strasbourg) |
+| Category | Frontend Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000118441357-alternance-developpeur-java-services-publics-strasbourg) |
 
 ## About This Role
 
-This software engineer position at Sopra Steria was posted on 2026-03-29.
+This frontend engineer position at Sopra Steria was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

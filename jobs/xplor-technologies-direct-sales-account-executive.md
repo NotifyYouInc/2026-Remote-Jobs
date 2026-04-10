@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wichita, Kansas, United States |
+| Location | Torrance, California, United States |
 | Category | Account Executive |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000109803326-direct-sales-account-executive) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000118492573-direct-sales-account-executive) |
 
 ## About This Role
 
-This account executive position at Xplor Technologies was posted on 2026-02-17.
+This account executive position at Xplor Technologies was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

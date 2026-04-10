@@ -1,16 +1,16 @@
-# Senior Manager, Software Engineering at Walmart
+# SENIOR MANAGER, SOFTWARE ENGINEERING at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior-Manager--Software-Engineering_R-2442651-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/SENIOR-MANAGER--SOFTWARE-ENGINEERING_R-2463386) |
 
 ## About This Role
 
-This engineering manager position at Walmart was posted on 2026-03-30.
+This engineering manager position at Walmart was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

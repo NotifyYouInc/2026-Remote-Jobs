@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Option Care Health](https://scoutify.ai/companies/optioncare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tallahassee, Florida, United States |
+| Location | Montgomery, Alabama, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://optioncare.wd1.myworkdayjobs.com/optioncare/job/Tallahassee-FL/Benefits-and-Authorization-Specialist---Remote_R34605) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://optioncare.wd1.myworkdayjobs.com/optioncare/job/Montgomery-AL/Benefits-and-Authorization-Specialist---Remote_R34825-1) |
 
 ## About This Role
 
-This human resources / people ops position at Option Care Health was posted on 2026-03-02.
+This human resources / people ops position at Option Care Health was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

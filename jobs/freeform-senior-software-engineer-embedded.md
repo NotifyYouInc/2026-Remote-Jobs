@@ -5,12 +5,12 @@
 | Company | [Freeform](https://scoutify.ai/companies/freeformfuturecorp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7651906003) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688748003) |
 
 ## About This Role
 
-This software engineer position at Freeform was posted on 2026-03-04.
+This software engineer position at Freeform was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

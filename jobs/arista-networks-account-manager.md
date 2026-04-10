@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Houston, Texas, United States |
 | Category | Account Executive |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000118248747-account-manager) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000118507289-account-manager) |
 
 ## About This Role
 
-This account executive position at Arista Networks was posted on 2026-04-01.
+This account executive position at Arista Networks was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

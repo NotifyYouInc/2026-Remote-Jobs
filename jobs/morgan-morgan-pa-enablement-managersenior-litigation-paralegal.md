@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
-| Category | Learning & Development |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5807695004) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5844554004) |
 
 ## About This Role
 
-This learning & development position at Morgan & Morgan, P.A. was posted on 2026-02-18.
+This human resources / people ops position at Morgan & Morgan, P.A. was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

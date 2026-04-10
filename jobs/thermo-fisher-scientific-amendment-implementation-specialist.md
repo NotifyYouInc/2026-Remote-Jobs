@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
+| Location | Bulgaria |
 | Category | Project Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Brazil/Amendment-Implementation-Specialist_R-01346291) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Bulgaria/Amendment-Implementation-Specialist_R-01348435) |
 
 ## About This Role
 
-This project manager position at Thermo Fisher Scientific was posted on 2026-03-26.
+This project manager position at Thermo Fisher Scientific was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

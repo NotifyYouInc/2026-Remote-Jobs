@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freeform](https://scoutify.ai/companies/freeformfuturecorp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7645365003) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688757003) |
 
 ## About This Role
 
-This software engineer position at Freeform was posted on 2026-02-25.
+This software engineer position at Freeform was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

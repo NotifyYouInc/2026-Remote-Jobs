@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Associate-Actuary--SPA-Rx_R-398460) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Associate-Actuary--SPA-Rx_R-411843) |
 
 ## About This Role
 
-This corporate finance position at Humana was posted on 2026-04-01.
+This corporate finance position at Humana was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

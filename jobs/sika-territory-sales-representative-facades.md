@@ -1,16 +1,16 @@
-# Territory Sales Representative -Facades at Sika
+# Territory Sales Representative Facades at Sika
 
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Jersey City, New Jersey, United States |
 | Category | Account Executive |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000114482507-territory-sales-representative-facades) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000118507347-territory-sales-representative-facades) |
 
 ## About This Role
 
-This account executive position at Sika was posted on 2026-03-12.
+This account executive position at Sika was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

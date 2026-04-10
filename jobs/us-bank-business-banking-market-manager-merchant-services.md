@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kansas, US |
+| Location | Florida, US |
 | Category | Account Executive |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-KS/Business-Banking-Market-Manager--Merchant-Services-_2026-0005132-2) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-FL/Business-Banking-Market-Manager--Merchant-Services-_2026-0008099) |
 
 ## About This Role
 
-This account executive position at U.S. Bank was posted on 2026-03-25.
+This account executive position at U.S. Bank was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

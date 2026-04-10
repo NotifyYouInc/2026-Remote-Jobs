@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 4 locations |
-| Category | Operations |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7760225) |
+| Location | New York City, New York, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7760222) |
 
 ## About This Role
 
-This operations position at MongoDB was posted on 2026-04-01.
+This strategy & operations position at MongoDB was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
