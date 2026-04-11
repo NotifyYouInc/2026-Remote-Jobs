@@ -5,12 +5,12 @@
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/Virtual/Virtual---Customer-Account-Business-Sales-Representative_R432639) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/Virtual/Virtual---Customer-Account-Business-Sales-Representative_R434747) |
 
 ## About This Role
 
-This account executive position at Comcast was posted on 2026-03-05.
+This account executive position at Comcast was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

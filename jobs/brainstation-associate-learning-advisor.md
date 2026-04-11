@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BrainStation](https://scoutify.ai/companies/brainstation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | New York, US |
 | Category | Business Development |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7682253003) |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7689732003) |
 
 ## About This Role
 
-This business development position at BrainStation was posted on 2026-03-27.
+This business development position at BrainStation was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

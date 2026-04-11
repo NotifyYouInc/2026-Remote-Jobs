@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
-| Category | Project Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-Brazil/Onboarding-Project-Manager_R-102051) |
+| Location | United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-United-States/Onboarding-Project-Manager_R-102127) |
 
 ## About This Role
 
-This project manager position at Rimini Street was posted on 2026-03-02.
+This technology / it consulting position at Rimini Street was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

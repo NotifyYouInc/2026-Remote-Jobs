@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/XMLNAME-340B-Account-Manager---Verity-Solutions---Remote_26003583) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/XMLNAME-340B-Account-Manager---Verity-Solutions---Remote_26003879) |
 
 ## About This Role
 
-This account manager position at Cigna was posted on 2026-03-26.
+This account manager position at Cigna was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

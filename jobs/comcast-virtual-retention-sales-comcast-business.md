@@ -5,12 +5,12 @@
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Account Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/Virtual/Virtual---Retention-Sales--Comcast-Business_R432638) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/Virtual/Virtual---Retention-Sales--Comcast-Business_R434740-1) |
 
 ## About This Role
 
-This account manager position at Comcast was posted on 2026-03-05.
+This account manager position at Comcast was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Calgary, Alberta, Canada |
-| Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000107543871-area-sales-manager) |
+| Location | St. Louis, Missouri, United States |
+| Category | Account Executive |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000118641939-area-sales-manager) |
 
 ## About This Role
 
-This sales position at Intuitive Surgical was posted on 2026-02-05.
+This account executive position at Intuitive Surgical was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

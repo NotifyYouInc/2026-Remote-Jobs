@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Asana](https://scoutify.ai/companies/asana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.asana.com/jobs/apply/7581823?gh_jid=7581823) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/7760933?gh_jid=7760933) |
 
 ## About This Role
 
-This customer success position at Asana was posted on 2026-02-05.
+This customer success position at Asana was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Program Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000117997547-program-manager-ai-agency) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000118657357-program-manager-ai-agency) |
 
 ## About This Role
 
-This program manager position at EVERSANA was posted on 2026-03-31.
+This program manager position at EVERSANA was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

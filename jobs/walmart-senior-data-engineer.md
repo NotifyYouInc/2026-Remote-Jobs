@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Engineer_R-2450172) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Engineer_R-2419563) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-03-31.
+This software engineer position at Walmart was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oscar Health](https://scoutify.ai/companies/oscar-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Florida, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](http://www.hioscar.com/careers/7648610?gh_jid=7648610) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](http://www.hioscar.com/careers/7778427?gh_jid=7778427) |
 
 ## About This Role
 
-This corporate finance position at Oscar Health was posted on 2026-02-23.
+This corporate finance position at Oscar Health was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Tv, Video, Audio, & Display Strategist at Tinuiti
+# TV, Video, Audio & Display Strategist at Tinuiti
 
 | Field | Details |
 |-------|---------|
 | Company | [Tinuiti](https://scoutify.ai/companies/tinuiti?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Tv--Video--Audio----Display-Strategist_R26_157-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/TV--Video--Audio---Display-Strategist_R26_271) |
 
 ## About This Role
 
-This digital / performance marketing position at Tinuiti was posted on 2026-03-20.
+This digital / performance marketing position at Tinuiti was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

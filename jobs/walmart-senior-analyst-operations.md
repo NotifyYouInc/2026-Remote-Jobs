@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bentonville, Arkansas, United States |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Senior-Analyst--Operations_R-2406586) |
+| Category | Business Analyst |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Senior-Analyst--Operations_R-2453582) |
 
 ## About This Role
 
-This operations position at Walmart was posted on 2026-02-06.
+This business analyst position at Walmart was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

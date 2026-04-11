@@ -5,12 +5,12 @@
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Florida, US |
 | Category | Account Executive |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Florida-USA/Healthcare-Account-Executive---FL_R012796) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Florida-USA/Healthcare-Account-Executive---FL_R013079) |
 
 ## About This Role
 
-This account executive position at SailPoint Technologies was posted on 2026-03-06.
+This account executive position at SailPoint Technologies was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | California, US |
 | Category | Account Executive |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Remote/Territory-Manager--Structural-Heart--TEER--California-_31142345-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Remote/Territory-Manager--Structural-Heart--TEER--California-_31146539-2) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-02-18.
+This account executive position at Abbott was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

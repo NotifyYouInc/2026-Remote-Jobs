@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Sales Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111467545-sr-advisory-solution-consultant) |
+| Category | Account Executive |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000118635819-sr-advisory-solution-consultant) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-02-25.
+This account executive position at ServiceNow was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

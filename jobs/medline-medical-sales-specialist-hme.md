@@ -1,16 +1,16 @@
-# Medical Sales Specialist-HME at Medline
+# Medical Sales Specialist - HME at Medline
 
 | Field | Details |
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 6 locations |
+| Location | 3 locations |
 | Category | Account Executive |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/REMOTE--California/Medical-Sales-Specialist-HME_R2605346) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/REMOTE--Louisiana/Medical-Sales-Specialist---HME_R2606736) |
 
 ## About This Role
 
-This account executive position at Medline was posted on 2026-03-31.
+This account executive position at Medline was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
