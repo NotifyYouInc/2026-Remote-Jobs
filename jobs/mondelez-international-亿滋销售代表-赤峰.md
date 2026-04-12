@@ -1,16 +1,16 @@
-# Sr. Professional Medical Representative at AbbVie
+# 亿滋销售代表-赤峰 at Mondelez International
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | China |
 | Category | Account Executive |
 | Posted | 2026-04-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012459686-sr-professional-medical-representative) |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/China-Remote/-_R-164151) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-04.
+This account executive position at Mondelez International was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oscar Health](https://scoutify.ai/companies/oscar-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgia, US |
-| Category | Business Analyst |
+| Location | Arizona, US |
+| Category | Compliance & Risk Management |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](http://www.hioscar.com/careers/7778582?gh_jid=7778582) |
+| Apply | [View on company site](http://www.hioscar.com/careers/7778583?gh_jid=7778583) |
 
 ## About This Role
 
-This business analyst position at Oscar Health was posted on 2026-04-03.
+This compliance & risk management position at Oscar Health was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Software Developer at General Dynamics Information Technology
+# Sr. Electrical Engineer at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
+| Location | Chesapeake, Virginia, United States |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-04-05 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Software-Developer_RQ217656-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chesapeake/Sr-Electrical-Engineer_RQ217747-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-04-05.
+This electrical / hardware engineer position at General Dynamics Information Technology was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

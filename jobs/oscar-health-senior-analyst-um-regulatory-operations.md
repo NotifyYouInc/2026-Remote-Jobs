@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oscar Health](https://scoutify.ai/companies/oscar-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Compliance & Risk Management |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](http://www.hioscar.com/careers/7778597?gh_jid=7778597) |
+| Apply | [View on company site](http://www.hioscar.com/careers/7778596?gh_jid=7778596) |
 
 ## About This Role
 
