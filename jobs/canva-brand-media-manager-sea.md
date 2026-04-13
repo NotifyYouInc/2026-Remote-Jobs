@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000952994-brand-media-manager-sea) |
+| Posted | 2026-04-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000976314-brand-media-manager-sea) |
 
 ## About This Role
 
-This digital / performance marketing position at Canva was posted on 2026-03-24.
+This digital / performance marketing position at Canva was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

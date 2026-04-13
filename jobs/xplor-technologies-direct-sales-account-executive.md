@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | Lancaster, California, United States |
 | Category | Account Executive |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000118635667-direct-sales-account-executive) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000118647439-direct-sales-account-executive) |
 
 ## About This Role
 

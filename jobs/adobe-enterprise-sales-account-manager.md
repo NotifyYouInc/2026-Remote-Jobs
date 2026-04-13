@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
-| Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Illinois/Enterprise-Sales-Account-Manager_R167059) |
+| Location | Singapore, Singapore |
+| Category | Account Manager |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Singapore/Enterprise-Sales-Account-Manager_R167231) |
 
 ## About This Role
 
-This account executive position at Adobe was posted on 2026-03-27.
+This account manager position at Adobe was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

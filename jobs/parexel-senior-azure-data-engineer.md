@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ontario, CA |
-| Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Canada-Ontario-Remote/Senior-Azure-Data-Engineer_R0000038878) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Senior-Azure-Data-Engineer_R0000040159) |
 
 ## About This Role
 
-This software engineer position at Parexel was posted on 2026-02-17.
+This data engineer position at Parexel was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
