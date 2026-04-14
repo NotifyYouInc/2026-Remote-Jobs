@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000109245845-lead-technical-grc-analyst-governance) |
+| Location | New York, US |
+| Category | Compliance & Risk Management |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000118911257-lead-technical-grc-analyst-governance) |
 
 ## About This Role
 
-This operations position at NBCUniversal was posted on 2026-02-13.
+This compliance & risk management position at NBCUniversal was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

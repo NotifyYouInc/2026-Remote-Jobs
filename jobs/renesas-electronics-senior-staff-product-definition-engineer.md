@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Duluth, Minnesota, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000116292907-senior-staff-product-definition-engineer) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000118889460-senior-staff-product-definition-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-23.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

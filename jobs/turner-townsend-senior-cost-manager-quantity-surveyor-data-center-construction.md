@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hampton, Virginia, United States |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000116008757-senior-cost-manager-quantity-surveyor-data-center-construction) |
+| Category | Project Manager |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000118928313-senior-cost-manager-quantity-surveyor-data-center-construction) |
 
 ## About This Role
 
-This financial advisory & consulting position at Turner & Townsend was posted on 2026-03-21.
+This project manager position at Turner & Townsend was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

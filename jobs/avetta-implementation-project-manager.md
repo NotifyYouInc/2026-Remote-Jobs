@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avetta](https://scoutify.ai/companies/avetta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Calgary, Alberta, Canada |
 | Category | Project Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://www.avetta.com/careers/job?gh_jid=7689550003) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://www.avetta.com/careers/job?gh_jid=7690771003) |
 
 ## About This Role
 
-This project manager position at Avetta was posted on 2026-04-03.
+This project manager position at Avetta was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

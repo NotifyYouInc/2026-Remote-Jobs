@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Jose, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Data-Science-Engineer_R166747) |
+| Category | Data Scientist |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Data-Science-Engineer_R167354-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Adobe was posted on 2026-03-17.
+This data scientist position at Adobe was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

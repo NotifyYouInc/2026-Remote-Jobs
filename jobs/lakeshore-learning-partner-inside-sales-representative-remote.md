@@ -5,12 +5,12 @@
 | Company | [Lakeshore Learning](https://scoutify.ai/companies/lakeshorelearning?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000110480705-partner-inside-sales-representative-remote) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000118892005-partner-inside-sales-representative-remote) |
 
 ## About This Role
 
-This account executive position at Lakeshore Learning was posted on 2026-02-20.
+This account executive position at Lakeshore Learning was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

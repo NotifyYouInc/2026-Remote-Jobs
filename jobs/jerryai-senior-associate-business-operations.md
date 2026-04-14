@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/2596df1b-bc9a-40d3-97ef-f0b1e9363616) |
+| Location | Atlanta, Georgia, United States |
+| Category | Operations |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/9b332265-89c1-4d78-83b6-a994c154ea83) |
 
 ## About This Role
 
-This business analyst position at Jerry.ai was posted on 2026-03-23.
+This operations position at Jerry.ai was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

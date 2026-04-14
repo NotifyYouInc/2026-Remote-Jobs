@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Operations |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Commercialization_R-101363) |
+| Category | Product Manager |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Commercialization_R-98204) |
 
 ## About This Role
 
-This operations position at AT&T was posted on 2026-02-24.
+This product manager position at AT&T was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

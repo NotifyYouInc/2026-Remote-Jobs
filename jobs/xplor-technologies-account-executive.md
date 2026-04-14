@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Prosper, Texas, United States |
+| Location | Torrance, California, United States |
 | Category | Account Executive |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000115079387-account-executive) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000118873657-account-executive) |
 
 ## About This Role
 
-This account executive position at Xplor Technologies was posted on 2026-03-16.
+This account executive position at Xplor Technologies was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

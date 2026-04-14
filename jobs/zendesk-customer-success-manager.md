@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Melbourne-Australia/Customer-Success-Manager_R34478) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Singapore-Singapore/Customer-Success-Manager_R34472) |
 
 ## About This Role
 
-This customer success position at Zendesk was posted on 2026-03-26.
+This customer success position at Zendesk was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000117395724-associate-director-cost-manager-quantity-surveyor-data-center-construction) |
+| Category | Project Manager |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000119000805-associate-director-cost-manager-quantity-surveyor-data-center-construction) |
 
 ## About This Role
 
-This financial advisory & consulting position at Turner & Townsend was posted on 2026-03-27.
+This project manager position at Turner & Townsend was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

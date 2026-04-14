@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Logitech](https://scoutify.ai/companies/logitech?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Zhengzhou, Henan, China |
+| Location | China |
 | Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://logitech.wd5.myworkdayjobs.com/logitech/job/Zhengzhou-China/Sr-Territory-Sales-Specialist_145200-3) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://logitech.wd5.myworkdayjobs.com/logitech/job/Xian-China/Territory-Sales-Specialist_145210-3) |
 
 ## About This Role
 
-This account executive position at Logitech was posted on 2026-02-24.
+This account executive position at Logitech was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | North Carolina, US |
-| Category | Customer Success |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-North-Carolina-USA/Senior-Field-Service-Technician_JR00018022) |
+| Location | Florida, PR |
+| Category | Marketing |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-North-Carolina-United-States-of-America/Senior-Field-Service-Technician_JR00022025) |
 
 ## About This Role
 
-This customer success position at ABB was posted on 2026-03-03.
+This marketing position at ABB was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
