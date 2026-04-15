@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Menlo Park, California, United States |
 | Category | Product Designer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/4303076493254144) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1222779906388880) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-03-27.
+This product designer position at Meta was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

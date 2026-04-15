@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/After-Effects-Software-Quality-Engineer_R165851-1) |
+| Category | QA Engineer |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/After-Effects-Software-Quality-Engineer_R167203) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-03-06.
+This qa engineer position at Adobe was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Jersey, US |
+| Location | Euless, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Bordentown-NJ/Customer-Care-Specialist-I--Manheim-_R202674803) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Euless-TX/Customer-Care-Specialist-I--Manheim-_R202675550) |
 
 ## About This Role
 
-This customer success position at Cox was posted on 2026-03-21.
+This customer success position at Cox was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

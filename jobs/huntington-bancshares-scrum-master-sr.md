@@ -1,16 +1,16 @@
-# Scrum Master Sr at Huntington Bancshares
+# Scrum Master Sr. at Huntington Bancshares
 
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Project Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Scrum-Master-Sr_R0068999) |
+| Location | Columbus, Ohio, United States |
+| Category | Scrum Master & Agile Coach |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Scrum-Master-Sr_R0071212) |
 
 ## About This Role
 
-This project manager position at Huntington Bancshares was posted on 2026-02-06.
+This scrum master & agile coach position at Huntington Bancshares was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

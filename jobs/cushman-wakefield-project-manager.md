@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
+| Location | United States |
 | Category | Project Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Austin-Texas-USA/Project-Manager_R312822) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Flexible-Location-USA/Project-Manager_R312946) |
 
 ## About This Role
 
-This project manager position at Cushman & Wakefield was posted on 2026-03-27.
+This project manager position at Cushman & Wakefield was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

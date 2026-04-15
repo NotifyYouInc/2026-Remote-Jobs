@@ -1,0 +1,22 @@
+# Business Development Executive at Aristocrat Leisure
+
+| Field | Details |
+|-------|---------|
+| Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Chicago, Illinois, United States |
+| Category | Account Executive |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Chicago-IL-US/Business-Development-Executive_R0020980-1) |
+
+## About This Role
+
+This account executive position at Aristocrat Leisure was posted on 2026-04-07.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

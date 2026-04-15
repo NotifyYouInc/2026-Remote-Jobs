@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Alpharetta, Georgia, United States |
-| Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Alpharetta-Georgia/Principal-Tech-Product-Mgr_R-101119) |
+| Location | Dallas, Texas, United States |
+| Category | Technical Product Manager |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-Tech-Product-Mgr_R-102018) |
 
 ## About This Role
 
-This product manager position at AT&T was posted on 2026-02-24.
+This technical product manager position at AT&T was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

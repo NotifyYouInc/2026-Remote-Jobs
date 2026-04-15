@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Sales Leadership |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/Director---Field-Alliances_JR2863-1) |
+| Category | Business Development |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/Director---Field-Alliances_JR2870) |
 
 ## About This Role
 
-This sales leadership position at SHI International was posted on 2026-04-03.
+This business development position at SHI International was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

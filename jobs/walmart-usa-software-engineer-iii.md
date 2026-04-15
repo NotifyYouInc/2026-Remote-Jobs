@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arkansas, US |
-| Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Redbird-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2462669) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Software-Engineer-III_R-2445536) |
 
 ## About This Role
 
-This devops engineer position at Walmart was posted on 2026-04-01.
+This software engineer position at Walmart was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

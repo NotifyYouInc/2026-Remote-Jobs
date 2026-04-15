@@ -5,12 +5,12 @@
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Florida, US |
 | Category | Account Executive |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/North-Palm-Beach-Florida/Bilingual-Spanish-Outside-Sales-Representative_R-102802) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/North-Palm-Beach-Florida/Bilingual-Spanish-Outside-Sales-Representative_R-106375) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-02-27.
+This account executive position at AT&T was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

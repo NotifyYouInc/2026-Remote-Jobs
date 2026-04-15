@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Massachusetts, US |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Account Executive |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Boston-Metro-Area---Massachusetts---USA-Remote/Account-Executive_R02936) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Dubai---United-Arab-Emirates-Office/Account-Executive_R03078-1) |
 
 ## About This Role
 
-This account executive position at Cohesity was posted on 2026-03-07.
+This account executive position at Cohesity was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

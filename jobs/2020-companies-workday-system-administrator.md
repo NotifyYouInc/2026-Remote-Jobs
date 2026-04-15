@@ -5,12 +5,12 @@
 | Company | [2020 Companies](https://scoutify.ai/companies/2020-companies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Southlake, Texas, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Southlake-TX/Workday-System-Administrator_REQ_100352-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Southlake-TX/Workday-System-Administrator_REQ_101865) |
 
 ## About This Role
 
-This it & systems administration position at 2020 Companies was posted on 2026-03-12.
+This it & systems administration position at 2020 Companies was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

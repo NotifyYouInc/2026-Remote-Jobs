@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | Account Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000118644987-clinical-territory-associate) |
+| Location | Allentown, Pennsylvania, United States |
+| Category | Account Executive |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000119214656-clinical-territory-associate) |
 
 ## About This Role
 
-This account manager position at Intuitive Surgical was posted on 2026-04-03.
+This account executive position at Intuitive Surgical was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
