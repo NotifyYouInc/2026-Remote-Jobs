@@ -5,12 +5,12 @@
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Marketing |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Production-Artist_JR103968) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Production-Artist_JR104059) |
 
 ## About This Role
 
-This marketing position at Delegate CX was posted on 2026-03-20.
+This marketing position at Delegate CX was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

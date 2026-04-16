@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Gold Coast, Queensland, Australia |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Account Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012386316-account-manager-facial-aesthetics) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012523366-account-manager-facial-aesthetics) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-03-31.
+This account manager position at AbbVie was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

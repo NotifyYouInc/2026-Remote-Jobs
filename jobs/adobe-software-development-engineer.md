@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R166829) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Frontend Engineer |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R167091) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-03-31.
+This frontend engineer position at Adobe was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
