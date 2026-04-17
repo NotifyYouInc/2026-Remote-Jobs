@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Massachusetts, US |
-| Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MA/Regional-Sales-Manager--Remote-_R27702) |
+| Location | United States |
+| Category | Sales Leadership |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Regional-Sales-Manager--Remote-_R28343) |
 
 ## About This Role
 
-This account executive position at CrowdStrike was posted on 2026-03-02.
+This sales leadership position at CrowdStrike was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

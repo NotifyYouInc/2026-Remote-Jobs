@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Snellville, Georgia, United States |
 | Category | Account Executive |
 | Posted | 2026-04-09 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Meridian-Idaho/Field-Sales-Representative_R-106519) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Snellville-Georgia/Field-Sales-Representative_R-106677) |
 
 ## About This Role
 

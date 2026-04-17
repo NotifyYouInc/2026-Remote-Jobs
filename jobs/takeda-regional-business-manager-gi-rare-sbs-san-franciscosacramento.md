@@ -5,12 +5,12 @@
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Account Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/California---Virtual/Regional-Business-Manager---GI-Rare--SBS----San-Francisco-Sacramento_R0163877-1) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/California---Virtual/Regional-Business-Manager---GI-Rare--SBS----San-Francisco-Sacramento_R0178119) |
 
 ## About This Role
 
-This account manager position at Takeda was posted on 2026-04-07.
+This account manager position at Takeda was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

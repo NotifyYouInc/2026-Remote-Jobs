@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Plano, Texas, United States |
 | Category | Technical Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-Tech-Product-Mgr_R-102018) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXPlano--W-Plano-Pkwy---Adm3400-W-Plano-Pkwy/Principal-Tech-Product-Mgr_R-106599) |
 
 ## About This Role
 
-This technical product manager position at AT&T was posted on 2026-04-07.
+This technical product manager position at AT&T was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

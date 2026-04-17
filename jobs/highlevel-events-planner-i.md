@@ -5,12 +5,12 @@
 | Company | [HighLevel](https://scoutify.ai/companies/highlevel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Marketing |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.lever.co/gohighlevel/83785248-5afe-4610-903d-a717384ed8c8) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.lever.co/gohighlevel/c61fa7da-2678-473e-ac85-b5270faa204b) |
 
 ## About This Role
 
-This marketing position at HighLevel was posted on 2026-04-07.
+This marketing position at HighLevel was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dungarvin](https://scoutify.ai/companies/dungarvin?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Houston, Texas, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000118541487-hr-director) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000119695889-hr-director) |
 
 ## About This Role
 
-This human resources / people ops position at Dungarvin was posted on 2026-04-03.
+This human resources / people ops position at Dungarvin was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

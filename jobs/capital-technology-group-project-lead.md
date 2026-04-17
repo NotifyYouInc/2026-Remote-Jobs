@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital Technology Group](https://scoutify.ai/companies/capitaltg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Scrum Master & Agile Coach |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/capitaltg/jobs/4363772007?gh_jid=4363772007) |
+| Category | Project Manager |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://boards.greenhouse.io/capitaltg/jobs/5104139007?gh_jid=5104139007) |
 
 ## About This Role
 
-This scrum master & agile coach position at Capital Technology Group was posted on 2026-02-20.
+This project manager position at Capital Technology Group was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

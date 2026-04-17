@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirmPilot](https://scoutify.ai/companies/firmpilot?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Miami, Florida, United States |
+| Location | United States |
 | Category | Account Executive |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/firmpilotailawfirmmarketing/jobs/5158021008) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/firmpilotailawfirmmarketing/jobs/5182791008) |
 
 ## About This Role
 
-This account executive position at FirmPilot was posted on 2026-03-18.
+This account executive position at FirmPilot was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

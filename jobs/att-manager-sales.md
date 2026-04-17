@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Richardson, Texas, United States |
 | Category | Sales Leadership |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Atlanta-Georgia/Manager-Sales_R-103790-1) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Richardson-Texas/Manager-Sales_R-101105) |
 
 ## About This Role
 
-This sales leadership position at AT&T was posted on 2026-04-06.
+This sales leadership position at AT&T was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

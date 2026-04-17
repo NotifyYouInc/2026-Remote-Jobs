@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXSan-Antonio3138-Se-Military-DrRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-105716-1) |
+| Location | Elko, Nevada, United States |
+| Category | Business Development |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Elko-Nevada/Bilingual-Spanish-Retail-Sales-Consultant_R-106688) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-04-03.
+This business development position at AT&T was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Sao-Paulo/Tax---Regulatory-Onboarding-Administrator_R-102072) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-Malaysia/Tax---Regulatory-Onboarding-Administrator_R-102071) |
 
 ## About This Role
 
-This compliance & risk management position at Rimini Street was posted on 2026-03-09.
+This compliance & risk management position at Rimini Street was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

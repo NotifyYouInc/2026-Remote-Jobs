@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 4 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Project Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Minneapolis-MN/Senior-Project-Manager_REQ490530) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Senior-Project-Manager_REQ498414) |
 
 ## About This Role
 
-This project manager position at JLL was posted on 2026-03-02.
+This project manager position at JLL was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

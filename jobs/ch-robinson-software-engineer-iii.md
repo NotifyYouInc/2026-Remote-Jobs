@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [C.H. Robinson](https://scoutify.ai/companies/chrobinson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Eden Prairie, Minnesota, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineer-III_R47183) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Minnesota-Remote/Software-Engineer-III_R47747) |
 
 ## About This Role
 
-This software engineer position at C.H. Robinson was posted on 2026-02-17.
+This software engineer position at C.H. Robinson was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
