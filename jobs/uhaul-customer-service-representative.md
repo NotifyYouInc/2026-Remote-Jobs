@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Albuquerque, New Mexico, United States |
+| Location | McKinney, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Albuquerque-New-Mexico/Customer-Service-Representative_R242094) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Mckinney-Texas/Customer-Service-Representative_R242187) |
 
 ## About This Role
 
-This customer success position at Uhaul was posted on 2026-04-09.
+This customer success position at Uhaul was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

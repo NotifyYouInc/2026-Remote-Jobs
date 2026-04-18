@@ -5,12 +5,12 @@
 | Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/87803aa9-7118-4558-8ee6-45ec6b8b6c7d) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/7e650cf6-8f7c-4b57-95b7-5921d717bae9) |
 
 ## About This Role
 
-This account executive position at Metriport was posted on 2026-03-05.
+This account executive position at Metriport was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

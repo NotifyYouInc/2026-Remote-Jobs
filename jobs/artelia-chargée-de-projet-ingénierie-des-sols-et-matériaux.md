@@ -5,12 +5,12 @@
 | Company | [Artelia](https://scoutify.ai/companies/artelia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Longueuil, Quebec, Canada |
 | Category | Project Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000112518854-chargee-de-projet-ingenierie-des-sols-et-materiaux) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000120029472-chargee-de-projet-ingenierie-des-sols-et-materiaux) |
 
 ## About This Role
 
-This project manager position at Artelia was posted on 2026-03-03.
+This project manager position at Artelia was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

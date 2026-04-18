@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Customer Success |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113813108-senior-customer-success-manager-moveworks) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000120065939-senior-customer-success-manager-moveworks) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-03-10.
+This customer success position at ServiceNow was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

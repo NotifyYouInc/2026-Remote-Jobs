@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wisconsin, US |
+| Location | Denver, Colorado, United States |
 | Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09527---Wisconsin-Remote/Director--Revenue-Operations--ROPS-_R0442771) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Director--Revenue-Operations--ROPS-_R0438245) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-02-06.
+This operations position at DaVita was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

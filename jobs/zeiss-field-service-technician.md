@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, US |
-| Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-CA/Field-Service-Technician_JR_1048270-1) |
+| Location | Cornelius, North Carolina, United States |
+| Category | Marketing |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-MI/Field-Service-Technician_JR_1048429-2) |
 
 ## About This Role
 
-This customer success position at Zeiss was posted on 2026-03-26.
+This marketing position at Zeiss was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

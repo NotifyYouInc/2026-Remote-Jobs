@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harsco](https://scoutify.ai/companies/harsco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kansas City, Missouri, United States |
-| Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000107553509-customer-experience-account-manager) |
+| Location | King of Prussia, Pennsylvania, United States |
+| Category | Account Manager |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000120056037-customer-experience-account-manager) |
 
 ## About This Role
 
-This customer success position at Harsco was posted on 2026-02-05.
+This account manager position at Harsco was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000119712007-sr-director-product-lead) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000120069207-sr-director-product-lead) |
 
 ## About This Role
 
-This product manager position at Visa International Service Association was posted on 2026-04-09.
+This product manager position at Visa International Service Association was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Dallas, Texas, United States |
 | Category | Growth Marketing |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990012048156-director-credit-based-marketing) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990012561166-director-credit-based-marketing) |
 
 ## About This Role
 
-This growth marketing position at Achieve was posted on 2026-03-09.
+This growth marketing position at Achieve was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
