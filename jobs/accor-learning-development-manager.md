@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mysuru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000118053637-learning-development-manager) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000120196297-learning-development-manager) |
 
 ## About This Role
 
-This engineering manager position at ACCOR was posted on 2026-04-01.
+This engineering manager position at ACCOR was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

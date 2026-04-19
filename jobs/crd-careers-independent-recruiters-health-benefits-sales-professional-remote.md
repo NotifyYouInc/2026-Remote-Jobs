@@ -1,12 +1,12 @@
-# HEALTH & BENEFITS SALES PROFESSIONAL | Hybrid | NYC Chicago Boston LA ATL  at CRD Careers (Independent Recruiters)
+# HEALTH & BENEFITS SALES PROFESSIONAL | Remote  at CRD Careers (Independent Recruiters)
 
 | Field | Details |
 |-------|---------|
 | Company | [CRD Careers (Independent Recruiters)](https://scoutify.ai/companies/crdcareersindependentrecruiters?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York, US |
+| Location | Chicago, Illinois, United States |
 | Category | Account Executive |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CRDCareersIndependentRecruiters/744000120208637-health-benefits-sales-professional-hybrid-nyc-chicago-boston-la-atl) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CRDCareersIndependentRecruiters/744000120208967-health-benefits-sales-professional-remote) |
 
 ## About This Role
 
