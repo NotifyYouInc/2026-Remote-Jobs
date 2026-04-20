@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Lucknow, Uttar Pradesh, India |
+| Location | Delhi, Delhi, India |
 | Category | Channel / Partner Sales |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Lucknow-Regional-Office/Territory-Sales-Officer_R-1176542) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Delhi-Regional-Office/Territory-Sales-Officer_R-1179583) |
 
 ## About This Role
 
-This channel / partner sales position at Unilever was posted on 2026-03-17.
+This channel / partner sales position at Unilever was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

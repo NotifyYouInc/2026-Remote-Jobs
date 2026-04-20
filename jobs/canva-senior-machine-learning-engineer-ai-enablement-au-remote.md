@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 5 locations |
+| Location | Melbourne, Victoria, Australia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000974917-senior-machine-learning-engineer-ai-enablement-au-remote) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000991885-senior-machine-learning-engineer-ai-enablement-au-remote) |
 
 ## About This Role
 
-This machine learning engineer position at Canva was posted on 2026-04-02.
+This machine learning engineer position at Canva was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

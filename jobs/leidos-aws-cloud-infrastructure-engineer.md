@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
-| Category | Technical Writer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AWS-Cloud-Infrastructure-Engineer_R-00179683) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AWS-Cloud-Infrastructure-Engineer_R-00179575) |
 
 ## About This Role
 
-This technical writer position at Leidos was posted on 2026-03-31.
+This devops engineer position at Leidos was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

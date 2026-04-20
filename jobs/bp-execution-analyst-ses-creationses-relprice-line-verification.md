@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Execution-Analyst--SES-Creation-SES-Rel-Price-Line-Verification_RQ107039) |
+| Category | Business Analyst |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Execution-Analyst--SES-Creation-SES-Rel-Price-Line-Verification_RQ107042) |
 
 ## About This Role
 
-This corporate finance position at BP was posted on 2026-02-23.
+This business analyst position at BP was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

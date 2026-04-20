@@ -5,12 +5,12 @@
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Work-From-Home--PH/Home-Based-Bookkeeper_JR103916) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Bookkeeper_JR104067) |
 
 ## About This Role
 
-This corporate finance position at Delegate CX was posted on 2026-03-06.
+This corporate finance position at Delegate CX was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

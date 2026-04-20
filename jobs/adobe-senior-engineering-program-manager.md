@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Jose, California, United States |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Program Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Engineering-Program-Manager_R166852) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Engineering-Program-Manager_R167464) |
 
 ## About This Role
 
-This program manager position at Adobe was posted on 2026-03-26.
+This program manager position at Adobe was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
