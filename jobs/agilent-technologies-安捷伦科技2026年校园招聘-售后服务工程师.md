@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agilent Technologies](https://scoutify.ai/companies/agilent-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Qingdao, Shandong, China |
+| Location | Chengdu, Sichuan, China |
 | Category | Customer Success |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/China-Remote-Location-Qingdao/2026---_4035714) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/China-Remote-Location-Chengdu/2026---_4037638) |
 
 ## About This Role
 
-This customer success position at Agilent Technologies was posted on 2026-03-17.
+This customer success position at Agilent Technologies was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

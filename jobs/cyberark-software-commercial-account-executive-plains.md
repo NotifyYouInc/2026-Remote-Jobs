@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Sales |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109293121-commercial-account-executive-plains) |
+| Location | Minneapolis, Minnesota, United States |
+| Category | Account Executive |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000120533087-commercial-account-executive-plains) |
 
 ## About This Role
 
-This sales position at CyberArk Software was posted on 2026-02-13.
+This account executive position at CyberArk Software was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

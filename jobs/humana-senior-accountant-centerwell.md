@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Louisville, Kentucky, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Accountant---CenterWell_R-404702-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Accountant---CenterWell_R-412925) |
 
 ## About This Role
 
-This corporate finance position at Humana was posted on 2026-02-17.
+This corporate finance position at Humana was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Sales Leadership |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7597734) |
+| Location | Chicago, Illinois, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7788968) |
 
 ## About This Role
 
-This sales leadership position at MongoDB was posted on 2026-04-02.
+This technical & solutions architect position at MongoDB was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Social Media / Community |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011956806-social-media-coordinator) |
+| Location | Tempe, Arizona, United States |
+| Category | Content Marketing |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990012582386-social-media-coordinator) |
 
 ## About This Role
 
-This social media / community position at Achieve was posted on 2026-03-04.
+This content marketing position at Achieve was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

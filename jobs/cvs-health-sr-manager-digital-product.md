@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Minnesota, US |
+| Location | Connecticut, US |
 | Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Minnesota/Sr-Manager-Digital-Product_R0862923) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Connecticut/Sr-Manager-Digital-Product_R0873222-1) |
 
 ## About This Role
 
-This product manager position at CVS Health was posted on 2026-04-03.
+This product manager position at CVS Health was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

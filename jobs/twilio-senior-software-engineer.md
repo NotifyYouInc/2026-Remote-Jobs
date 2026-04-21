@@ -5,12 +5,12 @@
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7602720) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7789427) |
 
 ## About This Role
 
-This software engineer position at Twilio was posted on 2026-02-13.
+This software engineer position at Twilio was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

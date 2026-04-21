@@ -5,12 +5,12 @@
 | Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Gold-Coast/Client-Services-Officer_JR100601) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Gold-Coast/Client-Services-Officer_JR100683) |
 
 ## About This Role
 
-This customer success position at Hub24management was posted on 2026-03-11.
+This customer success position at Hub24management was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

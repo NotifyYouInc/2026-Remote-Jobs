@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agilent Technologies](https://scoutify.ai/companies/agilent-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tianjin, Tianjin, China |
-| Category | Account Executive |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/China-Remote-Location-Tianjin/2026---_4035735) |
+| Location | Beijing, Beijing, China |
+| Category | Sales Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/China-Remote-Location-Beijing/2026---_4037690-1) |
 
 ## About This Role
 
-This account executive position at Agilent Technologies was posted on 2026-03-17.
+This sales engineer position at Agilent Technologies was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

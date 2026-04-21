@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Karnataka, IN |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Engineer---Zero-Trust_WD30263080) |
+| Category | Security Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Engineer---Zero-Trust_WD30265738-1) |
 
 ## About This Role
 
-This soc & incident response position at Johnson Controls was posted on 2026-03-24.
+This security engineer position at Johnson Controls was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QAD](https://scoutify.ai/companies/qad?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Salt Lake City, Utah, United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000118508828-bilingual-operational-excellence-manager) |
+| Category | Customer Success |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000120544067-bilingual-operational-excellence-manager) |
 
 ## About This Role
 
-This strategy / management consulting position at QAD was posted on 2026-04-02.
+This customer success position at QAD was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Georgia, US |
 | Category | Customer Success |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Kansas-Central-Timezone/Technical-Customer-Care-Specialist-I--Vin-Solutions-_R202673932) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Kansas-Central-Timezone/Technical-Customer-Care-Specialist-I--Vin-Solutions-_R202675788) |
 
 ## About This Role
 
-This customer success position at Cox was posted on 2026-03-02.
+This customer success position at Cox was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

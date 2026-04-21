@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Torrance, California, United States |
+| Location | New York, US |
 | Category | Account Executive |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000118873657-account-executive) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000120521102-account-executive) |
 
 ## About This Role
 
-This account executive position at Xplor Technologies was posted on 2026-04-06.
+This account executive position at Xplor Technologies was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
