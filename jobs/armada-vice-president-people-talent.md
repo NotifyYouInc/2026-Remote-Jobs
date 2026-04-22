@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armada](https://scoutify.ai/companies/armada?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/armada/jobs/5167071008) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/armada/jobs/5188951008) |
 
 ## About This Role
 
-This human resources / people ops position at Armada was posted on 2026-03-27.
+This human resources / people ops position at Armada was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

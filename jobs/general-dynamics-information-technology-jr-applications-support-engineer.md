@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Jr-Applications-Support-Engineer_RQ214380-2) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Jr-Applications-Support-Engineer_RQ218397-2) |
 
 ## About This Role
 
-This customer success position at General Dynamics Information Technology was posted on 2026-02-19.
+This customer success position at General Dynamics Information Technology was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

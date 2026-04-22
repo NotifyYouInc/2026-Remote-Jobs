@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Karnataka, IN |
+| Location | New York, US |
 | Category | Business Development |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Business-Development-Representative_R166297) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Business-Development-Representative_R167718) |
 
 ## About This Role
 
-This business development position at Adobe was posted on 2026-03-17.
+This business development position at Adobe was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

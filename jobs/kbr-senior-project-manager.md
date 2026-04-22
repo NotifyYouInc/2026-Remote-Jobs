@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Adelaide, South Australia, Australia |
 | Category | Project Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sydney-New-South-Wales-Australia/Senior-Project-Manager_R2120008) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Adelaide-South-Australia-Australia/Senior-Project-Manager_R2121932-1) |
 
 ## About This Role
 
-This project manager position at KBR was posted on 2026-03-06.
+This project manager position at KBR was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

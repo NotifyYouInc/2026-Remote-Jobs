@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-California-United-States-of-America/Presales--Systems-Engineer_1198593) |
+| Location | Colorado, US |
+| Category | Sales Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Colorado-United-States-of-America/Presales--Systems-Engineer_1198586) |
 
 ## About This Role
 
-This account executive position at Hewlett Packard Enterprise was posted on 2026-02-25.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

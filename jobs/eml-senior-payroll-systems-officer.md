@@ -5,12 +5,12 @@
 | Company | [EML](https://scoutify.ai/companies/eml?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Accounting |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Sydney-New-South-Wales/Senior-Payroll-Systems-Officer_JR5480) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Sydney-New-South-Wales/Senior-Payroll-Systems-Officer_JR5482) |
 
 ## About This Role
 
-This accounting position at EML was posted on 2026-04-13.
+This accounting position at EML was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

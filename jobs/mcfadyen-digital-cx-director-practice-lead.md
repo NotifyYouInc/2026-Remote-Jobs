@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McFadyen Digital](https://scoutify.ai/companies/mcfadyendigital?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Vienna, Virginia, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/McFadyenDigital/744000120519807-cx-director-practice-lead) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/McFadyenDigital/744000120780817-cx-director-practice-lead) |
 
 ## About This Role
 
-This strategy / management consulting position at McFadyen Digital was posted on 2026-04-13.
+This strategy / management consulting position at McFadyen Digital was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

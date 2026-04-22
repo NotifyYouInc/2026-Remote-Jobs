@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | McKinney, Texas, United States |
+| Location | Montgomery, Alabama, United States |
 | Category | Customer Success |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Mckinney-Texas/Customer-Service-Representative_R242187) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Montgomery-Alabama/Customer-Service-Representative_R242485) |
 
 ## About This Role
 
-This customer success position at Uhaul was posted on 2026-04-11.
+This customer success position at Uhaul was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

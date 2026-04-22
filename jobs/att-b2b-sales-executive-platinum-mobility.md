@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Ramon-California/B2B-Sales-Executive---Platinum-Mobility_R-105120-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Ramon-California/B2B-Sales-Executive---Platinum-Mobility_R-106646) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-25.
+This account executive position at AT&T was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Trade-Compliance-Engineer-and-Analyst_R241567) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Trade-Compliance-Engineer-and-Analyst_R242517-1) |
 
 ## About This Role
 
-This compliance & risk management position at Arrow Electronics was posted on 2026-02-25.
+This compliance & risk management position at Arrow Electronics was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

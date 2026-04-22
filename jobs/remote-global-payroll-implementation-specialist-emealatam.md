@@ -5,12 +5,12 @@
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Customer Success |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7664353003) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7701292003) |
 
 ## About This Role
 
-This customer success position at Remote was posted on 2026-03-18.
+This customer success position at Remote was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

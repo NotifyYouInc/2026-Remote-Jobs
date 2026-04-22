@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Principal--Software-Engineer_R-2400321-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Hoboken-NJ/XMLNAME--USA--Principal--Software-Engineer_R-2431047) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-10.
+This software engineer position at Walmart was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

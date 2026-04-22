@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Engr-III-Cslt-Ntwk-Engring_R-1092071) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Engr-III-Cslt-Ntwk-Engring_R-1093330) |
 
 ## About This Role
 
-This software engineer position at Verizon was posted on 2026-03-13.
+This devops engineer position at Verizon was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000117040007-digital-sales-representative) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000120802408-digital-sales-representative) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-03-26.
+This account executive position at Intuitive Surgical was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

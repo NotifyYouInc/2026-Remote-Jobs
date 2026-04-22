@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kunming, Yunnan, China |
-| Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Kunming--Yunnan-Province/Sr-Associate-III--Surgical-Field-Sales_R-2026-45490-1) |
+| Category | Sales Leadership |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Kunming--Yunnan-Province/Sr-Associate-III--Surgical-Field-Sales_R-2026-46313) |
 
 ## About This Role
 
-This account executive position at Alcon was posted on 2026-03-13.
+This sales leadership position at Alcon was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/ACA-Risk-Adjustment-EDGE-Administrator---Cigna-Healthcare---Remote_26003488) |
+| Location | Bloomfield, New Jersey, United States |
+| Category | Data Analyst |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/ACA-Risk-Adjustment-EDGE-Administrator---Cigna-Healthcare---Remote_26003463) |
 
 ## About This Role
 
-This devops engineer position at Cigna was posted on 2026-03-26.
+This data analyst position at Cigna was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

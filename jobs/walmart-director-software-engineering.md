@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-221-River-St-NJ-HOBOKEN-Home-Office/Director--Software-Engineering_R-2466728) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Director--Software-Engineering_R-2405713) |
 
 ## About This Role
 
-This engineering manager position at Walmart was posted on 2026-04-06.
+This engineering manager position at Walmart was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
