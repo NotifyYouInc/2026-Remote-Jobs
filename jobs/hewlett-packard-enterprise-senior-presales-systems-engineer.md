@@ -1,16 +1,16 @@
-# Senior Presales Systems Engineer at Hewlett Packard Enterprise
+# Senior, Presales Systems Engineer at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
-| Category | Account Executive |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Florida-United-States-of-America/Senior-Presales-Systems-Engineer_1203890) |
+| Location | Delaware, US |
+| Category | Sales Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Delaware-United-States-of-America/Presales-Systems-Engineer_1201410) |
 
 ## About This Role
 
-This account executive position at Hewlett Packard Enterprise was posted on 2026-04-01.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

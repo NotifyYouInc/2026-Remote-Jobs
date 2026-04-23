@@ -1,0 +1,22 @@
+# Senior Enterprise Sales Leader-B2B at Clearwateranalytics
+
+| Field | Details |
+|-------|---------|
+| Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | 2 locations |
+| Category | Sales Leadership |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---San-Jose/Senior-Enterprise-Sales-Leader-B2B_PR11377) |
+
+## About This Role
+
+This sales leadership position at Clearwateranalytics was posted on 2026-04-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

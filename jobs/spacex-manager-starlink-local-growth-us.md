@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | Redmond, Washington, United States |
 | Category | Growth Marketing |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8484070002?gh_jid=8484070002) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8509445002?gh_jid=8509445002) |
 
 ## About This Role
 
-This growth marketing position at SpaceX was posted on 2026-03-28.
+This growth marketing position at SpaceX was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

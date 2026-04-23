@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ontario, CA |
+| Location | United States |
 | Category | Project Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Canada-Ontario-Remote/Global-Study-Manager-II---FSP_R0000040718) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/United-States---Remote/Global-Study-Manager-II---FSP_R0000040720-1) |
 
 ## About This Role
 
-This project manager position at Parexel was posted on 2026-04-14.
+This project manager position at Parexel was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sitemate](https://scoutify.ai/companies/sitemate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Sydney, New South Wales, Australia |
 | Category | Account Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/d9e10f80-03f9-4509-af75-d52187bca5cb) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/1390ceb8-f336-4bcf-b94e-16715c3e4693) |
 
 ## About This Role
 
-This account manager position at Sitemate was posted on 2026-03-25.
+This account manager position at Sitemate was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

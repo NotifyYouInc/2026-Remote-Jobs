@@ -1,16 +1,16 @@
-# Implementation Manager I - Voluntary Benefits at The Standard
+# Implementation Manager I (Voluntary Benefits) at The Standard
 
 | Field | Details |
 |-------|---------|
 | Company | [The Standard](https://scoutify.ai/companies/standard?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Portland, Oregon, United States |
 | Category | Customer Success |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://standard.wd1.myworkdayjobs.com/Search/job/Portland-OR/Implementation-Manager-I---Voluntary-Benefits_REQ006444) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://standard.wd1.myworkdayjobs.com/Search/job/Portland-OR/Implementation-Manager-I--Voluntary-Benefits-_REQ006462) |
 
 ## About This Role
 
-This customer success position at The Standard was posted on 2026-04-03.
+This customer success position at The Standard was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

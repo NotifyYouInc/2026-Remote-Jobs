@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Operations |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000994098-operations-business-partner-12-months-ftc) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001002748-operations-business-partner-12-months-ftc) |
 
 ## About This Role
 
-This operations position at Canva was posted on 2026-04-13.
+This operations position at Canva was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | Customer Success |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Virginia-United-States-of-America/Sr-Customer-Success-Manager--Herndon--VA-or-DMV-Area_1204646) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Virginia-United-States-of-America/Sr-Customer-Success-Manager--Herndon--VA-or-DMV-Area_1204651) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-04-15.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

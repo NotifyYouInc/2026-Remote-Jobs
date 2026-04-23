@@ -5,12 +5,12 @@
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Carlsbad, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000112330688-senior-commercial-analyst) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000121095337-senior-commercial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Nearmap was posted on 2026-03-03.
+This corporate finance position at Nearmap was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

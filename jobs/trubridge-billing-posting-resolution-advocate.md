@@ -5,12 +5,12 @@
 | Company | [TruBridge](https://scoutify.ai/companies/trubridge?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://cpsi.wd1.myworkdayjobs.com/cpsi/job/Remote---US/Billing---Posting-Resolution-Advocate_JR102361) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://cpsi.wd1.myworkdayjobs.com/cpsi/job/Remote---US/Billing---Posting-Resolution-Advocate_JR102369) |
 
 ## About This Role
 
-This customer success position at TruBridge was posted on 2026-04-09.
+This customer success position at TruBridge was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

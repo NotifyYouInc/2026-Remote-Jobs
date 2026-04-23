@@ -5,12 +5,12 @@
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Carlsbad, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000116492858-solution-product-manager-government) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000121095808-solution-product-manager-government) |
 
 ## About This Role
 
-This product manager position at Nearmap was posted on 2026-03-24.
+This product manager position at Nearmap was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

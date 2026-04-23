@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Illinois, US |
+| Location | New Mexico, US |
 | Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Sales-Executive_R-10378762) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Oregon/Sales-Executive_R-10382812) |
 
 ## About This Role
 
-This account executive position at Fiserv was posted on 2026-04-03.
+This account executive position at Fiserv was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

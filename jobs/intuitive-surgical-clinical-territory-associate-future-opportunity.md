@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Jersey, US |
-| Category | Account Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000115579573-clinical-territory-associate-future-opportunity) |
+| Location | Fort Myers, Florida, United States |
+| Category | Business Development |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000121059777-clinical-territory-associate-future-opportunity) |
 
 ## About This Role
 
-This account manager position at Intuitive Surgical was posted on 2026-03-19.
+This business development position at Intuitive Surgical was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

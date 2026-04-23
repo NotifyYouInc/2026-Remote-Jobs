@@ -5,12 +5,12 @@
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Carlsbad, California, United States |
 | Category | Customer Success |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000118510507-digital-customer-success-manager-csm) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000121095257-digital-customer-success-manager-csm) |
 
 ## About This Role
 
-This customer success position at Nearmap was posted on 2026-04-03.
+This customer success position at Nearmap was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

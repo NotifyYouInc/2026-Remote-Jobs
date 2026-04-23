@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Fresno, California, United States |
-| Category | Customer Success |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fresno-California-United-States-of-America/Senior-Affera-Mapping-Specialist---CAS_R62060-1) |
+| Location | San Francisco, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Senior-Affera-Mapping-Specialist---CAS_R55845-1) |
 
 ## About This Role
 
-This customer success position at Medtronic was posted on 2026-03-16.
+This sales engineer position at Medtronic was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

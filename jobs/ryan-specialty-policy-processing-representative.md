@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Richmond, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Remote---United-States/Policy-Processing-Representative_JR26-4313) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Richmond---Virginia/Policy-Processing-Representative_JR26-4314-1) |
 
 ## About This Role
 
-This business analyst position at Ryan Specialty was posted on 2026-04-10.
+This business analyst position at Ryan Specialty was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

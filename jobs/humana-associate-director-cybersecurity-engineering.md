@@ -1,16 +1,16 @@
-# Associate Director, Cybersecurity Engineering at Humana
+# Associate Director, CyberSecurity Engineering at Humana
 
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Associate-Director--Cybersecurity-Engineering_R-405265) |
+| Location | 9 locations |
+| Category | Security Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Associate-Director--CyberSecurity-Engineering_R-410415) |
 
 ## About This Role
 
-This cybersecurity engineer position at Humana was posted on 2026-02-10.
+This security engineer position at Humana was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

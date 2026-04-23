@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Ward Law Group PL](https://scoutify.ai/companies/thewardlawgrouppl?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Managua, Managua Department, Nicaragua |
+| Location | Mexico |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWardLawGroupPL/744000119711049-legal-recruiter-virtual-assistant) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWardLawGroupPL/744000121055677-legal-recruiter-virtual-assistant) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at The Ward Law Group PL was posted on 2026-04-09.
+This talent acquisition / recruiting position at The Ward Law Group PL was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

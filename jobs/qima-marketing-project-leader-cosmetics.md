@@ -5,12 +5,12 @@
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Content Marketing |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000119009576-marketing-project-leader-cosmetics) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000121094967-marketing-project-leader-cosmetics) |
 
 ## About This Role
 
-This content marketing position at QIMA was posted on 2026-04-07.
+This content marketing position at QIMA was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

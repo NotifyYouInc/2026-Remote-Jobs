@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tennessee, US |
+| Location | 3 locations |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/REMOTE--Tennessee/Medical-Sales-Representative-Cath-Lab-IR_R2605983) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/REMOTE--Colorado/Sales-Rep-Namic_R2607483) |
 
 ## About This Role
 
-This account executive position at Medline was posted on 2026-03-26.
+This account executive position at Medline was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

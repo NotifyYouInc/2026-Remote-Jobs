@@ -1,16 +1,16 @@
-# Sr Commercial Account Executive at ServiceNow
+# Sr Commercial Account Executive  at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107799905-sr-commercial-account-executive) |
+| Location | Minneapolis, Minnesota, United States |
+| Category | Account Executive |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000121050797-sr-commercial-account-executive) |
 
 ## About This Role
 
-This business development position at ServiceNow was posted on 2026-02-06.
+This account executive position at ServiceNow was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
