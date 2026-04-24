@@ -6,7 +6,7 @@
 | Location | Santa Clara, California, United States |
 | Category | AI / ML Research |
 | Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000121079012-servicenow-aiaccelerate-bootcamp) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000121305347-servicenow-aiaccelerate-bootcamp) |
 
 ## About This Role
 

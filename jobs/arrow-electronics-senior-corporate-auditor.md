@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Compliance & Risk Management |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Senior-Corporate-Auditor_R239114) |
+| Category | Corporate Finance |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Senior-Corporate-Auditor_R243565) |
 
 ## About This Role
 
-This compliance & risk management position at Arrow Electronics was posted on 2026-02-20.
+This corporate finance position at Arrow Electronics was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

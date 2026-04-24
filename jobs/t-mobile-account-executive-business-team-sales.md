@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York, US |
+| Location | Missouri, US |
 | Category | Account Executive |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Account-Executive--Business-Team-Sales_REQ348522) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Missouri/Account-Executive--Business-Team-Sales_REQ352200-1) |
 
 ## About This Role
 
-This account executive position at T-Mobile was posted on 2026-03-18.
+This account executive position at T-Mobile was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

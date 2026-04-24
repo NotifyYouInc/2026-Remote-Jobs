@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Human Resources / People Ops |
 | Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/xero/5b6961ec-8ab5-4b7b-bc74-5b72dfe86de8) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/xero/cf67eb09-0622-45c7-847d-d73489067009) |
 
 ## About This Role
 

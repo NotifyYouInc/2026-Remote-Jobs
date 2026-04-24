@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico |
-| Category | Channel / Partner Sales |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7659834) |
+| Location | United Kingdom |
+| Category | Business Development |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7811450) |
 
 ## About This Role
 
-This channel / partner sales position at Twilio was posted on 2026-02-27.
+This business development position at Twilio was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

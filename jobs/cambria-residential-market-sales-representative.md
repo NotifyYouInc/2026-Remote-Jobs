@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cambria](https://scoutify.ai/companies/cambria?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wisconsin, US |
+| Location | Columbus, Ohio, United States |
 | Category | Account Executive |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Remote-Wisconsin/Residential-Market-Sales-Representative_R-102973) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Columbus-OH/Residential-Market-Sales-Representative_R-103030) |
 
 ## About This Role
 
-This account executive position at Cambria was posted on 2026-03-12.
+This account executive position at Cambria was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

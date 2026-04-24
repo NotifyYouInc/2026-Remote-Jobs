@@ -5,12 +5,12 @@
 | Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ukraine |
 | Category | Growth Marketing |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/7e24906a-f8ce-4ef3-bf30-9c4b64ff912b) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/12b98a07-8d44-418a-bb77-5831f7d885c1) |
 
 ## About This Role
 
-This growth marketing position at Ruby Labs was posted on 2026-03-26.
+This growth marketing position at Ruby Labs was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

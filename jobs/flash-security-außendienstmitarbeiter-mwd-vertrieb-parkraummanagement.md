@@ -5,12 +5,12 @@
 | Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Account Executive |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000115806877-auendienstmitarbeiter-mwd-vertrieb-parkraummanagement) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000121348137-auendienstmitarbeiter-mwd-vertrieb-parkraummanagement) |
 
 ## About This Role
 
-This account executive position at flash-security was posted on 2026-03-20.
+This account executive position at flash-security was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

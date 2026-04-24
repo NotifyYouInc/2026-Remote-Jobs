@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Legal |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CA---San-Diego/Senior-Litigation-Attorney_R-49411) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CA---San-Diego/Senior-Litigation-Attorney_R-50181) |
 
 ## About This Role
 
-This legal position at Travelers was posted on 2026-02-26.
+This legal position at Travelers was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

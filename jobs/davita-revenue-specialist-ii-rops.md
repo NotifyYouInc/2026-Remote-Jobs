@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Gilbert, Arizona, United States |
+| Location | Denver, Colorado, United States |
 | Category | Operations |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01789---Arizona-Remote/Revenue-Specialist-II--ROPS-_R0453415) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Revenue-Specialist-II--ROPS-_R0451993) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-04-10.
+This operations position at DaVita was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

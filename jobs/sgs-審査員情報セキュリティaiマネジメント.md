@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Yokohama, Kanagawa, Japan |
-| Category | Compliance & Risk Management |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000118542237-ai) |
+| Location | Japan |
+| Category | Security Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000121340549-ai) |
 
 ## About This Role
 
-This compliance & risk management position at SGS was posted on 2026-04-03.
+This security engineer position at SGS was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

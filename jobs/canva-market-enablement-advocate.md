@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Learning & Development |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000990570-market-enablement-advocate) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001004717-market-enablement-advocate) |
 
 ## About This Role
 
-This learning & development position at Canva was posted on 2026-04-13.
+This learning & development position at Canva was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

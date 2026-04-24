@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Technical-Product-Manager_R0056288) |
+| Category | Technical Product Manager |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Technical-Product-Manager_R0058060) |
 
 ## About This Role
 
-This product manager position at Empower was posted on 2026-02-06.
+This technical product manager position at Empower was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

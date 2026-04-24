@@ -1,16 +1,16 @@
-# Client Director, Team Lead, GTS at Gartner
+# Client Director Team Lead, GTS at Gartner
 
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York, US |
 | Category | Sales Leadership |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---New-York/Client-Director--Team-Lead--GTS_104334) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---New-York/Client-Director-Team-Lead--GTS_109848) |
 
 ## About This Role
 
-This sales leadership position at Gartner was posted on 2026-04-15.
+This sales leadership position at Gartner was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

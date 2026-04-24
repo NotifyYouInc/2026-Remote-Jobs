@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Sales Leadership |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Richardson-Texas/Manager-Sales_R-101105) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Charlotte-North-Carolina/Manager-Sales_R-106996) |
 
 ## About This Role
 
-This sales leadership position at AT&T was posted on 2026-04-09.
+This sales leadership position at AT&T was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Colorado, US |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000120551387-director-product-strategy-innovation-portfolio-expansion) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000121297187-director-product-strategy-innovation-portfolio-expansion) |
 
 ## About This Role
 
-This asset management / portfolio management position at Experian was posted on 2026-04-13.
+This asset management / portfolio management position at Experian was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

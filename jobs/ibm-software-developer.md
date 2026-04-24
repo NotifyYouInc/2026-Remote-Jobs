@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Jose, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102550) |
+| Location | Herndon, Virginia, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110557) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-03-16.
+This software engineer position at IBM was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

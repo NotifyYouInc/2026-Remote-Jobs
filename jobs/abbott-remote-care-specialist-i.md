@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Alajuela, Alajuela Province, Costa Rica |
 | Category | Customer Success |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Costa-Rica---Alajuela/Remote-Care-Specialist-I_31137238) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Costa-Rica---Alajuela/Remote-Care-Specialist-I_31142295) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-04-10.
+This customer success position at Abbott was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

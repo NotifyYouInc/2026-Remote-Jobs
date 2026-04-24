@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arkansas, US |
+| Location | Nebraska, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/PFS-Representative-CBO-Billing-Follow-up-Denials-Mgt_R4433459) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/PFS-Representative-CBO-Billing-Follow-up-Denials-Mgt_R4439545) |
 
 ## About This Role
 
-This corporate finance position at Banner Health was posted on 2026-03-06.
+This corporate finance position at Banner Health was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

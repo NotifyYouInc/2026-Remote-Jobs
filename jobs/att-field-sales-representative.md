@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgia, US |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Morrow-Georgia/Field-Sales-Representative_R-106904) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAKYLouisville--Armory-Pl---Adm534-Armory-Pl/Field-Sales-Representative_R-107242) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-04-13.
+This account executive position at AT&T was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
