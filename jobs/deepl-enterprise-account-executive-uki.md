@@ -5,12 +5,12 @@
 | Company | [DeepL](https://scoutify.ai/companies/deepl?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/deepl/b1dc9616-cf5b-4edc-9d08-2a15dbf6fb65) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deepl/49c1f91a-f8ff-4b00-b19f-b40bbbdd05a6) |
 
 ## About This Role
 
-This account executive position at DeepL was posted on 2026-03-26.
+This account executive position at DeepL was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

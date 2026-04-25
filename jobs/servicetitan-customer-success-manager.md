@@ -5,12 +5,12 @@
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Customer-Success-Manager_JR114185) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Customer-Success-Manager_JR114218) |
 
 ## About This Role
 
-This customer success position at ServiceTitan was posted on 2026-03-30.
+This customer success position at ServiceTitan was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

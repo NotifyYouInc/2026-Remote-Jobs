@@ -1,16 +1,16 @@
-# Audit Manager - Member Value,  Marketing, Communications at USAA
+# Audit Manager - Member Value, Marketing, Communications at USAA
 
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 5 locations |
+| Location | 3 locations |
 | Category | Accounting |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Audit-Manager---Member-Value---Marketing--Communications_R0116777) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Audit-Manager---Member-Value--Marketing--Communications_R0117126) |
 
 ## About This Role
 
-This accounting position at USAA was posted on 2026-04-15.
+This accounting position at USAA was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

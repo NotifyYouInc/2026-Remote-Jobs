@@ -1,16 +1,16 @@
-# Flex Account Executive, SMB- Mountain West at Toast
+# Flex Account Executive, SMB - Mountain West at Toast
 
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Seattle, Washington, United States |
 | Category | Account Executive |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7672583) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7826691) |
 
 ## About This Role
 
-This account executive position at Toast was posted on 2026-03-06.
+This account executive position at Toast was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

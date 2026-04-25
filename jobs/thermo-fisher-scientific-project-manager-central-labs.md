@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kentucky, US |
 | Category | Project Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Kentucky-USA/Project-Manager--Central-Labs_R-01343883) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Kentucky-USA/Project-Manager--Central-Labs_R-01350209) |
 
 ## About This Role
 
-This project manager position at Thermo Fisher Scientific was posted on 2026-03-06.
+This project manager position at Thermo Fisher Scientific was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harsco](https://scoutify.ai/companies/harsco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | King of Prussia, Pennsylvania, United States |
-| Category | Program Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000112275277-environmental-program-manager) |
+| Category | ESG / Sustainability |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000121509797-environmental-program-manager) |
 
 ## About This Role
 
-This program manager position at Harsco was posted on 2026-03-02.
+This esg / sustainability position at Harsco was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

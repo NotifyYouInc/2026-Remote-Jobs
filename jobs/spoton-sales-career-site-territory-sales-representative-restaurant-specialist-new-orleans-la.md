@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpotOn: Sales (Career Site)](https://scoutify.ai/companies/spoton-sales-career-site?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | New Orleans, Louisiana, United States |
 | Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/f3d8706b-fdd0-44cc-acda-8ac73f73c410) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/b5fbd2e0-489e-4311-9383-8c2df497cd57) |
 
 ## About This Role
 
-This account executive position at SpotOn: Sales (Career Site) was posted on 2026-03-30.
+This account executive position at SpotOn: Sales (Career Site) was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

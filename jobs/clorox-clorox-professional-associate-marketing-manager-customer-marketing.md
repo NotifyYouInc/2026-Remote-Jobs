@@ -5,12 +5,12 @@
 | Company | [Clorox](https://scoutify.ai/companies/clorox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pleasanton, California, United States |
 | Category | Growth Marketing |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Pleasanton-CA---USA/Clorox-Professional-Associate-Marketing-Manager--Customer-Marketing_21274) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Pleasanton-CA---USA/Clorox-Professional-Associate-Marketing-Manager--Customer-Marketing_21756) |
 
 ## About This Role
 
-This growth marketing position at Clorox was posted on 2026-03-12.
+This growth marketing position at Clorox was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

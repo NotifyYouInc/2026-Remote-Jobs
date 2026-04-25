@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Sales Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York-City-Metro---Remote/Director--Solution-Engineering_JR332940) |
+| Location | Chicago, Illinois, United States |
+| Category | Sales Leadership |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---Remote/Director--Solution-Engineering_JR338820) |
 
 ## About This Role
 
-This sales engineer position at Salesforce was posted on 2026-03-16.
+This sales leadership position at Salesforce was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

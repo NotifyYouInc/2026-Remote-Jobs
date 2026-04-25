@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-TX/Recruiter-I_R165327) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-IN/Recruiter-I_R169721-1) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Ryder System was posted on 2026-03-02.
+This talent acquisition / recruiting position at Ryder System was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

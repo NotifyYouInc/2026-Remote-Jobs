@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Legal |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Senior-Corporate-Counsel--US-Vaccines_R2846998) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Senior-Corporate-Counsel--US-Vaccines_R2853836) |
 
 ## About This Role
 
-This legal position at Sanofi was posted on 2026-03-10.
+This legal position at Sanofi was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

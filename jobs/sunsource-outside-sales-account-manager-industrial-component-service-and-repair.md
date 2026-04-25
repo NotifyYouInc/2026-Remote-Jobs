@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SunSource](https://scoutify.ai/companies/sunsource?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Las Vegas, Nevada, United States |
 | Category | Account Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.lever.co/sunsrce/18c73b69-ef1a-4057-b1f2-203a692b0b33) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.lever.co/sunsrce/ad88dd5f-1ac9-4083-8c3d-fb81dfc8fd91) |
 
 ## About This Role
 
-This account manager position at SunSource was posted on 2026-04-10.
+This account manager position at SunSource was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

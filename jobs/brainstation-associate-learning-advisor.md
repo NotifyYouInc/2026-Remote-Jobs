@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BrainStation](https://scoutify.ai/companies/brainstation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York, US |
-| Category | Business Development |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7689732003) |
+| Location | London, England, United Kingdom |
+| Category | Learning & Development |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7704797003) |
 
 ## About This Role
 
-This business development position at BrainStation was posted on 2026-04-04.
+This learning & development position at BrainStation was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

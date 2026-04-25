@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FICO](https://scoutify.ai/companies/fico?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Germany |
+| Location | United Kingdom |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-Germany/Platform-Sales--New-Business-Executive_31467) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-United-Kingdom/Platform-Sales--New-Business-Executive_31834-1) |
 
 ## About This Role
 
-This account executive position at FICO was posted on 2026-03-26.
+This account executive position at FICO was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 9 locations |
+| Location | 5 locations |
 | Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Tustin-California/Bilingual-Vietnamese-Field-Sales-Representative_R-105898) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAORPortland--Sw-Greenburg-Rd10260-Sw-Greenburg-Rd/Bilingual-Vietnamese-Field-Sales-Representative_R-107374) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-04-03.
+This account executive position at AT&T was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

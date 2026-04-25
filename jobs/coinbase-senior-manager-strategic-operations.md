@@ -5,12 +5,12 @@
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Operations |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7708267?gh_jid=7708267) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/7826757?gh_jid=7826757) |
 
 ## About This Role
 
-This operations position at Coinbase was posted on 2026-03-12.
+This operations position at Coinbase was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Fort Myers, Florida, United States |
-| Category | Business Development |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000121059777-clinical-territory-associate-future-opportunity) |
+| Location | Nashville, Tennessee, United States |
+| Category | Sales Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000121520957-clinical-territory-associate-future-opportunity) |
 
 ## About This Role
 
-This business development position at Intuitive Surgical was posted on 2026-04-15.
+This sales engineer position at Intuitive Surgical was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

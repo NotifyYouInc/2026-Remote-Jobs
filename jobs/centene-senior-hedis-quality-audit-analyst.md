@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Senior-HEDIS-Quality---Audit-Analyst_1633736) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-TX/Senior-HEDIS-Quality---Audit-Analyst_1637429) |
 
 ## About This Role
 
-This compliance & risk management position at Centene was posted on 2026-03-06.
+This compliance & risk management position at Centene was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
