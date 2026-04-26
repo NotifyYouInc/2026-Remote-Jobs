@@ -1,16 +1,16 @@
-# Staff Engineer, Java Backbase at Nagarro
+# Back-End Software Engineer (Scala) at Consumer Edge
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
+| Company | [Consumer Edge](https://scoutify.ai/companies/consumer-edge?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Ireland |
 | Category | Software Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574297-staff-engineer-java-backbase) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/consumeredge/jobs/5974044004) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-18.
+This software engineer position at Consumer Edge was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

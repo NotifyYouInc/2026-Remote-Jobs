@@ -1,16 +1,16 @@
-# Staff Engineer, Java Backbase at Nagarro
+# Principal Engineer, Python Devops at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574297-staff-engineer-java-backbase) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574287-principal-engineer-python-devops) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-18.
+This devops engineer position at Nagarro was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

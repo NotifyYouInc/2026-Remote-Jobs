@@ -1,16 +1,16 @@
-# Staff Engineer, Java Backbase at Nagarro
+# Senior Product Designer at Sparrow
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Software Engineer |
+| Company | [Sparrow](https://scoutify.ai/companies/sparrow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Product Designer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574297-staff-engineer-java-backbase) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sparrow/jobs/5973661004) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-18.
+This product designer position at Sparrow was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Engineer, Java Backbase at Nagarro
+# Sales Development Representative at Orum
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Software Engineer |
+| Company | [Orum](https://scoutify.ai/companies/orum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Business Development |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574297-staff-engineer-java-backbase) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/orum/c07fd286-39a7-4f0f-b969-f61a51a5ff1a) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-18.
+This business development position at Orum was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

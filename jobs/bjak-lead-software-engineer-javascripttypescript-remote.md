@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Indonesia |
 | Category | Software Engineer |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/1ea9dbac-9584-4ab1-adab-fc004215e0d6) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/51fa71da-453e-43fc-9f9a-38d519fcf4d3) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-02-08.
+This software engineer position at Bjak was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

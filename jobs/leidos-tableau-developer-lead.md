@@ -1,16 +1,16 @@
-# Staff Engineer, Java Backbase at Nagarro
+# Tableau Developer Lead at Leidos
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Software Engineer |
+| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Data Analyst |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574297-staff-engineer-java-backbase) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Tableau-Developer-Lead_R-00179100-1) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-18.
+This data analyst position at Leidos was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

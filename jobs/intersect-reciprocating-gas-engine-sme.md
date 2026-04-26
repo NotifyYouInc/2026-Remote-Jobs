@@ -1,16 +1,16 @@
-# Staff Engineer, Java Backbase at Nagarro
+# Reciprocating Gas Engine SME at Intersect
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Software Engineer |
+| Company | [Intersect](https://scoutify.ai/companies/intersect?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Engineering Manager |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574297-staff-engineer-java-backbase) |
+| Apply | [View on company site](https://jobs.lever.co/intersect/2943bd58-4c59-439b-89ad-0ecfc2aea554) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-18.
+This engineering manager position at Intersect was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

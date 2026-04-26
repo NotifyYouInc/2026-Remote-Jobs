@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pleasant Hill, California, United States |
+| Location | Goleta, California, United States |
 | Category | Business Development |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACAPleasant-Hill2390-Monument-BlvdRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-107285-1) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACAGoleta7060-Marketplace-DrRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-107284-1) |
 
 ## About This Role
 

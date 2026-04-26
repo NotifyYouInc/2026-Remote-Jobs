@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Indiana, US |
 | Category | Customer Success |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Philadelphia-Pennsylvania-United-States-of-America/Mapping-Specialist---CAS_R64658-1) |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Indiana-United-States-of-America/Mapping-Specialist---CAS_R64671-1) |
 
 ## About This Role
 

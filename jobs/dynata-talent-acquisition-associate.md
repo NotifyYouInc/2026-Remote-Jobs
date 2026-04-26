@@ -5,12 +5,12 @@
 | Company | [Dynata](https://scoutify.ai/companies/dynata?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Philippines-Cebu/Talent-Acquisition-Associate_REQ12849) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Philippines-Cebu/Talent-Acquisition-Associate_REQ12850) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Dynata was posted on 2026-02-19.
+This talent acquisition / recruiting position at Dynata was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

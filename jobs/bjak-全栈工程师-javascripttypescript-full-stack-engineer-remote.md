@@ -1,16 +1,16 @@
-# Staff Engineer, Java Backbase at Nagarro
+# 全栈工程师, JavaScript/TypeScript (Full Stack Engineer) (Remote) at Bjak
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
+| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | China |
 | Category | Software Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574297-staff-engineer-java-backbase) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/ab5dcf3a-e72d-447c-a8c1-e4eb46c91551) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-18.
+This software engineer position at Bjak was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

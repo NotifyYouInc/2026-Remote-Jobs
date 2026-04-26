@@ -1,16 +1,16 @@
-# Staff Engineer, Java Backbase at Nagarro
+# Sr Business Systems Analyst at Veralto
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Veralto](https://scoutify.ai/companies/veralto?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
-| Category | Software Engineer |
+| Category | Business Analyst |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574297-staff-engineer-java-backbase) |
+| Apply | [View on company site](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/IND---Remote/Sr-Business-Systems-Analyst_R10265630) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-18.
+This business analyst position at Veralto was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

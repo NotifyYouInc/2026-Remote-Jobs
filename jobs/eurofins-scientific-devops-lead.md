@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000108569025-devops-lead) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000121584507-devops-lead) |
 
 ## About This Role
 
-This devops engineer position at Eurofins Scientific was posted on 2026-02-10.
+This devops engineer position at Eurofins Scientific was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

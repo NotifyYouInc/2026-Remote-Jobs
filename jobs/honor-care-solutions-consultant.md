@@ -1,16 +1,16 @@
-# Staff Engineer, Java Backbase at Nagarro
+# Care Solutions Consultant at Honor
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Software Engineer |
+| Company | [Honor](https://scoutify.ai/companies/honor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Account Executive |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574297-staff-engineer-java-backbase) |
+| Apply | [View on company site](https://boards.greenhouse.io/honor/jobs/8466439002?gh_jid=8466439002) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-18.
+This account executive position at Honor was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

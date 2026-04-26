@@ -1,16 +1,16 @@
-# Staff Engineer, Java Backbase at Nagarro
+# Renewal and Expansion Specialist (LATAM, Remote) at Whippy
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Software Engineer |
+| Company | [Whippy](https://scoutify.ai/companies/whippy?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Not specified |
+| Category | Account Manager |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574297-staff-engineer-java-backbase) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/whippy/eafce365-61f6-471f-8c0a-296b23c94762) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-18.
+This account manager position at Whippy was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

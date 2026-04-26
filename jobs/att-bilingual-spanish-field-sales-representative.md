@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 8 locations |
+| Location | 5 locations |
 | Category | Account Executive |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAWARenton--S-Grady-Way-Suite-600707-S-Grady-Way-Suite-600/Bilingual-Spanish-Field-Sales-Representative_R-107368) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAORPortland--Sw-Greenburg-Rd10260-Sw-Greenburg-Rd/Bilingual-Spanish-Field-Sales-Representative_R-107377) |
 
 ## About This Role
 

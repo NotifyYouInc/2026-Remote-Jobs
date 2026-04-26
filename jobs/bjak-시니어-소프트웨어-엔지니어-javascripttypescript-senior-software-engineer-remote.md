@@ -1,16 +1,16 @@
-# Staff Engineer, Java Backbase at Nagarro
+# 시니어 소프트웨어 엔지니어, JavaScript/TypeScript (Senior Software Engineer) (Remote) at Bjak
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
+| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Software Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574297-staff-engineer-java-backbase) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/cd754eac-7b49-412e-9a3a-2d1bad69fa37) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-18.
+This software engineer position at Bjak was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

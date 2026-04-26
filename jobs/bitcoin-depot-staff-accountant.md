@@ -1,16 +1,16 @@
-# Staff Engineer, Java Backbase at Nagarro
+# Staff Accountant  at Bitcoin Depot
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Software Engineer |
+| Company | [Bitcoin Depot](https://scoutify.ai/companies/bitcoin-depot?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Corporate Finance |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574297-staff-engineer-java-backbase) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bitcoindepot/jobs/7705564003) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-18.
+This corporate finance position at Bitcoin Depot was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 
