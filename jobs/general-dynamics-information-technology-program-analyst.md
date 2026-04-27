@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chesapeake, Virginia, United States |
-| Category | Program Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chesapeake/Program-Analyst_RQ217787-1) |
+| Location | Arlington, Texas, United States |
+| Category | Business Analyst |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Program-Analyst_RQ218601-1) |
 
 ## About This Role
 
-This program manager position at General Dynamics Information Technology was posted on 2026-04-06.
+This business analyst position at General Dynamics Information Technology was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

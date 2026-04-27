@@ -6,7 +6,7 @@
 | Location | New York, US |
 | Category | Data Engineer |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000121522027-senior-data-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000121522137-senior-data-engineer) |
 
 ## About This Role
 

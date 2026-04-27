@@ -1,16 +1,16 @@
-# Project Manager at ABB
+# Project manager at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | Brno, South Moravian, Czechia |
 | Category | Project Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Arizona-United-States-of-America/Project-Manager_JR00027882) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Project-manager_JR00025297) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-03-23.
+This project manager position at ABB was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

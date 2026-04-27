@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112839077-director-engineering) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121679916-director-engineering) |
 
 ## About This Role
 
-This engineering manager position at NielsenIQ was posted on 2026-03-05.
+This engineering manager position at NielsenIQ was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brentwood, New York, United States |
+| Location | Sacramento, California, United States |
 | Category | Business Development |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACABrentwood2465-Sandcreek-RdRETRET/Retail-Sales-Consultant_R-107287-1) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACASacramento2244-Fair-Oaks-BlvdRETRET/Retail-Sales-Consultant_R-107073-1) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-04-17.
+This business development position at AT&T was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

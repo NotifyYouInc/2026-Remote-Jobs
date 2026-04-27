@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012049336-professional-medical-representative) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012671226-professional-medical-representative) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-10.
+This account executive position at AbbVie was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Bentonville-Global-Tech-AR-BENTONVILLE-Home-Office/Data-Engineer-III_R-2419556) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Data Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/Data-Engineer-III_R-2450659-1) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-04-03.
+This data engineer position at Walmart was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | Dallas, Texas, United States |
 | Category | Account Executive |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Washington-United-States-of-America/Cybersecurity-Sales-Specialist_1203624-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Dallas-Texas-United-States-of-America/Cybersecurity-Sales-Specialist_1203707) |
 
 ## About This Role
 
-This account executive position at Hewlett Packard Enterprise was posted on 2026-03-18.
+This account executive position at Hewlett Packard Enterprise was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Richmond, Victoria, Australia |
 | Category | Growth Marketing |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000120560436-senior-marketing-manager-retail-go-to-market) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000121643466-senior-marketing-manager-retail-go-to-market) |
 
 ## About This Role
 
-This growth marketing position at Endeavour Group Careers was posted on 2026-04-14.
+This growth marketing position at Endeavour Group Careers was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 
