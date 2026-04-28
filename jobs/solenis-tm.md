@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | China |
-| Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/China-Remote/TM_R0027514) |
+| Category | Account Manager |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/China-Remote/TM_R0029233) |
 
 ## About This Role
 
-This account executive position at Solenis was posted on 2026-03-02.
+This account manager position at Solenis was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

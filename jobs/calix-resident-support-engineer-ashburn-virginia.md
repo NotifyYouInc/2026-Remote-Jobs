@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Calix](https://scoutify.ai/companies/calix?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Ashburn, Virginia, United States |
 | Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://calix.wd1.myworkdayjobs.com/External/job/Remote---USA/Resident-Support-Engineer---Ashburn--Virginia_R-11451) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://calix.wd1.myworkdayjobs.com/External/job/Remote---USA/Resident-Support-Engineer---Ashburn--Virginia_R-11639) |
 
 ## About This Role
 
-This customer success position at Calix was posted on 2026-02-09.
+This customer success position at Calix was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

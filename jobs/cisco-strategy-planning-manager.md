@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ann Arbor, Michigan, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Operations |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Strategy---Planning-Manager_2009643) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Strategy---Planning-Manager_2012191-1) |
 
 ## About This Role
 
-This operations position at Cisco was posted on 2026-02-23.
+This operations position at Cisco was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

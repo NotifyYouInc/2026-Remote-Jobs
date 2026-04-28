@@ -5,12 +5,12 @@
 | Company | [Anglo American](https://scoutify.ai/companies/angloamerican?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Legal |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000120859654-company-secretary-specialist) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000121930694-company-secretary-specialist) |
 
 ## About This Role
 
-This legal position at Anglo American was posted on 2026-04-15.
+This legal position at Anglo American was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

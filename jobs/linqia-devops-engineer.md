@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Linqia](https://scoutify.ai/companies/linqia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Database Administration |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://boards.greenhouse.io/linqia/jobs/8486080002?gh_jid=8486080002) |
+| Location | 5 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/linqia/jobs/8515913002?gh_jid=8515913002) |
 
 ## About This Role
 
-This database administration position at Linqia was posted on 2026-03-30.
+This devops engineer position at Linqia was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

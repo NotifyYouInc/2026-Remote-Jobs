@@ -1,16 +1,16 @@
-# Cloud Infrastructure Engineer  at alchemy
+# Cloud Infrastructure Engineer at alchemy
 
 | Field | Details |
 |-------|---------|
 | Company | [alchemy](https://scoutify.ai/companies/alchemy-alchemy?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/alchemy/42c849ce-8a9b-4015-92fb-b8dfad5c5d0d) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alchemy/66e65a72-785c-4fa8-9833-4c1661146a68) |
 
 ## About This Role
 
-This devops engineer position at alchemy was posted on 2026-04-14.
+This devops engineer position at alchemy was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

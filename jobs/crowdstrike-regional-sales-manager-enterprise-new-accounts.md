@@ -5,12 +5,12 @@
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Sales Leadership |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Mumbai/Regional-Sales-Manager--Enterprise--New-Accounts-_R28401) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Mumbai/Regional-Sales-Manager--Enterprise--New-Accounts-_R28516) |
 
 ## About This Role
 
-This sales leadership position at CrowdStrike was posted on 2026-04-09.
+This sales leadership position at CrowdStrike was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

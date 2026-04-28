@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Alexandria, Alexandria, Egypt |
+| Location | Okinawa, Okinawa, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Alexandria/Assistant-Director-of-Finance_REQ10372844-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Okinawa/Assistant-Director-of-Finance_REQ10378071) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-02-26.
+This corporate finance position at Four Seasons Hotels was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Up Education](https://scoutify.ai/companies/up-education?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Learning & Development |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/upeducation/6000000001004555-training-delivery-manager) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/upeducation/6000000001014748-training-delivery-manager) |
 
 ## About This Role
 
-This learning & development position at Up Education was posted on 2026-04-17.
+This learning & development position at Up Education was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

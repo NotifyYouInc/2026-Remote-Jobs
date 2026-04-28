@@ -5,12 +5,12 @@
 | Company | [EverCommerce](https://scoutify.ai/companies/evercommerce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-US/EverHealth---Mid-Market-Customer-Success-Manager--Remote--US-_R-105950) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-US/EverHealth---Mid-Market-Customer-Success-Manager--Remote--US-_R-106162) |
 
 ## About This Role
 
-This customer success position at EverCommerce was posted on 2026-02-06.
+This customer success position at EverCommerce was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

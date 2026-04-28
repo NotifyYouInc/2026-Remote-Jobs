@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Remote/Regional-Vice-President--New-Client-Development_R-102266) |
+| Location | United States |
+| Category | Corporate Finance |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Remote/Regional-Vice-President--New-Client-Development_R-102332) |
 
 ## About This Role
 
-This account executive position at Wealth Enhancement Group was posted on 2026-03-05.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Enterprise-technology-engineer_RQ098245) |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Enterprise-technology-engineer_RQ100166) |
 
 ## About This Role
 
-This devops engineer position at BP was posted on 2026-02-26.
+This it & systems administration position at BP was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

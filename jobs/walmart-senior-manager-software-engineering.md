@@ -1,16 +1,16 @@
-# SENIOR MANAGER, SOFTWARE ENGINEERING at Walmart
+# Senior Manager, Software Engineering at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/SENIOR-MANAGER--SOFTWARE-ENGINEERING_R-2463386) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Senior-Manager--Software-Engineering_R-2440459) |
 
 ## About This Role
 
-This engineering manager position at Walmart was posted on 2026-04-03.
+This engineering manager position at Walmart was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

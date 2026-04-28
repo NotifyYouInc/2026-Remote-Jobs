@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [K2 Space](https://scoutify.ai/companies/k2-space?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Engineering Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5164655008) |
+| Location | United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5194716008) |
 
 ## About This Role
 
-This engineering manager position at K2 Space was posted on 2026-03-24.
+This embedded / firmware engineer position at K2 Space was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

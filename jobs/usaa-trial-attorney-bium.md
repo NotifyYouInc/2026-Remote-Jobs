@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Irvine, California, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Legal |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Irvine-CA---Staff-Counsel/Trial-Attorney--BI-UM-_R0115872) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Staff-Counsel/Trial-Attorney--BI-UM-_R0116874) |
 
 ## About This Role
 
-This legal position at USAA was posted on 2026-03-04.
+This legal position at USAA was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

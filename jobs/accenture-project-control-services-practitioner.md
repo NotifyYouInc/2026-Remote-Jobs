@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Project Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Project-Control-Services-Practitioner_ATCI-5510668-S2014155-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Project-Control-Services-Practitioner_ATCI-5516428-S2016788-1) |
 
 ## About This Role
 
-This project manager position at Accenture was posted on 2026-04-15.
+This project manager position at Accenture was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
