@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sacramento, California, United States |
-| Category | Account Executive |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACASacramento2244-Fair-Oaks-BlvdRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-107072-1) |
+| Location | Newark, New Jersey, United States |
+| Category | Business Development |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USANJNewark160-Market-StRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-107600-1) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-04-18.
+This business development position at AT&T was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

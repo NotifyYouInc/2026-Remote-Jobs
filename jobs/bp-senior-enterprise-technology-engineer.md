@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Senior-enterprise-technology-engineer_RQ108231-1) |
+| Category | Software Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Senior-enterprise-technology-engineer_RQ106455) |
 
 ## About This Role
 
-This engineering manager position at BP was posted on 2026-04-16.
+This software engineer position at BP was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

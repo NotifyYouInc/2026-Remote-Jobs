@@ -1,16 +1,16 @@
-# Senior Software Engineer  at Walmart
+# SENIOR, SOFTWARE ENGINEER at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bentonville, Arkansas, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Hula-Building-Bentonville-AR-Home-Office/Senior-Software-Engineer-_R-2470897-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Mobile Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/SENIOR--SOFTWARE-ENGINEER_R-2444488-1) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-04-17.
+This mobile engineer position at Walmart was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

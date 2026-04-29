@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000112521786-territory-sales-manager-particle-characterization) |
+| Location | Richmond, Virginia, United States |
+| Category | Account Manager |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000122121386-territory-sales-manager-particle-characterization) |
 
 ## About This Role
 
-This account executive position at Anton Paar was posted on 2026-03-03.
+This account manager position at Anton Paar was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

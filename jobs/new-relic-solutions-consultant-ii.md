@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [New Relic](https://scoutify.ai/companies/new-relic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | 9 locations |
 | Category | Implementation / Professional Services |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5126716008) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5195950008) |
 
 ## About This Role
 
-This implementation / professional services position at New Relic was posted on 2026-02-26.
+This implementation / professional services position at New Relic was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

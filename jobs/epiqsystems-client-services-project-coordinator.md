@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | Beaverton, Oregon, United States |
 | Category | Project Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Detroit-MI/Client-Services-Project-Coordinator_R0033647) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-Beaverton-OR-10300-SW-Allen/Client-Services-Project-Coordinator_R0033910-1) |
 
 ## About This Role
 
-This project manager position at Epiqsystems was posted on 2026-03-10.
+This project manager position at Epiqsystems was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

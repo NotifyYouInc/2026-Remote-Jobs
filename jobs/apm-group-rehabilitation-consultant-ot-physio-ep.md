@@ -5,12 +5,12 @@
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Parramatta, New South Wales, Australia |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000000997636-rehabilitation-consultant-ot-physio-ep) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001016801-rehabilitation-consultant-ot-physio-ep) |
 
 ## About This Role
 
-This human resources / people ops position at APM Group was posted on 2026-04-14.
+This human resources / people ops position at APM Group was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

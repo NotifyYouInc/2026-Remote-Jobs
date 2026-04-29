@@ -5,12 +5,12 @@
 | Company | [Trace3](https://scoutify.ai/companies/trace3?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Irvine, California, United States |
 | Category | Project Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/trace3/jobs/7762104) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/trace3/jobs/7838541) |
 
 ## About This Role
 
-This project manager position at Trace3 was posted on 2026-03-27.
+This project manager position at Trace3 was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

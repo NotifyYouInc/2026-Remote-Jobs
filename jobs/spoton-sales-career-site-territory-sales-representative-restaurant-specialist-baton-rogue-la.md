@@ -5,12 +5,12 @@
 | Company | [SpotOn: Sales (Career Site)](https://scoutify.ai/companies/spoton-sales-career-site?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Baton Rouge, Louisiana, United States |
 | Category | Account Executive |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/12f96bc2-a12c-44a4-83ee-4736ba9cd810) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/ec165a6d-9949-4f36-a1dd-e6acefe5b1b3) |
 
 ## About This Role
 
-This account executive position at SpotOn: Sales (Career Site) was posted on 2026-04-06.
+This account executive position at SpotOn: Sales (Career Site) was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

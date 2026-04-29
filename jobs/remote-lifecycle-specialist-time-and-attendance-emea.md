@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | Germany |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7709277003) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7710496003) |
 
 ## About This Role
 
-This human resources / people ops position at Remote was posted on 2026-04-21.
+This human resources / people ops position at Remote was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playson](https://scoutify.ai/companies/playson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | Brazil |
 | Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/playson/719f6f8f-3f52-4a81-8d8d-9392c270775c) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/playson/76584f59-1f9d-4ca3-92e6-0c4fb36df912) |
 
 ## About This Role
 
-This customer success position at Playson was posted on 2026-02-13.
+This customer success position at Playson was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

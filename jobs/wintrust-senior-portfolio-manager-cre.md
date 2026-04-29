@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Lake Forest, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Denver-CO/Senior-Portfolio-Manager---CRE_26206) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Lake-Forest-IL/Portfolio-Manager-II--CRE_26799) |
 
 ## About This Role
 
-This corporate finance position at Wintrust was posted on 2026-02-12.
+This corporate finance position at Wintrust was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

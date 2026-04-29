@@ -1,16 +1,16 @@
-# Sales Manager-1 Territory at AT&T
+# Sales Manager 1-Territory at AT&T
 
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Austin, Texas, United States |
 | Category | Sales Leadership |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Indianapolis-Indiana/Sales-Manager-1-Territory_R-106032) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Austin-Texas/Sales-Manager-1-Territory_R-107520) |
 
 ## About This Role
 
-This sales leadership position at AT&T was posted on 2026-04-06.
+This sales leadership position at AT&T was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

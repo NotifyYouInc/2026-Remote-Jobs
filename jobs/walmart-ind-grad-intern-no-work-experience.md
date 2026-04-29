@@ -1,16 +1,16 @@
-# IND) Grad Intern - No Work Experience at Walmart
+# (IND) Grad Intern - No Work Experience at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Karnataka, IN |
-| Category | UX Researcher |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/IND--Grad-Intern---No-Work-Experience_R-2458903) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2485484) |
 
 ## About This Role
 
-This ux researcher position at Walmart was posted on 2026-04-03.
+This software engineer position at Walmart was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

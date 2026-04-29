@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Wellington, Wellington Region, New Zealand |
 | Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/xero/8033a56a-a84b-4e0a-b648-c391b6657f76) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/xero/7efca542-e8e0-471d-a97d-e609db29cb54) |
 
 ## About This Role
 
-This customer success position at Xero was posted on 2026-04-13.
+This customer success position at Xero was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

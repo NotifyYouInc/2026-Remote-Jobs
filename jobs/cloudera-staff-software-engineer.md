@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Texas, US |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/USA--Texas--Austin/Staff-Software-Engineer_251458) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-Texas-Remote/Staff-Software-Engineer_260560-1) |
 
 ## About This Role
 
-This software engineer position at Cloudera was posted on 2026-04-17.
+This software engineer position at Cloudera was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

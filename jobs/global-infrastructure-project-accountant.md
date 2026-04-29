@@ -5,12 +5,12 @@
 | Company | [Global Infrastructure](https://scoutify.ai/companies/gi?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--TX--Dallas---2218-Bryan-Street/Project-Accountant_5092) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NM--Albuquerque---5700-Harper-Drive-Northeast/Project-Accountant_5475) |
 
 ## About This Role
 
-This corporate finance position at Global Infrastructure was posted on 2026-02-18.
+This corporate finance position at Global Infrastructure was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
