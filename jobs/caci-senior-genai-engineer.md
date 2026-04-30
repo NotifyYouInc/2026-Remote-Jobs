@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Senior-GenAI-Engineer_323890) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Senior-GenAI-Engineer_325234) |
 
 ## About This Role
 
-This ai / llm engineer position at CACI was posted on 2026-03-26.
+This ai / llm engineer position at CACI was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

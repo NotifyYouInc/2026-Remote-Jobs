@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tennessee, US |
+| Location | South Carolina, US |
 | Category | Account Executive |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Franklin-Tennessee/Account-Executive--Government_REQ347968-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-South-Carolina/Account-Executive--Government_REQ352856-1) |
 
 ## About This Role
 
-This account executive position at T-Mobile was posted on 2026-03-06.
+This account executive position at T-Mobile was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Newark, New Jersey, United States |
+| Location | Murray, Utah, United States |
 | Category | Business Development |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USANJNewark160-Market-StRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-107600-1) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Murray-Utah/Bilingual-Spanish-Retail-Sales-Consultant_R-107889) |
 
 ## About This Role
 

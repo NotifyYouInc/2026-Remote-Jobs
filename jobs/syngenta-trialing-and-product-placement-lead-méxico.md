@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico |
-| Category | Project Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000117986496-trialing-and-product-placement-lead-mexico) |
+| Location | Culiacán, Sinaloa, Mexico |
+| Category | Product Manager |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000122344619-trialing-and-product-placement-lead-mexico) |
 
 ## About This Role
 
-This project manager position at Syngenta was posted on 2026-03-31.
+This product manager position at Syngenta was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

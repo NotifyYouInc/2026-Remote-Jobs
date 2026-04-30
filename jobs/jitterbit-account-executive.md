@@ -1,16 +1,16 @@
-#  Account Executive  at Jitterbit
+# Account Executive  at Jitterbit
 
 | Field | Details |
 |-------|---------|
 | Company | [Jitterbit](https://scoutify.ai/companies/jitterbit?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Rotterdam, South Holland, The Netherlands |
+| Location | Boulder, Colorado, United States |
 | Category | Account Executive |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Jitterbit/744000121637767-account-executive) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Jitterbit/744000122368379-account-executive) |
 
 ## About This Role
 
-This account executive position at Jitterbit was posted on 2026-04-19.
+This account executive position at Jitterbit was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

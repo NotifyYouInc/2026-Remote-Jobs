@@ -5,12 +5,12 @@
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Sales-Assistant_JR104093) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Sales-Assistant_JR104115) |
 
 ## About This Role
 
-This customer success position at Delegate CX was posted on 2026-04-20.
+This customer success position at Delegate CX was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

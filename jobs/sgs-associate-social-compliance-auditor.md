@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000121060087-associate-social-compliance-auditor) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000122349452-associate-social-compliance-auditor) |
 
 ## About This Role
 
-This compliance & risk management position at SGS was posted on 2026-04-15.
+This compliance & risk management position at SGS was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

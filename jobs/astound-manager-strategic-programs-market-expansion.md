@@ -1,0 +1,22 @@
+# Manager, Strategic Programs - Market Expansion at Astound
+
+| Field | Details |
+|-------|---------|
+| Company | [Astound](https://scoutify.ai/companies/astound?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Growth Marketing |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://astound.wd108.myworkdayjobs.com/astound_careers/job/NJ--Remote/Manager--Strategic-Programs---Market-Expansion_JR-000399) |
+
+## About This Role
+
+This growth marketing position at Astound was posted on 2026-04-22.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

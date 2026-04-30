@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York, US |
-| Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000113032320-capture-management-director) |
+| Location | Atlanta, Georgia, United States |
+| Category | Sales Leadership |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000122353159-capture-management-director) |
 
 ## About This Role
 
-This account executive position at AECOM was posted on 2026-03-05.
+This sales leadership position at AECOM was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
