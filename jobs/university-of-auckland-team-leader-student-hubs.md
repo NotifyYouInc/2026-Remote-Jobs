@@ -5,12 +5,12 @@
 | Company | [University of Auckland](https://scoutify.ai/companies/university-of-auckland?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Leadership Development Program |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/theuniversityofauckland/744000121643744-team-leader-student-hubs) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/theuniversityofauckland/744000122554799-team-leader-student-hubs) |
 
 ## About This Role
 
-This leadership development program position at University of Auckland was posted on 2026-04-20.
+This leadership development program position at University of Auckland was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

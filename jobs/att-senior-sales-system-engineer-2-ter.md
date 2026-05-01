@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Account Executive |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Senior-Sales-System-Engineer-2-Ter_R-104485) |
+| Location | Kentucky, US |
+| Category | Sales Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Ghent-Kentucky/Senior-Sales-System-Engineer-2-Ter_R-108011) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-19.
+This sales engineer position at AT&T was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

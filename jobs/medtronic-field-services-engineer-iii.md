@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Connecticut, US |
+| Location | Nevada, US |
 | Category | Marketing |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-New-Jersey-United-States-of-America/Field-Services-Rep-III_R54965-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Nevada-United-States-of-America/Field-Services-Engineer-III_R57276-1) |
 
 ## About This Role
 
-This marketing position at Medtronic was posted on 2026-04-10.
+This marketing position at Medtronic was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

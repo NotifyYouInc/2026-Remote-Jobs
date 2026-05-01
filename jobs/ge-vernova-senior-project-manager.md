@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Project Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Senior-Project-Manager_R5036541-3) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Sydney/Senior-Project-Manager_R5039360-2) |
 
 ## About This Role
 
-This project manager position at GE Vernova was posted on 2026-04-14.
+This project manager position at GE Vernova was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

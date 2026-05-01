@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | San Jose, California, United States |
 | Category | Program Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7630970740028590389/detail) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7630972772042279221/detail) |
 
 ## About This Role
 
-This program manager position at TikTok was posted on 2026-04-23.
+This program manager position at TikTok was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

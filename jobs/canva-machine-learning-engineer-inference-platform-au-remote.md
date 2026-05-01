@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000977981-machine-learning-engineer-inference-platform-au-remote) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001023299-machine-learning-engineer-inference-platform-au-remote) |
 
 ## About This Role
 
-This machine learning engineer position at Canva was posted on 2026-04-07.
+This machine learning engineer position at Canva was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

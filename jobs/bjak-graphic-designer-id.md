@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Indonesia |
 | Category | Marketing |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/d5af2537-1907-456d-9367-d570488eeee0) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/eaa56e34-b74d-4718-8e19-48f66354956c) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-04-17.
+This marketing position at Bjak was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

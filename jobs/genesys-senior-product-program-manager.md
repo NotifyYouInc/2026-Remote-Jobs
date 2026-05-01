@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | North Carolina, US |
+| Location | Indiana, Pennsylvania, United States |
 | Category | Program Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Indiana-USA/Senior-Product-Program-Manager_JR110054-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Indiana-USA/Senior-Product-Program-Manager_JR110821-1) |
 
 ## About This Role
 
-This program manager position at Genesys was posted on 2026-02-11.
+This program manager position at Genesys was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Zealand |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Account Executive |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-New-Zealand/Senior-Commercial-Account-Executive_R34718) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Tokyo-Japan/Senior-Commercial-Account-Executive_R34597-5) |
 
 ## About This Role
 
-This account executive position at Zendesk was posted on 2026-04-17.
+This account executive position at Zendesk was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

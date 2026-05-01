@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Castle Hill, New South Wales, Australia |
+| Location | Darwin, Northern Territory, Australia |
 | Category | Customer Success |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001017419-regional-support-coordinator) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001024367-regional-support-coordinator) |
 
 ## About This Role
 
-This customer success position at APM Group was posted on 2026-04-22.
+This customer success position at APM Group was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

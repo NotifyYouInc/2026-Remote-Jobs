@@ -5,12 +5,12 @@
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Minnesota, US |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/St-Louis-Park-MN-US/Talent-Acquisition-Specialist_R21464) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/St-Louis-Park-MN-US/Talent-Acquisition-Specialist_R21557) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at nVent was posted on 2026-04-22.
+This talent acquisition / recruiting position at nVent was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

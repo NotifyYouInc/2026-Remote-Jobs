@@ -5,12 +5,12 @@
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---USA/Associate-Consultant_R26_0000001378) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---USA/Associate-Consultant_R26_0000001516) |
 
 ## About This Role
 
-This strategy / management consulting position at Brown & Brown Insurance was posted on 2026-04-16.
+This strategy / management consulting position at Brown & Brown Insurance was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

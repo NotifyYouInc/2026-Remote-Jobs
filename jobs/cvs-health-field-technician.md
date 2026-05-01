@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Houston, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-North-Carolina/Field-Technician_R0870653) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Texas/Field-Technician_R0893632) |
 
 ## About This Role
 
-This customer success position at CVS Health was posted on 2026-03-31.
+This customer success position at CVS Health was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

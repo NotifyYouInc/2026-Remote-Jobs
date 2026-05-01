@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Houston, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Redlands-CA-Remote/Customer-Service-Representative---Insurance_JR202636108) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Houston-TX--Remote/Customer-Service-Representative---Insurance_JR202636158) |
 
 ## About This Role
 
-This customer success position at Auto Club Enterprises was posted on 2026-04-21.
+This customer success position at Auto Club Enterprises was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mural](https://scoutify.ai/companies/mural?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Argentina |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mural/fdfcf1d6-f5dc-45c4-bd38-6cf06b10e479) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mural/a88e5ba1-8a57-4096-ae84-294cc78d96d5) |
 
 ## About This Role
 
-This software engineer position at Mural was posted on 2026-02-04.
+This software engineer position at Mural was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
