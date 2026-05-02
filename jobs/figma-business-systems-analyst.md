@@ -1,16 +1,16 @@
-# Business Systems Analyst at Figma
+# Business Systems Analyst  at Figma
 
 | Field | Details |
 |-------|---------|
 | Company | [Figma](https://scoutify.ai/companies/figma?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://boards.greenhouse.io/figma/jobs/5971174004?gh_jid=5971174004) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://boards.greenhouse.io/figma/jobs/5980306004?gh_jid=5980306004) |
 
 ## About This Role
 
-This business analyst position at Figma was posted on 2026-04-16.
+This business analyst position at Figma was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | North Carolina, US |
+| Location | Princeton, Florida, United States |
 | Category | Account Executive |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Sales-Representative-II_R-01349455) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Princeton-New-Jersey-USA/Sales-Representative-II_R-01350551) |
 
 ## About This Role
 
-This account executive position at Thermo Fisher Scientific was posted on 2026-04-15.
+This account executive position at Thermo Fisher Scientific was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

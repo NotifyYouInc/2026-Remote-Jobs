@@ -1,16 +1,16 @@
-# Executive Sales Officer-Flagstar Financial & Leasing at Flagstar
+# Executive Sales Officer - Flagstar Financial & Leasing at Flagstar
 
 | Field | Details |
 |-------|---------|
 | Company | [Flagstar](https://scoutify.ai/companies/flagstar?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Maryland, US |
 | Category | Account Executive |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-PA/Executive-Sales-Officer-Flagstar-Financial---Leasing_19683) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-MD/Executive-Sales-Officer---Flagstar-Financial---Leasing_19744-1) |
 
 ## About This Role
 
-This account executive position at Flagstar was posted on 2026-04-17.
+This account executive position at Flagstar was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

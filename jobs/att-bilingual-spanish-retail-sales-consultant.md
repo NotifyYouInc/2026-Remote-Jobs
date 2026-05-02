@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Goodyear, Arizona, United States |
+| Location | Aurora, Colorado, United States |
 | Category | Business Development |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAAZGoodyear883-S-Cotton-LnRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-107263-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACOAurora14401-Bayaud-AveRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-103607-1) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-04-23.
+This business development position at AT&T was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

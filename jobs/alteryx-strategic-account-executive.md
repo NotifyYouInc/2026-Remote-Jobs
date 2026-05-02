@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alteryx](https://scoutify.ai/companies/alteryx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Illinois, US |
 | Category | Account Executive |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Massachusetts-USA---Remote/Strategic-Account-Executive_R12059) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Illinois-USA---Remote/Strategic-Account-Executive_R12081) |
 
 ## About This Role
 
-This account executive position at Alteryx was posted on 2026-04-13.
+This account executive position at Alteryx was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

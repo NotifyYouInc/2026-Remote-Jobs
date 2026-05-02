@@ -5,12 +5,12 @@
 | Company | [Jonas Software](https://scoutify.ai/companies/talentmanagementsolution?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Customer-Success-Manager_R49520) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Customer-Success-Manager_R51297) |
 
 ## About This Role
 
-This customer success position at Jonas Software was posted on 2026-02-06.
+This customer success position at Jonas Software was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

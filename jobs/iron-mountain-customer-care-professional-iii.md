@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iron Mountain](https://scoutify.ai/companies/ironmountain?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | Georgia, US |
 | Category | Customer Success |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--GA--Remote/Customer-Care-Professional-III_J0098438-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--GA--Remote/Customer-Care-Professional-III_J0101912) |
 
 ## About This Role
 
-This customer success position at Iron Mountain was posted on 2026-03-19.
+This customer success position at Iron Mountain was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

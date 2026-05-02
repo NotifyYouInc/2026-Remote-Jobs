@@ -5,12 +5,12 @@
 | Company | [Horace Mann - Agent Opportunities](https://scoutify.ai/companies/horace-mann-agent-opportunities?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Decatur, Illinois, United States |
 | Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/horacemannagents/jobs/5839666004) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/horacemannagents/jobs/5981797004) |
 
 ## About This Role
 
-This account executive position at Horace Mann - Agent Opportunities was posted on 2026-03-27.
+This account executive position at Horace Mann - Agent Opportunities was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

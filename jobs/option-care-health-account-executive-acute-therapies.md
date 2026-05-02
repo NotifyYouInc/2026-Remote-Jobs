@@ -1,16 +1,16 @@
-# Account Executive - Acute Therapies at Option Care Health
+# Account Executive / Acute Therapies at Option Care Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Option Care Health](https://scoutify.ai/companies/optioncare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Montgomery, Alabama, United States |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://optioncare.wd1.myworkdayjobs.com/optioncare/job/Montgomery-AL/Account-Executive---Acute-Therapies_R35015) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://optioncare.wd1.myworkdayjobs.com/optioncare/job/Salt-Lake-City-UT/Account-Executive---Acute-Therapies_R35159) |
 
 ## About This Role
 
-This account executive position at Option Care Health was posted on 2026-04-13.
+This account executive position at Option Care Health was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

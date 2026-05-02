@@ -1,16 +1,16 @@
-# Staff Technical Program Manager at Walmart
+# Staff, Technical Program Manager at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Program Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Redbird-AR-BENTONVILLE-Home-Office/Staff-Technical-Program-Manager_R-2470322-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Staff--Technical-Program-Manager_R-2476096-1) |
 
 ## About This Role
 
-This program manager position at Walmart was posted on 2026-04-17.
+This program manager position at Walmart was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 
