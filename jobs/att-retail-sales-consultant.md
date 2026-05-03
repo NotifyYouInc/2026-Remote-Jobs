@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Muncie, Indiana, United States |
 | Category | Business Development |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXAustin14009-N-Us-Hwy-183RETRET/Retail-Sales-Consultant_R-105171-1) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAINMuncie1414-W-Mcgalliard-RdRETRET/Retail-Sales-Consultant_R-108071-2) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-04-24.
+This business development position at AT&T was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

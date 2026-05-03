@@ -5,12 +5,12 @@
 | Company | [VSP Vision](https://scoutify.ai/companies/vsp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Senior-Manager--Project-Portfolio-Management_R-9186) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Senior-Manager--Project-Portfolio-Management_R-9404-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at VSP Vision was posted on 2026-02-27.
+This asset management / portfolio management position at VSP Vision was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 
