@@ -6,7 +6,7 @@
 | Location | United States |
 | Category | Business Analyst |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/testnisc/jobs/7619256) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/testnisc/jobs/7619257) |
 
 ## About This Role
 

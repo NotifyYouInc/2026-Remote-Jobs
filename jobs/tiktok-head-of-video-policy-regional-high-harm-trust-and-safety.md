@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Singapore, Singapore |
 | Category | Trust & Safety |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7631361791591385397/detail) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7632239648614549813/detail) |
 
 ## About This Role
 
-This trust & safety position at TikTok was posted on 2026-04-23.
+This trust & safety position at TikTok was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

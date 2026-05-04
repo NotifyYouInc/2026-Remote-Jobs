@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCC](https://scoutify.ai/companies/ncc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Solna, Stockholm, Sweden |
+| Location | Sweden |
 | Category | Operations |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCC/744000122681872-business-developer-green-industry-transformation) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCC/744000123122820-business-developer-green-industry-transformation) |
 
 ## About This Role
 
-This operations position at NCC was posted on 2026-04-24.
+This operations position at NCC was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Nashville-Tennessee/B2B-Sales-Account-Executive---Fiber_R-104981) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Pensacola-Florida/B2B-Sales-Account-Executive---Fiber_R-108157) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-04-03.
+This account executive position at AT&T was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

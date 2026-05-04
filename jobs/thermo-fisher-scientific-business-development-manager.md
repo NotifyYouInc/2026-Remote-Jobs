@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | China |
 | Category | Engineering Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/Business-Development-Manager_R-01344391-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/Business-Development-Manager_R-01351030) |
 
 ## About This Role
 
-This engineering manager position at Thermo Fisher Scientific was posted on 2026-03-03.
+This engineering manager position at Thermo Fisher Scientific was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brookfield, Wisconsin, United States |
+| Location | Gretna, Louisiana, United States |
 | Category | Account Executive |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Brookfield-Wisconsin/B2B-Sales-Account-Executive---Mobility_R-103875) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Gretna-Louisiana/B2B-Sales-Account-Executive---Mobility_R-107964) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-04-09.
+This account executive position at AT&T was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
