@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Augusta, Georgia, United States |
 | Category | Customer Success |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/dc0122b7-1912-4f9a-98cc-4b7a1834bfe5) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/06867339-4e38-4b70-864b-500b60c9bd8a) |
 
 ## About This Role
 
-This customer success position at Jerry.ai was posted on 2026-03-23.
+This customer success position at Jerry.ai was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

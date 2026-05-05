@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | Kentucky, US |
 | Category | Account Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Remote-Florida/Cataract-Account-Manager_R-2026-46466-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Remote-Kentucky/Cataract-Account-Manager_R-2026-46519-1) |
 
 ## About This Role
 
-This account manager position at Alcon was posted on 2026-04-27.
+This account manager position at Alcon was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

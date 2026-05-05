@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Lahore, Punjab, Pakistan |
-| Category | Account Executive |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000120308226-senior-executive-virtual-account-management) |
+| Category | Account Manager |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000123353649-senior-executive-virtual-account-management) |
 
 ## About This Role
 
-This account executive position at Delivery Hero was posted on 2026-04-13.
+This account manager position at Delivery Hero was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

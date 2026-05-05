@@ -5,12 +5,12 @@
 | Company | [IDEXX](https://scoutify.ai/companies/idexx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Customer Success |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Auckland-New-Zealand/Veterinary-Software-Trainer_J-051639) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Auckland-New-Zealand/Veterinary-Software-Trainer_J-052835) |
 
 ## About This Role
 
-This customer success position at IDEXX was posted on 2026-02-27.
+This customer success position at IDEXX was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

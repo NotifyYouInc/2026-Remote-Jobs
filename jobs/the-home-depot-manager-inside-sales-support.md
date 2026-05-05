@@ -1,16 +1,16 @@
-# MANAGER INSIDE SALES SUPPORT at The Home Depot
+# Manager Inside Sales Support at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/NEW-YORK---VIRTUAL---NY01/MANAGER-INSIDE-SALES-SUPPORT_Req166055) |
+| Location | Georgia, US |
+| Category | Sales Leadership |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Manager-Inside-Sales-Support_Req178432) |
 
 ## About This Role
 
-This operations position at The Home Depot was posted on 2026-02-10.
+This sales leadership position at The Home Depot was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

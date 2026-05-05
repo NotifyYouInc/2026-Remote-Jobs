@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Illinois, US |
+| Location | Maryland, US |
 | Category | Account Executive |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-California/Scale-Named-Account-Manager_R166682-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-New-Hampshire/Scale-Named-Account-Manager_R167961-1) |
 
 ## About This Role
 
-This account executive position at Adobe was posted on 2026-03-23.
+This account executive position at Adobe was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

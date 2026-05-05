@@ -5,12 +5,12 @@
 | Company | [Kodex](https://scoutify.ai/companies/kodex?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/kodex/cdd11cd5-68fc-4df9-87e1-284caa96a69d) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kodex/cdeadd74-cf90-46e3-a021-1b12cad62018) |
 
 ## About This Role
 
-This engineering manager position at Kodex was posted on 2026-03-05.
+This engineering manager position at Kodex was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

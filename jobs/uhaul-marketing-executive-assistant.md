@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bloomington, Minnesota, United States |
+| Location | Oakwood, New York, United States |
 | Category | Marketing |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Bloomington-Illinois/Marketing-Executive-Assistant_R242095) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Oakwood-Georgia/Marketing-Executive-Assistant_R243474) |
 
 ## About This Role
 
-This marketing position at Uhaul was posted on 2026-04-09.
+This marketing position at Uhaul was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

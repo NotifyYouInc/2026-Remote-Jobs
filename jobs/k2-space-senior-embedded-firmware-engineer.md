@@ -5,12 +5,12 @@
 | Company | [K2 Space](https://scoutify.ai/companies/k2-space?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5191793008) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5202371008) |
 
 ## About This Role
 
-This embedded / firmware engineer position at K2 Space was posted on 2026-04-17.
+This embedded / firmware engineer position at K2 Space was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

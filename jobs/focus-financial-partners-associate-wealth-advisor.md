@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Focus Financial Partners](https://scoutify.ai/companies/focus-financial-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Calabasas, California, United States |
+| Location | Santa Rosa, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5972988004) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5979957004) |
 
 ## About This Role
 
-This corporate finance position at Focus Financial Partners was posted on 2026-04-16.
+This corporate finance position at Focus Financial Partners was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

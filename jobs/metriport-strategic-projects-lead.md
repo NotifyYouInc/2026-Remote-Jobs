@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Program Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/2d964ae4-b7ba-48f5-81db-048ac6c4a071) |
+| Category | Operations |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/b99c181c-4d02-4a70-ba10-7f920f6ffcda) |
 
 ## About This Role
 
-This program manager position at Metriport was posted on 2026-03-25.
+This operations position at Metriport was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

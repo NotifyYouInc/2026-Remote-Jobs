@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Customer Success |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/236c1782-327d-4025-9f29-8506b5242e8d) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/cc562898-0eed-4709-b70e-7455f5dcd87b) |
 
 ## About This Role
 
-This customer success position at Jerry.ai was posted on 2026-03-23.
+This customer success position at Jerry.ai was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Milpitas, California, United States |
+| Location | Madrid, Madrid, Spain |
 | Category | Account Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000115941648-global-key-account-manager) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000123357910-global-key-account-manager) |
 
 ## About This Role
 
-This account manager position at SGS was posted on 2026-03-20.
+This account manager position at SGS was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

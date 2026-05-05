@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appliedis](https://scoutify.ai/companies/appliedis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Reston, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Sr-Infrastructure-Engineer_JR2026001175) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/US-Corporate-Headquarters---Reston/Sr-Infrastructure-Engineer_JR2026001177) |
 
 ## About This Role
 
-This devops engineer position at Appliedis was posted on 2026-04-24.
+This devops engineer position at Appliedis was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

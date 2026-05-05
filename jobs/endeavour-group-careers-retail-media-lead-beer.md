@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000116841108-retail-media-lead-beer) |
+| Location | Richmond, Victoria, Australia |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000123353039-retail-media-lead-beer) |
 
 ## About This Role
 
-This account executive position at Endeavour Group Careers was posted on 2026-03-26.
+This digital / performance marketing position at Endeavour Group Careers was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

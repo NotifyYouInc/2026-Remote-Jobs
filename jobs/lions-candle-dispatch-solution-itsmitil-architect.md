@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000120557867-itsmitil-architect) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000123318959-itsmitil-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-04-13.
+This technical & solutions architect position at Lions Candle-Dispatch Solution was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
