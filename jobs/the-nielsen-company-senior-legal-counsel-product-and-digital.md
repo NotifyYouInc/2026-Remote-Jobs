@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York, US |
+| Location | United States |
 | Category | Legal |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011835626-senior-legal-counsel-product-and-digital) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012856706-senior-legal-counsel-product-and-digital) |
 
 ## About This Role
 
-This legal position at The Nielsen Company was posted on 2026-02-24.
+This legal position at The Nielsen Company was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

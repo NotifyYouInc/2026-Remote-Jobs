@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | 6 locations |
 | Category | Account Executive |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Pensacola-Florida/B2B-Sales-Account-Executive---Fiber_R-108157) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Hattiesburg-Mississippi/B2B-Sales-Account-Executive---Fiber_R-108154) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-04-27.
+This account executive position at AT&T was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

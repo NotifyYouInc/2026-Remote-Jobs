@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Gazipur, Dhaka Division, Bangladesh |
+| Location | Taiwan |
 | Category | Account Executive |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000112044937-specialist-field-sales) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000123601739-specialist-field-sales) |
 
 ## About This Role
 
-This account executive position at Delivery Hero was posted on 2026-03-01.
+This account executive position at Delivery Hero was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Xiamen, Fujian, China |
+| Location | Guangzhou, Guangdong, China |
 | Category | Account Executive |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012825186-sr-medical-infocomm-rep-medical-aesth) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012865566-sr-medical-infocomm-rep-medical-aesth) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-27.
+This account executive position at AbbVie was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

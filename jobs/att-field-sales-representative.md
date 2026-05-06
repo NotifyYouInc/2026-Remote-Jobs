@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Morrow, Georgia, United States |
+| Location | Pontiac, Michigan, United States |
 | Category | Account Executive |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Morrow-Georgia/Field-Sales-Representative_R-108192) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Pontiac-Michigan/Field-Sales-Representative_R-108525) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-04-25.
+This account executive position at AT&T was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

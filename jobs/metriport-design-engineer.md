@@ -5,12 +5,12 @@
 | Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/84d09a64-a939-412d-bc69-902beb99598b) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/0e29c934-46ea-4140-adf5-059a5ab627c9) |
 
 ## About This Role
 
-This frontend engineer position at Metriport was posted on 2026-04-10.
+This frontend engineer position at Metriport was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

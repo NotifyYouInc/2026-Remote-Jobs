@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Asheville, North Carolina, United States |
-| Category | Customer Success |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Biomedical-Technician-II_R4036508-1) |
+| Location | 2 locations |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Biomedical-Technician-II_R4040237-1) |
 
 ## About This Role
 
-This customer success position at GE HealthCare was posted on 2026-02-21.
+This electrical / hardware engineer position at GE HealthCare was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

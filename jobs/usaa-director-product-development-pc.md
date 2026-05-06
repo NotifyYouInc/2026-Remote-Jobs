@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 6 locations |
+| Location | San Antonio, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Product-Development--P-C-_R0116049-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Product-Development--P-C-_R0117063-1) |
 
 ## About This Role
 
-This product manager position at USAA was posted on 2026-03-18.
+This product manager position at USAA was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

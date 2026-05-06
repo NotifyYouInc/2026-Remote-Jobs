@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Miami, Florida, United States |
 | Category | Account Executive |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001016369-higher-education-account-executive) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001032098-higher-education-account-executive) |
 
 ## About This Role
 
-This account executive position at Canva was posted on 2026-04-21.
+This account executive position at Canva was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

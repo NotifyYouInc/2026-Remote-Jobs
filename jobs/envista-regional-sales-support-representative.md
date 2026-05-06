@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Envista](https://scoutify.ai/companies/envista?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 6 locations |
+| Location | 5 locations |
 | Category | Business Development |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--Wisconsin--Madison/Regional-Sales-Support-Representative_R5025804) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/Remote---US/Regional-Sales-Support-Representative_R5026240) |
 
 ## About This Role
 
-This business development position at Envista was posted on 2026-03-11.
+This business development position at Envista was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

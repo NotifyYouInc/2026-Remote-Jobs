@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 8 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Francisco-California/Lead-Consultant-Prof-Services-ATC_R-103885) |
+| Location | San Francisco, California, United States |
+| Category | Customer Success |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Francisco-California/Lead-Consultant-Prof-Services-ATC_R-108527) |
 
 ## About This Role
 
-This technology / it consulting position at AT&T was posted on 2026-03-11.
+This customer success position at AT&T was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

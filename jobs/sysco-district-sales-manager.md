@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York, US |
+| Location | St. Louis, Missouri, United States |
 | Category | Sales Leadership |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Long-Island-----Home-Office/District-Sales-Manager_R240383) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-St-Louis-----Home-Office/District-Sales-Manager_R248195) |
 
 ## About This Role
 
-This sales leadership position at Sysco was posted on 2026-03-03.
+This sales leadership position at Sysco was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Supplier Success Professional (Customer Support) - Bilingual Spanish/English at Avetta
+# Supplier Success Professional (Customer Support)- Bilingual Spanish/English at Avetta
 
 | Field | Details |
 |-------|---------|
 | Company | [Avetta](https://scoutify.ai/companies/avetta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Lehi, Utah, United States |
 | Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.avetta.com/careers/job?gh_jid=7632090003) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.avetta.com/careers/job?gh_jid=7719078003) |
 
 ## About This Role
 
-This customer success position at Avetta was posted on 2026-02-13.
+This customer success position at Avetta was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

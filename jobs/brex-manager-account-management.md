@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brex](https://scoutify.ai/companies/brex?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
-| Category | Sales Leadership |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://www.brex.com/careers/8453694002?gh_jid=8453694002) |
+| Category | Account Manager |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.brex.com/careers/8527501002?gh_jid=8527501002) |
 
 ## About This Role
 
-This sales leadership position at Brex was posted on 2026-03-06.
+This account manager position at Brex was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

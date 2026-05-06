@@ -5,12 +5,12 @@
 | Company | [Enbridge](https://scoutify.ai/companies/enbridge?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 3 locations |
 | Category | Project Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Houston-TX-USA/Senior-Electrical-Project-Manager_70940-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Senior-Electrical-Project-Manager_71005-1) |
 
 ## About This Role
 
-This project manager position at Enbridge was posted on 2026-04-09.
+This project manager position at Enbridge was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

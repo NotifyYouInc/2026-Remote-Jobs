@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tech Holding](https://scoutify.ai/companies/tech-holding?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | India |
 | Category | Data Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/techholding/jobs/4687433005) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/techholding/jobs/4689974005) |
 
 ## About This Role
 
-This data engineer position at Tech Holding was posted on 2026-04-21.
+This data engineer position at Tech Holding was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

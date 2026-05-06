@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Romania |
+| Location | Timişoara, Timiș County, Romania |
 | Category | Customer Success |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121345977-passenger-cars-diagnostic-technician-with-french) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123609829-passenger-cars-diagnostic-technician-with-french) |
 
 ## About This Role
 
-This customer success position at Robert Bosch was posted on 2026-04-17.
+This customer success position at Robert Bosch was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

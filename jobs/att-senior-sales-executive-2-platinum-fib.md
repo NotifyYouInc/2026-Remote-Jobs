@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Charlotte-North-Carolina/Senior-Sales-Executive-2-Platinum-Fib_R-103476) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Indianapolis-Indiana/Senior-Sales-Executive-2-Platinum-Fib_R-107828) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-09.
+This account executive position at AT&T was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

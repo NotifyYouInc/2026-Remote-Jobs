@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United Kingdom |
-| Category | Sales |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7631143003) |
+| Category | Account Executive |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://www.tide.co/careers/?gh_jid=7686230003) |
 
 ## About This Role
 
-This sales position at Careers at Tide was posted on 2026-02-13.
+This account executive position at Careers at Tide was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
