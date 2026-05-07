@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | Australia |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7709279003) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7720313003) |
 
 ## About This Role
 
-This human resources / people ops position at Remote was posted on 2026-04-21.
+This human resources / people ops position at Remote was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

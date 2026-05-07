@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Field-Excellence-Manager--Lung_R-059610-1) |
+| Location | Horsham, England, United Kingdom |
+| Category | Sales Leadership |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Field-Excellence-Manager--Lung_R-072913-1) |
 
 ## About This Role
 
-This business analyst position at Johnson & Johnson was posted on 2026-02-23.
+This sales leadership position at Johnson & Johnson was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

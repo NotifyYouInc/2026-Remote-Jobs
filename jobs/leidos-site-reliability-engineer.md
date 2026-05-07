@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 6 locations |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Site-Reliability-Engineer_R-00178475) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Field-Service-Engineer_R-00175292) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-17.
+This devops engineer position at Leidos was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | Project Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/Senior-Project-Manager---Fuels--Remote-Eligible--US-_R5032263) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/Senior-Project-Manager---Fuels--Remote-Eligible--US-_R5040671-2) |
 
 ## About This Role
 
-This project manager position at GE Vernova was posted on 2026-02-13.
+This project manager position at GE Vernova was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

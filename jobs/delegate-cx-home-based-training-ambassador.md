@@ -5,12 +5,12 @@
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Learning & Development |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Work-From-Home--PH/Home-Based-Training-Ambassador_JR103898) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Work-From-Home--PH/Home-Based-Training-Ambassador_JR104158) |
 
 ## About This Role
 
-This learning & development position at Delegate CX was posted on 2026-03-03.
+This learning & development position at Delegate CX was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

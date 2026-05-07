@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Sales Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Senior-Affera-Mapping-Specialist---CAS_R55845-1) |
+| Location | San Diego, California, United States |
+| Category | Customer Success |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Diego-California-United-States-of-America/Senior-Affera-Mapping-Specialist---CAS_R65577) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-04-15.
+This customer success position at Medtronic was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

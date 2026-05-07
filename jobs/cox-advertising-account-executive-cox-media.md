@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chesapeake, Virginia, United States |
+| Location | New Orleans, Louisiana, United States |
 | Category | Account Executive |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Chesapeake-VA/Advertising-Account-Executive--Cox-Media-_R202675863) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/New-Orleans-LA/Advertising-Account-Executive--Cox-Media-_R202676431) |
 
 ## About This Role
 
-This account executive position at Cox was posted on 2026-04-15.
+This account executive position at Cox was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

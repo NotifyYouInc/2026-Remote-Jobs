@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [First American](https://scoutify.ai/companies/firstam?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, US |
-| Category | Account Executive |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Outbound-Inside-Sales-Representative_R055121) |
+| Location | Santa Rosa, California, United States |
+| Category | Business Development |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/1244-Apollo-Way-Santa-Rosa-CA-95407/Outbound-Inside-Sales-Representative_R054289) |
 
 ## About This Role
 
-This account executive position at First American was posted on 2026-03-15.
+This business development position at First American was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

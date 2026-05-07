@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oscar Health](https://scoutify.ai/companies/oscar-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arizona, US |
+| Location | United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](http://www.hioscar.com/careers/7778583?gh_jid=7778583) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](http://www.hioscar.com/careers/7868528?gh_jid=7868528) |
 
 ## About This Role
 
-This compliance & risk management position at Oscar Health was posted on 2026-04-03.
+This compliance & risk management position at Oscar Health was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
