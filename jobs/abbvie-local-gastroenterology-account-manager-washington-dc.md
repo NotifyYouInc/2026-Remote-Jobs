@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Account Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012582577-local-gastroenterology-account-manager-washington-dc) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012920136-local-gastroenterology-account-manager-washington-dc) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-04-13.
+This account manager position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

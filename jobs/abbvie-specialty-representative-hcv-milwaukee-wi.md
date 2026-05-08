@@ -1,16 +1,16 @@
-#  Specialty Representative, HCV - Milwaukee, WI at AbbVie
+# Specialty Representative, HCV - Milwaukee, WI at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
 | Category | Account Executive |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012821666-specialty-representative-hcv-milwaukee-wi) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012914661-specialty-representative-hcv-milwaukee-wi) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-25.
+This account executive position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

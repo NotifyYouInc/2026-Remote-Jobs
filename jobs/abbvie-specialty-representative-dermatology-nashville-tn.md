@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Account Executive |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012541426-specialty-representative-dermatology-nashville-tn) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012925882-specialty-representative-dermatology-nashville-tn) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-09.
+This account executive position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

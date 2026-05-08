@@ -1,16 +1,16 @@
-# Specialty Representative, Dermatology - Western Michigan  at AbbVie
+# Specialty Representative, Dermatology - Western Michigan at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Grand Rapids, Michigan, United States |
 | Category | Account Executive |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012212866-specialty-representative-dermatology-western-michigan) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012920179-specialty-representative-dermatology-western-michigan) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-18.
+This account executive position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

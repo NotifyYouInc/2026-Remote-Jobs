@@ -5,12 +5,12 @@
 | Company | [The Standard](https://scoutify.ai/companies/standard?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Portland, Oregon, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://standard.wd1.myworkdayjobs.com/Search/job/Portland-OR/Accommodation-Specialist_REQ006354-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://standard.wd1.myworkdayjobs.com/Search/job/Portland-OR/Accommodation-Specialist_REQ006559) |
 
 ## About This Role
 
-This human resources / people ops position at The Standard was posted on 2026-02-20.
+This human resources / people ops position at The Standard was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

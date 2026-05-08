@@ -5,12 +5,12 @@
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ontario, CA |
 | Category | Project Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Canada-Ontario-Remote/Country-Study-Operations-Manager-I_R0000040229) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Canada-Ontario-Remote/Country-Study-Operations-Manager-I_R0000041093-1) |
 
 ## About This Role
 
-This project manager position at Parexel was posted on 2026-03-30.
+This project manager position at Parexel was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

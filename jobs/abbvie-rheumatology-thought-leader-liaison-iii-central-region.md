@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Gary, Indiana, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Marketing |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012824226-rheumatology-thought-leader-liaison-iii-central-region) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012904856-rheumatology-thought-leader-liaison-iii-central-region) |
 
 ## About This Role
 
-This marketing position at AbbVie was posted on 2026-04-26.
+This marketing position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

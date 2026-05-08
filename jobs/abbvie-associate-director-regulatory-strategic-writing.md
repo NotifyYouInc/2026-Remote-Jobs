@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Compliance & Risk Management |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012453996-associate-director-regulatory-strategic-writing) |
+| Category | Technical Writer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012906064-associate-director-regulatory-strategic-writing) |
 
 ## About This Role
 
-This compliance & risk management position at AbbVie was posted on 2026-04-03.
+This technical writer position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

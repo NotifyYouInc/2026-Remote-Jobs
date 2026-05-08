@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012358186-specialty-representative-gastroenterology-nashville-north) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012922146-specialty-representative-gastroenterology-nashville-north) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-27.
+This account executive position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Sales Leadership |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012626351-district-manager-acp-central) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012920210-district-manager-acp-central) |
 
 ## About This Role
 
-This sales leadership position at AbbVie was posted on 2026-04-15.
+This sales leadership position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

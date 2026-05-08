@@ -1,16 +1,16 @@
-# Business Development Manager, Facial Aesthetics at AbbVie
+# Business Development Manager (Facial Aesthetics) at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Bentonville, Arkansas, United States |
 | Category | Engineering Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011810856-business-development-manager-facial-aesthetics) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012907127-business-development-manager-facial-aesthetics) |
 
 ## About This Role
 
-This engineering manager position at AbbVie was posted on 2026-02-23.
+This engineering manager position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

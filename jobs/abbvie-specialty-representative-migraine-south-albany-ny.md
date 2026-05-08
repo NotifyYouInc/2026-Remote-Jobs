@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Albany, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012498386-specialty-representative-migraine-south-albany-ny) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012905365-specialty-representative-migraine-south-albany-ny) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-07.
+This account executive position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

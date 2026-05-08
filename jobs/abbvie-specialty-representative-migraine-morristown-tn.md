@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Morristown, Tennessee, United States |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012127726-specialty-representative-migraine-morristown-tn) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012922189-specialty-representative-migraine-morristown-tn) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-13.
+This account executive position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

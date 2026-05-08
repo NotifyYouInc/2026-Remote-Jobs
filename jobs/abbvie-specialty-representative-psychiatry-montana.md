@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Missoula, Montana, United States |
 | Category | Account Executive |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012605046-specialty-representative-psychiatry-montana) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012918699-specialty-representative-psychiatry-montana) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-14.
+This account executive position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

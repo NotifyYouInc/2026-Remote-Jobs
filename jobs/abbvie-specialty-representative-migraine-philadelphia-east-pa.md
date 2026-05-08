@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | Account Executive |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012235824-specialty-representative-migraine-philadelphia-east-pa) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012924502-specialty-representative-migraine-philadelphia-east-pa) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-03-19.
+This account executive position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

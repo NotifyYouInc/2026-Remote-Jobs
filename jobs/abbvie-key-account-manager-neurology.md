@@ -1,16 +1,16 @@
-# Key Account Manager, Neurology at AbbVie
+# Key Account Manager Neurology at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Account Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012096946-key-account-manager-neurology) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012910676-key-account-manager-neurology) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-03-11.
+This account manager position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

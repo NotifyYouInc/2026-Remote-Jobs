@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 6 locations |
+| Location | 7 locations |
 | Category | Marketing |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012800024-regional-marketing-manager-iii-immunologygastroenterology-south) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012904782-regional-marketing-manager-iii-immunologygastroenterology-south) |
 
 ## About This Role
 
-This marketing position at AbbVie was posted on 2026-04-23.
+This marketing position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

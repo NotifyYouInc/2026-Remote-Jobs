@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Linqia](https://scoutify.ai/companies/linqia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 5 locations |
+| Location | 6 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/linqia/jobs/8515913002?gh_jid=8515913002) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/linqia/jobs/8532627002?gh_jid=8532627002) |
 
 ## About This Role
 
-This devops engineer position at Linqia was posted on 2026-04-20.
+This devops engineer position at Linqia was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

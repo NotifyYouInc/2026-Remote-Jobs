@@ -1,16 +1,16 @@
-# District Manager, Psychiatry - Cleveland, OH  at AbbVie
+# District Manager, Psychiatry - Cleveland, OH at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 3 locations |
 | Category | Sales Leadership |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012299746-district-manager-psychiatry-cleveland-oh) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012918080-district-manager-psychiatry-cleveland-oh) |
 
 ## About This Role
 
-This sales leadership position at AbbVie was posted on 2026-03-24.
+This sales leadership position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bakersfield, California, United States |
 | Category | Account Executive |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012669156-specialty-representative-hcv-bakersfield-ca) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012906915-specialty-representative-hcv-bakersfield-ca) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-18.
+This account executive position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

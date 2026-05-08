@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Dayton, Ohio, United States |
 | Category | Sales Leadership |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012467666-district-manager-psychiatry-dayton-oh) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012921220-district-manager-psychiatry-dayton-oh) |
 
 ## About This Role
 
-This sales leadership position at AbbVie was posted on 2026-04-06.
+This sales leadership position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
