@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Account Executive |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-St-Louis-----Home-Office/Sales-Representative_R246841-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Philadelphia-Home-Office/Sales-Representative_R249715) |
 
 ## About This Role
 
-This account executive position at Sysco was posted on 2026-04-14.
+This account executive position at Sysco was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

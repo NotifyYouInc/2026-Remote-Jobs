@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chesterfield, Missouri, United States |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Senior-Underwriting-Consultant_J26862) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/United-States-Minneapolis-MN/Senior-Underwriting-Consultant_J27349) |
 
 ## About This Role
 
-This corporate finance position at RGA Reinsurance Company was posted on 2026-03-18.
+This corporate finance position at RGA Reinsurance Company was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

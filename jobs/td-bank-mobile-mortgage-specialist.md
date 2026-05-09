@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 7 locations |
+| Location | Regina, Saskatchewan, Canada |
 | Category | Account Executive |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Edmonton-Alberta/Mobile-Mortgage-Specialist_R_1487016) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Regina-Saskatchewan/Mobile-Mortgage-Specialist_R_1487655) |
 
 ## About This Role
 
-This account executive position at TD Bank was posted on 2026-04-28.
+This account executive position at TD Bank was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

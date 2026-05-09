@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pluralsight](https://scoutify.ai/companies/pluralsight?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Westlake, Ohio, United States |
+| Location | United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://pluralsight.wd1.myworkdayjobs.com/Careers/job/Remote---USA/Talent-Development-Manager_R0014070) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://pluralsight.wd1.myworkdayjobs.com/Careers/job/Remote---USA/Talent-Development-Manager_R0014191) |
 
 ## About This Role
 
-This engineering manager position at Pluralsight was posted on 2026-03-18.
+This engineering manager position at Pluralsight was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

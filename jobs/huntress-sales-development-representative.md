@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntress](https://scoutify.ai/companies/huntress?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
+| Location | United States |
 | Category | Business Development |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/huntress/jobs/7677154003) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/huntress/jobs/6485841003) |
 
 ## About This Role
 
-This business development position at Huntress was posted on 2026-04-17.
+This business development position at Huntress was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

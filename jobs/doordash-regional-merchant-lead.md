@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Brooklyn, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/7717983) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/7875368) |
 
 ## About This Role
 
-This account executive position at DoorDash was posted on 2026-03-13.
+This account executive position at DoorDash was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [thyssenkrupp](https://scoutify.ai/companies/thyssenkruppmaterialsna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Concord, Ontario, Canada |
 | Category | Account Executive |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Portland---NE-Columbia-Blvd/Outside-Sales-Representative_JR104686) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Concord-Ontario-CAN/Outside-Sales-Representative_JR104986-1) |
 
 ## About This Role
 
-This account executive position at thyssenkrupp was posted on 2026-03-18.
+This account executive position at thyssenkrupp was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

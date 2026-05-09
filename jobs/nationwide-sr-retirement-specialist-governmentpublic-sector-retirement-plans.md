@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Indiana/Sr-Retirement-Specialist--Government-Public-Sector-Retirement-Plans-_097211) |
+| Location | Indiana, Pennsylvania, United States |
+| Category | Financial Advisory & Consulting |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Indiana/Sr-Retirement-Specialist--Government-Public-Sector-Retirement-Plans-_097865) |
 
 ## About This Role
 
-This account executive position at Nationwide was posted on 2026-03-27.
+This financial advisory & consulting position at Nationwide was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

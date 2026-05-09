@@ -5,12 +5,12 @@
 | Company | [Pacificsource](https://scoutify.ai/companies/pacificsource?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Missouri, US |
 | Category | Customer Success |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://pacificsource.wd5.myworkdayjobs.com/pacificsource/job/WFH-MO/Customer-Support-Representative---Missouri-Work-from-Home_2026-500-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://pacificsource.wd5.myworkdayjobs.com/pacificsource/job/WFH-MO/Customer-Support-Representative---Missouri-Work-from-Home_2026-538-1) |
 
 ## About This Role
 
-This customer success position at Pacificsource was posted on 2026-04-19.
+This customer success position at Pacificsource was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

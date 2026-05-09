@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CIMA+](https://scoutify.ai/companies/cima?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Calgary, Alberta, Canada |
-| Category | Program Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000112272547-director-railway-engineering) |
+| Location | Edmonton, Alberta, Canada |
+| Category | Engineering Manager |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000124180699-director-railway-engineering) |
 
 ## About This Role
 
-This program manager position at CIMA+ was posted on 2026-03-02.
+This engineering manager position at CIMA+ was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

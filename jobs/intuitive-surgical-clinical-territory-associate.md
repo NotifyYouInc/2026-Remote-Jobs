@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Allentown, Pennsylvania, United States |
+| Location | Dayton, Ohio, United States |
 | Category | Account Executive |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000119214656-clinical-territory-associate) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000124189439-clinical-territory-associate) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-04-07.
+This account executive position at Intuitive Surgical was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
