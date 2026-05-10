@@ -1,16 +1,16 @@
-# Director, Product Quality Lead at BeOne
+# Senior Talent Acquisition Specialist at Vultr
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Vultr](https://scoutify.ai/companies/vultr?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Product Manager |
+| Category | Talent Acquisition / Recruiting |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Product-Quality-Lead_R34502-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vultr/7e2b5c8e-3598-49cc-bfc4-c40185bc8a43) |
 
 ## About This Role
 
-This product manager position at BeOne was posted on 2026-05-02.
+This talent acquisition / recruiting position at Vultr was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

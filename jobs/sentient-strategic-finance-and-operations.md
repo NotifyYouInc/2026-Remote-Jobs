@@ -1,16 +1,16 @@
-# Outside Sales Representative at Hibu
+# Strategic Finance and Operations at Sentient
 
 | Field | Details |
 |-------|---------|
-| Company | [Hibu](https://scoutify.ai/companies/hibu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tulsa, Oklahoma, United States |
-| Category | Account Executive |
+| Company | [Sentient](https://scoutify.ai/companies/sentient?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Singapore, Singapore |
+| Category | Corporate Finance |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hibu/jobs/4691954005) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sentient/febe1f8e-3cf3-4b7c-ad2a-7324cfe5cd30) |
 
 ## About This Role
 
-This account executive position at Hibu was posted on 2026-05-02.
+This corporate finance position at Sentient was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

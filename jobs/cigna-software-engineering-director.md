@@ -1,16 +1,16 @@
-# Director, Product Quality Lead at BeOne
+# Software Engineering Director at Cigna
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Product Manager |
+| Category | Engineering Manager |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Product-Quality-Lead_R34502-1) |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Software-Engineering-Director_26004640) |
 
 ## About This Role
 
-This product manager position at BeOne was posted on 2026-05-02.
+This engineering manager position at Cigna was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

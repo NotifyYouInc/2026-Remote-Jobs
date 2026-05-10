@@ -1,16 +1,16 @@
-# Outside Sales Representative at Hibu
+# Analytic Consultant at FICO
 
 | Field | Details |
 |-------|---------|
-| Company | [Hibu](https://scoutify.ai/companies/hibu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tulsa, Oklahoma, United States |
-| Category | Account Executive |
+| Company | [FICO](https://scoutify.ai/companies/fico?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Business Analyst |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hibu/jobs/4691954005) |
+| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-United-States/Analytic-Consultant_31800) |
 
 ## About This Role
 
-This account executive position at Hibu was posted on 2026-05-02.
+This business analyst position at FICO was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

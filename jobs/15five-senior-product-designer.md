@@ -1,16 +1,16 @@
-# Director, Product Quality Lead at BeOne
+# Senior Product Designer at 15Five
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [15Five](https://scoutify.ai/companies/15five?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Product Manager |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Product-Quality-Lead_R34502-1) |
+| Category | Product Designer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.lever.co/15five/d70e614d-fff6-4e2f-ac59-7ed182a1b6f2) |
 
 ## About This Role
 
-This product manager position at BeOne was posted on 2026-05-02.
+This product designer position at 15Five was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

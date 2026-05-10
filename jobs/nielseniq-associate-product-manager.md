@@ -1,16 +1,16 @@
-# Director, Product Quality Lead at BeOne
+# Associate Product Manager at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Product-Quality-Lead_R34502-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000124240619-associate-product-manager) |
 
 ## About This Role
 
-This product manager position at BeOne was posted on 2026-05-02.
+This product manager position at NielsenIQ was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Staff Engineer at Nagarro
+# Associate Distinguished Engineer, DevOps Architecture  at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000124232299-senior-staff-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000124233005-associate-distinguished-engineer-devops-architecture) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-05-02.
+This devops engineer position at Nagarro was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

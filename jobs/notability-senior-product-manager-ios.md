@@ -1,16 +1,16 @@
-# Director, Product Quality Lead at BeOne
+# Senior Product Manager, iOS at Notability
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Company | [Notability](https://scoutify.ai/companies/notability?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Product-Quality-Lead_R34502-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gingerlabsinc/jobs/4802103008) |
 
 ## About This Role
 
-This product manager position at BeOne was posted on 2026-05-02.
+This product manager position at Notability was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

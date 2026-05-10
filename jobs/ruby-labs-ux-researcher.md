@@ -1,16 +1,16 @@
-# Outside Sales Representative at Hibu
+# UX Researcher at Ruby Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [Hibu](https://scoutify.ai/companies/hibu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tulsa, Oklahoma, United States |
-| Category | Account Executive |
+| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Not specified |
+| Category | UX Researcher |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hibu/jobs/4691954005) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/c5502666-67f9-4c5e-86cc-4f0517d7da13) |
 
 ## About This Role
 
-This account executive position at Hibu was posted on 2026-05-02.
+This ux researcher position at Ruby Labs was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

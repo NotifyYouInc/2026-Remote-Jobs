@@ -1,16 +1,16 @@
-# Senior Full-Stack Engineer at Ruby Labs
+# Sr. Software Developer at EVERSANA
 
 | Field | Details |
 |-------|---------|
-| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Overland Park, Kansas, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/0ba7d0a2-4b13-43f8-90cf-eeb8836df25e) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000124237534-sr-software-developer) |
 
 ## About This Role
 
-This software engineer position at Ruby Labs was posted on 2026-05-02.
+This software engineer position at EVERSANA was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

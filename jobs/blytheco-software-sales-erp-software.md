@@ -1,16 +1,16 @@
-# Outside Sales Representative at Hibu
+#  Software Sales (ERP Software) at Blytheco
 
 | Field | Details |
 |-------|---------|
-| Company | [Hibu](https://scoutify.ai/companies/hibu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tulsa, Oklahoma, United States |
+| Company | [Blytheco](https://scoutify.ai/companies/blytheco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
 | Category | Account Executive |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hibu/jobs/4691954005) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/blytheco/jobs/4980147008) |
 
 ## About This Role
 
-This account executive position at Hibu was posted on 2026-05-02.
+This account executive position at Blytheco was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

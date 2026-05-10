@@ -1,16 +1,16 @@
-# Outside Sales Representative at Hibu
+# Associate Principal Engineer, Devops at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [Hibu](https://scoutify.ai/companies/hibu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tulsa, Oklahoma, United States |
-| Category | Account Executive |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | India |
+| Category | DevOps Engineer |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hibu/jobs/4691954005) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000124233749-associate-principal-engineer-devops) |
 
 ## About This Role
 
-This account executive position at Hibu was posted on 2026-05-02.
+This devops engineer position at Nagarro was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Full-Stack Engineer at Ruby Labs
+# Software Engineer  at Modernfi
 
 | Field | Details |
 |-------|---------|
-| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Company | [Modernfi](https://scoutify.ai/companies/modernfi?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/0ba7d0a2-4b13-43f8-90cf-eeb8836df25e) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/modernfi/0f57cf60-8b8f-4de7-9fbc-4ecb1cf96ef2) |
 
 ## About This Role
 
-This software engineer position at Ruby Labs was posted on 2026-05-02.
+This software engineer position at Modernfi was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

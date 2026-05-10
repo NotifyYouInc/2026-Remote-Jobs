@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Woodbury, Minnesota, United States |
+| Location | Merriam, Kansas, United States |
 | Category | Business Development |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USANJWoodbury1215-Hurffville-RdRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-108826-1) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAKSMerriam8801-Johnson-DrRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-108565) |
 
 ## About This Role
 

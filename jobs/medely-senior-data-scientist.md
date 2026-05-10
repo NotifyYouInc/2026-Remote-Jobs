@@ -1,16 +1,16 @@
-# Director, Product Quality Lead at BeOne
+# Senior Data Scientist at Medely
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Medely](https://scoutify.ai/companies/medely?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Product Manager |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Product-Quality-Lead_R34502-1) |
+| Category | Data Scientist |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/medely/d3d788d4-2cf2-4fbb-8e30-f662a45df1a8) |
 
 ## About This Role
 
-This product manager position at BeOne was posted on 2026-05-02.
+This data scientist position at Medely was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

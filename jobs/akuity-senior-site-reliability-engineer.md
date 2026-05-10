@@ -1,16 +1,16 @@
-# Director, Product Quality Lead at BeOne
+# Senior Site Reliability Engineer at Akuity
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Akuity](https://scoutify.ai/companies/akuity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Product Manager |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Product-Quality-Lead_R34502-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/akuity/jobs/4186344009) |
 
 ## About This Role
 
-This product manager position at BeOne was posted on 2026-05-02.
+This devops engineer position at Akuity was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

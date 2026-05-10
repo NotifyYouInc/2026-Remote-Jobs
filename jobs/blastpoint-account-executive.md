@@ -1,16 +1,16 @@
-# Outside Sales Representative at Hibu
+# Account Executive at BlastPoint
 
 | Field | Details |
 |-------|---------|
-| Company | [Hibu](https://scoutify.ai/companies/hibu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tulsa, Oklahoma, United States |
+| Company | [BlastPoint](https://scoutify.ai/companies/blastpoint?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
 | Category | Account Executive |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hibu/jobs/4691954005) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/blastpoint/jobs/5126759007) |
 
 ## About This Role
 
-This account executive position at Hibu was posted on 2026-05-02.
+This account executive position at BlastPoint was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

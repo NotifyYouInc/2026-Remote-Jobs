@@ -1,16 +1,16 @@
-# Director, Product Quality Lead at BeOne
+# Product Management Director- Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Product Manager |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Product-Quality-Lead_R34502-1) |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Product-Management-Director--Evernorth_26004639) |
 
 ## About This Role
 
-This product manager position at BeOne was posted on 2026-05-02.
+This product manager position at Cigna was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

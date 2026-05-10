@@ -1,16 +1,16 @@
-# Director, Product Quality Lead at BeOne
+#  Sage 100 Consulting Manager at Blytheco
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Blytheco](https://scoutify.ai/companies/blytheco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Product Manager |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Product-Quality-Lead_R34502-1) |
+| Category | Customer Success |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/blytheco/jobs/4142164008) |
 
 ## About This Role
 
-This product manager position at BeOne was posted on 2026-05-02.
+This customer success position at Blytheco was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

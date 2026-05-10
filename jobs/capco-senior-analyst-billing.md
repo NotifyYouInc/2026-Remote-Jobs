@@ -1,16 +1,16 @@
-# Outside Sales Representative at Hibu
+# Senior Analyst - Billing at Capco
 
 | Field | Details |
 |-------|---------|
-| Company | [Hibu](https://scoutify.ai/companies/hibu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tulsa, Oklahoma, United States |
-| Category | Account Executive |
+| Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Corporate Finance |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hibu/jobs/4691954005) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7878328) |
 
 ## About This Role
 
-This account executive position at Hibu was posted on 2026-05-02.
+This corporate finance position at Capco was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

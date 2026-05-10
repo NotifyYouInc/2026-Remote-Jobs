@@ -1,16 +1,16 @@
-# Technical Account Manager at Metriport
+# Senior Marketing Manager, Lifecycle at Notability
 
 | Field | Details |
 |-------|---------|
-| Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Notability](https://scoutify.ai/companies/notability?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Customer Success |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/0d5f2383-b93b-4218-b9d7-dfc1ba62878e) |
+| Category | Growth Marketing |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gingerlabsinc/jobs/5158601008) |
 
 ## About This Role
 
-This customer success position at Metriport was posted on 2026-05-02.
+This growth marketing position at Notability was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Account Manager at Metriport
+# Sr Technical Services Analyst at Solventum
 
 | Field | Details |
 |-------|---------|
-| Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Utah, US |
 | Category | Customer Success |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/0d5f2383-b93b-4218-b9d7-dfc1ba62878e) |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Utah/Sr-Technical-Services-Analyst_R01126959) |
 
 ## About This Role
 
-This customer success position at Metriport was posted on 2026-05-02.
+This customer success position at Solventum was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

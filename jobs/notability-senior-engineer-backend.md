@@ -1,16 +1,16 @@
-# Senior Full-Stack Engineer at Ruby Labs
+# Senior Engineer, Backend at Notability
 
 | Field | Details |
 |-------|---------|
-| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Company | [Notability](https://scoutify.ai/companies/notability?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/0ba7d0a2-4b13-43f8-90cf-eeb8836df25e) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gingerlabsinc/jobs/4619649008) |
 
 ## About This Role
 
-This software engineer position at Ruby Labs was posted on 2026-05-02.
+This software engineer position at Notability was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

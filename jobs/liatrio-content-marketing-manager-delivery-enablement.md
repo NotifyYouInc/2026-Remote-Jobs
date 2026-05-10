@@ -1,16 +1,16 @@
-# Director, Product Quality Lead at BeOne
+# Content Marketing Manager, Delivery Enablement at Liatrio
 
 | Field | Details |
 |-------|---------|
-| Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Liatrio](https://scoutify.ai/companies/liatrio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Product Manager |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Product-Quality-Lead_R34502-1) |
+| Category | Content Marketing |
+| Posted | 2025-09-29 |
+| Apply | [View on company site](https://jobs.lever.co/liatrio/60d28d4f-2c21-412b-bb51-71526314ab5a) |
 
 ## About This Role
 
-This product manager position at BeOne was posted on 2026-05-02.
+This content marketing position at Liatrio was posted on 2025-09-29.
 
 ## Get Real-Time Alerts
 

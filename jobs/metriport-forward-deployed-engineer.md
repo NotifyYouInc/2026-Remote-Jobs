@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Customer Success |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/a39e64ed-065a-4c29-b8ec-ed4a705ce3c2) |
+| Category | Software Engineer |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/53a03f29-7318-4452-a0e7-9323c57e047f) |
 
 ## About This Role
 
-This customer success position at Metriport was posted on 2026-03-05.
+This software engineer position at Metriport was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 
