@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/La-Vergne-TN/Sales---Service-Technician_JR111012) |
+| Location | Phenix City, Alabama, United States |
+| Category | Sales Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Phenix-City-AL/Sales---Service-Technician_JR111151) |
 
 ## About This Role
 
-This corporate finance position at Groundworks was posted on 2026-04-19.
+This sales engineer position at Groundworks was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | White Plains, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012914042-specialty-representative-migraine-white-plaines-ny) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012953806-specialty-representative-migraine-white-plaines-ny) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-30.
+This account executive position at AbbVie was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

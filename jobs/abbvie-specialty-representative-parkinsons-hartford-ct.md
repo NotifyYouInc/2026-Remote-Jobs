@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hartford, Connecticut, United States |
+| Location | Waterbury, Connecticut, United States |
 | Category | Account Executive |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012911827-specialty-representative-parkinsons-hartford-ct) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012963026-specialty-representative-parkinsons-hartford-ct) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-30.
+This account executive position at AbbVie was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

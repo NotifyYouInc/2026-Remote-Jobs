@@ -5,12 +5,12 @@
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 6 locations |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-IIIII/Bank-Agile-Product-Owner-Senior_R0113975) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-IIIII/Bank-Agile-Product-Owner-Senior_R0116862) |
 
 ## About This Role
 
-This product manager position at USAA was posted on 2026-04-21.
+This product manager position at USAA was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | District of Columbia, US |
 | Category | Channel / Partner Sales |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Texas-United-States-of-America/SLED-Partner-Business-Manager_1204997) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-District-of-Columbia-United-States-of-America/SLED-Partner-Business-Manager_1205525) |
 
 ## About This Role
 
-This channel / partner sales position at Hewlett Packard Enterprise was posted on 2026-04-03.
+This channel / partner sales position at Hewlett Packard Enterprise was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

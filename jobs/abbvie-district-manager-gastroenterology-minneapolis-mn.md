@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 3 locations |
 | Category | Sales Leadership |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012910719-district-manager-gastroenterology-minneapolis-mn) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012963886-district-manager-gastroenterology-minneapolis-mn) |
 
 ## About This Role
 
-This sales leadership position at AbbVie was posted on 2026-04-30.
+This sales leadership position at AbbVie was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hartford, Connecticut, United States |
+| Location | Fairfield, California, United States |
 | Category | Account Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012914879-strategic-account-manager-skinmedica-allergan-aesthetics-new-england-s) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012950756-strategic-account-manager-skinmedica-allergan-aesthetics-new-england-s) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-04-30.
+This account manager position at AbbVie was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

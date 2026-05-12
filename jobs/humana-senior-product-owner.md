@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Product-Owner_R-402667) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Product-Owner_R-415182) |
 
 ## About This Role
 
-This product manager position at Humana was posted on 2026-02-17.
+This product manager position at Humana was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

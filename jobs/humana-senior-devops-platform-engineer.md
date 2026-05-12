@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kentucky, US |
+| Location | Louisville, Kentucky, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Work-at-Home---Kentucky/Senior-DevOps-Platform-Engineer_R-405255-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-DevOps-Platform-Engineer_R-414933) |
 
 ## About This Role
 
-This devops engineer position at Humana was posted on 2026-02-25.
+This devops engineer position at Humana was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

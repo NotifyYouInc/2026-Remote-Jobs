@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Yonkers, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012924312-specialty-representative-parkinsons-yonkers-ny) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012963166-specialty-representative-parkinsons-yonkers-ny) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-05-01.
+This account executive position at AbbVie was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

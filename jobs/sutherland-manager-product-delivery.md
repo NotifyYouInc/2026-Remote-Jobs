@@ -5,12 +5,12 @@
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000115731187-manager-product-delivery) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000124521209-manager-product-delivery) |
 
 ## About This Role
 
-This product manager position at Sutherland was posted on 2026-03-19.
+This product manager position at Sutherland was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

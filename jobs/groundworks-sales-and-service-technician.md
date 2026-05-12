@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Groundworks](https://scoutify.ai/companies/groundworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Minnesota, US |
-| Category | Business Development |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Rush-City-MN/Sales-and-Service-Technician_JR110959) |
+| Location | Houston, Texas, United States |
+| Category | Sales Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://groundworks.wd1.myworkdayjobs.com/groundworks/job/Houston/Sales-and-Service-Technician_JR111156) |
 
 ## About This Role
 
-This business development position at Groundworks was posted on 2026-04-10.
+This sales engineer position at Groundworks was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

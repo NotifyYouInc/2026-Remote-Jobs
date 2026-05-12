@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Costa Mesa, California, United States |
+| Location | Chatham, Illinois, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Costa-Mesa-California-USA/Talent-Acquisition-Advisor_R311342) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Chatham-New-Jersey-USA/Talent-Acquisition-Advisor_R318045) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Cushman & Wakefield was posted on 2026-03-25.
+This talent acquisition / recruiting position at Cushman & Wakefield was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iHeartMedia](https://scoutify.ai/companies/iheartmedia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Chicago-IL/Manager--Digital-Media-Strategy---Planning_Req37801-3) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Chicago-IL/Manager--Digital-Media-Strategy---Planning_Req38452-4) |
 
 ## About This Role
 
-This digital / performance marketing position at iHeartMedia was posted on 2026-02-17.
+This digital / performance marketing position at iHeartMedia was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

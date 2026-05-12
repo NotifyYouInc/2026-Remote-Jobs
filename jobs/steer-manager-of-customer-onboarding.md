@@ -5,12 +5,12 @@
 | Company | [Steer](https://scoutify.ai/companies/steer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/steercrm/jobs/5112123007) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/steercrm/jobs/5127655007) |
 
 ## About This Role
 
-This customer success position at Steer was posted on 2026-04-17.
+This customer success position at Steer was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

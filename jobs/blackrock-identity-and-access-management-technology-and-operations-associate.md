@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Identity-and-Access-Management--Technology-and-Operations--Associate_R261328) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Identity-and-Access-Management--Technology-and-Operations--Associate_R261326) |
 
 ## About This Role
 
-This it & systems administration position at Blackrock was posted on 2026-04-30.
+This it & systems administration position at Blackrock was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 6 locations |
+| Location | 3 locations |
 | Category | Account Executive |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Nashville-Tennessee/Lead-Client-Solutions-Executive-4-CNV_R-107338) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bloomington-Minnesota/Lead-Client-Solutions-Executive-4-CNV_R-109051) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-04-21.
+This account executive position at AT&T was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

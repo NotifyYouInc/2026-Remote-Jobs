@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Merriam, Kansas, United States |
+| Location | Monroe, Louisiana, United States |
 | Category | Business Development |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAKSMerriam8801-Johnson-DrRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-108565) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USANCMonroe2943-Monroe-WayRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-108917-1) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-05-01.
+This business development position at AT&T was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

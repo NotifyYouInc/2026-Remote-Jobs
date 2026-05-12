@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123610420-working-student-in-hardware-development) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000124447955-working-student-in-hardware-development) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Robert Bosch was posted on 2026-04-29.
+This electrical / hardware engineer position at Robert Bosch was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

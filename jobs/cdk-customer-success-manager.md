@@ -5,12 +5,12 @@
 | Company | [CDK](https://scoutify.ai/companies/cdk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Customer-Success-Manager_JR8583-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Customer-Success-Manager_JR8870-1) |
 
 ## About This Role
 
-This customer success position at CDK was posted on 2026-02-05.
+This customer success position at CDK was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

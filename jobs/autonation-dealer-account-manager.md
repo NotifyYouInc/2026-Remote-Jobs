@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AutoNation](https://scoutify.ai/companies/autonation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://autonation.wd5.myworkdayjobs.com/careers/job/Remote---Texas/Dealer-Account-Manager_JR2026134480) |
+| Location | Nevada, US |
+| Category | Account Manager |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://autonation.wd5.myworkdayjobs.com/careers/job/Remote---Nevada/Dealer-Account-Manager_JR2026141301) |
 
 ## About This Role
 
-This customer success position at AutoNation was posted on 2026-02-12.
+This account manager position at AutoNation was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
