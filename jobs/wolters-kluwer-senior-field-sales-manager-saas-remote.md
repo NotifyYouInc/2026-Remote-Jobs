@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Delaware, US |
+| Location | Arkansas, US |
 | Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-TX-Remote/Senior-Field-Sales-Manager--SaaS--Remote-_R0055531) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-TX-Remote/Senior-Field-Sales-Manager--SaaS--Remote-_R0056900) |
 
 ## About This Role
 
-This account executive position at Wolters Kluwer was posted on 2026-03-09.
+This account executive position at Wolters Kluwer was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Business Development |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Mexico-City-Mexico/Business-Development-Representative_R33711) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/So-Paulo-Brazil/Business-Development-Representative_R34781) |
 
 ## About This Role
 
-This business development position at Zendesk was posted on 2026-02-10.
+This business development position at Zendesk was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Porch Group](https://scoutify.ai/companies/porch-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico |
+| Location | Colombia |
 | Category | Customer Success |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/MX-Remote/System-Support-Specialist--HOA_JR100593) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/CO-Remote/System-Support-Specialist--HOA_JR101228) |
 
 ## About This Role
 
-This customer success position at Porch Group was posted on 2026-03-03.
+This customer success position at Porch Group was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

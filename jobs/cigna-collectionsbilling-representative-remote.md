@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Collections-Billing-Representative---Remote_26003479) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Collections-Billing-Representative---Remote_26005351) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-04-03.
+This corporate finance position at Cigna was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

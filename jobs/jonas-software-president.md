@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jonas Software](https://scoutify.ai/companies/talentmanagementsolution?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
-| Category | Operations |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/President_R50744-1) |
+| Location | United States |
+| Category | Leadership Development Program |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/President_R51612-1) |
 
 ## About This Role
 
-This operations position at Jonas Software was posted on 2026-03-24.
+This leadership development program position at Jonas Software was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

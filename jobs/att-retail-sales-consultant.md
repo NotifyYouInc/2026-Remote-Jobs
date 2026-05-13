@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tigard, Oregon, United States |
+| Location | Folsom, California, United States |
 | Category | Business Development |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Tigard-Oregon/Retail-Sales-Consultant_R-109082) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACAFolsom290-Palladio-PkwyRETRET/Retail-Sales-Consultant_R-108918-1) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpartanNash](https://scoutify.ai/companies/spartannash?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Williamston, North Carolina, United States |
+| Location | Howell, Michigan, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Williamston-Michigan/Associate-Engagement-Coordinator_R85343) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Howell-Michigan/Associate-Engagement-Coordinator_R85457-1) |
 
 ## About This Role
 
-This human resources / people ops position at SpartanNash was posted on 2026-04-27.
+This human resources / people ops position at SpartanNash was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

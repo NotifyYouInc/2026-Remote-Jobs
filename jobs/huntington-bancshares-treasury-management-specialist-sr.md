@@ -1,16 +1,16 @@
-# Treasury Management Specialist Sr. at Huntington Bancshares
+# Treasury Management Specialist Sr at Huntington Bancshares
 
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Naperville, Illinois, United States |
-| Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Naperville-IL/Treasury-Management-Specialist-Sr_R0070176) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Corporate Finance |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Charlotte-NC/Treasury-Management-Specialist-Sr_R0071983-1) |
 
 ## About This Role
 
-This account executive position at Huntington Bancshares was posted on 2026-03-04.
+This corporate finance position at Huntington Bancshares was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

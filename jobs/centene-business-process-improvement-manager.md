@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
-| Category | Project Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Business-Process-Improvement-Manager_1617691) |
+| Location | Alaska, US |
+| Category | Business Analyst |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-AK/Business-Process-Improvement-Manager_1638577) |
 
 ## About This Role
 
-This project manager position at Centene was posted on 2026-03-11.
+This business analyst position at Centene was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

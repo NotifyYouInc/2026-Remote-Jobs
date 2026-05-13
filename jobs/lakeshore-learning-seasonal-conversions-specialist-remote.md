@@ -5,12 +5,12 @@
 | Company | [Lakeshore Learning](https://scoutify.ai/companies/lakeshorelearning?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Carson, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000118632177-seasonal-conversions-specialist-remote) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000124748549-seasonal-conversions-specialist-remote) |
 
 ## About This Role
 
-This business analyst position at Lakeshore Learning was posted on 2026-04-03.
+This business analyst position at Lakeshore Learning was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

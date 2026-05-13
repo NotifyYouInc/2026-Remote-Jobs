@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Tlaquepaque, Jalisco, Mexico |
 | Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Tlaquepaque-Mexico/Customer-Support-Associate-I_R241620-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Tlaquepaque-Mexico/Customer-Support-Associate-I_R244259-1) |
 
 ## About This Role
 
-This customer success position at Arrow Electronics was posted on 2026-02-12.
+This customer success position at Arrow Electronics was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

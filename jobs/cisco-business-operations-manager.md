@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 4 locations |
-| Category | Operations |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maitland-Florida-US/Business-Operations-Manager_2013811) |
+| Location | West Des Moines, Iowa, United States |
+| Category | Program Manager |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/West-Des-Moines-Iowa-US/Business-Operations-Manager_2013922) |
 
 ## About This Role
 
-This operations position at Cisco was posted on 2026-05-01.
+This program manager position at Cisco was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

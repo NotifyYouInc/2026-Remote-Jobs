@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arkansas, US |
+| Location | Florida, US |
 | Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Ohio/Fixed-Operations-Performance-Manager_R202675735) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Florida/Fixed-Operations-Performance-Manager_R202676824) |
 
 ## About This Role
 
-This customer success position at Cox was posted on 2026-04-13.
+This customer success position at Cox was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

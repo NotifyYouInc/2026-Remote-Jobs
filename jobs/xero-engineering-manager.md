@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Wellington, Wellington Region, New Zealand |
 | Category | Engineering Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/xero/a547298d-33a5-45bc-ba01-d0787ac3e51b) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/xero/5ae2abdd-1cf7-4fe1-acc5-0b14230d7519) |
 
 ## About This Role
 
-This engineering manager position at Xero was posted on 2026-04-15.
+This engineering manager position at Xero was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

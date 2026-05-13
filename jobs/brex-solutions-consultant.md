@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brex](https://scoutify.ai/companies/brex?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | Salt Lake City, Utah, United States |
 | Category | Implementation / Professional Services |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.brex.com/careers/8301919002?gh_jid=8301919002) |
+| Apply | [View on company site](https://www.brex.com/careers/8536760002?gh_jid=8536760002) |
 
 ## About This Role
 

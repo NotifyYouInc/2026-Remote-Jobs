@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Account Executive |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/AZ---Virtual---C/Enterprise-Account-Executive---Managed-Solutions_R434700) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/AZ---Virtual---C/Enterprise-Account-Executive---Managed-Solutions_R436795) |
 
 ## About This Role
 
-This account executive position at Comcast was posted on 2026-04-16.
+This account executive position at Comcast was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

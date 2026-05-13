@@ -1,0 +1,22 @@
+# Spécialiste Produits Structurés (H/F) at UFF - Union Financière de France
+
+| Field | Details |
+|-------|---------|
+| Company | [UFF - Union Financière de France](https://scoutify.ai/companies/uffunionfinanciredefrance?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Bois-Colombes, Île-de-France, France |
+| Category | Corporate Finance |
+| Posted | 2025-12-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UFF1/744000098909925-specialiste-produits-structures-hf) |
+
+## About This Role
+
+This corporate finance position at UFF - Union Financière de France was posted on 2025-12-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

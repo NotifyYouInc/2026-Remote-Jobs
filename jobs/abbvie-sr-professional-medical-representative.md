@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kunming, Yunnan, China |
+| Location | Wenzhou, Zhejiang, China |
 | Category | Account Executive |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012846386-sr-professional-medical-representative) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012992003-sr-professional-medical-representative) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-28.
+This account executive position at AbbVie was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

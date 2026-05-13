@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 6 locations |
+| Location | Hoover, Alabama, United States |
 | Category | Account Executive |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Hattiesburg-Mississippi/B2B-Sales-Account-Executive---Fiber_R-108154) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Hoover-Alabama/B2B-Sales-Account-Executive---Fiber_R-109380) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-04-29.
+This account executive position at AT&T was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

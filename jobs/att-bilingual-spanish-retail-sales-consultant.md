@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Monroe, Louisiana, United States |
+| Location | Madera, California, United States |
 | Category | Business Development |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USANCMonroe2943-Monroe-WayRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-108917-1) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACAMadera2295-Market-Place-DrRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-108986-1) |
 
 ## About This Role
 

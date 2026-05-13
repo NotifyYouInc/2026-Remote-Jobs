@@ -1,16 +1,16 @@
-# Regional Sales Manager, Illinois  at Lakeshore Learning
+# Regional Sales Manager, Illinois at Lakeshore Learning
 
 | Field | Details |
 |-------|---------|
 | Company | [Lakeshore Learning](https://scoutify.ai/companies/lakeshorelearning?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000110468965-regional-sales-manager-illinois) |
+| Location | Chicago, Illinois, United States |
+| Category | Sales Leadership |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000124755959-regional-sales-manager-illinois) |
 
 ## About This Role
 
-This account executive position at Lakeshore Learning was posted on 2026-02-20.
+This sales leadership position at Lakeshore Learning was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

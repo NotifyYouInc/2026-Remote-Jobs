@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | San Antonio, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Decision-Science-Analytics_R0117188) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Decision-Science-Analytics_R0117151) |
 
 ## About This Role
 
-This data scientist position at USAA was posted on 2026-05-05.
+This data scientist position at USAA was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

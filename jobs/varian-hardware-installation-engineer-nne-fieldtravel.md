@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | 6 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/IND-U/Hardware-Installation-Engineer---N-NE---Field-Travel_R-26514) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-NP/Hardware-Installation-Engineer---N-NE---Field-Travel_R-28404) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Varian was posted on 2026-03-02.
+This electrical / hardware engineer position at Varian was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
