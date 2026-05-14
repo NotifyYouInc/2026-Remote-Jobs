@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Varanasi, Uttar Pradesh, India |
+| Location | Kolhāpur, Maharashtra, India |
 | Category | Account Executive |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012523206-sr-territory-manager-eyecare) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013013716-sr-territory-manager-eyecare) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-09.
+This account executive position at AbbVie was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

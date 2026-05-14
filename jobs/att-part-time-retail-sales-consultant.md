@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Branson, Missouri, United States |
+| Location | Grand Junction, Colorado, United States |
 | Category | Business Development |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAMOBranson802-Branson-Hills-PkwyRETRET/Part-Time-Retail-Sales-Consultant_R-108255-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACOGrand-Junction2454-Hwy-6--50RETRET/Part-Time-Retail-Sales-Consultant_R-103182-1) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-04-30.
+This business development position at AT&T was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cali, Valle del Cauca Department, Colombia |
+| Location | Bucaramanga, Santander Department, Colombia |
 | Category | Account Executive |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia--Cali-Remote/Ejecutivo-de-Lnea_31147756) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia--Bucaramanga-Remote/Ejecutivo-de-Lnea_31149267) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-05-05.
+This account executive position at Abbott was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

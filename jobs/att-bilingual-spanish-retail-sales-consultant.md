@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Madera, California, United States |
-| Category | Business Development |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACAMadera2295-Market-Place-DrRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-108986-1) |
+| Location | Littleton, Colorado, United States |
+| Category | Account Executive |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACOLittleton8246-Nw-Bowles-AveRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-109255-1) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-05-05.
+This account executive position at AT&T was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

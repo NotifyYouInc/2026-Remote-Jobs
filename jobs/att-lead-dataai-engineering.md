@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Data-AI-Engineering_R-100946) |
+| Category | Data Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Data-AI-Engineering_R-98831) |
 
 ## About This Role
 
-This software engineer position at AT&T was posted on 2026-02-12.
+This data engineer position at AT&T was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

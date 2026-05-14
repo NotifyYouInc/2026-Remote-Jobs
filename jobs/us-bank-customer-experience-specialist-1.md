@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Texas, US |
 | Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-WI/Customer-Experience-Specialist-1_2026-0005182) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-TX/Customer-Experience-Specialist-1_2026-0005178-1) |
 
 ## About This Role
 
-This customer success position at U.S. Bank was posted on 2026-04-14.
+This customer success position at U.S. Bank was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

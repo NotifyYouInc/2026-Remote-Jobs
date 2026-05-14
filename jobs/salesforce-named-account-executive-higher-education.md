@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Dallas, Texas, United States |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Massachusetts---Boston/Named-Account-Executive--Higher-Education_JR331038-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Named-Account-Executive--Higher-Education_JR339740-1) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-02-26.
+This account executive position at Salesforce was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

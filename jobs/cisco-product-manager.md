@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Product-Manager_2009983-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Product-Manager_2013579) |
 
 ## About This Role
 
-This product manager position at Cisco was posted on 2026-04-23.
+This product manager position at Cisco was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

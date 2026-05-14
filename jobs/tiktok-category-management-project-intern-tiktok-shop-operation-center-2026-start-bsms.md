@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7623946318901430581/detail) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7603170236103870773/detail) |
 
 ## About This Role
 
-This business analyst position at TikTok was posted on 2026-04-06.
+This business analyst position at TikTok was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

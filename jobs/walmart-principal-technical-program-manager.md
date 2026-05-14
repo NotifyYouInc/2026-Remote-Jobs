@@ -1,16 +1,16 @@
-# PRINCIPAL, TECHNICAL PROGRAM MANAGER at Walmart
+# Principal, Technical Program Manager at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Sunnyvale, California, United States |
 | Category | Program Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PW-II/PRINCIPAL--TECHNICAL-PROGRAM-MANAGER_R-2388294) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Principal--Technical-Program-Manager_R-2490274) |
 
 ## About This Role
 
-This program manager position at Walmart was posted on 2026-04-02.
+This program manager position at Walmart was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

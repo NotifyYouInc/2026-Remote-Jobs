@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Data Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAGAAtlanta--1057-Lenox-Park-Blvd-Ne---Adm1057-Lenox-Park-Blvd-Ne/Senior-Data-AI-Engineering_R-99567) |
+| Location | Plano, Texas, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Senior-Data-AI-Engineering_R-96644) |
 
 ## About This Role
 
-This data engineer position at AT&T was posted on 2026-02-05.
+This ai / llm engineer position at AT&T was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Xiamen, Fujian, China |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Xiamen--Fujian-Province/Sr-Associate-II--Surgical-Field-Sales_R-2026-46712-1) |
+| Location | Shenyang, Liaoning, China |
+| Category | Sales Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Shenyang-China/Sr-Associate-II--Surgical-Field-Sales_R-2026-46922-1) |
 
 ## About This Role
 
-This corporate finance position at Alcon was posted on 2026-04-29.
+This sales engineer position at Alcon was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

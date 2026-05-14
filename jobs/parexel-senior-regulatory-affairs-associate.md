@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Taiwan |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Bengaluru/Senior-Regulatory-Affairs-Associate_R0000039147) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Taiwan-Remote/Senior-Regulatory-Affairs-Associate_R0000041540) |
 
 ## About This Role
 
-This compliance & risk management position at Parexel was posted on 2026-03-17.
+This compliance & risk management position at Parexel was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

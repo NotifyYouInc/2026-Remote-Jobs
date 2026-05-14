@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jellyfish](https://scoutify.ai/companies/jellyfish?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | Baltimore, Maryland, United States |
 | Category | Growth Marketing |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jellyfishcareers/76d47bed-3f0a-4940-b7ec-82fe99a1e619) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jellyfishcareers/84c6a004-701b-4011-a1ed-584f25427083) |
 
 ## About This Role
 
-This growth marketing position at Jellyfish was posted on 2026-04-21.
+This growth marketing position at Jellyfish was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

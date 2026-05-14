@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stout Risius Ross](https://scoutify.ai/companies/stout-risius-ross?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 19 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://stout.wd5.myworkdayjobs.com/stout-careers/job/Atlanta-GA/Analyst--Healthcare-Medical-Coding---Disputes--Claims---Investigations_r1936-1) |
+| Location | Chicago, Illinois, United States |
+| Category | Business Analyst |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://stout.wd5.myworkdayjobs.com/stout-careers/job/Chicago-IL/Analyst--Healthcare-Medical-Coding---Disputes--Claims---Investigations_r2015-1) |
 
 ## About This Role
 
-This technology / it consulting position at Stout Risius Ross was posted on 2026-02-27.
+This business analyst position at Stout Risius Ross was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
