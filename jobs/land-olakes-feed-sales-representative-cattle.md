@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Land O'Lakes](https://scoutify.ai/companies/landolakes?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bismarck, North Dakota, United States |
-| Category | Business Development |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Bismarck-ND-USA/Feed-Sales-Representative---Cattle_R-38631) |
+| Location | Elizabethtown, Kentucky, United States |
+| Category | Account Executive |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Elizabethtown-KY-USA/Feed-Sales-Representative---Cattle_R-38911) |
 
 ## About This Role
 
-This business development position at Land O'Lakes was posted on 2026-04-09.
+This account executive position at Land O'Lakes was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

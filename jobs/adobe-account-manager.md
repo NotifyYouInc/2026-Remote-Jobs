@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
 | Category | Account Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-India/Account-Manager_R167673) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-India/Account-Manager_R168119) |
 
 ## About This Role
 
-This account manager position at Adobe was posted on 2026-04-30.
+This account manager position at Adobe was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

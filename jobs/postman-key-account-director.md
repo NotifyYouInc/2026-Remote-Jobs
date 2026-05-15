@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Postman](https://scoutify.ai/companies/postman?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Account Executive |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/postman/jobs/7702350003) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/postman/jobs/7702351003) |
 
 ## About This Role
 
-This account executive position at Postman was posted on 2026-04-15.
+This account executive position at Postman was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

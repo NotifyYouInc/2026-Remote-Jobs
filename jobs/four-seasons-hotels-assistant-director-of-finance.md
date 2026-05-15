@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Okinawa, Okinawa, Japan |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Okinawa/Assistant-Director-of-Finance_REQ10378071) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Taipei/Assistant-Director-of-Finance_REQ10340849) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-04-21.
+This corporate finance position at Four Seasons Hotels was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

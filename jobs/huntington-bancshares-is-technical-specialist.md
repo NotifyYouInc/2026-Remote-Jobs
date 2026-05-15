@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/IS-Technical-Specialist_R0068775) |
+| Location | Columbus, Ohio, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/IS-Technical-Specialist_R0072133) |
 
 ## About This Role
 
-This software engineer position at Huntington Bancshares was posted on 2026-03-11.
+This it & systems administration position at Huntington Bancshares was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

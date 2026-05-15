@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aviva](https://scoutify.ai/companies/aviva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Quebec, CA |
+| Location | Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://aviva.wd1.myworkdayjobs.com/External/job/Canada---QC---Home-Office/Souscripteurtrice-Snior---Assurance-des-entreprises--P-C-_R-166189) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://aviva.wd1.myworkdayjobs.com/External/job/Canada---QC---Home-Office/Souscripteurtrice-Snior---Assurance-des-entreprises--P-C-_R-168230-1) |
 
 ## About This Role
 
-This corporate finance position at Aviva was posted on 2026-03-11.
+This corporate finance position at Aviva was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

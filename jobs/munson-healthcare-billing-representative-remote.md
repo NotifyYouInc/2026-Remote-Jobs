@@ -1,16 +1,16 @@
-# Billing Representative -  Remote at Munson Healthcare
+# Billing Representative - Remote at Munson Healthcare
 
 | Field | Details |
 |-------|---------|
 | Company | [Munson Healthcare](https://scoutify.ai/companies/munsonhealthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990012019566-billing-representative-remote) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990013034016-billing-representative-remote) |
 
 ## About This Role
 
-This corporate finance position at Munson Healthcare was posted on 2026-03-06.
+This corporate finance position at Munson Healthcare was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Inspira Education](https://scoutify.ai/companies/inspira-education?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/inspiraeducation/jobs/5182926008) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/inspiraeducation/jobs/5213889008) |
 
 ## About This Role
 
-This account executive position at Inspira Education was posted on 2026-04-09.
+This account executive position at Inspira Education was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Account Executive |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012915351-dermatology-therapeutic-specialist-gta) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013033346-dermatology-therapeutic-specialist-gta) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-05-01.
+This account executive position at AbbVie was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Tinuiti](https://scoutify.ai/companies/tinuiti?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Director--Client-Partner_R26_308-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Director--Client-Partner_R26_401) |
 
 ## About This Role
 
-This account manager position at Tinuiti was posted on 2026-04-07.
+This account manager position at Tinuiti was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cielo](https://scoutify.ai/companies/cielo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wauwatosa, Wisconsin, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cielo2/744000123554858-workday-consultant-strategic-consulting) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cielo2/744000125259849-workday-consultant-strategic-consulting) |
 
 ## About This Role
 
-This technology / it consulting position at Cielo was posted on 2026-04-28.
+This technology / it consulting position at Cielo was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

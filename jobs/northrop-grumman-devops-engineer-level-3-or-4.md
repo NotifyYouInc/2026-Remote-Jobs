@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Morrisville, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/DevOps-Engineer---Level-3-or-4_R10226452) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/DevOps-Engineer---Level-3-or-4_R10231847) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-03-18.
+This devops engineer position at Northrop Grumman was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

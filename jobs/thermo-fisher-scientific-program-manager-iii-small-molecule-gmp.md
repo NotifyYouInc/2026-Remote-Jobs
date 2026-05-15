@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wisconsin, US |
+| Location | Middleton, Wisconsin, United States |
 | Category | Program Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Wisconsin-USA/Program-Manager-III---Small-Molecule--GMP_R-01343586-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Wisconsin-USA/Program-Manager-III---Small-Molecule--GMP_R-01352062) |
 
 ## About This Role
 
-This program manager position at Thermo Fisher Scientific was posted on 2026-03-05.
+This program manager position at Thermo Fisher Scientific was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
