@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | 3 locations |
 | Category | Account Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012914921-associate-director-field-reimbursement-immunology-gastroenterology) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013050927-associate-director-field-reimbursement-immunology-gastroenterology) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-04-30.
+This account manager position at AbbVie was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

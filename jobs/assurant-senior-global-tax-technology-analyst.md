@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assurant](https://scoutify.ai/companies/assurant?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/United-States-Virtual/Senior-Global-Tax-Technology-Analyst_R-112618-1) |
+| Location | Canada |
+| Category | Business Analyst |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Canada-Virtual/Senior-Global-Tax-Technology-Analyst_R-113880-1) |
 
 ## About This Role
 
-This corporate finance position at Assurant was posted on 2026-03-06.
+This business analyst position at Assurant was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

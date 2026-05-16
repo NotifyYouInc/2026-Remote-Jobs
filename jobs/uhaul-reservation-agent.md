@@ -5,12 +5,12 @@
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Eugene, Oregon, United States |
 | Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Eugene-Oregon/Reservation-Agent_R242362) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Eugene-Oregon/Reservation-Agent_R244552) |
 
 ## About This Role
 
-This customer success position at Uhaul was posted on 2026-04-13.
+This customer success position at Uhaul was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

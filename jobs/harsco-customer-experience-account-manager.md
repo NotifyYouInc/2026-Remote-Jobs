@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harsco](https://scoutify.ai/companies/harsco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | King of Prussia, Pennsylvania, United States |
+| Location | Norcross, Georgia, United States |
 | Category | Account Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000120056037-customer-experience-account-manager) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000125409679-customer-experience-account-manager) |
 
 ## About This Role
 
-This account manager position at Harsco was posted on 2026-04-10.
+This account manager position at Harsco was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

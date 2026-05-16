@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Arizona, US |
-| Category | Operations |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Senior-Major-Incident-Commander_R4435833) |
+| Category | IT & Systems Administration |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Senior-Major-Incident-Commander_R4435839-1) |
 
 ## About This Role
 
-This operations position at Banner Health was posted on 2026-03-17.
+This it & systems administration position at Banner Health was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

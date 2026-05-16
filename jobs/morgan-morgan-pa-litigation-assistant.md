@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bradenton, Florida, United States |
+| Location | Memphis, Tennessee, United States |
 | Category | Legal |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5856988004) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5992126004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-04-07.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

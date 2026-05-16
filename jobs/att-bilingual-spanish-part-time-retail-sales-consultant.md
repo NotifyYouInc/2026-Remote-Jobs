@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Anchorage, Alaska, United States |
+| Location | Goleta, California, United States |
 | Category | Business Development |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAAKAnchorage800-E-Dimond-BlvdRETRET/Bilingual-Spanish-Part-Time-Retail-Sales-Consultant_R-107078-2) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACAGoleta7060-Marketplace-DrRETRET/Bilingual-Spanish-Part-Time-Retail-Sales-Consultant_R-109706-2) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-04-17.
+This business development position at AT&T was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

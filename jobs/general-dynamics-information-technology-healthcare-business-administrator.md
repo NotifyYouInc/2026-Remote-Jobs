@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Healthcare-Business-Administrator_RQ214614-2) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Healthcare-Business-Administrator_RQ219606-1) |
 
 ## About This Role
 
-This business analyst position at General Dynamics Information Technology was posted on 2026-02-20.
+This business analyst position at General Dynamics Information Technology was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Solution-Consultant_JR0037166) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Solution-Consultant_JR0037162) |
 
 ## About This Role
 
-This security engineer position at Trellix was posted on 2026-05-05.
+This security engineer position at Trellix was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

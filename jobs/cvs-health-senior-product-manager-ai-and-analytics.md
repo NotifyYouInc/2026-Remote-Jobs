@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY-New-York/Senior-Product-Manager---AI-and-Analytics_R0876103) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Senior-Product-Manager---AI-and-Analytics_R0906419) |
 
 ## About This Role
 
-This product manager position at CVS Health was posted on 2026-04-02.
+This product manager position at CVS Health was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

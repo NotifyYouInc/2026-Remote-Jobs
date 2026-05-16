@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | North Carolina, US |
-| Category | Business Development |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---North-Carolina-United-States/Business-Development--Data-Center-NAM_R0092756) |
+| Category | Sales Leadership |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---North-Carolina-United-States/Business-Development-Leader--Data-Center-NAM_R0129709) |
 
 ## About This Role
 
-This business development position at Hitachi was posted on 2026-03-17.
+This sales leadership position at Hitachi was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

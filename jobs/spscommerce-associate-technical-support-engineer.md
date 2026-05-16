@@ -5,12 +5,12 @@
 | Company | [Spscommerce](https://scoutify.ai/companies/spscommerce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Customer Success |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/Philippines-Remote/Associate-Technical-Support-Engineer_R-000354) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/Philippines-Remote/Associate-Technical-Support-Engineer_R-000805) |
 
 ## About This Role
 
-This customer success position at Spscommerce was posted on 2026-02-16.
+This customer success position at Spscommerce was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

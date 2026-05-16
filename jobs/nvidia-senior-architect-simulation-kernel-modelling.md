@@ -1,16 +1,16 @@
-# Senior Architect - Simulation Kernel Modelling at Nvidia
+# Senior Architect, Simulation Kernel Modelling at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Architect---Simulation-Kernel-Modelling_JR2012447) |
+| Location | Santa Clara, California, United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Architect--Simulation-Kernel-Modelling_JR2017737) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-02-18.
+This semiconductor / chip design position at Nvidia was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

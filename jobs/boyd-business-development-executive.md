@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boyd](https://scoutify.ai/companies/boyd?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Michigan, US |
+| Location | San Jose, California, United States |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://boydcorp.wd12.myworkdayjobs.com/boyd_careers/job/Remote-Michigan/Business-Development-Executive_R-102455) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://boydcorp.wd12.myworkdayjobs.com/boyd_careers/job/Remote-California/Business-Development-Executive_R-102341) |
 
 ## About This Role
 
-This account executive position at Boyd was posted on 2026-02-26.
+This account executive position at Boyd was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

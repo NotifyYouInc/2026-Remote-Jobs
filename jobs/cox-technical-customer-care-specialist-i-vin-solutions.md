@@ -1,16 +1,16 @@
-# Technical Customer Care Specialist I (Vin Solutions) at Cox
+# Technical Customer Care Specialist I ( Vin Solutions) at Cox
 
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgia, US |
+| Location | 5 locations |
 | Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Kansas-Central-Timezone/Technical-Customer-Care-Specialist-I--Vin-Solutions-_R202675788) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Kansas-Central-Timezone/Technical-Customer-Care-Specialist-I---Vin-Solutions-_R202677024) |
 
 ## About This Role
 
-This customer success position at Cox was posted on 2026-04-13.
+This customer success position at Cox was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
