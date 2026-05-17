@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | Santo Domingo, Nacional, Dominican Republic |
 | Category | Software Engineer |
 | Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/0217144e-5d89-4ba7-a780-d92782c01ff8) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/32932841-72c5-4c1f-baaf-de8994b2b60b) |
 
 ## About This Role
 

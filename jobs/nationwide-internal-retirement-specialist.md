@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Business Development |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/California-Work-from-Home-2/Internal-Retirement-Specialist--CA_097032-1) |
+| Location | Columbus, Ohio, United States |
+| Category | Account Manager |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio/Internal-Retirement-Specialist_098138-1) |
 
 ## About This Role
 
-This business development position at Nationwide was posted on 2026-04-03.
+This account manager position at Nationwide was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

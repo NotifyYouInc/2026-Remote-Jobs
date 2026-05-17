@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Jersey, US |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-New-Jersey/Senior-Software-Engineer_R-409064) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Software-Engineer_R-411618) |
 
 ## About This Role
 
-This software engineer position at Humana was posted on 2026-04-09.
+This software engineer position at Humana was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-CUMULUS/XMLNAME--IND--TEAM-LEADER--CONTACT-CENTER_R-2476283) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-CUMULUS/XMLNAME--IND--TEAM-LEADER--CONTACT-CENTER_R-2476197) |
 
 ## About This Role
 
-This customer success position at Walmart was posted on 2026-05-06.
+This customer success position at Walmart was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 
