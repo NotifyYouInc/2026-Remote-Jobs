@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000125422609-systems-engineer-new-college-grad-2026-latam) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000125424329-systems-engineer-new-college-grad-2026-latam) |
 
 ## About This Role
 
-This devops engineer position at Jobs for Humanity was posted on 2026-05-08.
+This devops engineer position at Jobs for Humanity was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

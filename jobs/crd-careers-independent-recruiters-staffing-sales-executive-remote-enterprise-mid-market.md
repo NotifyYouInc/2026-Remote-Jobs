@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CRD Careers (Independent Recruiters)](https://scoutify.ai/companies/crdcareersindependentrecruiters?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | New York City, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CRDCareersIndependentRecruiters/744000117447977-staffing-sales-executive-remote-enterprise-mid-market) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CRDCareersIndependentRecruiters/744000125616229-staffing-sales-executive-remote-enterprise-mid-market) |
 
 ## About This Role
 
-This account executive position at CRD Careers (Independent Recruiters) was posted on 2026-03-28.
+This account executive position at CRD Careers (Independent Recruiters) was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

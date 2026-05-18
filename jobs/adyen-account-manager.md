@@ -1,16 +1,16 @@
-# Account Manager at Adyen
+# Account Manager  at Adyen
 
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Hong Kong, Hong Kong |
 | Category | Account Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7673718) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7912187) |
 
 ## About This Role
 
-This account manager position at Adyen was posted on 2026-03-06.
+This account manager position at Adyen was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

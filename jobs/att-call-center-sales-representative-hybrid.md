@@ -1,16 +1,16 @@
-# Call Center Sales Representative - Hybrid at AT&T
+# Call Center Sales Representative – Hybrid at AT&T
 
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mesa, Arizona, United States |
-| Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Mesa-Arizona/Call-Center-Sales-Representative---Hybrid_R-104089) |
+| Location | Miami, Florida, United States |
+| Category | Business Development |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Miami-Florida/Call-Center-Sales-Representative---Hybrid_R-109442) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-13.
+This business development position at AT&T was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

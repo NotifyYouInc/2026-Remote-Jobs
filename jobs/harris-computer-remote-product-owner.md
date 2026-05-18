@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Alberta, CA |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/British-Columbia-Canada/XMLNAME--Remote--Product-Owner_R0040136-2) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/British-Columbia-Canada/XMLNAME--Remote--Product-Owner_R0043693-2) |
 
 ## About This Role
 
-This product manager position at Harris Computer was posted on 2026-02-17.
+This product manager position at Harris Computer was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

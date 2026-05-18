@@ -5,12 +5,12 @@
 | Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Client-Services-Officer_JR100718) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Client-Services-Officer_JR100778) |
 
 ## About This Role
 
-This customer success position at Hub24management was posted on 2026-04-17.
+This customer success position at Hub24management was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

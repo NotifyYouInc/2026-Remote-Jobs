@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wasilla, Alaska, United States |
+| Location | Skokie, Illinois, United States |
 | Category | Business Development |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAAKWasilla1865-E-Parks-HwyRETRET/Retail-Sales-Consultant_R-107942-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAILSkokie9410-Skokie-BlvdRETRET/Retail-Sales-Consultant_R-107764-1) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-05-07.
+This business development position at AT&T was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

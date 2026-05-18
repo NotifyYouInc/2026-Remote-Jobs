@@ -1,16 +1,16 @@
-# Senior Staff Engineer(Java Lead) at Nagarro
+# Senior Staff Engineer(JAVA Lead) at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | China |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000115578050-senior-staff-engineerjava-lead) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000125652253-senior-staff-engineerjava-lead) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-03-19.
+This software engineer position at Nagarro was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

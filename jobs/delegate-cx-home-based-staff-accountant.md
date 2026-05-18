@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Philippines |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Staff-Accountant_JR104099-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Home-Based-Staff-Accountant_JR104198) |
 
 ## About This Role
 
-This corporate finance position at Delegate CX was posted on 2026-04-21.
+This corporate finance position at Delegate CX was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
