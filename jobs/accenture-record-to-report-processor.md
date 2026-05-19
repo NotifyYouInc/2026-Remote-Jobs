@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Dalian, Liaoning, China |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Record-to-Report-Processor_14354931) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Record-to-Report-Processor_14354925) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-05-11.
+This corporate finance position at Accenture was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

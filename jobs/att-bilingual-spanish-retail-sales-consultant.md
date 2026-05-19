@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Eugene, Oregon, United States |
-| Category | Account Executive |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAOREugene1125-Valley-River-DrRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-109398-2) |
+| Location | Fresno, California, United States |
+| Category | Business Development |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACAFresno5180-N-Blackstone-AveRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-109810) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-05-08.
+This business development position at AT&T was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

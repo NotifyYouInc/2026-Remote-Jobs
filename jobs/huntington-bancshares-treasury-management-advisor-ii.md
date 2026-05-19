@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 3 locations |
 | Category | Account Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Charlotte-NC/Treasury-Management-Advisor-II_R0071376) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Grand-Rapids-MI/Treasury-Management-Advisor-II_R0072246) |
 
 ## About This Role
 
-This account manager position at Huntington Bancshares was posted on 2026-04-20.
+This account manager position at Huntington Bancshares was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

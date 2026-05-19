@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | Michigan, US |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-FL/System-Admin-IV_R167845) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-MI/System-Admin-IV_R172192-1) |
 
 ## About This Role
 
-This it & systems administration position at Ryder System was posted on 2026-03-26.
+This it & systems administration position at Ryder System was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

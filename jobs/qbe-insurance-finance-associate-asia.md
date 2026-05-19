@@ -5,12 +5,12 @@
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Petaling-Jaya-Malaysia/Finance-Associate--Asia_355219) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Petaling-Jaya-Malaysia/Finance-Associate--Asia_355344) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-05-07.
+This corporate finance position at QBE Insurance was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

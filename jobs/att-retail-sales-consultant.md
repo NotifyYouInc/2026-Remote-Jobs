@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Skokie, Illinois, United States |
-| Category | Business Development |
+| Location | New York City, New York, United States |
+| Category | Account Executive |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAILSkokie9410-Skokie-BlvdRETRET/Retail-Sales-Consultant_R-107764-1) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/New-York-New-York/Retail-Sales-Consultant_R-109850) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-05-11.
+This account executive position at AT&T was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

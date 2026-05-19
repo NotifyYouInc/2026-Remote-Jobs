@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 11 locations |
+| Location | Anaheim, California, United States |
 | Category | Customer Success |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Principal-Affera-Mapping-Specialist---CAS_R62035-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Anaheim-California-United-States-of-America/Principal-Affera-Mapping-Specialist---CAS_R66189-1) |
 
 ## About This Role
 
-This customer success position at Medtronic was posted on 2026-03-16.
+This customer success position at Medtronic was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

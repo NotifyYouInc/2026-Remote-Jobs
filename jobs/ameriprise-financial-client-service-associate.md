@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Customer Success |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Los-Angeles-California/Client-Service-Associate_R26_1772-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Seattle-Washington/Client-Service-Associate_R26_1855-1) |
 
 ## About This Role
 
-This customer success position at Ameriprise Financial was posted on 2026-05-06.
+This customer success position at Ameriprise Financial was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Texas, US |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Texas/Senior-Scrum-Master---Release-Train-Engineer_R0017365) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Texas/Senior-Scrum-Master---Release-Train-Engineer_R0017512) |
 
 ## About This Role
 
-This scrum master & agile coach position at CLEAResult was posted on 2026-04-14.
+This scrum master & agile coach position at CLEAResult was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

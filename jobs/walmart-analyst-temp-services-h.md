@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bentonville, Arkansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Main-Home-Office-Building-AR-BENTONVILLE-Home-Office/Analyst--Temp-Services--H-_R-2470312) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Main-Home-Office-Building-AR-BENTONVILLE-Home-Office/Analyst--Temp-Services--H-_R-2501542) |
 
 ## About This Role
 
-This business analyst position at Walmart was posted on 2026-04-14.
+This business analyst position at Walmart was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

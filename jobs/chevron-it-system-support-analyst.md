@@ -5,12 +5,12 @@
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/IT-System-Support-Analyst_R000070365) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/IT-System-Support-Analyst_R000070875-4) |
 
 ## About This Role
 
-This it & systems administration position at Chevron was posted on 2026-04-02.
+This it & systems administration position at Chevron was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sonic Healthcare USA](https://scoutify.ai/companies/shusa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://shusa.wd5.myworkdayjobs.com/External/job/Austin-TX/Customer-Service-Representative-I_REQ-036072) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://shusa.wd5.myworkdayjobs.com/External/job/Austin-TX/Customer-Service-Representative-I_REQ-036254) |
 
 ## About This Role
 
-This customer success position at Sonic Healthcare USA was posted on 2026-04-21.
+This customer success position at Sonic Healthcare USA was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Collibra](https://scoutify.ai/companies/collibra?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Germany |
+| Location | United States |
 | Category | Business Development |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=7842946) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=7867995) |
 
 ## About This Role
 
-This business development position at Collibra was posted on 2026-04-27.
+This business development position at Collibra was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

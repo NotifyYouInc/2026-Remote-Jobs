@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Customer Success |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Infra-Tech-Support-Practitioner_ATCI-5508200-S2010217-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Infra-Tech-Support-Practitioner_ATCI-5548086-S2021613-1) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-04-02.
+This customer success position at Accenture was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
