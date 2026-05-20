@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Just Appraised](https://scoutify.ai/companies/just-appraised?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
-| Category | Frontend Engineer |
-| Posted | 2026-02-18 |
+| Location | California, US |
+| Category | Software Engineer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/just-appraised/jobs/KmLmKMP-senior-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Just Appraised was posted on 2026-02-18.
+This software engineer position at Just Appraised was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

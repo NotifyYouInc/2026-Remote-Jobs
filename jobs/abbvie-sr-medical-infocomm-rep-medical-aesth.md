@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Zhengzhou, Henan, China |
-| Category | Account Executive |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012884906-sr-medical-infocomm-rep-medical-aesth) |
+| Location | Wenzhou, Zhejiang, China |
+| Category | Sales Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013103886-sr-medical-infocomm-rep-medical-aesth) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-30.
+This sales engineer position at AbbVie was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

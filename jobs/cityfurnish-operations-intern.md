@@ -5,12 +5,12 @@
 | Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-22 |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/xdQOfpV-operations-intern) |
 
 ## About This Role
 
-This business analyst position at Cityfurnish was posted on 2026-02-22.
+This business analyst position at Cityfurnish was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

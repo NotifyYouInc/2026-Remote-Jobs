@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Solution-Consultant_JR0037162) |
+| Location | Turkey |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-Turkey/Solution-Consultant_JR0037311) |
 
 ## About This Role
 
-This security engineer position at Trellix was posted on 2026-05-08.
+This technical & solutions architect position at Trellix was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

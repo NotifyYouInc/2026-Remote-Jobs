@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Product Designer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011607766-senior-graphic-designer) |
+| Category | Marketing |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990013102726-senior-graphic-designer) |
 
 ## About This Role
 
-This product designer position at HelloKindred was posted on 2026-02-10.
+This marketing position at HelloKindred was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

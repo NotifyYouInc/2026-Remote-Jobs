@@ -5,12 +5,12 @@
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Las Piñas, National Capital Region, Philippines |
 | Category | Customer Success |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Philippines---Remote/Technical-Support-Engineer_R_2604_5123) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Philippines---Remote/Technical-Support-Engineer_R_2605_6405) |
 
 ## About This Role
 
-This customer success position at TaskUs was posted on 2026-04-12.
+This customer success position at TaskUs was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

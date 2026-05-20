@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | Project Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Adelaide-South-Australia-Australia/Project-Manager_R2121931) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Adelaide-South-Australia-Australia/Project-Manager_R2123575-1) |
 
 ## About This Role
 
-This project manager position at KBR was posted on 2026-04-15.
+This project manager position at KBR was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

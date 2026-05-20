@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Technical Writer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116719227-technical-writer-b2b-saas-remote) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126183899-technical-writer-b2b-saas-remote) |
 
 ## About This Role
 
-This technical writer position at Experian was posted on 2026-03-25.
+This technical writer position at Experian was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

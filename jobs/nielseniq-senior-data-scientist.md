@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000118506366-senior-data-scientist) |
+| Location | Vadodara, Gujarat, India |
+| Category | Data Scientist |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126217879-senior-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at NielsenIQ was posted on 2026-04-02.
+This data scientist position at NielsenIQ was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

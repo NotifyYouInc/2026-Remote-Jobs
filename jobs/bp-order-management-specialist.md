@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Customer Success |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Order-Management-Specialist_RQ110142-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Order-Management-Specialist_RQ110605-1) |
 
 ## About This Role
 
-This customer success position at BP was posted on 2026-05-06.
+This customer success position at BP was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

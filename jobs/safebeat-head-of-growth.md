@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SafeBeat](https://scoutify.ai/companies/safebeat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Business Development |
-| Posted | 2026-02-17 |
+| Category | Growth Marketing |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/safebeat/jobs/52A6Ozi-head-of-growth) |
 
 ## About This Role
 
-This business development position at SafeBeat was posted on 2026-02-17.
+This growth marketing position at SafeBeat was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

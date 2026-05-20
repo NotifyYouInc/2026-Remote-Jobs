@@ -1,16 +1,16 @@
-# Founding UI/UX Design Engineer at Clearly AI
+# Founding UI/UX Design Engineer  at Clearly AI
 
 | Field | Details |
 |-------|---------|
 | Company | [Clearly AI](https://scoutify.ai/companies/clearly-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Product Designer |
-| Posted | 2026-04-05 |
+| Category | Frontend Engineer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/clearly-ai/jobs/F1QnTxg-founding-ui-ux-design-engineer) |
 
 ## About This Role
 
-This product designer position at Clearly AI was posted on 2026-04-05.
+This frontend engineer position at Clearly AI was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

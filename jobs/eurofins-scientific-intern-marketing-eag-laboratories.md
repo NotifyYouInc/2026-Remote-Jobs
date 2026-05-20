@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Marketing |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000125418089-intern-marketing-eag-laboratories) |
+| Location | 2 locations |
+| Category | Growth Marketing |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000126192699-intern-marketing-eag-laboratories) |
 
 ## About This Role
 
-This marketing position at Eurofins Scientific was posted on 2026-05-08.
+This growth marketing position at Eurofins Scientific was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

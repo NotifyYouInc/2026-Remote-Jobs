@@ -5,12 +5,12 @@
 | Company | [Numero](https://scoutify.ai/companies/numero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/numero/jobs/bLIP9PG-senior-software-engineer-backend) |
 
 ## About This Role
 
-This software engineer position at Numero was posted on 2026-02-11.
+This software engineer position at Numero was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

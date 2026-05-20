@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Rochester, New York, United States |
+| Location | California, US |
 | Category | Account Executive |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Pennsylvania-USA/Instrument-Sales-Representative--Human-Identification_R-01347076) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-California-USA/Instrument-Sales-Representative--Human-Identification_R-01351000) |
 
 ## About This Role
 
-This account executive position at Thermo Fisher Scientific was posted on 2026-04-28.
+This account executive position at Thermo Fisher Scientific was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

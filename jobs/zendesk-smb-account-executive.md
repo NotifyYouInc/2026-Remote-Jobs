@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-Mexico-City-Mexico/SMB-Account-Executive_R34379) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Tokyo-Japan/SMB-Account-Executive_R34744-6) |
 
 ## About This Role
 
-This account executive position at Zendesk was posted on 2026-04-03.
+This account executive position at Zendesk was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

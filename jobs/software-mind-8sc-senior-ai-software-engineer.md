@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San José, San José, Costa Rica |
-| Category | AI / LLM Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000124763479-8sc-senior-ai-software-engineer) |
+| Category | AI / ML Research |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000126174115-8sc-senior-ai-software-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Software Mind was posted on 2026-05-06.
+This ai / ml research position at Software Mind was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

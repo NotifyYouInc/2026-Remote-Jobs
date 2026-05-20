@@ -1,16 +1,16 @@
-# Home Based DCX Marketing Trainee at Delegate CX
+# Home-Based DCX Marketing Trainee at Delegate CX
 
 | Field | Details |
 |-------|---------|
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Growth Marketing |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-DCX-Marketing-Trainee_JR104133) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-DCX-Marketing-Trainee_JR104209) |
 
 ## About This Role
 
-This growth marketing position at Delegate CX was posted on 2026-04-24.
+This growth marketing position at Delegate CX was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

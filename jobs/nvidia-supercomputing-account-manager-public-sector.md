@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Albuquerque, New Mexico, United States |
 | Category | Account Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NM-Remote/Supercomputing-Account-Manager--Public-Sector_JR2016354) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NM-Remote/Supercomputing-Account-Manager--Public-Sector_JR2018031) |
 
 ## About This Role
 
-This account manager position at Nvidia was posted on 2026-04-15.
+This account manager position at Nvidia was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

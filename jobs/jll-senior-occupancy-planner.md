@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Senior-Occupancy-Planner_REQ491047) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Business Analyst |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Occupancy-Planner_REQ504842) |
 
 ## About This Role
 
-This strategy / management consulting position at JLL was posted on 2026-03-11.
+This business analyst position at JLL was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

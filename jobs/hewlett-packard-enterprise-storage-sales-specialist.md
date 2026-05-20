@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Nashville, Tennessee, United States |
-| Category | Account Executive |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Tennessee-United-States-of-America/Storage-Sales-Specialist_1206013) |
+| Location | North Carolina, US |
+| Category | Corporate Finance |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-North-Carolina-United-States-of-America/Storage-Sales-Specialist_1206843-2) |
 
 ## About This Role
 
-This account executive position at Hewlett Packard Enterprise was posted on 2026-04-20.
+This corporate finance position at Hewlett Packard Enterprise was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

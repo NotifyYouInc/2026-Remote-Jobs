@@ -5,12 +5,12 @@
 | Company | [Zip Co Limited](https://scoutify.ai/companies/zip-co-limited?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zipcolimited/jobs/4643104006) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zipcolimited/jobs/4680270006) |
 
 ## About This Role
 
-This software engineer position at Zip Co Limited was posted on 2026-03-24.
+This software engineer position at Zip Co Limited was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

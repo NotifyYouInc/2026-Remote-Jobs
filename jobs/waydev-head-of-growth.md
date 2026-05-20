@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waydev](https://scoutify.ai/companies/waydev?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Menlo Park, California, United States |
 | Category | Growth Marketing |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/waydev/jobs/ecnmEt7-head-of-growth) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/waydev-ai/jobs/ecnmEt7-head-of-growth) |
 
 ## About This Role
 
-This growth marketing position at Waydev was posted on 2026-02-22.
+This growth marketing position at Waydev was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

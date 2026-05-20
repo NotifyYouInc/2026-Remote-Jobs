@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clipboard](https://scoutify.ai/companies/clipboard?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Program Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clipboard/3140ff24-cfdc-4f22-a81f-ccac98ef9120) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clipboard/80f1fd1c-7b09-4d6e-9a0b-e234fc9672b8) |
 
 ## About This Role
 
-This program manager position at Clipboard was posted on 2026-04-23.
+This program manager position at Clipboard was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Real Time Analyst Team Lead at Clipboard
+# Real-Time Analyst Team Lead at Clipboard
 
 | Field | Details |
 |-------|---------|
 | Company | [Clipboard](https://scoutify.ai/companies/clipboard?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
-| Category | Business Analyst |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clipboard/2d4a6478-ea39-4e5e-bb0c-dc7d7b14d220) |
+| Category | Operations |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clipboard/c0ae3beb-5214-4d7b-b70d-a67b7938f16f) |
 
 ## About This Role
 
-This business analyst position at Clipboard was posted on 2026-05-09.
+This operations position at Clipboard was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
