@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Account Executive |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/AU-BRISBANE-VIRTUAL/Clinical-Territory-Manager_R01128644-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/AU-MELBOURNE-VIRTUAL/Clinical-Territory-Manager_R01130352) |
 
 ## About This Role
 
-This account executive position at Solventum was posted on 2026-03-06.
+This account executive position at Solventum was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

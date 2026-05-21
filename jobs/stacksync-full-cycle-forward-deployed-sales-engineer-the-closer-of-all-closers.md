@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stacksync](https://scoutify.ai/companies/stacksync?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Business Development |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/stacksync/jobs/9SlDtSw-full-cycle-forward-deployed-sales-engineer-the-closer-of-all-closers) |
+| Category | Sales Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/stacksync/jobs/hG4YjnL-full-cycle-forward-deployed-sales-engineer-the-closer-of-all-closers) |
 
 ## About This Role
 
-This business development position at Stacksync was posted on 2026-03-01.
+This sales engineer position at Stacksync was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

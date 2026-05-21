@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000126214282-wise-platform-enterprise-specialist) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000126452114-wise-platform-enterprise-specialist) |
 
 ## About This Role
 
-This customer success position at WISE was posted on 2026-05-13.
+This customer success position at WISE was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

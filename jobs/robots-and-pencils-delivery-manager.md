@@ -5,12 +5,12 @@
 | Company | [Robots and Pencils](https://scoutify.ai/companies/robots-and-pencils?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Canada |
 | Category | Project Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5218383008) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5219956008) |
 
 ## About This Role
 
-This project manager position at Robots and Pencils was posted on 2026-05-13.
+This project manager position at Robots and Pencils was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

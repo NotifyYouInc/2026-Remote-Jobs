@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Systems-Administrator-Lead_R-00180731-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Systems-Administrator-Lead_R-00182774-1) |
 
 ## About This Role
 
-This it & systems administration position at Leidos was posted on 2026-04-18.
+This it & systems administration position at Leidos was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

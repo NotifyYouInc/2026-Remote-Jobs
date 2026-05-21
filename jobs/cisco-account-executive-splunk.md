@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Indiana, US |
 | Category | Account Executive |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chicago-Illinois-US/Account-Executive---Splunk_2013903-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Remote---Indiana-USA/Account-Executive---Splunk_2012257) |
 
 ## About This Role
 
-This account executive position at Cisco was posted on 2026-05-10.
+This account executive position at Cisco was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

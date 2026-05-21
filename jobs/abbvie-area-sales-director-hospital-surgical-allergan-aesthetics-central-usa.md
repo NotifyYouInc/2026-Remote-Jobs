@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Sales Leadership |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012903396-area-sales-director-hospital-surgical-allergan-aesthetics-central-usa) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013123026-area-sales-director-hospital-surgical-allergan-aesthetics-central-usa) |
 
 ## About This Role
 
-This sales leadership position at AbbVie was posted on 2026-04-30.
+This sales leadership position at AbbVie was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

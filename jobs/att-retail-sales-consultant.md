@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wichita, Kansas, United States |
+| Location | Hawaii, US |
 | Category | Business Development |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAKSWichita2404-N-MaizeRETRET/Retail-Sales-Consultant_R-110006-1) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAHIMililani95-1249-Meheula-PkwyRETRET/Retail-Sales-Consultant_R-110019-1) |
 
 ## About This Role
 

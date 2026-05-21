@@ -1,16 +1,16 @@
-# Senior Strategic Program Manager, AI Factory at Hewlett Packard Enterprise
+# Senior Strategic Program Manager - AI Factory at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Spring, Texas, United States |
+| Location | 3 locations |
 | Category | Program Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Senior-Strategic-Program-Manager--AI-Factory_1203290) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Amsterdam-Netherlands/Senior-Strategic-Program-Manager---AI-Factory_1203287-1) |
 
 ## About This Role
 
-This program manager position at Hewlett Packard Enterprise was posted on 2026-04-23.
+This program manager position at Hewlett Packard Enterprise was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

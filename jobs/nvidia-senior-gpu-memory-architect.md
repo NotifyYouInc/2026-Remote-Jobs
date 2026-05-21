@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-GPU-Memory-Architect_JR2013739) |
+| Location | 4 locations |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-GPU-Memory-Architect_JR2018163) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-02-21.
+This electrical / hardware engineer position at Nvidia was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

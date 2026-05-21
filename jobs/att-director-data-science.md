@@ -1,16 +1,16 @@
-# Director - Data Science at AT&T
+# Director-Data Science at AT&T
 
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Plano, Texas, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Director---Data-Science_R-101193) |
+| Location | Dallas, Texas, United States |
+| Category | Data Scientist |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Director-Data-Science_R-109894-1) |
 
 ## About This Role
 
-This ai / llm engineer position at AT&T was posted on 2026-03-05.
+This data scientist position at AT&T was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

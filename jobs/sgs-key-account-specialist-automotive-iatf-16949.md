@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Account Manager |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000120272388-key-account-specialist-automotive-iatf-16949) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000126407305-key-account-specialist-automotive-iatf-16949) |
 
 ## About This Role
 
-This account manager position at SGS was posted on 2026-04-12.
+This account manager position at SGS was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

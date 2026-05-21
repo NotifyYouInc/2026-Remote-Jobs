@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Connexuscu](https://scoutify.ai/companies/connexuscu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://connexuscu.wd1.myworkdayjobs.com/connexuscareers/job/Remote/Portfolio-Analyst_JR1627) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://connexuscu.wd1.myworkdayjobs.com/connexuscareers/job/Remote/Portfolio-Analyst_JR1638-1) |
 
 ## About This Role
 
-This corporate finance position at Connexuscu was posted on 2026-04-16.
+This asset management / portfolio management position at Connexuscu was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Irvine, California, United States |
+| Location | San Francisco, California, United States |
 | Category | Program Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012420216-senior-technical-program-manager-remote) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013122339-senior-technical-program-manager-remote) |
 
 ## About This Role
 
-This program manager position at AbbVie was posted on 2026-04-01.
+This program manager position at AbbVie was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | Arlington, Texas, United States |
 | Category | Project Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/IT-Project-Manager_RQ215415) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/IT-Project-Manager_RQ219898-1) |
 
 ## About This Role
 
-This project manager position at General Dynamics Information Technology was posted on 2026-03-06.
+This project manager position at General Dynamics Information Technology was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

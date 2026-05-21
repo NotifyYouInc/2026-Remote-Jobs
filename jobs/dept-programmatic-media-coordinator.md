@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 8 locations |
+| Location | Texas, US |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7816316) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7923061) |
 
 ## About This Role
 
-This digital / performance marketing position at DEPT® was posted on 2026-04-14.
+This digital / performance marketing position at DEPT® was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

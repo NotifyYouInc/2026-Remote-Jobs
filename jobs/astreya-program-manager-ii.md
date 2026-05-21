@@ -5,12 +5,12 @@
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mexico |
 | Category | Program Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Mexico/Program-Manager-II_R0015556) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Mexico/Program-Manager-II_R0015565) |
 
 ## About This Role
 
-This program manager position at Astreya was posted on 2026-05-08.
+This program manager position at Astreya was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

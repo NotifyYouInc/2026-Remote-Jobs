@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011880546-senior-customer-success-manager-i-digital) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013124986-senior-customer-success-manager-i-digital) |
 
 ## About This Role
 
-This customer success position at The Nielsen Company was posted on 2026-02-26.
+This customer success position at The Nielsen Company was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

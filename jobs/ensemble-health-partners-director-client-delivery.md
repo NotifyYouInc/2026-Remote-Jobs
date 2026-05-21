@@ -1,16 +1,16 @@
-# Director, Client Delivery at Ensemble Health Partners
+# Director Client Delivery at Ensemble Health Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director--Client-Delivery_R039969-1) |
+| Category | Operations |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director-Client-Delivery_R044705) |
 
 ## About This Role
 
-This customer success position at Ensemble Health Partners was posted on 2026-04-21.
+This operations position at Ensemble Health Partners was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

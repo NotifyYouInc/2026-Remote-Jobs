@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Montgomery, Alabama, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Montgomery-Alabama/Customer-Service-Representative_R242485) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Charlotte-North-Carolina/Customer-Service-Representative_R245045) |
 
 ## About This Role
 
-This customer success position at Uhaul was posted on 2026-04-14.
+This customer success position at Uhaul was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

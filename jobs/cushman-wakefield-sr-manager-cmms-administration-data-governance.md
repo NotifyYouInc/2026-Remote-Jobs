@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Compliance & Risk Management |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Sr-Manager--CMMS-Administration---Data-Governance_R313363) |
+| Location | Cincinnati, Ohio, United States |
+| Category | Privacy & Data Protection |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Cincinnati-Ohio-USA/Sr-Manager--CMMS-Administration---Data-Governance_R320263) |
 
 ## About This Role
 
-This compliance & risk management position at Cushman & Wakefield was posted on 2026-04-07.
+This privacy & data protection position at Cushman & Wakefield was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

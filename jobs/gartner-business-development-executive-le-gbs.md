@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tennessee, US |
+| Location | South Carolina, US |
 | Category | Account Executive |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Tennessee/Business-Development-Executive--LE--GBS_109103) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---South-Carolina/Business-Development-Executive--LE--GBS_107755) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-04-09.
+This account executive position at Gartner was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
