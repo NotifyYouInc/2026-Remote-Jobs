@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amcor](https://scoutify.ai/companies/amcor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oregon, US |
-| Category | Account Executive |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RemoteHome-Washington/Account-Manager_REQ_87328) |
+| Location | New Jersey, US |
+| Category | Account Manager |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RemoteHome-New-Jersey/Account-Manager_REQ_90671) |
 
 ## About This Role
 
-This account executive position at Amcor was posted on 2026-03-12.
+This account manager position at Amcor was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

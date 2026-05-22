@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Riverside, California, United States |
 | Category | Account Executive |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012953776-account-specialist-ai-riverside-ca) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013146036-account-specialist-ai-riverside-ca) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-05-04.
+This account executive position at AbbVie was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

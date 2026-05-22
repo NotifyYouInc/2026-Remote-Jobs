@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Software Engineer |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/0ac730b4-41c0-447d-8486-966f7c21bdc2) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a2615357-b356-4b62-a799-90cb4ebd6c1b) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-05-09.
+This software engineer position at Bjak was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

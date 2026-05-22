@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Porch Group](https://scoutify.ai/companies/porch-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Colorado, US |
-| Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/CO-Remote/Local-Sales-Agent-I--PMG_JR101067) |
+| Category | Business Development |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/CO-Remote/Local-Sales-Agent-I--PMG_JR101243) |
 
 ## About This Role
 
-This account executive position at Porch Group was posted on 2026-02-26.
+This business development position at Porch Group was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

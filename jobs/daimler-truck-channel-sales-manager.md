@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | 2 locations |
 | Category | Channel / Partner Sales |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Channel-Sales-Manager_DT-17299-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Milwaukee-WI-US/Channel-Sales-Manager_DT-17910-2) |
 
 ## About This Role
 
-This channel / partner sales position at Daimler Truck was posted on 2026-03-20.
+This channel / partner sales position at Daimler Truck was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

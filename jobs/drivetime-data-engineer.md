@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DriveTime](https://scoutify.ai/companies/drivetime?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tempe, Arizona, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineer_R15098) |
+| Category | Data Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineer_R15463) |
 
 ## About This Role
 
-This software engineer position at DriveTime was posted on 2026-04-02.
+This data engineer position at DriveTime was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Vietnam |
 | Category | Business Development |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Vietnam-Remote/Sales-Trainee_R-161509) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Vietnam-Remote/Sales-Trainee_R-167568-1) |
 
 ## About This Role
 
-This business development position at Mondelez International was posted on 2026-03-03.
+This business development position at Mondelez International was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

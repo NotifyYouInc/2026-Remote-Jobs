@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | 8 locations |
 | Category | Account Executive |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Las-Vegas-Nevada/Bilingual-Spanish-Field-Sales-Representative_R-107732) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAWARenton--S-Grady-Way-Suite-600707-S-Grady-Way-Suite-600/Bilingual-Spanish-Field-Sales-Representative_R-110353) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-04-21.
+This account executive position at AT&T was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

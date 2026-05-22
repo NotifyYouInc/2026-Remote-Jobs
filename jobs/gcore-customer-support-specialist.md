@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gcore](https://scoutify.ai/companies/gcore?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Poland |
+| Location | Georgia |
 | Category | Customer Success |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000126232670-customer-support-specialist) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000126629609-customer-support-specialist) |
 
 ## About This Role
 
-This customer success position at Gcore was posted on 2026-05-13.
+This customer success position at Gcore was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

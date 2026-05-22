@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Principal--Software-Engineer_R-2375652) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Principal--Software-Engineer_R-2326956) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-05-07.
+This software engineer position at Walmart was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

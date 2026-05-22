@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000125032399-senior-site-reliability-engineer) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126617516-senior-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Grab was posted on 2026-05-07.
+This devops engineer position at Grab was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

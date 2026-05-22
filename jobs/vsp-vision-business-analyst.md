@@ -5,12 +5,12 @@
 | Company | [VSP Vision](https://scoutify.ai/companies/vsp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Business-Analyst_R-9318) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Business-Analyst_R-9498) |
 
 ## About This Role
 
-This business analyst position at VSP Vision was posted on 2026-03-27.
+This business analyst position at VSP Vision was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bathurst, New South Wales, Australia |
 | Category | Customer Success |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012175646-field-technician-ii-bathurst-nsw) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013146467-field-technician-ii-bathurst-nsw) |
 
 ## About This Role
 
-This customer success position at The Nielsen Company was posted on 2026-03-17.
+This customer success position at The Nielsen Company was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

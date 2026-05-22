@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bentonville, Arkansas, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Main-Home-Office-Building-AR-BENTONVILLE-Home-Office/Senior-Analyst--Specialty-Compliance-and-Ethics_R-2462694-2) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Trust-Building-AR-Bentonville-Home-Office/Senior-Analyst--Specialty-Compliance-and-Ethics_R-2504910-1) |
 
 ## About This Role
 
-This compliance & risk management position at Walmart was posted on 2026-04-03.
+This compliance & risk management position at Walmart was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

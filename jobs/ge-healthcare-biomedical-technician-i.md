@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Biomedical-Technician-I_R4037815-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Biomedical-Technician-I_R4040961-1) |
 
 ## About This Role
 
-This customer success position at GE HealthCare was posted on 2026-03-13.
+This customer success position at GE HealthCare was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

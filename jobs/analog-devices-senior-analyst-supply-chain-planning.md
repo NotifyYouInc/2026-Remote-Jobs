@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Wilmington, North Carolina, United States |
-| Category | Operations |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Analyst--Supply-Chain-Planning_R260988) |
+| Category | Business Analyst |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Analyst--Supply-Chain-Planning_R262673) |
 
 ## About This Role
 
-This operations position at Analog Devices was posted on 2026-02-16.
+This business analyst position at Analog Devices was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

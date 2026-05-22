@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nourish](https://scoutify.ai/companies/nourish-usenourish?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | New York City, New York, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/usenourish/jobs/5188993008) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/usenourish/jobs/5221426008) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Nourish was posted on 2026-04-15.
+This talent acquisition / recruiting position at Nourish was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

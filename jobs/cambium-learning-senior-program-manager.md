@@ -5,12 +5,12 @@
 | Company | [Cambium Learning](https://scoutify.ai/companies/cambiumlearning?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Program Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Senior-Program-Manager_REQ-4400) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Senior-Program-Manager_REQ-4459) |
 
 ## About This Role
 
-This program manager position at Cambium Learning was posted on 2026-03-04.
+This program manager position at Cambium Learning was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

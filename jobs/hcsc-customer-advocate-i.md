@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Tulsa, Oklahoma, United States |
 | Category | Customer Success |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Customer-Advocate-I_R0049370) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/OK---Tulsa/Customer-Advocate-I_R0050744) |
 
 ## About This Role
 
-This customer success position at HCSC was posted on 2026-04-15.
+This customer success position at HCSC was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

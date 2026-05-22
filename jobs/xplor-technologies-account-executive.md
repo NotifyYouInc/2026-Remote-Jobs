@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Peoria, Arizona, United States |
+| Location | San Juan Capistrano, California, United States |
 | Category | Account Executive |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000124498839-account-executive) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000126583939-account-executive) |
 
 ## About This Role
 
-This account executive position at Xplor Technologies was posted on 2026-05-04.
+This account executive position at Xplor Technologies was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
