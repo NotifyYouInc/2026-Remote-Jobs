@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Colombia |
+| Location | Brazil |
 | Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Colombia/Amendment-Implementation-Specialist_R-01346945) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Brazil/Amendment-Implementation-Specialist_R-01352819) |
 
 ## About This Role
 
-This customer success position at Thermo Fisher Scientific was posted on 2026-04-14.
+This customer success position at Thermo Fisher Scientific was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

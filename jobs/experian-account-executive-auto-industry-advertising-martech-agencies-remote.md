@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000121072697-account-executive-auto-industry-advertising-martech-agencies-remote) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126768610-account-executive-auto-industry-advertising-martech-agencies-remote) |
 
 ## About This Role
 
-This account executive position at Experian was posted on 2026-04-16.
+This account executive position at Experian was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

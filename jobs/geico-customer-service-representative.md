@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Macon, Georgia, United States |
+| Location | Lakeland, Florida, United States |
 | Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Macon-GA/Customer-Service-Representative_R0063525) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Lakeland-FL/Customer-Service-Representative_R0063970) |
 
 ## About This Role
 
-This customer success position at Geico was posted on 2026-04-21.
+This customer success position at Geico was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

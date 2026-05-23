@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | North Carolina, US |
-| Category | Customer Success |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/NC-Winston-Salem---Remote/Retirement-Plan-Counselor_R0057093) |
+| Location | Boise, Idaho, United States |
+| Category | Financial Advisory & Consulting |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/ID-Boise---Remote/Retirement-Plan-Counselor_R0058877-1) |
 
 ## About This Role
 
-This customer success position at Empower was posted on 2026-03-06.
+This financial advisory & consulting position at Empower was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

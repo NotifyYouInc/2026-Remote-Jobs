@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Ward Law Group PL](https://scoutify.ai/companies/thewardlawgrouppl?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Legal |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWardLawGroupPL/744000123563139-personal-injury-legal-virtual-assistant-remote) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWardLawGroupPL/744000126800019-personal-injury-legal-virtual-assistant-remote) |
 
 ## About This Role
 
-This legal position at The Ward Law Group PL was posted on 2026-04-28.
+This legal position at The Ward Law Group PL was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

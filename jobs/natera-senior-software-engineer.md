@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5664113004) |
+| Category | Software Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5989224004) |
 
 ## About This Role
 
-This devops engineer position at Natera was posted on 2026-02-12.
+This software engineer position at Natera was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

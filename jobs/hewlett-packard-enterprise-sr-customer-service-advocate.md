@@ -1,16 +1,16 @@
-# Sr Customer Service Advocate at Hewlett Packard Enterprise
+# Sr. Customer Service Advocate at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | National Capital Region, PH |
 | Category | Customer Success |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Taguig-City-National-Capital-Region-Manila-Philippines/Sr-Customer-Service-Advocate_1202115) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Taguig-City-National-Capital-Region-Manila-Philippines/Sr-Customer-Service-Advocate_1202178) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-05-12.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

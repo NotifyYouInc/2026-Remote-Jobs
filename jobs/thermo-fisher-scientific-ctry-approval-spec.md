@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Argentina |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Beijing-China/Ctry-Approval-Spec_R-01345936) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Argentina/Country-Approval-Specialist_R-01352855) |
 
 ## About This Role
 
-This compliance & risk management position at Thermo Fisher Scientific was posted on 2026-03-25.
+This compliance & risk management position at Thermo Fisher Scientific was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

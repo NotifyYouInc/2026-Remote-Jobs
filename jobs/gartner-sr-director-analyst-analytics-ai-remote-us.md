@@ -1,16 +1,16 @@
-# Sr Director Analyst - Analytics & AI (Remote US) at Gartner
+# Sr Director Analyst, Analytics & AI (Remote US) at Gartner
 
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Texas, US |
-| Category | AI / ML Research |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Texas/Sr-Director-Analyst---Analytics---AI--Remote-US-_108839-1) |
+| Category | Data Analyst |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Texas/Sr-Director-Analyst--Analytics---AI--Remote-US-_109978) |
 
 ## About This Role
 
-This ai / ml research position at Gartner was posted on 2026-04-29.
+This data analyst position at Gartner was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

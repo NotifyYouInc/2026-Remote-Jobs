@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Technical Writer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Writer_R-00177636) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Writer_R-00182714-1) |
 
 ## About This Role
 
-This technical writer position at Leidos was posted on 2026-03-13.
+This technical writer position at Leidos was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

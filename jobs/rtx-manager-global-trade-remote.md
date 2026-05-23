@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Connecticut, US |
+| Location | Not specified |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-REMOTE/Manager--Global-Trade--Remote-_01840008-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-REMOTE/Manager--Global-Trade--Remote-_01846109) |
 
 ## About This Role
 
-This compliance & risk management position at RTX was posted on 2026-04-22.
+This compliance & risk management position at RTX was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

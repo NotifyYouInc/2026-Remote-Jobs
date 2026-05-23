@@ -5,12 +5,12 @@
 | Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Sales Leadership |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5183043008) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5222913008) |
 
 ## About This Role
 
-This sales leadership position at Roo was posted on 2026-04-10.
+This sales leadership position at Roo was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Senior-Data-Scientist_R0116117) |
+| Category | Data Scientist |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Senior-Data-Scientist_R0117789) |
 
 ## About This Role
 
-This machine learning engineer position at USAA was posted on 2026-03-09.
+This data scientist position at USAA was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

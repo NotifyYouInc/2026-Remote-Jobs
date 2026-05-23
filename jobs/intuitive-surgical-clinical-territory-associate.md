@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dayton, Ohio, United States |
-| Category | Account Executive |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000124189439-clinical-territory-associate) |
+| Location | Los Angeles, California, United States |
+| Category | Business Development |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000126767349-clinical-territory-associate) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-05-01.
+This business development position at Intuitive Surgical was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

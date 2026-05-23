@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Peru |
 | Category | Project Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Argentina/Associate-Project-Manager---Language-Services_R-01346299) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Peru/Associate-Project-Manager---Language-Services_R-01352609) |
 
 ## About This Role
 
-This project manager position at Thermo Fisher Scientific was posted on 2026-03-26.
+This project manager position at Thermo Fisher Scientific was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
