@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Redmond, Washington, United States |
 | Category | Data Analyst |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Summer-Intern-2_JR107108-1) |
+| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Summer-Intern-2_JR107218-1) |
 
 ## About This Role
 

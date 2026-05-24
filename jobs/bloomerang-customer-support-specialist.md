@@ -1,16 +1,16 @@
-# Associate Staff Engineer at Nagarro
+# Customer Support Specialist at Bloomerang
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Software Engineer |
+| Company | [Bloomerang](https://scoutify.ai/companies/bloomerang?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Customer Success |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126807679-associate-staff-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bloomerang/jobs/4640022005) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-05-16.
+This customer success position at Bloomerang was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

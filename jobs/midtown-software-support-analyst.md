@@ -1,16 +1,16 @@
-# Caseworker at Cencora
+# Software Support Analyst at Midtown
 
 | Field | Details |
 |-------|---------|
-| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
+| Company | [Midtown](https://scoutify.ai/companies/midtown?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Customer Success |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-ON/Caseworker_R268566) |
+| Apply | [View on company site](https://midtown.wd1.myworkdayjobs.com/midtown_careers/job/Chicago-IL/Software-Support-Analyst_R-6688-1) |
 
 ## About This Role
 
-This customer success position at Cencora was posted on 2026-05-15.
+This customer success position at Midtown was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

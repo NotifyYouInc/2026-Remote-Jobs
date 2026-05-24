@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | China |
-| Category | Frontend Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000114525282-staff-engineer) |
+| Location | India |
+| Category | Software Engineer |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126806769-staff-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Nagarro was posted on 2026-03-13.
+This software engineer position at Nagarro was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

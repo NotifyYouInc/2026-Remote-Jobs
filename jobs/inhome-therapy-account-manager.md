@@ -1,16 +1,16 @@
-# Associate Staff Engineer at Nagarro
+# Account Manager at InHome Therapy
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Software Engineer |
+| Company | [InHome Therapy](https://scoutify.ai/companies/inhome-therapy?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Texas, US |
+| Category | Account Manager |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126807679-associate-staff-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/inhometherapy/jobs/5138443007) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-05-16.
+This account manager position at InHome Therapy was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

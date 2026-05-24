@@ -1,16 +1,16 @@
-# Caseworker at Cencora
+# Data Science Graduate Student Intern at Docugami
 
 | Field | Details |
 |-------|---------|
-| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
-| Category | Customer Success |
+| Company | [Docugami](https://scoutify.ai/companies/docugami-125579?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | France |
+| Category | AI / ML Research |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-ON/Caseworker_R268566) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/docugami/jobs/6639057003) |
 
 ## About This Role
 
-This customer success position at Cencora was posted on 2026-05-15.
+This ai / ml research position at Docugami was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Caseworker at Cencora
+# Sr. Strategic Partnerships Manager at Updater
 
 | Field | Details |
 |-------|---------|
-| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
-| Category | Customer Success |
+| Company | [Updater](https://scoutify.ai/companies/updater?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Business Development |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-ON/Caseworker_R268566) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/updater/jobs/7927615) |
 
 ## About This Role
 
-This customer success position at Cencora was posted on 2026-05-15.
+This business development position at Updater was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

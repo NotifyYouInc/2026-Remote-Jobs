@@ -1,16 +1,16 @@
-# Release Train Engineer (RTE) – MID at General Dynamics Information Technology
+# Organizational Change Management Specialist at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
-| Category | Scrum Master & Agile Coach |
+| Location | United States |
+| Category | Business Analyst |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Release-Train-Engineer--RTE----MID_RQ220170) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Organizational-Change-Management-Specialist_RQ219978-1) |
 
 ## About This Role
 
-This scrum master & agile coach position at General Dynamics Information Technology was posted on 2026-05-17.
+This business analyst position at General Dynamics Information Technology was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

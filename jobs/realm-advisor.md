@@ -1,16 +1,16 @@
-# Associate Staff Engineer at Nagarro
+# Advisor at Realm
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Software Engineer |
+| Company | [Realm](https://scoutify.ai/companies/realm-realm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | 2 locations |
+| Category | Account Executive |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126807679-associate-staff-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/realm/jobs/4696235005) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-05-16.
+This account executive position at Realm was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

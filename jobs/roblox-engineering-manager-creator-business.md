@@ -1,16 +1,16 @@
-# Associate Staff Engineer at Nagarro
+# Engineering Manager - Creator Business at Roblox
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Software Engineer |
+| Company | [Roblox](https://scoutify.ai/companies/roblox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | San Mateo, California, United States |
+| Category | Engineering Manager |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126807679-associate-staff-engineer) |
+| Apply | [View on company site](https://careers.roblox.com/jobs/7931896?gh_jid=7931896) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-05-16.
+This engineering manager position at Roblox was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Associate Staff Engineer at Nagarro
+# Software Engineer, User Operations at Cursor
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
+| Company | [Cursor](https://scoutify.ai/companies/cursor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
 | Category | Software Engineer |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126807679-associate-staff-engineer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-05-16.
+This software engineer position at Cursor was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

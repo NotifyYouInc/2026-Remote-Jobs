@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Scientist |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000125419700-associate-data-scientist-new-college-grad-2026) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000126848089-associate-data-scientist-new-college-grad-2026) |
 
 ## About This Role
 
-This data scientist position at Jobs for Humanity was posted on 2026-05-08.
+This data scientist position at Jobs for Humanity was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

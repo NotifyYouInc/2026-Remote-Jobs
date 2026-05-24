@@ -1,16 +1,16 @@
-# Caseworker at Cencora
+# Chief Sales Officer at Healthaxis
 
 | Field | Details |
 |-------|---------|
-| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
-| Category | Customer Success |
+| Company | [Healthaxis](https://scoutify.ai/companies/healthaxis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Sales Leadership |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-ON/Caseworker_R268566) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/healthaxis/2a40a830-599b-4ade-b19b-291f1bbff870) |
 
 ## About This Role
 
-This customer success position at Cencora was posted on 2026-05-15.
+This sales leadership position at Healthaxis was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
