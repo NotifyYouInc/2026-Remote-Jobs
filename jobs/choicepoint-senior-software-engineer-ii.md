@@ -5,12 +5,12 @@
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Australia---Sydney/Senior-Software-Engineer-II_R111629) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Australia---Sydney/Senior-Software-Engineer-II_R111380-3) |
 
 ## About This Role
 
-This software engineer position at ChoicePoint was posted on 2026-04-30.
+This software engineer position at ChoicePoint was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

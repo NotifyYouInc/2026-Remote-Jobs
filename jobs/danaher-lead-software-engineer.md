@@ -1,16 +1,16 @@
-# Lead Software Engineer at Danaher
+# Lead software Engineer at Danaher
 
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Lead-Software-Engineer_R1311576-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Lead-software-Engineer_R1310882) |
 
 ## About This Role
 
-This software engineer position at Danaher was posted on 2026-05-15.
+This software engineer position at Danaher was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

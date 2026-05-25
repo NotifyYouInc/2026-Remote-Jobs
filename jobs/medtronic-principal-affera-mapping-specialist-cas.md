@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 6 locations |
 | Category | Sales Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Washington-United-States-of-America/Principal-Affera-Mapping-Specialist---CAS_R67235-1) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Arizona-United-States-of-America/Principal-Affera-Mapping-Specialist---CAS_R67233) |
 
 ## About This Role
 
-This sales engineer position at Medtronic was posted on 2026-05-15.
+This sales engineer position at Medtronic was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

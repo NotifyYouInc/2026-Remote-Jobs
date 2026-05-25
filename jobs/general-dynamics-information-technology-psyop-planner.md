@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Nebraska, US |
+| Location | Florida, US |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NE-Offutt-AFB/PSYOP-Planner_RQ219584) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/PSYOP-Planner_RQ220183-1) |
 
 ## About This Role
 
-This strategy / management consulting position at General Dynamics Information Technology was posted on 2026-05-08.
+This strategy / management consulting position at General Dynamics Information Technology was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

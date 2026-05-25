@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [New Relic](https://scoutify.ai/companies/new-relic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Account Executive |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5155778008) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5222090008) |
 
 ## About This Role
 
-This account executive position at New Relic was posted on 2026-04-27.
+This account executive position at New Relic was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

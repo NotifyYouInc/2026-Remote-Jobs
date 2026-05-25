@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | China |
 | Category | Account Executive |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Remote/Medical-Representative_31148956-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China--Remote/Medical-Representative_31150484-1) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-05-06.
+This account executive position at Abbott was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | South San Francisco, California, United States |
 | Category | Account Executive |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013169636-account-specialist-anti-infectives-east-bay-ca) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013169806-account-specialist-anti-infectives-east-bay-ca) |
 
 ## About This Role
 

@@ -6,7 +6,7 @@
 | Location | Torrance, California, United States |
 | Category | Account Executive |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013169676-account-specialist-anti-infectives-torrance-ca) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013169766-account-specialist-anti-infectives-torrance-ca) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Virginia, US |
-| Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Crystal-City/Senior-Data-Engineer_RQ216242-2) |
+| Location | Falls Church, Virginia, United States |
+| Category | Data Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/Senior-Data-Engineer_RQ220098-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-03-09.
+This data engineer position at General Dynamics Information Technology was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Customer Success |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Australia---Sydney---New-South-Wales/Technical-Application-Support-Specialist_R0026066) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Australia---Sydney---New-South-Wales/Technical-Application-Support-Specialist_R0026065) |
 
 ## About This Role
 
-This customer success position at Nasdaq was posted on 2026-05-15.
+This customer success position at Nasdaq was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
