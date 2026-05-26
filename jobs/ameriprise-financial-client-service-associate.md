@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Customer Success |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Seattle-Washington/Client-Service-Associate_R26_1855-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Atlanta-Georgia/Client-Service-Associate_R26_1950) |
 
 ## About This Role
 
-This customer success position at Ameriprise Financial was posted on 2026-05-11.
+This customer success position at Ameriprise Financial was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

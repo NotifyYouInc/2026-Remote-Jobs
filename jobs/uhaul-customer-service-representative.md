@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Portsmouth, Virginia, United States |
 | Category | Customer Success |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Charlotte-North-Carolina/Customer-Service-Representative_R245045) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Portsmouth-New-Hampshire/Customer-Service-Representative_R245448) |
 
 ## About This Role
 
-This customer success position at Uhaul was posted on 2026-05-13.
+This customer success position at Uhaul was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

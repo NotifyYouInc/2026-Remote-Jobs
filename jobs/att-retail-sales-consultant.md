@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Rosenberg, Texas, United States |
+| Location | Janesville, Wisconsin, United States |
 | Category | Business Development |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXRosenberg2727-Mercantile-DrRETRET/Retail-Sales-Consultant_R-109248-2) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAWIJanesville3131-Milton-AveRETRET/Retail-Sales-Consultant_R-109231-2) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-05-15.
+This business development position at AT&T was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

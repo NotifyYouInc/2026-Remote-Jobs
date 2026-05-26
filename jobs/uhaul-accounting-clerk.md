@@ -5,12 +5,12 @@
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Accounting-Clerk_R245050) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Accounting-Clerk_R245449) |
 
 ## About This Role
 
-This corporate finance position at Uhaul was posted on 2026-05-13.
+This corporate finance position at Uhaul was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

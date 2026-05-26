@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
+| Location | Vienna, Virginia, United States |
 | Category | Customer Success |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111723345-principal-customer-success-manager) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000127080829-principal-customer-success-manager) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-02-26.
+This customer success position at ServiceNow was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

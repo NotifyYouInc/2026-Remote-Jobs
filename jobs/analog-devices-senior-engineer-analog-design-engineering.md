@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Senior-Engineer--Analog-Design-Engineering_R261315-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Engineer--Analog-Design-Engineering_R262761) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-03-03.
+This semiconductor / chip design position at Analog Devices was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

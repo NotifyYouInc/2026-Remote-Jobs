@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Turkey |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-Turkey/Solution-Consultant_JR0037311) |
+| Location | United States |
+| Category | Mobile Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Solution-Consultant_JR0037168) |
 
 ## About This Role
 
-This technical & solutions architect position at Trellix was posted on 2026-05-13.
+This mobile engineer position at Trellix was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [TQG](https://scoutify.ai/companies/tqg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Germany |
 | Category | Marketing |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4705428101) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4865831101) |
 
 ## About This Role
 
-This marketing position at TQG was posted on 2026-05-11.
+This marketing position at TQG was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

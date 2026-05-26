@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Operations |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117054018-sales-operations-senior-deal-desk-specialist-remote) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127077099-sales-operations-senior-deal-desk-specialist-remote) |
 
 ## About This Role
 
-This operations position at Experian was posted on 2026-03-26.
+This operations position at Experian was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

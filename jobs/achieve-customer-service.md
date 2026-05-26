@@ -5,12 +5,12 @@
 | Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tempe, Arizona, United States |
 | Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990012492716-customer-service) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990013192406-customer-service) |
 
 ## About This Role
 
-This customer success position at Achieve was posted on 2026-04-07.
+This customer success position at Achieve was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

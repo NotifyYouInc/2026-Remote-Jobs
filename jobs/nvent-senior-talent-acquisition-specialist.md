@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Minnesota, US |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/St-Louis-Park-MN-US/Senior-Talent-Acquisition-Specialist_R21502) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Monterrey-MX/Senior-Talent-Acquisition-Specialist_R21462) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at nVent was posted on 2026-04-22.
+This talent acquisition / recruiting position at nVent was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

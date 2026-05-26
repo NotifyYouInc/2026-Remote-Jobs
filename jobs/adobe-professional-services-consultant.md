@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Sydney/Professional-Services-Consultant_R167831-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Singapore/Professional-Services-Consultant_R168940) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-04-23.
+This customer success position at Adobe was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Account Executive |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000126761658-national-account-director-infectious-diseases-antimicrobial-resistance) |
+| Location | Dallas, Texas, United States |
+| Category | Account Manager |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000127078229-national-account-director-infectious-diseases-antimicrobial-resistance) |
 
 ## About This Role
 
-This account executive position at EVERSANA was posted on 2026-05-15.
+This account manager position at EVERSANA was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

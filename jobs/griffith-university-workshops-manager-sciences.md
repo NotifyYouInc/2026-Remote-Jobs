@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Griffith University](https://scoutify.ai/companies/griffith-university?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Southport, Queensland, Australia |
+| Location | Nathan, Queensland, Australia |
 | Category | Engineering Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/griffithuniversity/744000125619303-workshops-manager-sciences) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/griffithuniversity/744000127079589-workshops-manager-sciences) |
 
 ## About This Role
 
-This engineering manager position at Griffith University was posted on 2026-05-11.
+This engineering manager position at Griffith University was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

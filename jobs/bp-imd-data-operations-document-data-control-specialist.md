@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/IMD-Data-Operations---Document---Data-Control-Specialist_RQ107703-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/IMD-Data-Operations---Document---Data-Control-Specialist_RQ107528-1) |
 
 ## About This Role
 
-This business analyst position at BP was posted on 2026-03-13.
+This business analyst position at BP was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

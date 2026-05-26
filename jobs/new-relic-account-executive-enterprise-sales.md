@@ -1,16 +1,16 @@
-#  Account Executive - Enterprise Sales at New Relic
+# Account Executive - Enterprise Sales at New Relic
 
 | Field | Details |
 |-------|---------|
 | Company | [New Relic](https://scoutify.ai/companies/new-relic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Toronto, Ontario, Canada |
 | Category | Account Executive |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5142016008) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5224395008) |
 
 ## About This Role
 
-This account executive position at New Relic was posted on 2026-05-01.
+This account executive position at New Relic was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

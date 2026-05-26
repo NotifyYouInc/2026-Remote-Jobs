@@ -1,0 +1,22 @@
+# Relationship Manager, Business Banking at Wintrust
+
+| Field | Details |
+|-------|---------|
+| Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Barrington, Rhode Island, United States |
+| Category | Account Manager |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Barrington-IL/Relationship-Manager--Business-Banking_26967) |
+
+## About This Role
+
+This account manager position at Wintrust was posted on 2026-05-18.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

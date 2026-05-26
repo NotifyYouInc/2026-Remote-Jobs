@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | Massachusetts, US |
 | Category | Data Scientist |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Work-from-hom/Lead-Decision-Scientist_R0880525) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Work-from-home/Lead-Decision-Scientist_R0911323) |
 
 ## About This Role
 
-This data scientist position at CVS Health was posted on 2026-04-16.
+This data scientist position at CVS Health was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

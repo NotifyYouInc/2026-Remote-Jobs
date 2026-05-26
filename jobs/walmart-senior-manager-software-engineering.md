@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Senior-Manager--Software-Engineering_R-2440459) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior-Manager--Software-Engineering_R-2444651-1) |
 
 ## About This Role
 
-This engineering manager position at Walmart was posted on 2026-04-21.
+This engineering manager position at Walmart was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

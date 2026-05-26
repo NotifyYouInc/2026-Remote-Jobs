@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | San Jose, California, United States |
 | Category | Account Executive |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Inside-Sales-Representative_R242902) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CA-San-Jose-California-Metro-Dr/Inside-Sales-Representative_R243143) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-05-15.
+This account executive position at Arrow Electronics was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

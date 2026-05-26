@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cleveland, Ohio, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/CHI---Lasalle-Office-Bo/Credit-Analyst_R0071455-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Atlanta-GA/Credit-Analyst_R0072208) |
 
 ## About This Role
 
-This corporate finance position at Huntington Bancshares was posted on 2026-05-07.
+This corporate finance position at Huntington Bancshares was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
