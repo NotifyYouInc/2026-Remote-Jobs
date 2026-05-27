@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Portsmouth, Virginia, United States |
+| Location | Cedar Hill, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Portsmouth-New-Hampshire/Customer-Service-Representative_R245448) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Cedar-Hill-Texas/Customer-Service-Representative_R245517) |
 
 ## About This Role
 
-This customer success position at Uhaul was posted on 2026-05-18.
+This customer success position at Uhaul was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

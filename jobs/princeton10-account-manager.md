@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Princeton10](https://scoutify.ai/companies/princeton10?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Seattle, Washington, United States |
 | Category | Account Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.lever.co/princeton10/2cf10e25-1767-4fcd-a8fb-2faca2ac672d) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.lever.co/princeton10/1f316dfc-07e8-404e-be91-aa0d80f3f858) |
 
 ## About This Role
 
-This account manager position at Princeton10 was posted on 2026-05-06.
+This account manager position at Princeton10 was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

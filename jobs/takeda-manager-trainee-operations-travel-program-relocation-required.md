@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgia, US |
+| Location | Florida, US |
 | Category | Leadership Development Program |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Georgia---Virtual/Manager-Trainee---Operations--Travel-Program--Relocation-Required-_R0180474) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Florida---Virtual/Manager-Trainee---Operations--Travel-Program--Relocation-Required-_R0180588-1) |
 
 ## About This Role
 
-This leadership development program position at Takeda was posted on 2026-05-19.
+This leadership development program position at Takeda was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

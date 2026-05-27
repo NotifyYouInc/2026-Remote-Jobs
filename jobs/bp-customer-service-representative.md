@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Customer Success |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Customer-Service-Representative_RQ109839) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Customer-Service-Representative_RQ109403-1) |
 
 ## About This Role
 
-This customer success position at BP was posted on 2026-04-27.
+This customer success position at BP was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

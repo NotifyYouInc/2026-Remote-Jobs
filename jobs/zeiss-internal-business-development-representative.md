@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arkansas, US |
+| Location | Kentucky, US |
 | Category | Business Development |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-KY/Internal-Business-Development-Representative_JR_1047944) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-KY/Internal-Business-Development-Representative_JR_1049613) |
 
 ## About This Role
 
-This business development position at Zeiss was posted on 2026-03-21.
+This business development position at Zeiss was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

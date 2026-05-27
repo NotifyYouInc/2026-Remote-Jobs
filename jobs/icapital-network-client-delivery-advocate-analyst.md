@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iCapital Network](https://scoutify.ai/companies/icapitalnetwork?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | Stamford, Connecticut, United States |
 | Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8472234002) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8548295002) |
 
 ## About This Role
 
-This customer success position at iCapital Network was posted on 2026-03-26.
+This customer success position at iCapital Network was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

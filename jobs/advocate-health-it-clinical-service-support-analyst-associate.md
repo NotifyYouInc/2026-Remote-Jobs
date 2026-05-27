@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arkansas, US |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Remote/IT-Clinical-Service-Support-Analyst-Associate_R223728) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Remote/IT-Clinical-Service-Support-Analyst-Associate_R242669) |
 
 ## About This Role
 
-This customer success position at Advocate Health was posted on 2026-03-10.
+This customer success position at Advocate Health was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

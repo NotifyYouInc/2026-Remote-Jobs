@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Kolkata-West-Bengal-India/Sales-Representative-III_R61687-2) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bangkok-Bangkok-Thailand/Sales-Representative-III_R67421-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-03-13.
+This account executive position at Medtronic was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

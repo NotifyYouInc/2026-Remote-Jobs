@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cairns, Queensland, Australia |
+| Location | United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Cairns-Queensland-Australia/Systems-Administrator_R-00177123) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Systems-Administrator_R-00182647-1) |
 
 ## About This Role
 
-This it & systems administration position at Leidos was posted on 2026-03-24.
+This it & systems administration position at Leidos was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

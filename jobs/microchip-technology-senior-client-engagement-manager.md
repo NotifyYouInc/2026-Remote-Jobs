@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | District of Columbia, US |
-| Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/VA---Home-Office/Senior-Client-Engagement-Manager_R1011-26) |
+| Location | Wisconsin, US |
+| Category | Account Manager |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/WI---Home-Office/Senior-Client-Engagement-Manager_R2076-26) |
 
 ## About This Role
 
-This account executive position at Microchip Technology was posted on 2026-03-10.
+This account manager position at Microchip Technology was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

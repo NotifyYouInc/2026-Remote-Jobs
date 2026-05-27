@@ -1,16 +1,16 @@
-# Title Express Processor - (Remote) at Copart
+# Title Express Processor (Remote) at Copart
 
 | Field | Details |
 |-------|---------|
 | Company | [Copart](https://scoutify.ai/companies/copart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Virtual/Title-Express-Processor----Remote-_JR108288) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Virtual/Title-Express-Processor--Remote-_JR107902) |
 
 ## About This Role
 
-This customer success position at Copart was posted on 2026-04-07.
+This customer success position at Copart was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

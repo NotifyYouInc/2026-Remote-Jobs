@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Account Executive |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bangkok-Bangkok-Thailand/Sales-Representative-II_R63001-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bangkok-Bangkok-Thailand/Sales-Representative-II_R67420-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-04-01.
+This account executive position at Medtronic was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Indigo Books & Music](https://scoutify.ai/companies/indigobooksmusic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000110246695-manager-human-resources-home-office) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000127269672-manager-human-resources-home-office) |
 
 ## About This Role
 
-This human resources / people ops position at Indigo Books & Music was posted on 2026-02-19.
+This human resources / people ops position at Indigo Books & Music was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [World Kinect](https://scoutify.ai/companies/wfscorp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Miami, Florida, United States |
 | Category | Business Development |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL-Remote/Sales-Intern_R22523) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL-Remote/Sales-Intern_R22522-1) |
 
 ## About This Role
 
-This business development position at World Kinect was posted on 2026-05-02.
+This business development position at World Kinect was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Frontend Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist_R167735) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist_R168846-1) |
 
 ## About This Role
 
-This frontend engineer position at Adobe was posted on 2026-04-15.
+This software engineer position at Adobe was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

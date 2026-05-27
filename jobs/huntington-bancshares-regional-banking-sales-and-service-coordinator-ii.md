@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Dallas, Texas, United States |
 | Category | Account Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Houston-TX/Regional-Banking-Sales-and-Service-Coordinator-II_R0069407) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Dallas-TX/Regional-Banking-Sales-and-Service-Coordinator-II_R0072190) |
 
 ## About This Role
 
-This account manager position at Huntington Bancshares was posted on 2026-02-18.
+This account manager position at Huntington Bancshares was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

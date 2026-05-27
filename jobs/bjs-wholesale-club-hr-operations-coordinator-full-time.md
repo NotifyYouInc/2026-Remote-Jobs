@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BJ's Wholesale Club](https://scoutify.ai/companies/bj-s-wholesale-club?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Voorhees, New Jersey, United States |
+| Location | Allentown, Pennsylvania, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://bjswholesaleclub.wd1.myworkdayjobs.com/bjscareers/job/Voorhees-NJ-0153/HR-Operations-Coordinator-Full-Time_R236992) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://bjswholesaleclub.wd1.myworkdayjobs.com/bjscareers/job/Allentown-PA-0021/HR-Operations-Coordinator-Full-Time_R238226) |
 
 ## About This Role
 
-This human resources / people ops position at BJ's Wholesale Club was posted on 2026-05-08.
+This human resources / people ops position at BJ's Wholesale Club was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

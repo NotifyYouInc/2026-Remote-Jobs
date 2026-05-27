@@ -5,12 +5,12 @@
 | Company | [Blueprint Technologies](https://scoutify.ai/companies/blueprint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | QA Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bpcs/jobs/7923241) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bpcs/jobs/7944249) |
 
 ## About This Role
 
-This qa engineer position at Blueprint Technologies was posted on 2026-05-13.
+This qa engineer position at Blueprint Technologies was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

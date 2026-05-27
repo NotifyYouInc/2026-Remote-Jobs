@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Business Development |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACARichmond4250-Macdonald-AveRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-110007-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAPAPhiladelphia2107B-Cottman-AveRETRET/Bilingual-Spanish-Retail-Sales-Consultant_R-108940-2) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-05-14.
+This business development position at AT&T was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

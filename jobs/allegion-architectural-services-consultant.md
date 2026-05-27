@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allegion](https://scoutify.ai/companies/allegion?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | District of Columbia, US |
-| Category | Account Executive |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://allegion.wd5.myworkdayjobs.com/careers/job/Remote-Pennsylvania/Architectural-Services-Consultant_JR35652) |
+| Location | Maryland, US |
+| Category | Implementation / Professional Services |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://allegion.wd5.myworkdayjobs.com/careers/job/Remote-New-York/Architectural-Services-Consultant_JR36222) |
 
 ## About This Role
 
-This account executive position at Allegion was posted on 2026-03-25.
+This implementation / professional services position at Allegion was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

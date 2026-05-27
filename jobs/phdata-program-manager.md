@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [phData](https://scoutify.ai/companies/phdata?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | India |
 | Category | Program Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7233909) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7906826) |
 
 ## About This Role
 
-This program manager position at phData was posted on 2026-02-06.
+This program manager position at phData was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

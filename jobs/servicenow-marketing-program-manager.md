@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Program Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113582607-marketing-program-manager) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000127307714-marketing-program-manager) |
 
 ## About This Role
 
-This program manager position at ServiceNow was posted on 2026-03-09.
+This program manager position at ServiceNow was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

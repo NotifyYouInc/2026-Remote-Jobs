@@ -5,12 +5,12 @@
 | Company | [Recruitis](https://scoutify.ai/companies/recruitis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/recruitis/jobs/8546932002) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/recruitis/jobs/8557621002) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Recruitis was posted on 2026-05-13.
+This talent acquisition / recruiting position at Recruitis was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
