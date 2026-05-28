@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Virginia, US |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Electrical-Engineer-FPGA-ASIC---Level-3-4---Dulles_R10226650) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Electrical-Engineer-FPGA-ASIC---Level-3-4---Dulles_R10233745) |
 
 ## About This Role
 
-This semiconductor / chip design position at Northrop Grumman was posted on 2026-03-19.
+This electrical / hardware engineer position at Northrop Grumman was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Santa Barbara, California, United States |
 | Category | Business Development |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAFLOrlando707-N-Alafaya-TrRETRET/Bilingual-Spanish-Part-Time-Retail-Sales-Consultant_R-105598-2) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACASanta-Barbara101-S-La-Cumbre-RdRETRET/Bilingual-Spanish-Part-Time-Retail-Sales-Consultant_R-102492) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-05-18.
+This business development position at AT&T was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

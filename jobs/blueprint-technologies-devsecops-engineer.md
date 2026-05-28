@@ -5,12 +5,12 @@
 | Company | [Blueprint Technologies](https://scoutify.ai/companies/blueprint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bpcs/jobs/7923263) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bpcs/jobs/7948344) |
 
 ## About This Role
 
-This devops engineer position at Blueprint Technologies was posted on 2026-05-13.
+This devops engineer position at Blueprint Technologies was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

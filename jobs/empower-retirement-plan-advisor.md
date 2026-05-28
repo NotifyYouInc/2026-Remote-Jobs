@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Louisville, Kentucky, United States |
-| Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KY-Louisville---Remote/Retirement-Plan-Advisor_R0057659) |
+| Location | Plymouth, Minnesota, United States |
+| Category | Financial Advisory & Consulting |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/MA-Plymouth-Remote/Retirement-Plan-Advisor_R0058969) |
 
 ## About This Role
 
-This account executive position at Empower was posted on 2026-03-30.
+This financial advisory & consulting position at Empower was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

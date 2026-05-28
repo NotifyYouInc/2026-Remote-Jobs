@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Jose, California, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Customer Success |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Engagement-Executive_R167849) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Chicago/Principal-Engagement-Executive_R169022) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-04-16.
+This customer success position at Adobe was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

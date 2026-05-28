@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 7 locations |
+| Location | 8 locations |
 | Category | Customer Success |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Work-From-Home---Senior-Complaints-Coordinator--CRT---Customer-Resolution-Team-_R237531-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Work-From-Home---Senior-Complaints-Coordinator--CRT---Customer-Resolution-Team-_R243040-1) |
 
 ## About This Role
 
-This customer success position at Capital One was posted on 2026-03-07.
+This customer success position at Capital One was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

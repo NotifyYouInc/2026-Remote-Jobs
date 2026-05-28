@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico |
+| Location | China |
 | Category | Project Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/MEX-Remote/Project-Manager-I_25106864) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/CHN-Client/Project-Manager-I_25109055) |
 
 ## About This Role
 
-This project manager position at Syneoshealth was posted on 2026-03-18.
+This project manager position at Syneoshealth was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

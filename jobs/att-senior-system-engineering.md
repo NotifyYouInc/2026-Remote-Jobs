@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Alpharetta, Georgia, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Alpharetta-Georgia/Senior-System-Engineering_R-104730) |
+| Location | Plano, Texas, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Senior-System-Engineering_R-110222) |
 
 ## About This Role
 
-This software engineer position at AT&T was posted on 2026-04-02.
+This devops engineer position at AT&T was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

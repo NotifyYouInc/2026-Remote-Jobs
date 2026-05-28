@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Senior--Data-Scientist_R-2443572) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Senior--Data-Scientist_R-2501904) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-04-14.
+This data scientist position at Walmart was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

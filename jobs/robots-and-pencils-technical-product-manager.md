@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robots and Pencils](https://scoutify.ai/companies/robots-and-pencils?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | United States |
 | Category | Technical Product Manager |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5209075008) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5227395008) |
 
 ## About This Role
 
-This technical product manager position at Robots and Pencils was posted on 2026-05-04.
+This technical product manager position at Robots and Pencils was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

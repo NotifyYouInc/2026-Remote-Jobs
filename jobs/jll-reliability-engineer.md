@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Reliability-Engineer_REQ484312) |
+| Location | Boston, Massachusetts, United States |
+| Category | Engineering Manager |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Reliability-Engineer_REQ508386) |
 
 ## About This Role
 
-This operations position at JLL was posted on 2026-02-05.
+This engineering manager position at JLL was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

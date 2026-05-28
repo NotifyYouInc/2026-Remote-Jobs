@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Alpharetta-Georgia/Lead-Member-of-Technical-Staff_R-104608) |
+| Location | Plano, Texas, United States |
+| Category | Security Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Lead-Member-of-Technical-Staff_R-110580) |
 
 ## About This Role
 
-This devops engineer position at AT&T was posted on 2026-03-24.
+This security engineer position at AT&T was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

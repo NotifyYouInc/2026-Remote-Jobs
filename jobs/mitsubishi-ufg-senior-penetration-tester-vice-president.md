@@ -5,12 +5,12 @@
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 3 locations |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tempe-AZ/Senior-Penetration-Tester--Vice-President_10075915-WD) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Senior-Penetration-Tester--Vice-President_10076713-WD-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Mitsubishi UFG was posted on 2026-04-07.
+This offensive security & pentesting position at Mitsubishi UFG was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

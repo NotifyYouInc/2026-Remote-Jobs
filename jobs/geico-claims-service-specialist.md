@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Katy, Texas, United States |
+| Location | Poway, California, United States |
 | Category | Customer Success |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Katy-TX/Claims-Service-Specialist_R0062872) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Poway-CA/Claims-Service-Specialist_R0063938) |
 
 ## About This Role
 
-This customer success position at Geico was posted on 2026-04-09.
+This customer success position at Geico was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

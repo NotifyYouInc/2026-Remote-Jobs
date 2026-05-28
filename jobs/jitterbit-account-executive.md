@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jitterbit](https://scoutify.ai/companies/jitterbit?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Boulder, Colorado, United States |
+| Location | Cheyenne, Wyoming, United States |
 | Category | Account Executive |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Jitterbit/744000122368379-account-executive) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Jitterbit/744000127520469-account-executive) |
 
 ## About This Role
 
-This account executive position at Jitterbit was posted on 2026-04-23.
+This account executive position at Jitterbit was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

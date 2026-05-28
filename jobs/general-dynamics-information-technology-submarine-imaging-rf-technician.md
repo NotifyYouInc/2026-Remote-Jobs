@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Newport, Rhode Island, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-RI-Newport/Submarine-Imaging---RF-Technician_RQ218606-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-RI-Newport/Submarine-Imaging---RF-Technician_RQ220327-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at General Dynamics Information Technology was posted on 2026-04-20.
+This electrical / hardware engineer position at General Dynamics Information Technology was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

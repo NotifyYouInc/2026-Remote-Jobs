@@ -1,16 +1,16 @@
-# Business Strategy Analyst - Mid Level at USAA
+# Business Strategy Analyst Mid-Level at USAA
 
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 6 locations |
 | Category | Strategy & Operations |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Business-Strategy-Analyst---Mid-Level_R0116237-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Plano-East/Business-Strategy-Analyst-Mid-Level_R0117632) |
 
 ## About This Role
 
-This strategy & operations position at USAA was posted on 2026-03-19.
+This strategy & operations position at USAA was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

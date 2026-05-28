@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Sunnyvale, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior-Manager--Software-Engineering_R-2444651-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior-Manager--Software-Engineering_R-2428809) |
 
 ## About This Role
 
-This engineering manager position at Walmart was posted on 2026-05-19.
+This engineering manager position at Walmart was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
