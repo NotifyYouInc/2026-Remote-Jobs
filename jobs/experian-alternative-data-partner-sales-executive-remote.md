@@ -1,16 +1,16 @@
-# Alternative Data & Partner Sales Executive - Remote at Experian
+# Alternative Data & Partner Sales Executive (Remote) at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123811419-alternative-data-partner-sales-executive-remote) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127804413-alternative-data-partner-sales-executive-remote) |
 
 ## About This Role
 
-This account executive position at Experian was posted on 2026-04-29.
+This account executive position at Experian was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

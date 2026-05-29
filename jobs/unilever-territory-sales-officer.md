@@ -1,16 +1,16 @@
-# Territory Sales officer at Unilever
+# Territory Sales Officer at Unilever
 
 | Field | Details |
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Channel / Partner Sales |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Mumbai-Regional-Office/Territory-Sales-officer_R-1181209-1) |
+| Location | Delhi, Delhi, India |
+| Category | Account Executive |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Delhi-Regional-Office/Territory-Sales-Officer_R-1182100-1) |
 
 ## About This Role
 
-This channel / partner sales position at Unilever was posted on 2026-05-13.
+This account executive position at Unilever was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

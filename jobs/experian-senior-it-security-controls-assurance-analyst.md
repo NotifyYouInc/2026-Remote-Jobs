@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000112536147-senior-it-security-controls-assurance-analyst) |
+| Category | Security Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127760510-senior-it-security-controls-assurance-analyst) |
 
 ## About This Role
 
-This compliance & risk management position at Experian was posted on 2026-03-03.
+This security engineer position at Experian was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

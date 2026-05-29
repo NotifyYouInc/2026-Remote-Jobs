@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000122549409-expert-financial-analyst) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127799359-expert-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Experian was posted on 2026-04-23.
+This corporate finance position at Experian was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

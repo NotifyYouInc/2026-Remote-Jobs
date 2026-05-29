@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Springfield, Missouri, United States |
 | Category | Customer Success |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Vancouver-Washington/Reservation-Manager_R243099) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Springfield-Illinois/Reservation-Manager_R245770) |
 
 ## About This Role
 
-This customer success position at Uhaul was posted on 2026-04-22.
+This customer success position at Uhaul was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

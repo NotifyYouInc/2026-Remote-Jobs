@@ -5,12 +5,12 @@
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Sales Leadership |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/xero/951d00db-dfed-43d6-a820-3c30ec5625b1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/xero/756c6f19-db6b-4f95-a70d-81edad3e685b) |
 
 ## About This Role
 
-This sales leadership position at Xero was posted on 2026-04-29.
+This sales leadership position at Xero was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

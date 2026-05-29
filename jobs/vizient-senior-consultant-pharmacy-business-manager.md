@@ -1,16 +1,16 @@
-# Senior Consultant - Pharmacy Business Manager at Vizient
+# Senior Consultant, Pharmacy Business Manager at Vizient
 
 | Field | Details |
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Senior-Consultant---Pharmacy-Business-Manager_33508R) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Senior-Consultant--Pharmacy-Business-Manager_33509R) |
 
 ## About This Role
 
-This strategy / management consulting position at Vizient was posted on 2026-05-18.
+This strategy / management consulting position at Vizient was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

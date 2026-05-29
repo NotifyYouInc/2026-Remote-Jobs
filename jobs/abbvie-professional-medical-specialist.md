@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hangzhou, Zhejiang, China |
-| Category | Sales Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013126066-professional-medical-specialist) |
+| Location | Datong, Shanxi, China |
+| Category | Account Executive |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013266246-professional-medical-specialist) |
 
 ## About This Role
 
-This sales engineer position at AbbVie was posted on 2026-05-14.
+This account executive position at AbbVie was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

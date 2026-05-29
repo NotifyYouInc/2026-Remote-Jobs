@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 6 locations |
+| Location | San Francisco, California, United States |
 | Category | Content Marketing |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Content-Strategist_R165097) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Principal-Content-Strategist_R168656) |
 
 ## About This Role
 
-This content marketing position at Adobe was posted on 2026-02-17.
+This content marketing position at Adobe was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

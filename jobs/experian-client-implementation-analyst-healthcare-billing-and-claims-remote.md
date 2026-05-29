@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000118004197-client-implementation-analyst-healthcare-billing-and-claims-remote) |
+| Category | Customer Success |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127806145-client-implementation-analyst-healthcare-billing-and-claims-remote) |
 
 ## About This Role
 
-This implementation / professional services position at Experian was posted on 2026-03-31.
+This customer success position at Experian was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

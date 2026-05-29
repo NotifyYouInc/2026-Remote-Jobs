@@ -1,16 +1,16 @@
-# Sales Representative II at Medtronic
+# Sales Representative  II at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Account Executive |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bangkok-Bangkok-Thailand/Sales-Representative-II_R67474) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Sales-Representative--II_R67449-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-05-21.
+This account executive position at Medtronic was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

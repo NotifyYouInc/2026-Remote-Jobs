@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Sales Leadership |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000114731172-housing-sales-director-remote) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127803329-housing-sales-director-remote) |
 
 ## About This Role
 
-This sales leadership position at Experian was posted on 2026-03-13.
+This sales leadership position at Experian was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

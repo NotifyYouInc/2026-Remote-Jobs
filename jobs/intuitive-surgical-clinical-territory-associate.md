@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Business Development |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000126767349-clinical-territory-associate) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Sales Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000127765997-clinical-territory-associate) |
 
 ## About This Role
 
-This business development position at Intuitive Surgical was posted on 2026-05-15.
+This sales engineer position at Intuitive Surgical was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

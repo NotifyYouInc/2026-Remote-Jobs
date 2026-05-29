@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motus](https://scoutify.ai/companies/motus?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Development |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/motus/jobs/7594520) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/motus/jobs/7951423) |
 
 ## About This Role
 
-This business development position at Motus was posted on 2026-02-20.
+This business development position at Motus was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

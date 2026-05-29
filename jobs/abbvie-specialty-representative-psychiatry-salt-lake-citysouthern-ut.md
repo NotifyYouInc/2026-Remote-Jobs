@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Account Executive |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012919184-specialty-representative-psychiatry-salt-lake-citysouthern-ut) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013265356-specialty-representative-psychiatry-salt-lake-citysouthern-ut) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-05-01.
+This account executive position at AbbVie was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

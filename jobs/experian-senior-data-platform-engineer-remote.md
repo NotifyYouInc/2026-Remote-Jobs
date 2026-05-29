@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000122554299-senior-data-platform-engineer-remote) |
+| Category | DevOps Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127804220-senior-data-platform-engineer-remote) |
 
 ## About This Role
 
-This data engineer position at Experian was posted on 2026-04-23.
+This devops engineer position at Experian was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

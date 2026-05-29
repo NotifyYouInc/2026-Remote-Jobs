@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000121305533-account-executive-financial-services-software-specialist) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127804269-account-executive-financial-services-software-specialist) |
 
 ## About This Role
 
-This account executive position at Experian was posted on 2026-04-16.
+This account executive position at Experian was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

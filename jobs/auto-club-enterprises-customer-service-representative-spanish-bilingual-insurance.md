@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Redlands, California, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Redlands-CA-Remote/Customer-Service-Representative-Spanish-Bilingual---Insurance_JR202636109) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/San-Antonio-TX-Remote/Customer-Service-Representative-Spanish-Bilingual---Insurance_JR202636796) |
 
 ## About This Role
 
-This customer success position at Auto Club Enterprises was posted on 2026-04-21.
+This customer success position at Auto Club Enterprises was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

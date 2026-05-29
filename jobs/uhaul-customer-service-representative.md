@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cedar Hill, Texas, United States |
+| Location | Modesto, California, United States |
 | Category | Customer Success |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Cedar-Hill-Texas/Customer-Service-Representative_R245517) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Modesto-California/Customer-Service-Representative_R245766-1) |
 
 ## About This Role
 
-This customer success position at Uhaul was posted on 2026-05-19.
+This customer success position at Uhaul was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

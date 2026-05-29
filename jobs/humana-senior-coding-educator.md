@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arkansas, US |
-| Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Work-at-Home---Florida/Senior-Coding-Educator_R-405931) |
+| Location | Shreveport, Louisiana, United States |
+| Category | Learning & Development |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Shreveport-LA/Senior-Coding-Educator_R-415839) |
 
 ## About This Role
 
-This business analyst position at Humana was posted on 2026-03-12.
+This learning & development position at Humana was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

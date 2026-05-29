@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arizona, US |
+| Location | Georgia, US |
 | Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-AZ/Customer-Experience-Specialist-1_2026-0005653-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-GA/Customer-Experience-Specialist-1_2026-0009926) |
 
 ## About This Role
 
-This customer success position at U.S. Bank was posted on 2026-05-21.
+This customer success position at U.S. Bank was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
