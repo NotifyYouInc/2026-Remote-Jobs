@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Houston-77002/Virtual-Relationship-Manager---C-IB_R215863-1) |
+| Location | Pittsburgh, Pennsylvania, United States |
+| Category | Account Manager |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Virtual-Relationship-Manager---C-IB_R223021-1) |
 
 ## About This Role
 
-This account executive position at PNC Financial was posted on 2026-03-27.
+This account manager position at PNC Financial was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

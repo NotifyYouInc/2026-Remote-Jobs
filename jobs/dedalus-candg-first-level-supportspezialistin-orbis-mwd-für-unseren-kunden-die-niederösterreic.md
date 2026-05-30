@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Bonn, North Rhine-Westphalia, Germany |
 | Category | Customer Success |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Bonn/First-Level-Supportspezialist-in-ORBIS--m-w-d----Fr-unseren-Kunden--die--Niedersterreichische-Landesgesundheitsagentur-_JR108136) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Bonn/First-Level-Supportspezialist-in-ORBIS--m-w-d----Fr-unseren-Kunden--die--Niedersterreichische-Landesgesundheitsagentur-_JR108448) |
 
 ## About This Role
 
-This customer success position at Dedalus CandG was posted on 2026-03-18.
+This customer success position at Dedalus CandG was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

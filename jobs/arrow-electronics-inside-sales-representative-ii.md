@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Dayton, Ohio, United States |
 | Category | Account Executive |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Inside-Sales-Representative-II_R243125) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-OH-Ohio-Remote-Employees/Inside-Sales-Representative-II_R243394) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-05-15.
+This account executive position at Arrow Electronics was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

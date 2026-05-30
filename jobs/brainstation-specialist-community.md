@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BrainStation](https://scoutify.ai/companies/brainstation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York, US |
+| Location | Toronto, Ontario, Canada |
 | Category | Social Media / Community |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7704786003) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brainstation/jobs/7747208003) |
 
 ## About This Role
 
-This social media / community position at BrainStation was posted on 2026-04-17.
+This social media / community position at BrainStation was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

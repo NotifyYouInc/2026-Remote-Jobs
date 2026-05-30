@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intapp](https://scoutify.ai/companies/intapp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Client-Success-Director--Legal_R2024963-2) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/US-NY-Remote/Client-Success-Director--Legal_R2024985-1) |
 
 ## About This Role
 
-This customer success position at Intapp was posted on 2026-05-05.
+This customer success position at Intapp was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

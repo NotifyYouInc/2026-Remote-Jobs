@@ -5,12 +5,12 @@
 | Company | [Topstep](https://scoutify.ai/companies/topstep?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/topsteptrader/jobs/7672867003) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/topsteptrader/jobs/7673902003) |
 
 ## About This Role
 
-This corporate finance position at Topstep was posted on 2026-04-10.
+This corporate finance position at Topstep was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

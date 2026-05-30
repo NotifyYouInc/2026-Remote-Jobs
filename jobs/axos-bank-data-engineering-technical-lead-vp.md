@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Diego, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Data-Engineering-Technical-Lead---VP_JR4266) |
+| Category | Engineering Manager |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Data-Engineering-Technical-Lead---VP_JR4783) |
 
 ## About This Role
 
-This software engineer position at Axos Bank was posted on 2026-02-23.
+This engineering manager position at Axos Bank was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

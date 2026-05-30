@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appliedis](https://scoutify.ai/companies/appliedis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Connecticut, US |
+| Location | Groton, Connecticut, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Groton-CT/MS-Teams-Rooms-AV-VTC-Engineer_JR2026001138-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Groton-CT/MS-Teams-Rooms-AV-VTC-Engineer_JR2026001232-1) |
 
 ## About This Role
 
-This it & systems administration position at Appliedis was posted on 2026-04-10.
+This it & systems administration position at Appliedis was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

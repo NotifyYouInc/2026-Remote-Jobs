@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Diego, California, United States |
+| Location | California, US |
 | Category | Customer Success |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000112786752-genesis-consultant) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000127964780-genesis-consultant) |
 
 ## About This Role
 
-This customer success position at Intuitive Surgical was posted on 2026-03-04.
+This customer success position at Intuitive Surgical was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

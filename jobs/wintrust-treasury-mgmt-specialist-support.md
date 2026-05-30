@@ -5,12 +5,12 @@
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Rosemont, California, United States |
 | Category | Customer Success |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Rosemont-IL/Treasury-Mgmt-Specialist---Support_26522) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Rosemont-IL/Treasury-Mgmt-Specialist---Support_26983) |
 
 ## About This Role
 
-This customer success position at Wintrust was posted on 2026-04-03.
+This customer success position at Wintrust was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

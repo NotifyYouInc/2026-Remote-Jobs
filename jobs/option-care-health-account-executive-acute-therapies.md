@@ -1,16 +1,16 @@
-# Account Executive / Acute Therapies at Option Care Health
+# Account Executive - Acute Therapies at Option Care Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Option Care Health](https://scoutify.ai/companies/optioncare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Westchester, Florida, United States |
 | Category | Account Executive |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://optioncare.wd1.myworkdayjobs.com/optioncare/job/Salt-Lake-City-UT/Account-Executive---Acute-Therapies_R35159) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://optioncare.wd1.myworkdayjobs.com/optioncare/job/Bronx-NY/Account-Executive---Acute-Therapies_R35521) |
 
 ## About This Role
 
-This account executive position at Option Care Health was posted on 2026-04-24.
+This account executive position at Option Care Health was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

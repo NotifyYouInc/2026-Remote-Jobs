@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Calendly](https://scoutify.ai/companies/calendly?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/calendly/jobs/8494187002) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/calendly/jobs/8563197002) |
 
 ## About This Role
 
-This ai / llm engineer position at Calendly was posted on 2026-04-03.
+This machine learning engineer position at Calendly was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

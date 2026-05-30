@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leaping AI](https://scoutify.ai/companies/leaping-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Customer Success |
-| Posted | 2026-02-27 |
+| Category | AI / ML Research |
+| Posted | 2026-05-23 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/leaping-ai/jobs/hLT874a-ai-deployment-strategist) |
 
 ## About This Role
 
-This customer success position at Leaping AI was posted on 2026-02-27.
+This ai / ml research position at Leaping AI was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

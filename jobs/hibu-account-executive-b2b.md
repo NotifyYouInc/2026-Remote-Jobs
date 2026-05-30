@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hibu](https://scoutify.ai/companies/hibu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Monticello, Minnesota, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Account Executive |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hibu/jobs/4690700005) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hibu/jobs/4698974005) |
 
 ## About This Role
 
-This account executive position at Hibu was posted on 2026-04-29.
+This account executive position at Hibu was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

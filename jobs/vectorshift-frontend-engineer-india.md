@@ -5,12 +5,12 @@
 | Company | [VectorShift](https://scoutify.ai/companies/vectorshift?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
 | Category | Frontend Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/vectorshift/jobs/a2jLz3Q-frontend-engineer-india) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/vectorshift/jobs/zQtEbjj-frontend-engineer-india) |
 
 ## About This Role
 
-This frontend engineer position at VectorShift was posted on 2026-05-14.
+This frontend engineer position at VectorShift was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Irvine, California, United States |
+| Location | Raleigh, North Carolina, United States |
 | Category | Legal |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5998682004) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6004692004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-05-18.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
