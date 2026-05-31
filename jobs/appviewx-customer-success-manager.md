@@ -1,16 +1,16 @@
-# Business Analyst at EVERSANA
+# Customer Success Manager at AppViewX
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mason, Ohio, United States |
-| Category | Business Analyst |
+| Company | [AppViewX](https://scoutify.ai/companies/appviewx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | 2 locations |
+| Category | Customer Success |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128001309-business-analyst) |
+| Apply | [View on company site](https://www.appviewx.com/current-openings/?gh_jid=5995998004) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-05-23.
+This customer success position at AppViewX was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

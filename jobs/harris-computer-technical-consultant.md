@@ -1,16 +1,16 @@
-#  Bilingual Case Management Specialist (Remote, Spanish Speaking) at Pair Team
+# Technical Consultant at Harris Computer
 
 | Field | Details |
 |-------|---------|
-| Company | [Pair Team](https://scoutify.ai/companies/pair-team?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
+| Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | 2 locations |
 | Category | Customer Success |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pairteam/jobs/8563310002) |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Technical-Consultant_R0040860-2) |
 
 ## About This Role
 
-This customer success position at Pair Team was posted on 2026-05-23.
+This customer success position at Harris Computer was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

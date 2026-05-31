@@ -1,16 +1,16 @@
-# Business Analyst at EVERSANA
+# Performance Marketing Lead at ALU
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mason, Ohio, United States |
-| Category | Business Analyst |
+| Company | [ALU](https://scoutify.ai/companies/alu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Not specified |
+| Category | Growth Marketing |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128001309-business-analyst) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alu/jobs/7953598) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-05-23.
+This growth marketing position at ALU was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

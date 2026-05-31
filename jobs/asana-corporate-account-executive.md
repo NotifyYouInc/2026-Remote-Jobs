@@ -1,16 +1,16 @@
-# Business Analyst at EVERSANA
+# Corporate Account Executive at Asana
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mason, Ohio, United States |
-| Category | Business Analyst |
+| Company | [Asana](https://scoutify.ai/companies/asana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Chicago, Illinois, United States |
+| Category | Account Executive |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128001309-business-analyst) |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/6981655?gh_jid=6981655) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-05-23.
+This account executive position at Asana was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

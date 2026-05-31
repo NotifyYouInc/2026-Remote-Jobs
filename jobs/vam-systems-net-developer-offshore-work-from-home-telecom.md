@@ -1,16 +1,16 @@
-# Software Engineer - SONiC at Arista Networks
+# .Net Developer (Offshore - Work From Home) - Telecom at VAM Systems
 
 | Field | Details |
 |-------|---------|
-| Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Manama, Manama, Bahrain |
 | Category | Software Engineer |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000127996649-software-engineer-sonic) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000127997298-net-developer-offshore-work-from-home-telecom) |
 
 ## About This Role
 
-This software engineer position at Arista Networks was posted on 2026-05-23.
+This software engineer position at VAM Systems was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business Analyst at EVERSANA
+# Engagement Manager, AUNZ at Stripe
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mason, Ohio, United States |
-| Category | Business Analyst |
+| Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Customer Success |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128001309-business-analyst) |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7946230) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-05-23.
+This customer success position at Stripe was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

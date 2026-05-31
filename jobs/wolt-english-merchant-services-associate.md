@@ -1,16 +1,16 @@
-# Business Analyst at EVERSANA
+# Merchant Services Associate at Wolt - English
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mason, Ohio, United States |
-| Category | Business Analyst |
+| Company | [Wolt - English](https://scoutify.ai/companies/wolt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Austria |
+| Category | Customer Success |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128001309-business-analyst) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wolt/jobs/7944099) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-05-23.
+This customer success position at Wolt - English was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

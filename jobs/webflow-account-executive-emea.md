@@ -1,16 +1,16 @@
-# Business Analyst at EVERSANA
+# Account Executive, EMEA at Webflow
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mason, Ohio, United States |
-| Category | Business Analyst |
+| Company | [Webflow](https://scoutify.ai/companies/webflow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | London, England, United Kingdom |
+| Category | Business Development |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128001309-business-analyst) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/webflow/jobs/7951428) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-05-23.
+This business development position at Webflow was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

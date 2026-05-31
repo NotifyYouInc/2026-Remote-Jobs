@@ -1,16 +1,16 @@
-# Business Analyst at EVERSANA
+# Director of Research, DataLab at Protege
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mason, Ohio, United States |
-| Category | Business Analyst |
+| Company | [Protege](https://scoutify.ai/companies/protege?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | AI / ML Research |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128001309-business-analyst) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/protege/fcfea80e-3412-478d-a8af-e200cd0aa9a9) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-05-23.
+This ai / ml research position at Protege was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

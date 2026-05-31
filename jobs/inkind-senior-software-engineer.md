@@ -1,16 +1,16 @@
-# Business Analyst at EVERSANA
+# Senior Software Engineer at inKind
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mason, Ohio, United States |
-| Category | Business Analyst |
+| Company | [inKind](https://scoutify.ai/companies/inkind?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Software Engineer |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128001309-business-analyst) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/inkind/jobs/5230007008) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-05-23.
+This software engineer position at inKind was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

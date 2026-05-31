@@ -1,16 +1,16 @@
-# Software Engineer - SONiC at Arista Networks
+# Sr Software Engineer at Harris Computer
 
 | Field | Details |
 |-------|---------|
-| Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000127996649-software-engineer-sonic) |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Sr-Software-Engineer_R0040888-2) |
 
 ## About This Role
 
-This software engineer position at Arista Networks was posted on 2026-05-23.
+This software engineer position at Harris Computer was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 
