@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Bucaramanga, Santander Department, Colombia |
 | Category | Business Development |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia--Bogota--Remote/Medical-Sales-Representative_31151200) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia--Bucaramanga-Remote/Medical-Sales-Representative_31151305-1) |
 
 ## About This Role
 
-This business development position at Abbott was posted on 2026-05-22.
+This business development position at Abbott was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

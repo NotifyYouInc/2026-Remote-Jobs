@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | El Paso, Texas, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-El-Paso/Full-Time-IT-Support-Specialist---El-Paso_RQ219010) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-El-Paso/Full-Time-IT-Support-Specialist---El-Paso_RQ220639) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-04-24.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

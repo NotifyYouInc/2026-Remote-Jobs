@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Hong Kong, Hong Kong |
 | Category | Account Executive |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Dubai---United-Arab-Emirates-Office/Account-Executive_R03078-1) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Hong-Kong---Remote/Account-Executive_R03512) |
 
 ## About This Role
 
-This account executive position at Cohesity was posted on 2026-04-07.
+This account executive position at Cohesity was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

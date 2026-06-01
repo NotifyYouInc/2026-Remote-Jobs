@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Japan |
+| Location | North Sydney, New South Wales, Australia |
 | Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Japan---Remote/Account-Executive--Enterprise-Accounts_26WD99262-2) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/North-Sydney-AUS/Account-Executive--Enterprise-Accounts_26WD98303) |
 
 ## About This Role
 
-This account executive position at Autodesk was posted on 2026-02-25.
+This account executive position at Autodesk was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

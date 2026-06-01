@@ -5,12 +5,12 @@
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Robina, Queensland, Australia |
 | Category | Customer Success |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001017400-support-coordinator) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001100031-support-coordinator) |
 
 ## About This Role
 
-This customer success position at APM Group was posted on 2026-04-22.
+This customer success position at APM Group was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

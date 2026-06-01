@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Not specified |
 | Category | Account Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-HangZhou-Remote/Account-Manager_R01164351) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-Nei-Mongol-Virtual/Account-Manager_R01165436) |
 
 ## About This Role
 
-This account manager position at 3M Company was posted on 2026-04-24.
+This account manager position at 3M Company was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
