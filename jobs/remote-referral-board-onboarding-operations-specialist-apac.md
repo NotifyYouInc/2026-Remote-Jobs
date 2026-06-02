@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Remote - Referral Board](https://scoutify.ai/companies/remote---referral-board?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Remote - Referral Board](https://scoutify.ai/companies/remote-22738?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7704781003) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7747900003) |
 
 ## About This Role
 
-This human resources / people ops position at Remote - Referral Board was posted on 2026-04-20.
+This human resources / people ops position at Remote - Referral Board was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

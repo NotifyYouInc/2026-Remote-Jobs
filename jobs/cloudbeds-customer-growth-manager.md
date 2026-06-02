@@ -5,12 +5,12 @@
 | Company | [Cloudbeds](https://scoutify.ai/companies/cloudbeds?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Account Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cloudbeds/jobs/4630326005) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cloudbeds/jobs/4630332005) |
 
 ## About This Role
 
-This account manager position at Cloudbeds was posted on 2026-04-01.
+This account manager position at Cloudbeds was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Channel Sales Territory Manager at ButterflyMX
+
+| Field | Details |
+|-------|---------|
+| Company | [ButterflyMX](https://scoutify.ai/companies/butterflymx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Chicago, Illinois, United States |
+| Category | Account Executive |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/butterflymx/912b0bb5-4a03-4abf-89b0-1eb63edfffa5) |
+
+## About This Role
+
+This account executive position at ButterflyMX was posted on 2026-05-07.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -1,0 +1,22 @@
+# ED/VP Medical Science & Strategy - Metabolic at Thermo Fisher Scientific
+
+| Field | Details |
+|-------|---------|
+| Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Beijing, Beijing, China |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Beijing-China/ED-VP-Medical-Science---Strategy---Metabolic_R-01352100) |
+
+## About This Role
+
+This strategy / management consulting position at Thermo Fisher Scientific was posted on 2026-05-26.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113398252-so-it-devops-platform-operations-sme) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128394730-so-it-devops-platform-operations-sme) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-03-09.
+This devops engineer position at Robert Bosch was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

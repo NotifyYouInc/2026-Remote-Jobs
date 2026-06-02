@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, Ontario, Canada |
-| Category | Account Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-Ontario/Mobile-Mortgage-Specialist_R_1491032) |
+| Location | Edmonton, Alberta, Canada |
+| Category | Account Executive |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Edmonton-Alberta/Mobile-Mortgage-Specialist_R_1491312) |
 
 ## About This Role
 
-This account manager position at TD Bank was posted on 2026-05-22.
+This account executive position at TD Bank was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

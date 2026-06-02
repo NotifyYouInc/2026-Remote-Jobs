@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Gdańsk, Pomerania, Poland |
 | Category | Trust & Safety |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427766/investigation-specialist-sepo) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429732/investigation-specialist-sepo) |
 
 ## About This Role
 
-This trust & safety position at Amazon was posted on 2026-05-22.
+This trust & safety position at Amazon was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

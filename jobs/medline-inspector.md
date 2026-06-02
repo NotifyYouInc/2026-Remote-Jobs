@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Medan, North Sumatra, Indonesia |
+| Location | Bago, Bago Region, Myanmar |
 | Category | QA Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Medan/Inspector_R2609340-1) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Bago/Inspector_R2610216) |
 
 ## About This Role
 
-This qa engineer position at Medline was posted on 2026-05-15.
+This qa engineer position at Medline was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

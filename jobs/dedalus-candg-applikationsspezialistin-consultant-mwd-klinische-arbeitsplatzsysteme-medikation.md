@@ -1,16 +1,16 @@
-# Applikationsspezialist:in / Consultant (m/w/d) klinische Arbeitsplatzsysteme - Medikationsprozess at Dedalus CandG
+# Applikationsspezialist:in / Consultant (m/w/d) klinische Arbeitsplatzsysteme – Medikationsprozess at Dedalus CandG
 
 | Field | Details |
 |-------|---------|
 | Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bonn, North Rhine-Westphalia, Germany |
-| Category | Customer Success |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Bonn/Applikationsspezialist-in---Consultant--m-w-d--klinische-Arbeitsplatzsysteme---Medikationsprozess_JR108042) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Bonn/Applikationsspezialist-in---Consultant--m-w-d--klinische-Arbeitsplatzsysteme---Medikationsprozess_JR108418) |
 
 ## About This Role
 
-This customer success position at Dedalus CandG was posted on 2026-03-02.
+This technology / it consulting position at Dedalus CandG was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

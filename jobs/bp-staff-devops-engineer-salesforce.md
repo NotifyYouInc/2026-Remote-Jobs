@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Staff-DevOps-Engineer---Salesforce_RQ107022) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Staff-DevOps-Engineer---Salesforce_RQ111348) |
 
 ## About This Role
 
-This devops engineer position at BP was posted on 2026-02-23.
+This devops engineer position at BP was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 
