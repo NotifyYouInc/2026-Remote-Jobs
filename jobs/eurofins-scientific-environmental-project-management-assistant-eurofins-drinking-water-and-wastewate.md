@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Auburn, Washington, United States |
 | Category | Project Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000125984349-environmental-project-management-assistant-eurofins-drinking-water-and-wastewater-northeast-auburn-me) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000128601214-environmental-project-management-assistant-eurofins-drinking-water-and-wastewater-northeast-auburn-me) |
 
 ## About This Role
 
-This project manager position at Eurofins Scientific was posted on 2026-05-12.
+This project manager position at Eurofins Scientific was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

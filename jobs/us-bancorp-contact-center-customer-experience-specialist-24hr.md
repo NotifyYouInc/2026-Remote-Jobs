@@ -5,12 +5,12 @@
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-United-States/Contact-Center-Customer-Experience-Specialist---24hr_2026-0008858) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-United-States/Contact-Center-Customer-Experience-Specialist---24hr_2026-0014034) |
 
 ## About This Role
 
-This customer success position at U.S. Bancorp was posted on 2026-05-26.
+This customer success position at U.S. Bancorp was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

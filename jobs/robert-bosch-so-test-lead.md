@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Engineering Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112087567-so-test-lead) |
+| Category | QA Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128636009-so-test-lead) |
 
 ## About This Role
 
-This engineering manager position at Robert Bosch was posted on 2026-03-02.
+This qa engineer position at Robert Bosch was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

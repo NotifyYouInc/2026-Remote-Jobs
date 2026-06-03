@@ -5,12 +5,12 @@
 | Company | [Who Gives A Crap](https://scoutify.ai/companies/who-gives-a-crap?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Growth Marketing |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/whogivesacrap/jobs/8535433002) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/whogivesacrap/jobs/8565896002) |
 
 ## About This Role
 
-This growth marketing position at Who Gives A Crap was posted on 2026-05-08.
+This growth marketing position at Who Gives A Crap was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

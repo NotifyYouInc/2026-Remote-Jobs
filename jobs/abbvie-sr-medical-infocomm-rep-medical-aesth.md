@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Changsha, Hunan, China |
-| Category | Business Development |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013283796-sr-medical-infocomm-rep-medical-aesth) |
+| Category | Corporate Finance |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013311036-sr-medical-infocomm-rep-medical-aesth) |
 
 ## About This Role
 
-This business development position at AbbVie was posted on 2026-05-25.
+This corporate finance position at AbbVie was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

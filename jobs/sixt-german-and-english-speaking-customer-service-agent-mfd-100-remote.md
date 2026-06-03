@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Spain |
 | Category | Customer Success |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000125998169-german-and-english-speaking-customer-service-agent-mfd-100-remote) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000128649109-german-and-english-speaking-customer-service-agent-mfd-100-remote) |
 
 ## About This Role
 
-This customer success position at Sixt was posted on 2026-05-12.
+This customer success position at Sixt was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

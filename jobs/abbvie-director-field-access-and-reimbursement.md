@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Los Angeles, California, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013192514-director-field-access-and-reimbursement) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013310986-director-field-access-and-reimbursement) |
 
 ## About This Role
 
-This leadership development program position at AbbVie was posted on 2026-05-18.
+This leadership development program position at AbbVie was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

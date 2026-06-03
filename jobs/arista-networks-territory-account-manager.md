@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Account Executive |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000115079015-territory-account-manager) |
+| Location | Salt Lake City, Utah, United States |
+| Category | Business Development |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000128570625-territory-account-manager) |
 
 ## About This Role
 
-This account executive position at Arista Networks was posted on 2026-03-16.
+This business development position at Arista Networks was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

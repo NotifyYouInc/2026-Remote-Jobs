@@ -5,12 +5,12 @@
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Project Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000118238331-internal-architect-project-manager-ev-construction-management) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000128641829-internal-architect-project-manager-ev-construction-management) |
 
 ## About This Role
 
-This project manager position at Turner & Townsend was posted on 2026-04-01.
+This project manager position at Turner & Townsend was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
