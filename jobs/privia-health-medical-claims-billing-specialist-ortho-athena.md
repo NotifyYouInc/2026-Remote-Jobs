@@ -5,12 +5,12 @@
 | Company | [Privia Health](https://scoutify.ai/companies/privia-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/priviahealth/744000127950017-medical-claims-billing-specialist-ortho-athena) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/priviahealth/744000128813819-medical-claims-billing-specialist-ortho-athena) |
 
 ## About This Role
 
-This corporate finance position at Privia Health was posted on 2026-05-22.
+This corporate finance position at Privia Health was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

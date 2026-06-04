@@ -5,12 +5,12 @@
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Portland, Oregon, United States |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7752782) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7962131) |
 
 ## About This Role
 
-This account executive position at Toast was posted on 2026-03-26.
+This account executive position at Toast was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

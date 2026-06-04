@@ -5,12 +5,12 @@
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Carlos, California, United States |
 | Category | Operations |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/bccbafa7-479c-4bb0-b911-c05ba35405ff) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/dc6e9904-7fed-48ec-92fb-e6d52c43ea1b) |
 
 ## About This Role
 
-This operations position at Beaconai was posted on 2026-05-12.
+This operations position at Beaconai was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

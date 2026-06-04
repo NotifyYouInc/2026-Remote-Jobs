@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Indonesia |
-| Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-Indonesia/Enterprise-Account-Manager_JR0037131) |
+| Category | Account Manager |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-Indonesia/Enterprise-Account-Manager_JR0037553) |
 
 ## About This Role
 
-This account executive position at Trellix was posted on 2026-03-04.
+This account manager position at Trellix was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

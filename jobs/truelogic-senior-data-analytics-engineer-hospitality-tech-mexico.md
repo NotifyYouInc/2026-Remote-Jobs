@@ -1,16 +1,16 @@
-# Senior Data Analytics Engineer – Hospitality Tech (Mexico) at Truelogic
+# Senior Data Analytics Engineer – Hospitality Tech | Mexico at Truelogic
 
 | Field | Details |
 |-------|---------|
 | Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/63cf5b85-79b0-40f8-b2ec-447211bfd8ca) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/f95e521e-8e14-4d81-a54d-b7fbcdd1fa8d) |
 
 ## About This Role
 
-This data engineer position at Truelogic was posted on 2026-05-14.
+This data engineer position at Truelogic was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

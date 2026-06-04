@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kunming, Yunnan, China |
+| Location | Chengdu, Sichuan, China |
 | Category | Sales Leadership |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Kunming--Yunnan-Province/Sr-Associate-III--Surgical-Field-Sales_R-2026-46313) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Chengdu-China/Sr-Associate-III--Surgical-Field-Sales_R-2026-47366-1) |
 
 ## About This Role
 
-This sales leadership position at Alcon was posted on 2026-04-15.
+This sales leadership position at Alcon was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

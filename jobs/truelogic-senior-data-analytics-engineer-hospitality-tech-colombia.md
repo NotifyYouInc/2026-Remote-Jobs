@@ -1,16 +1,16 @@
-# Senior Data Analytics Engineer – Hospitality Tech (Colombia) at Truelogic
+# Senior Data Analytics Engineer – Hospitality Tech | Colombia at Truelogic
 
 | Field | Details |
 |-------|---------|
 | Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/561d7c1c-fb65-49a1-b79c-1df0166de4b2) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/5e573a0b-7b42-4c34-9188-d236bb38124b) |
 
 ## About This Role
 
-This data engineer position at Truelogic was posted on 2026-05-14.
+This data engineer position at Truelogic was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

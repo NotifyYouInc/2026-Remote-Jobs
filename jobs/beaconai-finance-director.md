@@ -5,12 +5,12 @@
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Carlos, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/8167c3fe-682e-42b5-8f0d-e459acef02d8) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/d8fab1e1-f539-4625-a7c2-0eaef26f80b3) |
 
 ## About This Role
 
-This corporate finance position at Beaconai was posted on 2026-05-11.
+This corporate finance position at Beaconai was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

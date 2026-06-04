@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Account Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000123357910-global-key-account-manager) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000128864385-global-key-account-manager) |
 
 ## About This Role
 
-This account manager position at SGS was posted on 2026-04-28.
+This account manager position at SGS was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

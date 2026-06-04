@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Alachua, Florida, United States |
+| Location | Arcadia, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/US-FL-ALACHUA-07035-REGIONAL/XMLNAME--USA--Continuous-Skills-Development-Manager_R-2488799-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-FL-ARCADIA-07023-GROCERY/XMLNAME--USA--Continuous-Skills-Development-Manager_R-2524210) |
 
 ## About This Role
 
-This engineering manager position at Walmart was posted on 2026-04-23.
+This engineering manager position at Walmart was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

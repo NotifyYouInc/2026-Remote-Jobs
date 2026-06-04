@@ -5,12 +5,12 @@
 | Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/314da671-8b3f-4d6c-89c5-0b76db597d6b) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/c204d2ae-d0a3-4af1-8854-5dbd2f122187) |
 
 ## About This Role
 
-This data engineer position at Truelogic was posted on 2026-05-14.
+This data engineer position at Truelogic was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

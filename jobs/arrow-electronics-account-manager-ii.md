@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tlaquepaque, Jalisco, Mexico |
-| Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Tlaquepaque-Mexico/Account-Manager-II_R241893) |
+| Location | Colorado, US |
+| Category | Account Manager |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Colorado-Remote-Employees/Account-Manager-II_R239485) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-02-24.
+This account manager position at Arrow Electronics was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

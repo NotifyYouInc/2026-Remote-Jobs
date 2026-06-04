@@ -5,12 +5,12 @@
 | Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Operations |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7624677) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7962103) |
 
 ## About This Role
 
-This operations position at Instacart was posted on 2026-02-17.
+This operations position at Instacart was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

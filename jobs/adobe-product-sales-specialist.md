@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
-| Category | Account Executive |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-India/Product-Sales-Specialist_R167325) |
+| Category | Business Development |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-India/Product-Sales-Specialist_R168860) |
 
 ## About This Role
 
-This account executive position at Adobe was posted on 2026-05-20.
+This business development position at Adobe was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

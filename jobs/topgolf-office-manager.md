@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Topgolf](https://scoutify.ai/companies/topgolf?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
+| Location | United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://topgolf.wd501.myworkdayjobs.com/topgolfcareers/job/TG---Venue---Austin/Office-Manager_JR2023-20160) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://topgolf.wd501.myworkdayjobs.com/topgolfcareers/job/TG---Venue---Mt-Laurel/Office-Manager_JR2023-20857) |
 
 ## About This Role
 
-This human resources / people ops position at Topgolf was posted on 2026-04-27.
+This human resources / people ops position at Topgolf was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

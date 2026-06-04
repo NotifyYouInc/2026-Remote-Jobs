@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunbelt Rentals](https://scoutify.ai/companies/sunbelt-rentals?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Reno, Nevada, United States |
+| Location | Lihue, Hawaii, United States |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Reno-NV-89512/Outside-Sales-Representative_2026-3992) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Lihue-HI-96766/Outside-Sales-Representative_2026-8931) |
 
 ## About This Role
 
-This account executive position at Sunbelt Rentals was posted on 2026-02-26.
+This account executive position at Sunbelt Rentals was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

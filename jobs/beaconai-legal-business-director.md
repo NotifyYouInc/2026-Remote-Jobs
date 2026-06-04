@@ -5,12 +5,12 @@
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Carlos, California, United States |
 | Category | Legal |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/b43ac6de-0be4-41d6-9815-8ecb6e1ac8e3) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/905db63b-e694-4066-9229-0aae10cdada9) |
 
 ## About This Role
 
-This legal position at Beaconai was posted on 2026-05-12.
+This legal position at Beaconai was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

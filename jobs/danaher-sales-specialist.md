@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Takanini, Auckland, New Zealand |
+| Location | Fukuoka, Fukuoka, Japan |
 | Category | Account Executive |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/TakaniniAuckland-New-Zealand/Sales-Specialist_R1310001) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Fukuoka-Japan/Sales-Specialist_R1312298) |
 
 ## About This Role
 
-This account executive position at Danaher was posted on 2026-05-11.
+This account executive position at Danaher was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

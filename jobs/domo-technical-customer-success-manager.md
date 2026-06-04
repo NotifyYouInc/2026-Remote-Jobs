@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Domo](https://scoutify.ai/companies/domo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Utah, US |
-| Category | Customer Success |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://domo.wd12.myworkdayjobs.com/domocareers/job/US-UT-Remote/Sr-Customer-Success-Manager_JR100140-2) |
+| Category | Account Manager |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://domo.wd12.myworkdayjobs.com/domocareers/job/US-UT-Remote/Technical-Customer-Success-Manager_JR100274-1) |
 
 ## About This Role
 
-This customer success position at Domo was posted on 2026-02-04.
+This account manager position at Domo was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

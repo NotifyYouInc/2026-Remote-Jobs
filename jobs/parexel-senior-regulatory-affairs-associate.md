@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Taiwan |
+| Location | Peru |
 | Category | Compliance & Risk Management |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Taiwan-Remote/Senior-Regulatory-Affairs-Associate_R0000041540) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Peru-Remote/Senior-Regulatory-Affairs-Associate_R0000040927) |
 
 ## About This Role
 
-This compliance & risk management position at Parexel was posted on 2026-05-07.
+This compliance & risk management position at Parexel was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

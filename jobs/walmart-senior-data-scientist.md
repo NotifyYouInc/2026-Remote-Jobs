@@ -1,16 +1,16 @@
-# Senior Data Scientist at Walmart
+# Senior, Data Scientist at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Senior-Data-Scientist_R-2516345) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Upstream-Building-AR-Bentonville-Home-Office/Senior--Data-Scientist_R-2500050) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-05-20.
+This data scientist position at Walmart was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

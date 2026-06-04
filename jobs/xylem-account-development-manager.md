@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Bridgeport, Connecticut, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Miami-Florida/Account-Development-Manager_R47783-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Bridgeport-New-Jersey/Account-Development-Manager_R48759) |
 
 ## About This Role
 
-This engineering manager position at Xylem was posted on 2026-04-10.
+This engineering manager position at Xylem was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

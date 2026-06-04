@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000126988389-alternance-developpeur-back-end-hf-net-sql) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000128748982-alternance-developpeur-back-end-hf-net-sql) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-05-18.
+This software engineer position at ALTEN Canada was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

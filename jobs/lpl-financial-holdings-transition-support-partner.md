@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Diego, California, United States |
-| Category | Customer Success |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/San-Diego/Transition-Support-Partner_R-050399-1) |
+| Location | Wisconsin, US |
+| Category | Corporate Finance |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Remote-Wisconsin/Transition-Support-Partner_R-050852) |
 
 ## About This Role
 
-This customer success position at LPL Financial Holdings was posted on 2026-05-18.
+This corporate finance position at LPL Financial Holdings was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

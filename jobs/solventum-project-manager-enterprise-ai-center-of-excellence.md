@@ -5,12 +5,12 @@
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Project Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/MX-Mexico-City-Virtual/Project-Manager---Enterprise-AI-Center-of-Excellence_R01128770-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/MX-Mexico-City-Virtual/Project-Manager---Enterprise-AI-Center-of-Excellence_R01130871) |
 
 ## About This Role
 
-This project manager position at Solventum was posted on 2026-03-19.
+This project manager position at Solventum was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

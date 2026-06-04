@@ -1,16 +1,16 @@
-# Senior Data Analytics Engineer – Hospitality Tech (DR) at Truelogic
+# Senior Data Analytics Engineer – Hospitality Tech | DR at Truelogic
 
 | Field | Details |
 |-------|---------|
 | Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Santo Domingo, Nacional, Dominican Republic |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/919990ed-674e-4a2e-bc97-19add4a4c390) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/b434abf6-8da7-4e91-a526-6cb6cf110552) |
 
 ## About This Role
 
-This data engineer position at Truelogic was posted on 2026-05-14.
+This data engineer position at Truelogic was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

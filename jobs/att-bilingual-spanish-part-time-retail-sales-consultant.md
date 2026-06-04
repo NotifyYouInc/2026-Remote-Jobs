@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Port Arthur, Texas, United States |
+| Location | Clermont, Florida, United States |
 | Category | Business Development |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXPort-Arthur8445-Memorial-BlvdRETRET/Bilingual-Spanish-Part-Time-Retail-Sales-Consultant_R-109275-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAFLClermont1500-Oakley-Seaver-DrRETRET/Bilingual-Spanish-Part-Time-Retail-Sales-Consultant_R-111256) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-05-22.
+This business development position at AT&T was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

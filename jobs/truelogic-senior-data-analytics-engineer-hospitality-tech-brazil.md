@@ -1,16 +1,16 @@
-# Senior Data Analytics Engineer – Hospitality Tech (Brazil) at Truelogic
+# Senior Data Analytics Engineer – Hospitality Tech | Brazil at Truelogic
 
 | Field | Details |
 |-------|---------|
 | Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/827a3c3d-72bd-4b56-a472-9d6054f04fc2) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/fa8834ec-0b56-46e4-98fa-5414ad25871b) |
 
 ## About This Role
 
-This data engineer position at Truelogic was posted on 2026-05-14.
+This data engineer position at Truelogic was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

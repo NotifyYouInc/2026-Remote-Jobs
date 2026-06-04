@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Guangzhou, Guangdong, China |
-| Category | Business Development |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013080656-medical-infocomm-rep-medical-aesth) |
+| Location | Shanghai, Shanghai, China |
+| Category | Account Executive |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013343046-medical-infocomm-rep-medical-aesth) |
 
 ## About This Role
 
-This business development position at AbbVie was posted on 2026-05-12.
+This account executive position at AbbVie was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

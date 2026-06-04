@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000119206757-remarketing-business-development-manager) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000128807992-remarketing-business-development-manager) |
 
 ## About This Role
 
-This engineering manager position at Sixt was posted on 2026-04-07.
+This engineering manager position at Sixt was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
