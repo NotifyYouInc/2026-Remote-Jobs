@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Hoover, Alabama, United States |
 | Category | Customer Success |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Houston-TX-Job-Posting-Location/Virtual-Customer-Care-Representative_R26_0000001635) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Hoover-AL-Job-Posting-Location/Virtual-Customer-Care-Representative_R26_0000002201) |
 
 ## About This Role
 
-This customer success position at Lennar Corporation was posted on 2026-04-23.
+This customer success position at Lennar Corporation was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

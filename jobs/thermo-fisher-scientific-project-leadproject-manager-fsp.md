@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | North Carolina, US |
 | Category | Project Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Project-Lead-Project-Manager---FSP_R-01342792) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Project-Lead-Project-Manager---FSP_R-01355309) |
 
 ## About This Role
 
-This project manager position at Thermo Fisher Scientific was posted on 2026-02-17.
+This project manager position at Thermo Fisher Scientific was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

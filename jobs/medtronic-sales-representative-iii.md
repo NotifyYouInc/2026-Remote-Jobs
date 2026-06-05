@@ -1,16 +1,16 @@
-# Sales Representative III at Medtronic
+# Sales Representative  III at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Thiruvananthapuram, Kerala, India |
 | Category | Account Executive |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bangkok-Bangkok-Thailand/Sales-Representative-III_R67421-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Thiruvananthapuram-Kerala-India/Sales-Representative--III_R68203-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-05-20.
+This account executive position at Medtronic was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

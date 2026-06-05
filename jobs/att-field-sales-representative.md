@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Account Executive |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Green-Bay-Wisconsin/Field-Sales-Representative_R-110994) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Urbandale-Iowa/Field-Sales-Representative_R-110191) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-05-21.
+This account executive position at AT&T was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

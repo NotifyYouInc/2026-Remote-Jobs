@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7592742) |
+| Location | United States |
+| Category | Business Development |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7956357) |
 
 ## About This Role
 
-This sales position at Twilio was posted on 2026-02-10.
+This business development position at Twilio was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

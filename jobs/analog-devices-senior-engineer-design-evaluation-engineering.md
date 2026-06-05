@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Durham, North Carolina, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Engineer--Design-Evaluation-Engineering_R262763) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Senior-Engineer--Design-Evaluation-Engineering_R263107) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-05-18.
+This electrical / hardware engineer position at Analog Devices was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

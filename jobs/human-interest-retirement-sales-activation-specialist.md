@@ -5,12 +5,12 @@
 | Company | [Human Interest](https://scoutify.ai/companies/human-interest?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/humaninterest/jobs/7728623) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/humaninterest/jobs/7962094) |
 
 ## About This Role
 
-This customer success position at Human Interest was posted on 2026-03-17.
+This customer success position at Human Interest was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

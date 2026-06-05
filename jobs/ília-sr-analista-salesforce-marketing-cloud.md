@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ília](https://scoutify.ai/companies/lia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
+| Location | Brazil |
 | Category | Marketing |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ilia/jobs/5972138004) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ilia/jobs/6008564004) |
 
 ## About This Role
 
-This marketing position at ília was posted on 2026-04-17.
+This marketing position at ília was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

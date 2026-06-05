@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ledcor Group of Companies](https://scoutify.ai/companies/ledcor-group-of-companies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | Austin, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/Baltimore-MD/Business-Installation---Repair-Technician_R27752) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/Austin-TX/Business-Installation---Repair-Technician_R29076) |
 
 ## About This Role
 
-This customer success position at Ledcor Group of Companies was posted on 2026-03-05.
+This customer success position at Ledcor Group of Companies was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | College Station, Texas, United States |
+| Location | 2 locations |
 | Category | Account Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/College-Station-TX/Territory-Sales-Manager--Autotrader-_R202676395) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Dallas-TX/Territory-Sales-Manager--Autotrader-_R202677912) |
 
 ## About This Role
 
-This account manager position at Cox was posted on 2026-05-05.
+This account manager position at Cox was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

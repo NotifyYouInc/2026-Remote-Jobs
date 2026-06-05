@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/Virtual/Manager--Order-Monitoring---Management_R432043) |
+| Location | United States |
+| Category | Account Manager |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/Virtual/Manager--Order-Monitoring---Management_R437529) |
 
 ## About This Role
 
-This business analyst position at Comcast was posted on 2026-03-04.
+This account manager position at Comcast was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

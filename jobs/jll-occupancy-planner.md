@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 5 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Nashville-TN/Occupancy-Planner_REQ496497) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Occupancy-Planner_REQ510125) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-03-27.
+This business analyst position at JLL was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

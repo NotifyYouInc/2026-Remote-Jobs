@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jitterbit](https://scoutify.ai/companies/jitterbit?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Customer Success |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Jitterbit/744000126584299-customer-success-manager-remote) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Jitterbit/744000129041568-customer-success-manager-remote) |
 
 ## About This Role
 
-This customer success position at Jitterbit was posted on 2026-05-14.
+This customer success position at Jitterbit was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

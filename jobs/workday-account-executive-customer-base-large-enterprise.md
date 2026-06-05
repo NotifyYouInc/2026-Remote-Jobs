@@ -1,16 +1,16 @@
-# Account Executive - Customer Base Large Enterprise at Workday
+# Account Executive Customer Base, Large Enterprise at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Massachusetts, US |
+| Location | London, England, United Kingdom |
 | Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-NY-Remote/Account-Executive---Customer-Base-Large-Enterprise_JR-0105083) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Account-Executive-Customer-Base--Large-Enterprise_JR-0106428-1) |
 
 ## About This Role
 
-This account executive position at Workday was posted on 2026-03-10.
+This account executive position at Workday was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [absorblms](https://scoutify.ai/companies/absorblms?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
+| Location | Australia |
 | Category | Account Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/absorblms/0142a67c-5c60-45b0-8718-080525d43544) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/absorblms/45e94e82-d547-4bb3-8d6e-21573ce83c48) |
 
 ## About This Role
 
-This account manager position at absorblms was posted on 2026-04-22.
+This account manager position at absorblms was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

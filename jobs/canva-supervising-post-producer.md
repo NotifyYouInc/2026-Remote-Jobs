@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Marketing |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001090579-supervising-post-producer) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001115391-supervising-post-producer) |
 
 ## About This Role
 
-This marketing position at Canva was posted on 2026-05-20.
+This marketing position at Canva was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

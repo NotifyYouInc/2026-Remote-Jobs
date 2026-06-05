@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ireland |
+| Location | India |
 | Category | Customer Success |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://www.wiz.io/careers/job/4665060006/:title?gh_jid=4665060006) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://www.wiz.io/careers/job/4682666006/:title?gh_jid=4682666006) |
 
 ## About This Role
 
-This customer success position at Wiz, Inc. was posted on 2026-04-18.
+This customer success position at Wiz, Inc. was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

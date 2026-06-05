@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | General |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Biostatistical-Programming-Manager_R-244135) |
+| Category | Data Scientist |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Biostatistical-Programming-Manager_R-246383) |
 
 ## About This Role
 
-This general position at Amgen was posted on 2026-05-01.
+This data scientist position at Amgen was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
