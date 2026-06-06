@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Chicago/Solutions-Consultant_R166164) |
+| Location | New York City, New York, United States |
+| Category | Customer Success |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-New-York/Solutions-Consultant_R169266) |
 
 ## About This Role
 
-This implementation / professional services position at Adobe was posted on 2026-03-20.
+This customer success position at Adobe was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

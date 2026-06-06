@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Legal |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000125420795-corporate-counsel-consumer-services) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129268659-corporate-counsel-consumer-services) |
 
 ## About This Role
 
-This legal position at Experian was posted on 2026-05-08.
+This legal position at Experian was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

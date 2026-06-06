@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 4 locations |
+| Location | Grand Rapids, Michigan, United States |
 | Category | Account Executive |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Urbandale-Iowa/Field-Sales-Representative_R-110191) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Grand-Rapids-Michigan/Field-Sales-Representative_R-111596) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-05-28.
+This account executive position at AT&T was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

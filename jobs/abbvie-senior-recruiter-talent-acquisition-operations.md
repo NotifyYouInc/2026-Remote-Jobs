@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Durham, North Carolina, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012909235-senior-recruiter-talent-acquisition-operations) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013382084-senior-recruiter-talent-acquisition-operations) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at AbbVie was posted on 2026-04-30.
+This talent acquisition / recruiting position at AbbVie was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

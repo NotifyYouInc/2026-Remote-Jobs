@@ -5,12 +5,12 @@
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Associate-Account-Manager_R-174828) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Associate-Account-Manager_R-176455) |
 
 ## About This Role
 
-This account manager position at Republic Services was posted on 2026-05-07.
+This account manager position at Republic Services was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

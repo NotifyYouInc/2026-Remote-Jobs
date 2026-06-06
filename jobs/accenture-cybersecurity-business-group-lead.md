@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Leadership |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mexico-City/Cybersecurity-Business-Group-Lead_R00324332) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Cybersecurity-Business-Group-Lead_R00333422) |
 
 ## About This Role
 
-This sales leadership position at Accenture was posted on 2026-04-15.
+This sales leadership position at Accenture was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

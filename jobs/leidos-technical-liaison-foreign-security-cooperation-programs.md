@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Technical-Liaison---Foreign-Security-Cooperation-Programs_R-00179461) |
+| Category | Customer Success |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Technical-Liaison---Foreign-Security-Cooperation-Programs_R-00184388) |
 
 ## About This Role
 
-This strategy / management consulting position at Leidos was posted on 2026-03-27.
+This customer success position at Leidos was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

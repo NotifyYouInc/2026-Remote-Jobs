@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Georgetown, Texas, United States |
 | Category | Business Development |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXRichmond5530-W-Grand-Pkwy-SRETRET/Retail-Sales-Consultant_R-111084-2) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXGeorgetown4630-Williams-DrRETRET/Retail-Sales-Consultant_R-109929-1) |
 
 ## About This Role
 

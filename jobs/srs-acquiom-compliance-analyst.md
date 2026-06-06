@@ -5,12 +5,12 @@
 | Company | [SRS Acquiom](https://scoutify.ai/companies/srs-acquiom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/srsacquiom/jobs/5051798007) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/srsacquiom/jobs/5147166007) |
 
 ## About This Role
 
-This compliance & risk management position at SRS Acquiom was posted on 2026-04-21.
+This compliance & risk management position at SRS Acquiom was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

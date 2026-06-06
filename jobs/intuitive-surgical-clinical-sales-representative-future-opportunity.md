@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Ann Arbor, Michigan, United States |
 | Category | Account Executive |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000123788867-clinical-sales-representative-future-opportunity) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000129260359-clinical-sales-representative-future-opportunity) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-04-29.
+This account executive position at Intuitive Surgical was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

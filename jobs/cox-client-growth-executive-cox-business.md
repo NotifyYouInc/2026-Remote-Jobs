@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Metairie, Louisiana, United States |
+| Location | Wichita, Kansas, United States |
 | Category | Account Executive |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Metairie-LA/Client-Growth-Executive--Cox-Business-_R202674990) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Wichita-KS/Client-Growth-Executive--Cox-Business-_R202677857) |
 
 ## About This Role
 
-This account executive position at Cox was posted on 2026-03-25.
+This account executive position at Cox was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

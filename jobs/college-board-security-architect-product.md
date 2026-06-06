@@ -5,12 +5,12 @@
 | Company | [College Board](https://scoutify.ai/companies/college-board?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://collegeboard.wd1.myworkdayjobs.com/careers/job/Remote---USA/Security-Architect--Product_REQ002456-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://collegeboard.wd1.myworkdayjobs.com/careers/job/Remote---USA/Security-Architect--Product_REQ002714) |
 
 ## About This Role
 
-This security engineer position at College Board was posted on 2026-02-19.
+This security engineer position at College Board was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

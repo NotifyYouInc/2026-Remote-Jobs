@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Premier-Service-Associate_R0058785) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Premier-Service-Associate_R0059189) |
 
 ## About This Role
 
-This customer success position at Empower was posted on 2026-05-11.
+This customer success position at Empower was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

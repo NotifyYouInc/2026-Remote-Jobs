@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 4 locations |
+| Location | United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Investigator--Employee-Relations_JR-202603624) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Work-From-Home---United-States/Investigator--Employee-Relations_JR-202611410) |
 
 ## About This Role
 
-This human resources / people ops position at General Motors was posted on 2026-02-26.
+This human resources / people ops position at General Motors was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

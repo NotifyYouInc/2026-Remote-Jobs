@@ -1,0 +1,22 @@
+# Client Partner, Enterprise Sales - New England Based at T-Mobile
+
+| Field | Details |
+|-------|---------|
+| Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Massachusetts, US |
+| Category | Account Executive |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Massachusetts/Client-Partner--Enterprise-Sales---New-England-Based_REQ346692) |
+
+## About This Role
+
+This account executive position at T-Mobile was posted on 2026-05-29.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
