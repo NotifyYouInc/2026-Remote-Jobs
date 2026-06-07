@@ -1,16 +1,16 @@
-# Internal Retirement Specialist at Nationwide
+# Account Manager (Ex-construction) at aphex
 
 | Field | Details |
 |-------|---------|
-| Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Illinois, US |
+| Company | [aphex](https://scoutify.ai/companies/aphex?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Account Manager |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Illinois/Internal-Retirement-Specialist_098510-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/aphex/ddcd6e6d-ded0-4e0b-b455-3e3123b57075) |
 
 ## About This Role
 
-This account manager position at Nationwide was posted on 2026-05-31.
+This account manager position at aphex was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 
