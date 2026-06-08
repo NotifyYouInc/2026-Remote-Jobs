@@ -5,12 +5,12 @@
 | Company | [Alan](https://scoutify.ai/companies/alan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Belgium |
 | Category | Business Development |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/alan/3c5758af-1694-448d-b9bc-3410cb85319d) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alan/b166ad73-bd7d-43fa-b733-bc9af5b615fc) |
 
 ## About This Role
 
-This business development position at Alan was posted on 2026-05-19.
+This business development position at Alan was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

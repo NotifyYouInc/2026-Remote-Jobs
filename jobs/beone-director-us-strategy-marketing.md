@@ -1,16 +1,16 @@
-# Director, US Strategy Marketing at BeOne
+# Director US Strategy Marketing at BeOne
 
 | Field | Details |
 |-------|---------|
 | Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Marketing |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--US-Strategy-Marketing_R33677) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director-US-Strategy-Marketing_R34875) |
 
 ## About This Role
 
-This marketing position at BeOne was posted on 2026-03-11.
+This marketing position at BeOne was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

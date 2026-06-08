@@ -5,12 +5,12 @@
 | Company | [Formic](https://scoutify.ai/companies/formic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Indiana, US |
 | Category | Account Executive |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/formic/jobs/4669461006) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/formic/jobs/4685610006) |
 
 ## About This Role
 
-This account executive position at Formic was posted on 2026-04-01.
+This account executive position at Formic was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

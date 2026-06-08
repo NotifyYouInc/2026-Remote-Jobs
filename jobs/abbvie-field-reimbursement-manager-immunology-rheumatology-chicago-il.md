@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Account Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013218716-field-reimbursement-manager-immunology-rheumatology-chicago-il) |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013390646-field-reimbursement-manager-immunology-rheumatology-chicago-il) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-05-19.
+This none of the above (reject) position at AbbVie was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

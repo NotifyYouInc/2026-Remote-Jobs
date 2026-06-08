@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Clermont, Florida, United States |
-| Category | Business Development |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAFLClermont1500-Oakley-Seaver-DrRETRET/Bilingual-Spanish-Part-Time-Retail-Sales-Consultant_R-111256) |
+| Location | San Antonio, Texas, United States |
+| Category | None of the Above (Reject) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXSan-Antonio1141-N-Loop-1604-ERETRET/Bilingual-Spanish-Part-Time-Retail-Sales-Consultant_R-111167-2) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-05-27.
+This none of the above (reject) position at AT&T was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

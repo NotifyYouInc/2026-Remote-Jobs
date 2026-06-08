@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgetown, Texas, United States |
+| Location | Jackson, Mississippi, United States |
 | Category | Business Development |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXGeorgetown4630-Williams-DrRETRET/Retail-Sales-Consultant_R-109929-1) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATNJackson1012-Vann-DrRETRET/Retail-Sales-Consultant_R-109400-2) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-05-29.
+This business development position at AT&T was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

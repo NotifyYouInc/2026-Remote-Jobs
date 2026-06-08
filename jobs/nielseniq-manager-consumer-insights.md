@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127129224-manager-consumer-insights) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129383194-manager-consumer-insights) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-05-19.
+This customer success position at NielsenIQ was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
