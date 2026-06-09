@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Scranton, Pennsylvania, United States |
 | Category | Account Executive |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012951136-specialty-representative-migraine-scranton-pa) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013409656-specialty-representative-migraine-scranton-pa) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-05-04.
+This account executive position at AbbVie was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Operations |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Phoenix-Arizona-US/Leader--Strategy---Planning_2011706) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Singapore-Singapore/Leader--Strategy---Planning_2014012-1) |
 
 ## About This Role
 
-This operations position at Cisco was posted on 2026-04-20.
+This operations position at Cisco was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

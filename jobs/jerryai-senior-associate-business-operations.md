@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Dallas, Texas, United States |
 | Category | Operations |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/9b332265-89c1-4d78-83b6-a994c154ea83) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/a3a2d039-7c81-4daf-9e9c-a34e1f7cb7a0) |
 
 ## About This Role
 
-This operations position at Jerry.ai was posted on 2026-04-07.
+This operations position at Jerry.ai was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

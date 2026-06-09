@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Business Development |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7644968740786309429/detail) |
+| Location | Los Angeles, California, United States |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7645291070129441077/detail) |
 
 ## About This Role
 
-This business development position at TikTok was posted on 2026-05-29.
+This none of the above (reject) position at TikTok was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

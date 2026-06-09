@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CO-Colorado-Springs/Data-Scientist-Senior_RQ219944-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Data-Scientist-Senior_RQ221091-2) |
 
 ## About This Role
 
-This data scientist position at General Dynamics Information Technology was posted on 2026-05-15.
+This data scientist position at General Dynamics Information Technology was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

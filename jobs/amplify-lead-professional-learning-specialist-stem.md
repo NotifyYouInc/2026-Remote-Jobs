@@ -5,12 +5,12 @@
 | Company | [Amplify](https://scoutify.ai/companies/amplify?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Learning & Development |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://amplify.wd1.myworkdayjobs.com/Amplify_Careers/job/Remote---United-States/Lead-Professional-Learning-Specialist--STEM_Req_12673) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://amplify.wd1.myworkdayjobs.com/Amplify_Careers/job/Remote---United-States/Lead-Professional-Learning-Specialist--STEM_Req_12734) |
 
 ## About This Role
 
-This learning & development position at Amplify was posted on 2026-04-29.
+This learning & development position at Amplify was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

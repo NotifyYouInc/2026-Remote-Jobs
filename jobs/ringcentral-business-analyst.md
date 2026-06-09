@@ -5,12 +5,12 @@
 | Company | [Ringcentral](https://scoutify.ai/companies/ringcentral?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://ringcentral.wd1.myworkdayjobs.com/ringcentral_careers/job/Manila-Philippines/Business-Analyst_R077873) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://ringcentral.wd1.myworkdayjobs.com/ringcentral_careers/job/Manila-Philippines/Business-Analyst_R078125) |
 
 ## About This Role
 
-This business analyst position at Ringcentral was posted on 2026-04-14.
+This business analyst position at Ringcentral was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

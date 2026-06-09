@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Canada |
-| Category | Customer Success |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-ON/Caseworker_R269215) |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-BC/Caseworker_R269438) |
 
 ## About This Role
 
-This customer success position at Cencora was posted on 2026-05-28.
+This none of the above (reject) position at Cencora was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

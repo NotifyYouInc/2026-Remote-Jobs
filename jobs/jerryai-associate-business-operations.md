@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | Austin, Texas, United States |
 | Category | Operations |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/69b3c770-e778-4e1e-882a-319f2dff0743) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/0d63e0eb-9424-4909-a6a1-99154aa42995) |
 
 ## About This Role
 
-This operations position at Jerry.ai was posted on 2026-04-07.
+This operations position at Jerry.ai was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

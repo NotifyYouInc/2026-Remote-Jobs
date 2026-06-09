@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 2 locations |
 | Category | Project Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Director--Capital-One-Shopping--Remote-Eligible-_R239740) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Director--Capital-One-Shopping--Remote-Eligible-_R243235-2) |
 
 ## About This Role
 
-This project manager position at Capital One was posted on 2026-04-03.
+This project manager position at Capital One was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

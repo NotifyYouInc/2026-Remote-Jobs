@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineering-Manager---Networking-System-Software_JR-202603135) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineering-Manager---Networking-System-Software_JR-202612011) |
 
 ## About This Role
 
-This engineering manager position at General Motors was posted on 2026-02-19.
+This engineering manager position at General Motors was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

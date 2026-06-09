@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Karnataka, IN |
-| Category | Qa Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Lead-Engineer-Automation-Quality_R0054755) |
+| Location | Bengaluru, Karnataka, India |
+| Category | QA Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Lead-Engineer-Automation-Quality_R0059198) |
 
 ## About This Role
 
-This qa engineer position at Empower was posted on 2026-02-05.
+This qa engineer position at Empower was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

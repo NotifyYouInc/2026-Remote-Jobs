@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117068827-especialista-de-desenvolvimento-de-software-tech-lead-java) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129586739-especialista-de-desenvolvimento-de-software-tech-lead-java) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-03-26.
+This software engineer position at Experian was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

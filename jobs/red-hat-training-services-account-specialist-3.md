@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Training-Services-Account-Specialist-3_R-055274) |
+| Location | North Carolina, US |
+| Category | Account Manager |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-NY/Training-Services-Account-Specialist-3_R-057558) |
 
 ## About This Role
 
-This account executive position at Red Hat was posted on 2026-02-26.
+This account manager position at Red Hat was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

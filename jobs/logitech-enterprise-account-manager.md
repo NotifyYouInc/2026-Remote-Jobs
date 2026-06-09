@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Logitech](https://scoutify.ai/companies/logitech?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Atlanta, Georgia, United States |
 | Category | Account Executive |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://logitech.wd5.myworkdayjobs.com/logitech/job/Bangkok-Thailand/Enterprise-Account-Manager_145906) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://logitech.wd5.myworkdayjobs.com/logitech/job/Offsite---USA---FL/Enterprise-Account-Manager_146688) |
 
 ## About This Role
 
-This account executive position at Logitech was posted on 2026-03-24.
+This account executive position at Logitech was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

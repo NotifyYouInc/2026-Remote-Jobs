@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/Brasil---Remote/Large-Enterprise-Account-Executive_112729-JOB) |
+| Location | Hong Kong, Hong Kong |
+| Category | Account Executive |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/Hong-Kong---Remote/Large-Enterprise-Account-Executive_113111-JOB) |
 
 ## About This Role
 
-This sales position at Sprinklr was posted on 2026-02-09.
+This account executive position at Sprinklr was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

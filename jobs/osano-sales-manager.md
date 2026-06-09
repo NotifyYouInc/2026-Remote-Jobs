@@ -5,12 +5,12 @@
 | Company | [Osano](https://scoutify.ai/companies/osano?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Sales Leadership |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/osano/jobs/5115907008) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/osano/jobs/5238124008) |
 
 ## About This Role
 
-This sales leadership position at Osano was posted on 2026-02-24.
+This sales leadership position at Osano was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

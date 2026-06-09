@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Missouri, US |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Manager--Medical-Loss-Ratio_1636256) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Manager--Medical-Loss-Ratio_1641232) |
 
 ## About This Role
 
-This compliance & risk management position at Centene was posted on 2026-04-07.
+This compliance & risk management position at Centene was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

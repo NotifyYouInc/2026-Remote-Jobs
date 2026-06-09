@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
-| Category | Account Executive |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---Australia/Territory-Business-Manager_JR118416) |
+| Location | Japan |
+| Category | Account Manager |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---Japan/Territory-Business-Manager_JR118069) |
 
 ## About This Role
 
-This account executive position at Dexcom was posted on 2026-05-12.
+This account manager position at Dexcom was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

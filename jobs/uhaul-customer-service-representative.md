@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Southaven, Mississippi, United States |
-| Category | Customer Success |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Southaven-Mississippi/Customer-Service-Representative_R246407) |
+| Location | Buffalo, New York, United States |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Buffalo-New-York/Customer-Service-Representative_R246600) |
 
 ## About This Role
 
-This customer success position at Uhaul was posted on 2026-05-29.
+This none of the above (reject) position at Uhaul was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

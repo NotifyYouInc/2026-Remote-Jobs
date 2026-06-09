@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Business Development |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5825834004) |
+| Category | Customer Success |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5995904004) |
 
 ## About This Role
 
-This business development position at Natera was posted on 2026-03-20.
+This customer success position at Natera was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

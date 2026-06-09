@@ -5,12 +5,12 @@
 | Company | [Wikimedia Foundation](https://scoutify.ai/companies/wikimedia-foundation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wikimedia/jobs/7732949) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wikimedia/jobs/7972965) |
 
 ## About This Role
 
-This devops engineer position at Wikimedia Foundation was posted on 2026-03-21.
+This devops engineer position at Wikimedia Foundation was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

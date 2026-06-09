@@ -5,12 +5,12 @@
 | Company | [Tinuiti](https://scoutify.ai/companies/tinuiti?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Strategist--Paid-Media_R26_85) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Strategist--Paid-Media_R26_411) |
 
 ## About This Role
 
-This digital / performance marketing position at Tinuiti was posted on 2026-03-05.
+This digital / performance marketing position at Tinuiti was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

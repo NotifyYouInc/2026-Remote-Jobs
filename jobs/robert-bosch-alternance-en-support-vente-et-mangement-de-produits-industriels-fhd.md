@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | France |
-| Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115749907-alternance-en-support-vente-et-mangement-de-produits-industriels-fhd) |
+| Location | Vénissieux, Rhône-Alpes, France |
+| Category | Sales Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129660869-alternance-en-support-vente-et-mangement-de-produits-industriels-fhd) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-03-19.
+This sales engineer position at Robert Bosch was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

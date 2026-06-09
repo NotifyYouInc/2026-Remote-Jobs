@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tucson, Arizona, United States |
+| Location | Houston, Texas, United States |
 | Category | Account Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Tucson-Arizona/Area-Field-Manager_R245462) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Houston-Texas/Area-Field-Manager_R246648) |
 
 ## About This Role
 
-This account manager position at Uhaul was posted on 2026-05-18.
+This account manager position at Uhaul was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

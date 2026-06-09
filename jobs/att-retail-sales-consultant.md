@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Jackson, Mississippi, United States |
-| Category | Business Development |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATNJackson1012-Vann-DrRETRET/Retail-Sales-Consultant_R-109400-2) |
+| Location | Spring Hill, Florida, United States |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAFLSpring-Hill1879-Commercial-WayRETRET/Retail-Sales-Consultant_R-111101-1) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-05-31.
+This none of the above (reject) position at AT&T was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

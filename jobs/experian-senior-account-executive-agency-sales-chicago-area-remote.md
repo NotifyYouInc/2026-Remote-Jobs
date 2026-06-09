@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Account Executive |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127804883-senior-account-executive-agency-sales-chicago-area-remote) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129587540-senior-account-executive-agency-sales-chicago-area-remote) |
 
 ## About This Role
 
-This account executive position at Experian was posted on 2026-05-22.
+This account executive position at Experian was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

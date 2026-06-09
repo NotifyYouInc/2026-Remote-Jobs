@@ -5,12 +5,12 @@
 | Company | [Tinuiti](https://scoutify.ai/companies/tinuiti?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Growth Marketing |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/SEO-Senior-Specialist_R26_386) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/SEO-Senior-Specialist_R26_403) |
 
 ## About This Role
 
-This growth marketing position at Tinuiti was posted on 2026-05-01.
+This growth marketing position at Tinuiti was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
