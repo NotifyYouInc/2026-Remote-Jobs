@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TREK](https://scoutify.ai/companies/trekbikes?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Wisconsin, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://trekbikes.wd1.myworkdayjobs.com/TREK/job/Remote-United-States/Ascend-Bookkeeping-Specialist_Trek114076) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://trekbikes.wd1.myworkdayjobs.com/TREK/job/Remote-United-States/Ascend-Bookkeeping-Specialist_Trek114983) |
 
 ## About This Role
 
-This corporate finance position at TREK was posted on 2026-02-23.
+This corporate finance position at TREK was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

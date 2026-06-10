@@ -1,16 +1,16 @@
-# B2B Sales Account Executive Mobility at AT&T
+# B2B Sales Account Executive - Mobility at AT&T
 
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Las Vegas, Nevada, United States |
-| Category | Business Development |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Las-Vegas-Nevada/B2B-Sales-Account-Executive-Mobility_R-111280) |
+| Location | Mesa, Arizona, United States |
+| Category | Account Executive |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Mesa-Arizona/B2B-Sales-Account-Executive---Mobility_R-111981) |
 
 ## About This Role
 
-This business development position at AT&T was posted on 2026-05-27.
+This account executive position at AT&T was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

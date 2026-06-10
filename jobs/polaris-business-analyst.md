@@ -5,12 +5,12 @@
 | Company | [Polaris](https://scoutify.ai/companies/polaris?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Plymouth, Minnesota, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Plymouth-MN-USA/Business-Analyst_R29399-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Plymouth-MN-USA/Business-Analyst_R29868) |
 
 ## About This Role
 
-This business analyst position at Polaris was posted on 2026-04-17.
+This business analyst position at Polaris was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | New York City, New York, United States |
 | Category | Business Development |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000120556447-sales-development-representative) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000129923420-sales-development-representative) |
 
 ## About This Role
 
-This business development position at Xplor Technologies was posted on 2026-04-13.
+This business development position at Xplor Technologies was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

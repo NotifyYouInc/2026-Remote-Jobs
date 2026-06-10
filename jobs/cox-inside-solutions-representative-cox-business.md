@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Las Vegas, Nevada, United States |
-| Category | Business Development |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Las-Vegas-NV/Inside-Solutions-Representative--Cox-Business-_R202677988) |
+| Location | 2 locations |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/West-Warwick-RI/Inside-Solutions-Representative--Cox-Business-_R202678059) |
 
 ## About This Role
 
-This business development position at Cox was posted on 2026-05-29.
+This none of the above (reject) position at Cox was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

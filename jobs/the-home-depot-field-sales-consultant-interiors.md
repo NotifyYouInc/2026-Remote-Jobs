@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, Maryland, United States |
-| Category | Account Executive |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/CALIFORNIA---VIRTUAL---CA01/Field-Sales-Consultant--Interiors_Req178207) |
+| Location | California, US |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/CALIFORNIA---VIRTUAL---CA01/Field-Sales-Consultant--Interiors_Req182529) |
 
 ## About This Role
 
-This account executive position at The Home Depot was posted on 2026-04-24.
+This none of the above (reject) position at The Home Depot was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Antenna](https://scoutify.ai/companies/antenna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/antenna/jobs/4057081004) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/antenna/jobs/6010609004) |
 
 ## About This Role
 
-This customer success position at Antenna was posted on 2026-03-20.
+This customer success position at Antenna was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

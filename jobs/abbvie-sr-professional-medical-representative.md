@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Account Executive |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013196236-sr-professional-medical-representative) |
+| Location | Beijing, Beijing, China |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013438546-sr-professional-medical-representative) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-05-19.
+This none of the above (reject) position at AbbVie was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

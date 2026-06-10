@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | South Korea |
+| Location | Australia |
 | Category | Sales Leadership |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://www.wiz.io/careers/job/4671764006/:title?gh_jid=4671764006) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.wiz.io/careers/job/4686346006/:title?gh_jid=4686346006) |
 
 ## About This Role
 
-This sales leadership position at Wiz, Inc. was posted on 2026-04-11.
+This sales leadership position at Wiz, Inc. was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

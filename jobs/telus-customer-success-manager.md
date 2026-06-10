@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TELUS](https://scoutify.ai/companies/telus?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | 3 locations |
 | Category | Customer Success |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Sydney-New-South-Wales-Australia/Customer-Success-Manager_R-21323-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Brisbane-Queensland-Australia/Customer-Success-Manager_R-21767) |
 
 ## About This Role
 
-This customer success position at TELUS was posted on 2026-03-04.
+This customer success position at TELUS was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

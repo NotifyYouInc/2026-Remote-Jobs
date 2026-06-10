@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-OH-Work-at-Home/Customer-Service-Rep---Automotive--Remote-_R1716475) |
+| Location | 29 locations |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/CAN-ON-Work-at-Home/Customer-Service-Rep---Automotive--Remote-_R1716491) |
 
 ## About This Role
 
-This customer success position at Concentrix was posted on 2026-04-14.
+This none of the above (reject) position at Concentrix was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

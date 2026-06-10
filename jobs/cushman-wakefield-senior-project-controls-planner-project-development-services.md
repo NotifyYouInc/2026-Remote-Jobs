@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 5 locations |
+| Location | East Lansing, Michigan, United States |
 | Category | Project Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Senior-Project-Controls-Planner--Project---Development-Services_R312433-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/East-Lansing-Michigan-USA/Senior-Project-Controls-Planner--Project---Development-Services_R321375) |
 
 ## About This Role
 
-This project manager position at Cushman & Wakefield was posted on 2026-03-30.
+This project manager position at Cushman & Wakefield was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

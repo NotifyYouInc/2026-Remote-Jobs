@@ -5,12 +5,12 @@
 | Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Marketing |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5222915008) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5239822008) |
 
 ## About This Role
 
-This marketing position at Roo was posted on 2026-05-16.
+This marketing position at Roo was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

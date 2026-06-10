@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varicent](https://scoutify.ai/companies/varicent?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico |
+| Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/varicent/jobs/5194823008) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/varicent/jobs/5239879008) |
 
 ## About This Role
 
-This software engineer position at Varicent was posted on 2026-04-21.
+This software engineer position at Varicent was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

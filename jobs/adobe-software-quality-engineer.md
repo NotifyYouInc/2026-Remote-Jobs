@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | QA Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Quality-Engineer_R167636) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Quality-Engineer_R169211) |
 
 ## About This Role
 
-This qa engineer position at Adobe was posted on 2026-04-13.
+This qa engineer position at Adobe was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

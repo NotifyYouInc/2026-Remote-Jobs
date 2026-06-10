@@ -5,12 +5,12 @@
 | Company | [Playto Labs](https://scoutify.ai/companies/playto-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Robotics Engineer |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/playtolabs/744000124236729-robotics-engineer) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/playtolabs/744000126097830-robotics-engineer) |
 
 ## About This Role
 
-This robotics engineer position at Playto Labs was posted on 2026-05-02.
+This robotics engineer position at Playto Labs was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

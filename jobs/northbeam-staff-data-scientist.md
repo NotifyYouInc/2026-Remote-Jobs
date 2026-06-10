@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northbeam](https://scoutify.ai/companies/northbeam?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Data Scientist |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northbeam/jobs/4676258006) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northbeam/jobs/4652063006) |
 
 ## About This Role
 

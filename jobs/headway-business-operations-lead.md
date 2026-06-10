@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Headway](https://scoutify.ai/companies/headway?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | New York City, New York, United States |
 | Category | Operations |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/headway/jobs/5992122004) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/headway/jobs/6007600004) |
 
 ## About This Role
 
-This operations position at Headway was posted on 2026-05-08.
+This operations position at Headway was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

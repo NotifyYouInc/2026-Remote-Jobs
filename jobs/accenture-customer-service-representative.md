@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Austin-12365-Riata-Trace-Pkwy-ACN-OPS/Customer-Service-Representative_R00316486) |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Austin-12365-Riata-Trace-Pkwy-ACN-OPS/Customer-Service-Representative_R00333878) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-04-21.
+This none of the above (reject) position at Accenture was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
