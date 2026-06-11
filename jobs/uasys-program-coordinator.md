@@ -5,12 +5,12 @@
 | Company | [Uasys](https://scoutify.ai/companies/uasys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Little Rock, Arkansas, United States |
 | Category | Program Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://uasys.wd5.myworkdayjobs.com/uams_all_careers/job/Little-Rock/Program-Coordinator_R0079874-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://uasys.wd5.myworkdayjobs.com/uams_all_careers/job/UAMS/Program-Coordinator_R0084576) |
 
 ## About This Role
 
-This program manager position at Uasys was posted on 2026-04-15.
+This program manager position at Uasys was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

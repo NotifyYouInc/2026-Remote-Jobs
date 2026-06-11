@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Texas, US |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-TX/Contact-Center-Experience-Specialist----Bilingual-Japanese-_2026-0005274) |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-TX/Contact-Center-Experience-Specialist----Bilingual-Japanese-_2026-0015236) |
 
 ## About This Role
 
-This customer success position at U.S. Bancorp was posted on 2026-05-21.
+This none of the above (reject) position at U.S. Bancorp was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

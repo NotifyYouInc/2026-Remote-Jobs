@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Senior-Tech-Product-Manager_R-107041) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Atlanta-Georgia/Senior-Tech-Product-Manager_R-111954) |
 
 ## About This Role
 
-This product manager position at AT&T was posted on 2026-04-23.
+This product manager position at AT&T was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

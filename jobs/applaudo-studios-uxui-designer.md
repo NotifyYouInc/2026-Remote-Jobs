@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | San Salvador, San Salvador Department, El Salvador |
 | Category | UX Researcher |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000120066216-uxui-designer) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000130098288-uxui-designer) |
 
 ## About This Role
 
-This ux researcher position at Applaudo Studios was posted on 2026-04-10.
+This ux researcher position at Applaudo Studios was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

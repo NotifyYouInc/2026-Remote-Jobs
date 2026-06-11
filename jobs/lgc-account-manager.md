@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LGC](https://scoutify.ai/companies/lgc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000113004837-account-manager) |
+| Location | Manchester, New Hampshire, United States |
+| Category | Account Manager |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000130074870-account-manager) |
 
 ## About This Role
 
-This account executive position at LGC was posted on 2026-03-05.
+This account manager position at LGC was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

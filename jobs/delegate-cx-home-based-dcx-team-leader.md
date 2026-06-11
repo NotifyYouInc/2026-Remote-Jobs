@@ -1,16 +1,16 @@
-# Home Based DCX Team Leader at Delegate CX
+# Home-Based DCX Team Leader at Delegate CX
 
 | Field | Details |
 |-------|---------|
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Customer Success |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-DCX-Team-Leader_JR103956) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-DCX-Team-Leader_JR104286) |
 
 ## About This Role
 
-This customer success position at Delegate CX was posted on 2026-03-19.
+This customer success position at Delegate CX was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7645397003) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7632729003) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Sezzle was posted on 2026-02-26.
+This talent acquisition / recruiting position at Sezzle was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

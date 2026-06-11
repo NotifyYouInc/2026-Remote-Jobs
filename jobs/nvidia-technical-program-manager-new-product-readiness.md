@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Jersey, US |
+| Location | 2 locations |
 | Category | Program Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NJ-Remote/Technical-Program-Manager--New-Product-Readiness_JR2014433) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Technical-Program-Manager--New-Product-Readiness_JR2019168) |
 
 ## About This Role
 
-This program manager position at Nvidia was posted on 2026-03-06.
+This program manager position at Nvidia was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

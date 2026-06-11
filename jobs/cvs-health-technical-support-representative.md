@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Rhode Island, US |
 | Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Technical-Support-Representative_R0904196) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Technical-Support-Representative_R0934953) |
 
 ## About This Role
 
-This customer success position at CVS Health was posted on 2026-05-01.
+This customer success position at CVS Health was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

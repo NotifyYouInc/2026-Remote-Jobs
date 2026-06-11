@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Michigan, US |
-| Category | Account Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-MI/Strategic-Accounts-Manager-4_R-056782-1) |
+| Location | Illinois, US |
+| Category | Account Executive |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-IL/Strategic-Accounts-Manager-4_R-057149-1) |
 
 ## About This Role
 
-This account manager position at Red Hat was posted on 2026-05-20.
+This account executive position at Red Hat was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

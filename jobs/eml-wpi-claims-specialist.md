@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EML](https://scoutify.ai/companies/eml?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Adelaide, South Australia, Australia |
-| Category | Customer Success |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Adelaide-South-Australia/WPI-Claims-Specialist_JR5666) |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Adelaide-South-Australia/WPI-Claims-Specialist_JR5782) |
 
 ## About This Role
 
-This customer success position at EML was posted on 2026-05-27.
+This none of the above (reject) position at EML was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

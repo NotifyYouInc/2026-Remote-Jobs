@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HopSkipDrive](https://scoutify.ai/companies/hopskipdrive?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, US |
+| Location | United States |
 | Category | Account Manager |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hopskipdrive/jobs/5850252004) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hopskipdrive/jobs/6009635004) |
 
 ## About This Role
 
-This account manager position at HopSkipDrive was posted on 2026-04-18.
+This account manager position at HopSkipDrive was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

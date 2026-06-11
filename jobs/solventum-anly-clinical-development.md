@@ -5,12 +5,12 @@
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Murray, Utah, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/US-Utah-Murray/Anly-Clinical-Development_R01128985) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/US-Utah-Murray/Anly-Clinical-Development_R01130965) |
 
 ## About This Role
 
-This business analyst position at Solventum was posted on 2026-04-13.
+This business analyst position at Solventum was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

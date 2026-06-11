@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arizona, US |
+| Location | California, US |
 | Category | Compliance & Risk Management |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-REMOTE/Principal-Specialist--Global-Trade--Remote-_01843720) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-REMOTE/Principal-Specialist--Global-Trade--Remote-_01850300) |
 
 ## About This Role
 
-This compliance & risk management position at RTX was posted on 2026-05-07.
+This compliance & risk management position at RTX was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

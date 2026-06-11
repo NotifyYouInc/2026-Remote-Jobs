@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Operations-Administrator_RQ109768) |
+| Category | Data Analyst |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Operations-Administrator_RQ111399) |
 
 ## About This Role
 
-This business analyst position at BP was posted on 2026-06-03.
+This data analyst position at BP was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

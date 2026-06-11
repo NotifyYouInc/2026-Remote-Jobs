@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Montgomeryville, Pennsylvania, United States |
+| Location | Olympia, Washington, United States |
 | Category | None of the Above (Reject) |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAPAMontgomeryville931-Bethlehem-PikeRETRET/Retail-Sales-Consultant_R-111088-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAWAOlympia625-Black-Lake-BlvdRETRET/Retail-Sales-Consultant_R-111011-2) |
 
 ## About This Role
 
-This none of the above (reject) position at AT&T was posted on 2026-06-02.
+This none of the above (reject) position at AT&T was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

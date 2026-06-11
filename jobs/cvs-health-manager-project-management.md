@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Washington, US |
 | Category | Project Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Work-from-home/Manager--Project-Management_R0815596-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WA---Work-from-home/Manager--Project-Management_R0934184) |
 
 ## About This Role
 
-This project manager position at CVS Health was posted on 2026-04-15.
+This project manager position at CVS Health was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

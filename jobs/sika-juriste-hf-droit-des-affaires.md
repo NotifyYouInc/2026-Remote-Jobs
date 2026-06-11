@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Le Bourget, Île-de-France, France |
 | Category | Legal |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000126914574-juriste-hf-droit-des-affaires) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000130155769-juriste-hf-droit-des-affaires) |
 
 ## About This Role
 
-This legal position at Sika was posted on 2026-05-18.
+This legal position at Sika was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
