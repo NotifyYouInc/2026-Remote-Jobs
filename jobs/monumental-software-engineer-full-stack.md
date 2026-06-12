@@ -1,0 +1,22 @@
+# Software Engineer, Full-Stack at Monumental
+
+| Field | Details |
+|-------|---------|
+| Company | [Monumental](https://scoutify.ai/companies/monumental?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Software Engineer |
+| Posted | 2025-12-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/monumental/06d447db-9dd6-412e-881e-1b4914bfb0a3) |
+
+## About This Role
+
+This software engineer position at Monumental was posted on 2025-12-24.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

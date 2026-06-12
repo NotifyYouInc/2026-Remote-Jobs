@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Jose, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0136030) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0136889) |
 
 ## About This Role
 
-This ai / llm engineer position at PayPal was posted on 2026-03-26.
+This machine learning engineer position at PayPal was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

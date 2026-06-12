@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Jose, California, United States |
-| Category | Data Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Staff-Data-Scientist_R0136018) |
+| Location | Chicago, Illinois, United States |
+| Category | Data Scientist |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Staff-Data-Scientist_R0136869) |
 
 ## About This Role
 
-This data analyst position at PayPal was posted on 2026-03-26.
+This data scientist position at PayPal was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

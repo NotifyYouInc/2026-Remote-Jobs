@@ -5,12 +5,12 @@
 | Company | [Care Access](https://scoutify.ai/companies/care-access?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/careaccess/jobs/4235121009) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/careaccess/jobs/4273765009) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Care Access was posted on 2026-04-29.
+This talent acquisition / recruiting position at Care Access was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

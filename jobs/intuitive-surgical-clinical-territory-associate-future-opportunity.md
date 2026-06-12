@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000129600789-clinical-territory-associate-future-opportunity) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000130305999-clinical-territory-associate-future-opportunity) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-06-01.
+This account executive position at Intuitive Surgical was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

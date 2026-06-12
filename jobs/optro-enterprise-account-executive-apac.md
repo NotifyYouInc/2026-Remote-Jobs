@@ -5,12 +5,12 @@
 | Company | [Optro](https://scoutify.ai/companies/optro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Singapore, Singapore |
 | Category | Account Executive |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/optro/3fa2734f-3cae-4f56-8da8-c521f0f3fc9a) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/optro/0f7fcf6f-b759-4bc9-9861-8f9540c6a1d6) |
 
 ## About This Role
 
-This account executive position at Optro was posted on 2026-05-19.
+This account executive position at Optro was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

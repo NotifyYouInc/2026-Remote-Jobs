@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Fidelity](https://scoutify.ai/companies/americanfidelity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Eugene, Oregon, United States |
 | Category | Account Executive |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Ventura-California/Outside-Sales-Representative_JR695) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Eugene-Oregon/Outside-Sales-Representative_JR817) |
 
 ## About This Role
 
-This account executive position at American Fidelity was posted on 2026-04-27.
+This account executive position at American Fidelity was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

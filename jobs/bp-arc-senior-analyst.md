@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Budapest, Budapest, Hungary |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/ARC-Senior-Analyst_RQ108971) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Budapest/ARC-Senior-Analyst_RQ111754-1) |
 
 ## About This Role
 
-This corporate finance position at BP was posted on 2026-04-13.
+This corporate finance position at BP was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

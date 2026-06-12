@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Connecticut-Work-at-Home/Technical-Support-Senior-Analyst---Evernorth---Remote_26002431) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Connecticut-Work-at-Home/Technical-Support-Senior-Analyst---Evernorth---Remote_26006803) |
 
 ## About This Role
 
-This customer success position at Cigna was posted on 2026-03-11.
+This customer success position at Cigna was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

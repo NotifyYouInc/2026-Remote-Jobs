@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CNA Insurance](https://scoutify.ai/companies/cna-insurance?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgia, US |
+| Location | Ohio, US |
 | Category | Compliance & Risk Management |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Remote---GA/Risk-Control-Consultant_R-7584) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Remote---OH/Risk-Control-Consultant_R-7591) |
 
 ## About This Role
 
-This compliance & risk management position at CNA Insurance was posted on 2026-06-04.
+This compliance & risk management position at CNA Insurance was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

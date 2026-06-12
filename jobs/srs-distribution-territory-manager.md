@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SRS Distribution](https://scoutify.ai/companies/srs-distribution?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Fort Wayne, Indiana, United States |
 | Category | Account Executive |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://srsdistribution.wd1.myworkdayjobs.com/srs/job/Noblesville-IN-HLS/Territory-Manager_REQ49890-3) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://srsdistribution.wd1.myworkdayjobs.com/srs/job/Fort-Wayne-Indiana/Territory-Manager_REQ50821-3) |
 
 ## About This Role
 
-This account executive position at SRS Distribution was posted on 2026-05-13.
+This account executive position at SRS Distribution was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

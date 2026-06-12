@@ -5,12 +5,12 @@
 | Company | [Up Education](https://scoutify.ai/companies/up-education?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Learning & Development |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/upeducation/6000000001039865-trainer-assessor-trades-cert-iii-in-concreting) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/upeducation/6000000001134397-trainer-assessor-trades-cert-iii-in-concreting) |
 
 ## About This Role
 
-This learning & development position at Up Education was posted on 2026-05-01.
+This learning & development position at Up Education was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

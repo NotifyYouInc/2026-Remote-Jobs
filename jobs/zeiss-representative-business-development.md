@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, US |
-| Category | Business Development |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-WA/Representative--Business-Development_JR_1048438) |
+| Location | 3 locations |
+| Category | Account Executive |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-MI/Representative--Business-Development_JR_1049982) |
 
 ## About This Role
 
-This business development position at Zeiss was posted on 2026-04-17.
+This account executive position at Zeiss was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

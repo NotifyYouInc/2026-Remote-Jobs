@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Massachusetts, US |
+| Location | Georgia, US |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Compliance-Specialist-II_R-01345795) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Georgia-USA/Compliance-Specialist-II_R-01355438) |
 
 ## About This Role
 
-This compliance & risk management position at Thermo Fisher Scientific was posted on 2026-03-25.
+This compliance & risk management position at Thermo Fisher Scientific was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

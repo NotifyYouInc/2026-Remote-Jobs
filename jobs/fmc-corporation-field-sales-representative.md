@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FMC Corporation](https://scoutify.ai/companies/fmc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Nebraska, US |
+| Location | Minnesota, US |
 | Category | Account Executive |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://fmc.wd12.myworkdayjobs.com/FMC/job/USA-NE-Remote/Field-Sales-Representative_R-1623) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://fmc.wd12.myworkdayjobs.com/FMC/job/USA-MN-Remote/Field-Sales-Representative_R-1949) |
 
 ## About This Role
 
-This account executive position at FMC Corporation was posted on 2026-03-16.
+This account executive position at FMC Corporation was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
