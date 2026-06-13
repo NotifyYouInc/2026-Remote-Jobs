@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Membership-Specialist_RQ219262) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Membership-Specialist_RQ220056) |
 
 ## About This Role
 
-This customer success position at General Dynamics Information Technology was posted on 2026-05-01.
+This customer success position at General Dynamics Information Technology was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

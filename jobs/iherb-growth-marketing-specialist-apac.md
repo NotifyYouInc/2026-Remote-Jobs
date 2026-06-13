@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iHerb](https://scoutify.ai/companies/iherb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Japan |
 | Category | Growth Marketing |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/iherb/jobs/7738654003) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/iherb/jobs/7763596003) |
 
 ## About This Role
 
-This growth marketing position at iHerb was posted on 2026-05-19.
+This growth marketing position at iHerb was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

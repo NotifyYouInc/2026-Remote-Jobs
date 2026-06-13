@@ -1,16 +1,16 @@
-# Associate Account Manager  at Harsco
+#  Associate Account Manager  at Harsco
 
 | Field | Details |
 |-------|---------|
 | Company | [Harsco](https://scoutify.ai/companies/harsco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | King of Prussia, Pennsylvania, United States |
-| Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000107557500-associate-account-manager) |
+| Location | Pomona, California, United States |
+| Category | Account Manager |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000130584270-associate-account-manager) |
 
 ## About This Role
 
-This customer success position at Harsco was posted on 2026-02-05.
+This account manager position at Harsco was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

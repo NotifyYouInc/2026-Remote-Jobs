@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Florida, US |
 | Category | Legal |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6008658004) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6015567004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-05-28.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

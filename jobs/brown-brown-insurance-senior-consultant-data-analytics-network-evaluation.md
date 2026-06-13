@@ -5,12 +5,12 @@
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---USA/Senior-Consultant-Data-Analytics---Network-Evaluation_R26_0000000663) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---USA/Senior-Consultant-Data-Analytics---Network-Evaluation_R26_0000001220) |
 
 ## About This Role
 
-This strategy / management consulting position at Brown & Brown Insurance was posted on 2026-02-19.
+This strategy / management consulting position at Brown & Brown Insurance was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

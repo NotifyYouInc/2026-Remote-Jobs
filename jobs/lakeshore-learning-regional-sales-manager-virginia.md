@@ -5,12 +5,12 @@
 | Company | [Lakeshore Learning](https://scoutify.ai/companies/lakeshorelearning?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Virginia, Minnesota, United States |
 | Category | Account Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000129856108-regional-sales-manager-virginia) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000130589061-regional-sales-manager-virginia) |
 
 ## About This Role
 
-This account manager position at Lakeshore Learning was posted on 2026-06-02.
+This account manager position at Lakeshore Learning was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

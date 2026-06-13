@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Newington, Connecticut, United States |
+| Location | Dayton, Ohio, United States |
 | Category | None of the Above (Reject) |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Newington-Connecticut/Retail-Sales-Consultant_R-104844) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAOHDayton4467-Walnut-StRETRET/Retail-Sales-Consultant_R-108538-2) |
 
 ## About This Role
 

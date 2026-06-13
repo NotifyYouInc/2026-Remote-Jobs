@@ -1,16 +1,16 @@
-# Insurance Producer - Mobile, AL at Horace Mann - Agent Opportunities
+#  Insurance Producer - Mobile, AL at Horace Mann - Agent Opportunities
 
 | Field | Details |
 |-------|---------|
 | Company | [Horace Mann - Agent Opportunities](https://scoutify.ai/companies/horace-mann-agent-opportunities?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mobile, Alabama, United States |
-| Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/horacemannagents/jobs/5839845004) |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/horacemannagents/jobs/6015633004) |
 
 ## About This Role
 
-This account executive position at Horace Mann - Agent Opportunities was posted on 2026-03-27.
+This none of the above (reject) position at Horace Mann - Agent Opportunities was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

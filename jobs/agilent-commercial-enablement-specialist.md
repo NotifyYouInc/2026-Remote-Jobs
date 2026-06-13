@@ -5,12 +5,12 @@
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | Customer Success |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/US-DE-Wilmington/Commercial-Enablement-Specialist_4037787) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/US-DE-Wilmington/Commercial-Enablement-Specialist_4037791) |
 
 ## About This Role
 
-This customer success position at Agilent was posted on 2026-05-06.
+This customer success position at Agilent was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

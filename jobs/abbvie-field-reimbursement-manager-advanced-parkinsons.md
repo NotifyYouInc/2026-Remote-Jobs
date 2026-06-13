@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Account Manager |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012563096-field-reimbursement-manager-advanced-parkinsons) |
+| Location | 2 locations |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013501717-field-reimbursement-manager-advanced-parkinsons) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-04-11.
+This none of the above (reject) position at AbbVie was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

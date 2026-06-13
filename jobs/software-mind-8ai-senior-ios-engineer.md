@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San José, San José, Costa Rica |
 | Category | Mobile Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000129862559-8ai-senior-ios-engineer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000130583260-8ai-senior-ios-engineer) |
 
 ## About This Role
 
-This mobile engineer position at Software Mind was posted on 2026-06-02.
+This mobile engineer position at Software Mind was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

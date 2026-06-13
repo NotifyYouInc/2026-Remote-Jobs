@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Texas, US |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000130294274-data-architect) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000130580729-data-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Endava was posted on 2026-06-04.
+This technical & solutions architect position at Endava was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

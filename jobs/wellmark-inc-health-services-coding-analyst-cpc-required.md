@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Des Moines, Iowa, United States |
+| Location | Sioux Falls, South Dakota, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000116073167-health-services-coding-analyst-cpc-required) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000130581039-health-services-coding-analyst-cpc-required) |
 
 ## About This Role
 
-This business analyst position at Wellmark, Inc. was posted on 2026-03-22.
+This business analyst position at Wellmark, Inc. was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

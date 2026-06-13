@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equip](https://scoutify.ai/companies/equip?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Maryland, US |
+| Location | California, US |
 | Category | Business Development |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/equip/5f5cdf4e-c569-48f3-aeb8-31bb8ad7294f) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/equip/0c25e943-00e0-481f-b59b-c64c11cd2f22) |
 
 ## About This Role
 
-This business development position at Equip was posted on 2026-05-27.
+This business development position at Equip was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

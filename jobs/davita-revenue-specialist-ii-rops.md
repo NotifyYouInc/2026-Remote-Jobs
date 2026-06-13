@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Operations |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Revenue-Specialist-II--ROPS-_R0451993) |
+| Location | Milwaukie, Oregon, United States |
+| Category | Corporate Finance |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09598---Oregon-Remote/Revenue-Specialist-II--ROPS-_R0462507) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-04-16.
+This corporate finance position at DaVita was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
