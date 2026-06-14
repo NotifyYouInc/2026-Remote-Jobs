@@ -1,16 +1,16 @@
-# Director, Data Center Cost Control Team Lead at Oracle
+# Product Manager at Swarm Aero
 
 | Field | Details |
 |-------|---------|
-| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Swarm Aero](https://scoutify.ai/companies/swarm-aero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#335118) |
+| Category | Product Manager |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/swarmaero/8f0af52b-a1e3-451f-bd75-3e3372a48996) |
 
 ## About This Role
 
-This engineering manager position at Oracle was posted on 2026-05-28.
+This product manager position at Swarm Aero was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

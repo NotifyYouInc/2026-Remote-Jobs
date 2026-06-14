@@ -1,16 +1,16 @@
-# Senior Staff Engineer, ERP Workday (Technical Consultant) at Nagarro
+# Senior Staff Engineer, ERP Dynamics Functional (Finance) at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
-| Category | Technology / IT Consulting |
+| Category | Corporate Finance |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000130629849-senior-staff-engineer-erp-workday-technical-consultant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000130631319-senior-staff-engineer-erp-dynamics-functional-finance) |
 
 ## About This Role
 
-This technology / it consulting position at Nagarro was posted on 2026-06-06.
+This corporate finance position at Nagarro was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

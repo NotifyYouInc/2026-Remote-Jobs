@@ -1,16 +1,16 @@
-# Director, Data Center Cost Control Team Lead at Oracle
+# [Remote] Principal Site Reliability Developer- USC Required at Oracle
 
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#335118) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#330222) |
 
 ## About This Role
 
-This engineering manager position at Oracle was posted on 2026-05-28.
+This devops engineer position at Oracle was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

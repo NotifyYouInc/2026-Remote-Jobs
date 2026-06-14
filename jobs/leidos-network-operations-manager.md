@@ -1,16 +1,16 @@
-# Director, Data Center Cost Control Team Lead at Oracle
+# Network Operations Manager at Leidos
 
 | Field | Details |
 |-------|---------|
-| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | 3 locations |
 | Category | Engineering Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#335118) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Network-Operations-Manager_R-00184961) |
 
 ## About This Role
 
-This engineering manager position at Oracle was posted on 2026-05-28.
+This engineering manager position at Leidos was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

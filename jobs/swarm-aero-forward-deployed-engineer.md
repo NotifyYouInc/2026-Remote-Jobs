@@ -1,16 +1,16 @@
-# Director, Data Center Cost Control Team Lead at Oracle
+# Forward Deployed Engineer at Swarm Aero
 
 | Field | Details |
 |-------|---------|
-| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Swarm Aero](https://scoutify.ai/companies/swarm-aero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#335118) |
+| Category | Software Engineer |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/swarmaero/60050a43-819f-41fd-a02b-a652d7461dce) |
 
 ## About This Role
 
-This engineering manager position at Oracle was posted on 2026-05-28.
+This software engineer position at Swarm Aero was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

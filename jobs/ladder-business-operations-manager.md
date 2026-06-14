@@ -1,16 +1,16 @@
-# Director, Data Center Cost Control Team Lead at Oracle
+# Business Operations Manager at Ladder
 
 | Field | Details |
 |-------|---------|
-| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Ladder](https://scoutify.ai/companies/ladder-ladder33?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#335118) |
+| Category | Operations |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ladder33/jobs/7950494) |
 
 ## About This Role
 
-This engineering manager position at Oracle was posted on 2026-05-28.
+This operations position at Ladder was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

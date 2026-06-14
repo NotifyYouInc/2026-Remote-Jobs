@@ -1,16 +1,16 @@
-# Director, Data Center Cost Control Team Lead at Oracle
+# Associate General Counsel (Healthtech) at Stedi
 
 | Field | Details |
 |-------|---------|
-| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Stedi](https://scoutify.ai/companies/stedi?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#335118) |
+| Category | Legal |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/stedi/ddabb570-32f9-430b-adce-4292630aa951) |
 
 ## About This Role
 
-This engineering manager position at Oracle was posted on 2026-05-28.
+This legal position at Stedi was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

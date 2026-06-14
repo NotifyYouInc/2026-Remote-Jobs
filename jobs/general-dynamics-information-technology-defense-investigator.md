@@ -1,16 +1,16 @@
-# Content Lead at General Dynamics Information Technology
+# Defense Investigator at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Content Marketing |
+| Location | Arlington, Texas, United States |
+| Category | Legal |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Content-Lead_RQ221743-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Defense-Investigator_RQ221664-1) |
 
 ## About This Role
 
-This content marketing position at General Dynamics Information Technology was posted on 2026-06-07.
+This legal position at General Dynamics Information Technology was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

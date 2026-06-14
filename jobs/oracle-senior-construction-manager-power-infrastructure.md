@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Project Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#319248) |
+| Category | Engineering Manager |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#334594) |
 
 ## About This Role
 
-This project manager position at Oracle was posted on 2026-03-04.
+This engineering manager position at Oracle was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

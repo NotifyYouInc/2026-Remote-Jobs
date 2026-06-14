@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | None of the Above (Reject) |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAOHDayton4467-Walnut-StRETRET/Retail-Sales-Consultant_R-108538-2) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACOColorado-Springs3532-New-Center-PointRETSVC/Retail-Sales-Consultant_R-110900-1) |
 
 ## About This Role
 

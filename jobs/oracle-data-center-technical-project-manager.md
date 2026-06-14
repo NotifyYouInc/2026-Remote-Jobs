@@ -1,16 +1,16 @@
-# Director, Data Center Cost Control Team Lead at Oracle
+# Data Center Technical Project Manager at Oracle
 
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#335118) |
+| Category | Program Manager |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#333413) |
 
 ## About This Role
 
-This engineering manager position at Oracle was posted on 2026-05-28.
+This program manager position at Oracle was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 
