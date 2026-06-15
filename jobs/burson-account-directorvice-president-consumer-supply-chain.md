@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Burson](https://scoutify.ai/companies/burson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Houston, Texas, United States |
 | Category | Marketing |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.bursonglobal.com/careers/jobs?gh_jid=5250054008) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://www.bursonglobal.com/careers/jobs?gh_jid=5250437008) |
 
 ## About This Role
 
-This marketing position at Burson was posted on 2026-06-05.
+This marketing position at Burson was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

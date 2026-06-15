@@ -5,12 +5,12 @@
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Phoenix-Campus-Main/AI-ML-Engineer-II_R0116705) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Phoenix-Campus-Main/AI-ML-Engineer-II_R0118099) |
 
 ## About This Role
 
-This machine learning engineer position at USAA was posted on 2026-04-01.
+This machine learning engineer position at USAA was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | China |
 | Category | Project Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/CHN-Client/Project-Manager-I_25109055) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/CHN-Client/Project-Manager-I_25109536) |
 
 ## About This Role
 
-This project manager position at Syneoshealth was posted on 2026-05-21.
+This project manager position at Syneoshealth was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

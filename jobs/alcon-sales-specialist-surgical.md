@@ -5,12 +5,12 @@
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Hong-Kong/Sales-Specialist---Surgical_R-2026-45082-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Hong-Kong/Sales-Specialist---Surgical_R-2026-47479-1) |
 
 ## About This Role
 
-This account executive position at Alcon was posted on 2026-03-02.
+This account executive position at Alcon was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

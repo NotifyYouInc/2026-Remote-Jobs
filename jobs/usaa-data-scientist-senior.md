@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Senior_R0116071) |
+| Category | Data Scientist |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Senior_R0118066) |
 
 ## About This Role
 
-This machine learning engineer position at USAA was posted on 2026-03-19.
+This data scientist position at USAA was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

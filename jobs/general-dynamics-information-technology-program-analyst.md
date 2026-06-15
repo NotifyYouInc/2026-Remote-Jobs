@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Program Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Program-Analyst_RQ219994-1) |
+| Location | California, Maryland, United States |
+| Category | Business Analyst |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-California/Program-Analyst_RQ221716-1) |
 
 ## About This Role
 
-This program manager position at General Dynamics Information Technology was posted on 2026-05-14.
+This business analyst position at General Dynamics Information Technology was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

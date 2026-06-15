@@ -1,16 +1,16 @@
-# Consultant - OpenShift at Red Hat
+# Consultant, OpenShift at Red Hat
 
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | North Carolina, US |
+| Location | United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-NC/Consultant---OpenShift_R-054643) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-DC/Consultant--OpenShift_R-057616-1) |
 
 ## About This Role
 
-This technology / it consulting position at Red Hat was posted on 2026-02-27.
+This technology / it consulting position at Red Hat was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

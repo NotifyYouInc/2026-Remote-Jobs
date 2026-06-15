@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Center-Engineering-and-Operations-EHS-Engineer_JR2017469) |
+| Location | Herndon, Virginia, United States |
+| Category | Engineering Manager |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-VA-Herndon/Data-Center-Engineering-and-Operations-EHS-Engineer_JR2018949) |
 
 ## About This Role
 
-This compliance & risk management position at Nvidia was posted on 2026-05-12.
+This engineering manager position at Nvidia was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Queensland, AU |
+| Location | Perth, Western Australia, Australia |
 | Category | Account Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Queensland/Account-Manager_Essity269905) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Western-Australia-Australia/Account-Manager_Essity262522) |
 
 ## About This Role
 
-This account manager position at Essity was posted on 2026-02-25.
+This account manager position at Essity was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

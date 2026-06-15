@@ -5,12 +5,12 @@
 | Company | [Alan](https://scoutify.ai/companies/alan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | France |
 | Category | Customer Success |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/alan/7e4a574d-1750-4ed5-b085-74a396a3c638) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alan/1449cfde-0c3f-44ff-9642-5e60bf677d70) |
 
 ## About This Role
 
-This customer success position at Alan was posted on 2026-05-11.
+This customer success position at Alan was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

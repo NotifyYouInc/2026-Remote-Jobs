@@ -5,12 +5,12 @@
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Plano, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Plano-Legacy/Infrastructure-Engineer-II_R0116659) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Plano-Legacy/Infrastructure-Engineer-II_R0118098) |
 
 ## About This Role
 
-This devops engineer position at USAA was posted on 2026-04-01.
+This devops engineer position at USAA was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
