@@ -1,16 +1,16 @@
-# Clinical Territory Associate - Future Opportunity at Intuitive Surgical
+# Clinical Territory Associate - Future opportunity  at Intuitive Surgical
 
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Indianapolis, Indiana, United States |
 | Category | Account Executive |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000130305999-clinical-territory-associate-future-opportunity) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000130880254-clinical-territory-associate-future-opportunity) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-06-04.
+This account executive position at Intuitive Surgical was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

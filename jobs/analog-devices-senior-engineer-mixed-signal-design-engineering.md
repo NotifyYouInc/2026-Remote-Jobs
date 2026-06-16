@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Grass Valley, California, United States |
+| Location | Chandler, Arizona, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-Grass-Valley/Senior-Engineer--Mixed-Signal-Design-Engineering_R262482) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Senior-Engineer--Mixed-Signal-Design-Engineering_R263319-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-05-08.
+This semiconductor / chip design position at Analog Devices was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

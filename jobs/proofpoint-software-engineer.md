@@ -5,12 +5,12 @@
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Draper, Utah, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Software-Engineer_R14193-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Software-Engineer_R14069) |
 
 ## About This Role
 
-This software engineer position at Proofpoint was posted on 2026-05-09.
+This software engineer position at Proofpoint was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

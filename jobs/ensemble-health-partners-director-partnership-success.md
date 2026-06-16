@@ -5,12 +5,12 @@
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director-Partnership-Success_R043660) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director-Partnership-Success_R045461) |
 
 ## About This Role
 
-This customer success position at Ensemble Health Partners was posted on 2026-04-25.
+This customer success position at Ensemble Health Partners was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

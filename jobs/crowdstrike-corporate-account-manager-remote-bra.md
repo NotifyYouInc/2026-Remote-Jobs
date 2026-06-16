@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Brazil |
-| Category | Account Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Brazil---Remote/Corporate-Account-Manager--Remote--BRA-_R26018) |
+| Category | Business Development |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Brazil---Remote/Corporate-Account-Manager--Remote--BRA-_R28952) |
 
 ## About This Role
 
-This account manager position at CrowdStrike was posted on 2026-02-26.
+This business development position at CrowdStrike was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

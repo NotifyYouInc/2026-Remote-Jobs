@@ -5,12 +5,12 @@
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Wuhan, Hubei, China |
 | Category | Account Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-WuHan-Remote/Account-Manager_R01165933-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-WuHan-Remote/Account-Manager_R01166455) |
 
 ## About This Role
 
-This account manager position at 3M Company was posted on 2026-05-28.
+This account manager position at 3M Company was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

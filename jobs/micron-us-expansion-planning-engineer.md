@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Boise, Idaho, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/US-Expansion-Planning-Engineer_JR94910-1) |
+| Category | Industrial Automation |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/US-Expansion-Planning-Engineer_JR103935) |
 
 ## About This Role
 
-This business analyst position at Micron was posted on 2026-03-16.
+This industrial automation position at Micron was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

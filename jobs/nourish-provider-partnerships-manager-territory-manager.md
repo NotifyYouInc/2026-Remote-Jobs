@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nourish](https://scoutify.ai/companies/nourish-usenourish?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Tampa, Florida, United States |
 | Category | Account Executive |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/usenourish/jobs/5249072008) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/usenourish/jobs/4945457008) |
 
 ## About This Role
 
-This account executive position at Nourish was posted on 2026-06-05.
+This account executive position at Nourish was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

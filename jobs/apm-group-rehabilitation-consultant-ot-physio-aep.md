@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | North Sydney, New South Wales, Australia |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001078813-rehabilitation-consultant-ot-physio-aep) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001140391-rehabilitation-consultant-ot-physio-aep) |
 
 ## About This Role
 
-This human resources / people ops position at APM Group was posted on 2026-05-18.
+This human resources / people ops position at APM Group was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

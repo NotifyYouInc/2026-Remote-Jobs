@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Account Executive |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-TX/Sr-Account-Executive_R-102035) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Mexico-City-Office/Sr-Account-Executive_R-102203-1) |
 
 ## About This Role
 
-This account executive position at Rimini Street was posted on 2026-02-18.
+This account executive position at Rimini Street was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Account Executive |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000116278120-technical-specification-manager) |
+| Location | Orlando, Florida, United States |
+| Category | Sales Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000130868995-technical-specification-manager) |
 
 ## About This Role
 
-This account executive position at Sika was posted on 2026-03-23.
+This sales engineer position at Sika was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

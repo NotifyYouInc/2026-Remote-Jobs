@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 4 locations |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Implementation-Manager--National-Accounts---Evernorth---Remote_26002826) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Implementation-Manager--National-Accounts---Evernorth---Remote_26007107) |
 
 ## About This Role
 
-This customer success position at Cigna was posted on 2026-03-16.
+This customer success position at Cigna was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

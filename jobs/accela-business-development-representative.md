@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accela](https://scoutify.ai/companies/accela-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Kansas City, Missouri, United States |
 | Category | Business Development |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/accela/jobs/7625057) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/accela/jobs/7990456) |
 
 ## About This Role
 
-This business development position at Accela was posted on 2026-02-19.
+This business development position at Accela was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

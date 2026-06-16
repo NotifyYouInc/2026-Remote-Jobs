@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Sales Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000127765997-clinical-territory-associate) |
+| Location | Morristown, Tennessee, United States |
+| Category | Account Executive |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000130888039-clinical-territory-associate) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-05-21.
+This account executive position at Intuitive Surgical was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

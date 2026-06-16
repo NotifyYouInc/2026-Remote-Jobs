@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Customer Success |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Remote-New-York-United-States/Field-Technician_R46430) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Remote-New-York-United-States/Field-Technician_R52482) |
 
 ## About This Role
 
-This customer success position at TD Synnex was posted on 2026-06-04.
+This customer success position at TD Synnex was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

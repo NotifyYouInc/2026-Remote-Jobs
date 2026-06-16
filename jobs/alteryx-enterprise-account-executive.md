@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alteryx](https://scoutify.ai/companies/alteryx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Maine, Wisconsin, United States |
 | Category | Account Executive |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Northern-California-USA---Remote/Enterprise-Account-Executive_R12130) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Massachusetts-USA---Remote/Enterprise-Account-Executive_R12193) |
 
 ## About This Role
 
-This account executive position at Alteryx was posted on 2026-06-03.
+This account executive position at Alteryx was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

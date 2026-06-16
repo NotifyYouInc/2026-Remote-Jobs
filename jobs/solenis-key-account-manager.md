@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pine Bluff, Arkansas, United States |
+| Location | 2 locations |
 | Category | Account Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Pine-Bluff-Arkansas-United-States-of-America/Key-Account-Manager_R0029517) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Australia-Remote/Key-Account-Manager_R0030552) |
 
 ## About This Role
 
-This account manager position at Solenis was posted on 2026-05-06.
+This account manager position at Solenis was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

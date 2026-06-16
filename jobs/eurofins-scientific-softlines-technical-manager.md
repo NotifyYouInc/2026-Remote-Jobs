@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Norwood, Massachusetts, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000127317479-softlines-technical-manager) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000130891818-softlines-technical-manager) |
 
 ## About This Role
 
-This engineering manager position at Eurofins Scientific was posted on 2026-05-19.
+This engineering manager position at Eurofins Scientific was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

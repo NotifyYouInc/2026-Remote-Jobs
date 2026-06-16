@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Brazil |
 | Category | Customer Success |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-Brazil/SAP-Product-Delivery-Transition---Support-Enablement-Engineer--LATAM_R-102238) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-Brazil/SAP-Product-Delivery-Transition---Support-Enablement-Engineer--LATAM_R-102250) |
 
 ## About This Role
 
-This customer success position at Rimini Street was posted on 2026-06-05.
+This customer success position at Rimini Street was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

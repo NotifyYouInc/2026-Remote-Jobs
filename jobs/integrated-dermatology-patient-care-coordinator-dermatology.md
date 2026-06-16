@@ -5,12 +5,12 @@
 | Company | [Integrated Dermatology](https://scoutify.ai/companies/integrateddermatology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Boca Raton, Florida, United States |
 | Category | Account Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IntegratedDermatology/744000127308147-patient-care-coordinator-dermatology) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IntegratedDermatology/744000130880859-patient-care-coordinator-dermatology) |
 
 ## About This Role
 
-This account manager position at Integrated Dermatology was posted on 2026-05-19.
+This account manager position at Integrated Dermatology was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

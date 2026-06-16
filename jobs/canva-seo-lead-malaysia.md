@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Growth Marketing |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001137267-seo-lead-malaysia) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001138816-seo-lead-malaysia) |
 
 ## About This Role
 
-This growth marketing position at Canva was posted on 2026-06-08.
+This growth marketing position at Canva was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 
