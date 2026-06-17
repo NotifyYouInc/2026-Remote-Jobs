@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Michigan, US |
-| Category | Corporate Finance |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Michigan/Senior-Retirement-Specialist_098153-1) |
+| Location | Maryland, US |
+| Category | Financial Advisory & Consulting |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Maryland/Senior-Retirement-Specialist_098595-1) |
 
 ## About This Role
 
-This corporate finance position at Nationwide was posted on 2026-05-10.
+This financial advisory & consulting position at Nationwide was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

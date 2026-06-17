@@ -5,12 +5,12 @@
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7728786?gh_jid=7728786) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/7993887?gh_jid=7993887) |
 
 ## About This Role
 
-This security engineer position at Coinbase was posted on 2026-03-17.
+This security engineer position at Coinbase was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

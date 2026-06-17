@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Los Angeles, California, United States |
 | Category | Customer Success |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Orlando---FL/Computer-Repair-Technician---Contract_R26_00001919-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/LA---CA/Computer-Repair-Technician---Contract_R26_00001927) |
 
 ## About This Role
 
-This customer success position at CDW was posted on 2026-06-05.
+This customer success position at CDW was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

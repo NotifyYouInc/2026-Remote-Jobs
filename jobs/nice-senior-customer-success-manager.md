@@ -1,16 +1,16 @@
-# Senior Customer Success Manager  at NiCE
+# Senior Customer Success Manager at NiCE
 
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United Kingdom |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4875537101?gh_jid=4875537101) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4884077101?gh_jid=4884077101) |
 
 ## About This Role
 
-This customer success position at NiCE was posted on 2026-05-31.
+This customer success position at NiCE was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7767690?gh_jid=7767690) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/7994277?gh_jid=7994277) |
 
 ## About This Role
 
-This corporate finance position at Coinbase was posted on 2026-03-31.
+This corporate finance position at Coinbase was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

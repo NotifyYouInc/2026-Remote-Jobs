@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oregon, US |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-Oregon/Software-QA-Engineer-1_JR116683) |
+| Location | Not specified |
+| Category | QA Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Software-QA-Engineer-1_JR118504) |
 
 ## About This Role
 
-This software engineer position at Dexcom was posted on 2026-02-20.
+This qa engineer position at Dexcom was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

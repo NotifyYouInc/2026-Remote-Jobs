@@ -5,12 +5,12 @@
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747553003) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767630003) |
 
 ## About This Role
 
-This account executive position at Sigma Computing was posted on 2026-05-25.
+This account executive position at Sigma Computing was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

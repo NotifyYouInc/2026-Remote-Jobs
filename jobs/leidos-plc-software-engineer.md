@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United Kingdom |
 | Category | Industrial Automation |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bedfordshire-UK/PLC-Software-Engineer_R-00178946-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bedfordshire-UK/PLC-Software-Engineer_R-00185116) |
 
 ## About This Role
 
-This industrial automation position at Leidos was posted on 2026-03-20.
+This industrial automation position at Leidos was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

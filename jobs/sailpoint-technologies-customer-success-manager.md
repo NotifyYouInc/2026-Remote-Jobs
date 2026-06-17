@@ -5,12 +5,12 @@
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Singapore/Customer-Success-Manager_R013342) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Singapore/Customer-Success-Manager_R013312) |
 
 ## About This Role
 
-This customer success position at SailPoint Technologies was posted on 2026-04-23.
+This customer success position at SailPoint Technologies was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

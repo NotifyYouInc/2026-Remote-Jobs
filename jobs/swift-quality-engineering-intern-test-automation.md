@@ -5,12 +5,12 @@
 | Company | [Swift](https://scoutify.ai/companies/swift?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | QA Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Quality-Engineering-Intern---Test-Automation_2026-15778) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Quality-Engineering-Intern---Test-Automation_2026-16111) |
 
 ## About This Role
 
-This qa engineer position at Swift was posted on 2026-04-23.
+This qa engineer position at Swift was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

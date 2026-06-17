@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Perth, Western Australia, Australia |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000935008-senior-machine-learning-engineer-inspire-create-au-remote) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001143106-senior-machine-learning-engineer-inspire-create-au-remote) |
 
 ## About This Role
 
-This ai / llm engineer position at Canva was posted on 2026-03-16.
+This machine learning engineer position at Canva was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

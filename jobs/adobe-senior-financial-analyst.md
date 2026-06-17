@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Financial-Analyst_R168617-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Tokyo/Senior-Financial-Analyst_R169585) |
 
 ## About This Role
 
-This corporate finance position at Adobe was posted on 2026-05-17.
+This corporate finance position at Adobe was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

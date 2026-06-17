@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United Kingdom |
+| Location | Santa Clara, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Scientist--Synthetic-Data-and-Privacy_JR2016646-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Scientist--Synthetic-Data-and-Privacy_JR2019462) |
 
 ## About This Role
 
-This ai / ml research position at Nvidia was posted on 2026-04-17.
+This ai / ml research position at Nvidia was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sant Quirze del Vallès, Catalonia, Spain |
+| Location | Illinois, US |
 | Category | Project Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Sant-Quirze-del-Valles-Barcelona-Spain/Associate-Project-Manager_JR00026794) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Illinois-United-States-of-America/Associate-Project-Manager_JR00036736) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-03-17.
+This project manager position at ABB was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

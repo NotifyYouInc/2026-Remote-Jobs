@@ -5,12 +5,12 @@
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Texas, US |
 | Category | Customer Success |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747555003) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767725003) |
 
 ## About This Role
 
-This customer success position at Sigma Computing was posted on 2026-05-25.
+This customer success position at Sigma Computing was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

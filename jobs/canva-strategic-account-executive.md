@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Sales |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000867370-strategic-account-executive) |
+| Location | New York City, New York, United States |
+| Category | Account Executive |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001140968-strategic-account-executive) |
 
 ## About This Role
 
-This sales position at Canva was posted on 2026-02-12.
+This account executive position at Canva was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

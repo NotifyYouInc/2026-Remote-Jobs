@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Beijing, Beijing, China |
 | Category | Business Development |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hangzhou-Zhejiang-China/Sales-Trainee_R68808-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Beijing-Beijing-China/Sales-Trainee_R68823-1) |
 
 ## About This Role
 
-This business development position at Medtronic was posted on 2026-06-09.
+This business development position at Medtronic was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

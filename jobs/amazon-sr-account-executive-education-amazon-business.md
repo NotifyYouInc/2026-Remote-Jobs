@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | California, US |
 | Category | Account Executive |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443161/sr-account-executive-education-amazon-business) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444054/sr-account-executive-education-amazon-business) |
 
 ## About This Role
 

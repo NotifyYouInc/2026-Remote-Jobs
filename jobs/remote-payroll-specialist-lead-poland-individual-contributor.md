@@ -5,12 +5,12 @@
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Poland |
 | Category | Accounting |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7697747003) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7767811003) |
 
 ## About This Role
 
-This accounting position at Remote was posted on 2026-04-13.
+This accounting position at Remote was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

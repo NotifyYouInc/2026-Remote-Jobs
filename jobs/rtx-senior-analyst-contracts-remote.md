@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arizona, US |
+| Location | Massachusetts, US |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-REMOTE/Senior-Analyst--Contracts--Remote-_01847443) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-REMOTE/Senior-Analyst--Contracts--Remote-_01851100) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-05-22.
+This business analyst position at RTX was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

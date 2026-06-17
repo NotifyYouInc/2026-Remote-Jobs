@@ -5,12 +5,12 @@
 | Company | [Sodexo](https://scoutify.ai/companies/sodexo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Balcatta, Western Australia, Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sodexo/744000130150830-workforce-scheduler-part-time-role-6-months-fixed-term-contract-balcatta-support-centre) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sodexo/744000131376249-workforce-scheduler-part-time-role-6-months-fixed-term-contract-balcatta-support-centre) |
 
 ## About This Role
 
-This business analyst position at Sodexo was posted on 2026-06-04.
+This business analyst position at Sodexo was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

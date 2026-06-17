@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Idaho, US |
+| Location | Gilbert, Arizona, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/19507---Idaho-Remote/Manager--Talent-Acquisition_R0447931) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01789---Arizona-Remote/Manager--Talent-Acquisition_R0463138) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at DaVita was posted on 2026-04-03.
+This talent acquisition / recruiting position at DaVita was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

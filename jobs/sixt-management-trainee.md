@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
+| Location | West Palm Beach, Florida, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000130894707-management-trainee) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000131224795-management-trainee) |
 
 ## About This Role
 
-This leadership development program position at Sixt was posted on 2026-06-08.
+This leadership development program position at Sixt was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

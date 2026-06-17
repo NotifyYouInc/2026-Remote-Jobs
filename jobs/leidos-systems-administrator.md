@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Honolulu, Hawaii, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Systems-Administrator_R-00182647-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Systems-Administrator_R-00185135) |
 
 ## About This Role
 
-This it & systems administration position at Leidos was posted on 2026-05-19.
+This it & systems administration position at Leidos was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Senior SDET -  GovTech Industry (Mexico) at Truelogic
+
+| Field | Details |
+|-------|---------|
+| Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | QA Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/c003e430-db6b-4648-8269-48bc66332c05) |
+
+## About This Role
+
+This qa engineer position at Truelogic was posted on 2026-06-09.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
