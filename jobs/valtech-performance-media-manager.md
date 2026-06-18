@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Ontario, CA |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4850334101) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4894213101) |
 
 ## About This Role
 
-This digital / performance marketing position at Valtech was posted on 2026-04-28.
+This digital / performance marketing position at Valtech was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Montevideo, Montevideo Department, Uruguay |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000129593559-senior-data-engineer) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000131528840-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-06-01.
+This data engineer position at Blend360 was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

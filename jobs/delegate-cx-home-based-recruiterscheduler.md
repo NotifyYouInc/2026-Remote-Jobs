@@ -5,12 +5,12 @@
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Recruiter-Scheduler_JR104225) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Recruiter-Scheduler_JR104322) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Delegate CX was posted on 2026-05-18.
+This talent acquisition / recruiting position at Delegate CX was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

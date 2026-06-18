@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DYOPATH](https://scoutify.ai/companies/dyopath?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dyopath/jobs/4674574006) |
+| Category | Security Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dyopath/jobs/4687602006) |
 
 ## About This Role
 
-This soc & incident response position at DYOPATH was posted on 2026-04-20.
+This security engineer position at DYOPATH was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

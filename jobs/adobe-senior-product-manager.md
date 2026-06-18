@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Product-Manager_R169376) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Senior-Product-Manager_R169015-1) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-06-04.
+This product manager position at Adobe was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

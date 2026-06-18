@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Waltham, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Senior-Product-Manager--Video_R64734-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Senior-Product-Manager--Video_R65842) |
 
 ## About This Role
 
-This product manager position at Motorola Solutions was posted on 2026-05-06.
+This product manager position at Motorola Solutions was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

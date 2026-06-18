@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cali, Valle del Cauca Department, Colombia |
-| Category | Human Resources / People Ops |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Cali-Colombia---Remote/Talent-Acquisition-Operations-Coordinator_R_2605_6863) |
+| Location | Colombia |
+| Category | Corporate Finance |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Colombia---Remote/Talent-Acquisition-Operations-Coordinator_R_2606_7593) |
 
 ## About This Role
 
-This human resources / people ops position at TaskUs was posted on 2026-05-21.
+This corporate finance position at TaskUs was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Massachusetts, US |
+| Location | Mexico |
 | Category | Program Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-VA/Project---Program-Management-III_R0014928) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Mexico/Project---Program-Management-III_R0015846) |
 
 ## About This Role
 
-This program manager position at Astreya was posted on 2026-03-11.
+This program manager position at Astreya was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

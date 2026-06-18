@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Iowa, US |
+| Location | New Jersey, US |
 | Category | Account Executive |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Iowa/Senior-Field-Sales-Representative---Next-Gear-_R202677856) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---New-Jersey/Senior-Field-Sales-Representative---Next-Gear-_R202678525) |
 
 ## About This Role
 
-This account executive position at Cox was posted on 2026-05-29.
+This account executive position at Cox was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

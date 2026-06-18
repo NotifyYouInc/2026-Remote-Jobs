@@ -1,16 +1,16 @@
-# Project Manager - Contracts Solutions (CLM) at Epiqsystems
+# Project Manager – Contracts Solutions (CLM) at Epiqsystems
 
 | Field | Details |
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | New York City, New York, United States |
 | Category | Legal |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Los-Angeles-CA/Project-Manager---Contracts-Solutions--CLM-_R0033699) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-New-York-NY-777-Third-Avenue/Project-Manager---Contracts-Solutions--CLM-_R0034395) |
 
 ## About This Role
 
-This legal position at Epiqsystems was posted on 2026-05-13.
+This legal position at Epiqsystems was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

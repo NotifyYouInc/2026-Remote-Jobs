@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Los Angeles, California, United States |
 | Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Melbourne-AUS/Technical-Support-Specialist_26WD97373) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Technical-Support-Specialist_26WD98981-2) |
 
 ## About This Role
 
-This customer success position at Autodesk was posted on 2026-04-20.
+This customer success position at Autodesk was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

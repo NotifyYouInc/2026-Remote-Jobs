@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Colorado, US |
 | Category | Business Development |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Vancouver-British-Columbia-Canada/Sales-Development-Representative--Remote-_2013238) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Remote---Colorado-USA/Sales-Development-Representative--Remote-_2013234) |
 
 ## About This Role
 
-This business development position at Cisco was posted on 2026-05-09.
+This business development position at Cisco was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

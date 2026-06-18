@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Account Executive |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000129857029-senior-crm-account-executive-transportation-logistics) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000131541859-senior-crm-account-executive-transportation-logistics) |
 
 ## About This Role
 
-This account executive position at ServiceNow was posted on 2026-06-02.
+This account executive position at ServiceNow was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

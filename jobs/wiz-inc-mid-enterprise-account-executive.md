@@ -5,12 +5,12 @@
 | Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | South Korea |
 | Category | Account Executive |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://www.wiz.io/careers/job/4671762006/:title?gh_jid=4671762006) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.wiz.io/careers/job/4684251006/:title?gh_jid=4684251006) |
 
 ## About This Role
 
-This account executive position at Wiz, Inc. was posted on 2026-04-11.
+This account executive position at Wiz, Inc. was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

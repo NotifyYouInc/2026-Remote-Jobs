@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Operations |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Japan---Tokyo---Akasaka/Evidence-Synthesis-Manager--HTA_442464-5) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Japan---Tokyo---Akasaka/Evidence-Synthesis-Manager--HTA_442973-6) |
 
 ## About This Role
 
-This operations position at GSK was posted on 2026-06-03.
+This operations position at GSK was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

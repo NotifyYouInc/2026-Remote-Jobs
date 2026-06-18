@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Colombia |
 | Category | Project Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Colombia---Remote/Project-Manager_R_2605_6870) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Colombia---Remote/Project-Manager_R_2606_7599) |
 
 ## About This Role
 
-This project manager position at TaskUs was posted on 2026-05-21.
+This project manager position at TaskUs was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

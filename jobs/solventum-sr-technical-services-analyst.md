@@ -5,12 +5,12 @@
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Utah, US |
 | Category | Customer Success |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Utah/Sr-Technical-Services-Analyst_R01126959) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Utah/Sr-Technical-Services-Analyst_R01130542) |
 
 ## About This Role
 
-This customer success position at Solventum was posted on 2026-05-02.
+This customer success position at Solventum was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

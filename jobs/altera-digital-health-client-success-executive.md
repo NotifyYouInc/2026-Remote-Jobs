@@ -5,12 +5,12 @@
 | Company | [Altera Digital Health](https://scoutify.ai/companies/alteradigitalhealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | North Carolina, US |
 | Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Remote---North-Carolina/Client-Success-Executive_R0039781) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/North-Carolina-United-States/Client-Success-Executive_R0044134) |
 
 ## About This Role
 
-This customer success position at Altera Digital Health was posted on 2026-02-09.
+This customer success position at Altera Digital Health was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

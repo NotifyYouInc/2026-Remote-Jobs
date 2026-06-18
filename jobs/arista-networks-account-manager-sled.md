@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000109313998-account-manager-sled) |
+| Location | 2 locations |
+| Category | Account Manager |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000131544825-account-manager-sled) |
 
 ## About This Role
 
-This customer success position at Arista Networks was posted on 2026-02-13.
+This account manager position at Arista Networks was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

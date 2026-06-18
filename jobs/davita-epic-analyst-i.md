@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06797---DPS-CKD-OPS/Epic-Analyst-I_R0452381) |
+| Category | Customer Success |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06797---DPS-CKD-OPS/Epic-Analyst-I_R0462974) |
 
 ## About This Role
 
-This it & systems administration position at DaVita was posted on 2026-04-07.
+This customer success position at DaVita was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Customer Success Manager- NOA Higher Ed. Southeast Region (USA Remote) at Turnitin
+# Customer Success Manager NOA Higher Ed. Southeast Region (USA Remote) at Turnitin
 
 | Field | Details |
 |-------|---------|
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Dallas, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000107609039-customer-success-manager-noa-higher-ed-southeast-region-usa-remote) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000131546759-customer-success-manager-noa-higher-ed-southeast-region-usa-remote) |
 
 ## About This Role
 
-This customer success position at Turnitin was posted on 2026-02-05.
+This customer success position at Turnitin was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

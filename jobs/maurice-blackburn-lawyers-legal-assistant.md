@@ -5,12 +5,12 @@
 | Company | [Maurice Blackburn Lawyers](https://scoutify.ai/companies/maurice-blackburn-lawyers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Perth, Western Australia, Australia |
 | Category | Legal |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mauriceblackburnlawyers1/6000000001081424-legal-assistant) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mauriceblackburnlawyers1/6000000001146630-legal-assistant) |
 
 ## About This Role
 
-This legal position at Maurice Blackburn Lawyers was posted on 2026-05-18.
+This legal position at Maurice Blackburn Lawyers was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Fort Lauderdale, Florida, United States |
+| Location | Miami, Florida, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000131241080-management-trainee-miami-international-airport) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000131535559-management-trainee-miami-international-airport) |
 
 ## About This Role
 
-This leadership development program position at Sixt was posted on 2026-06-09.
+This leadership development program position at Sixt was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

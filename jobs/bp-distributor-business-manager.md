@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Channel / Partner Sales |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Mexico---Mexico-City/Distributor-Business-Manager_RQ103899-1) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Account Manager |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/South-Korea---Seoul/Distributor-Business-Manager_RQ111605) |
 
 ## About This Role
 
-This channel / partner sales position at BP was posted on 2026-03-13.
+This account manager position at BP was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 
