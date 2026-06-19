@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oregon, US |
-| Category | Account Executive |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Washington-US-Offsite/Regional-Sales-Manager---Government-Video-Team_R62309) |
+| Location | California, US |
+| Category | Account Manager |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/California-Southern-Remote-Work/Regional-Sales-Manager---Government-Video-Team_R65260) |
 
 ## About This Role
 
-This account executive position at Motorola Solutions was posted on 2026-02-17.
+This account manager position at Motorola Solutions was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

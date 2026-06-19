@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | New York City, New York, United States |
 | Category | Account Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Port-St-Lucie-FL/Manager--Fleet-Client-Services_R202676465) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---New-York/Manager--Fleet-Client-Services_R202678458) |
 
 ## About This Role
 
-This account manager position at Cox was posted on 2026-05-05.
+This account manager position at Cox was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

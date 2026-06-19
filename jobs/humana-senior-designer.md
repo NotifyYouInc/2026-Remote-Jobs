@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Marketing |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Designer_R-410309-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Designer_R-419518) |
 
 ## About This Role
 
-This marketing position at Humana was posted on 2026-04-03.
+This marketing position at Humana was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

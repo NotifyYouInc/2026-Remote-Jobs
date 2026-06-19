@@ -5,12 +5,12 @@
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4795134101?gh_jid=4795134101) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4889374101?gh_jid=4889374101) |
 
 ## About This Role
 
-This customer success position at NiCE was posted on 2026-03-06.
+This customer success position at NiCE was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

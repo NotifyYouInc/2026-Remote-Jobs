@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Delhi, Delhi, India |
 | Category | Account Executive |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000128393348-clinical-sales-executive) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000131822909-clinical-sales-executive) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-05-26.
+This account executive position at Intuitive Surgical was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

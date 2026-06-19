@@ -1,16 +1,16 @@
-# Senior Backend Engineer II - AI-Native, Devices Cloud at Life360
+# Senior Backend Engineer II, AI Native, Devices Cloud at Life360
 
 | Field | Details |
 |-------|---------|
 | Company | [Life360](https://scoutify.ai/companies/life360?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/life360/jobs/8517516002) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/life360/jobs/8588939002) |
 
 ## About This Role
 
-This software engineer position at Life360 was posted on 2026-04-21.
+This software engineer position at Life360 was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

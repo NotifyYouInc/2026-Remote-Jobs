@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Fresno, California, United States |
+| Location | Reno, Nevada, United States |
 | Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Fresno-CA-US/Field-Service-Technician_R0020995) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Reno-NV-US/Field-Service-Technician_R0021552) |
 
 ## About This Role
 
-This customer success position at Aristocrat Leisure was posted on 2026-04-01.
+This customer success position at Aristocrat Leisure was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

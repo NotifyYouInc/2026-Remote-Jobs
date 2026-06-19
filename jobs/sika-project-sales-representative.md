@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Account Executive |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000119227433-project-sales-representative) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000131751494-project-sales-representative) |
 
 ## About This Role
 
-This account executive position at Sika was posted on 2026-04-07.
+This account executive position at Sika was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

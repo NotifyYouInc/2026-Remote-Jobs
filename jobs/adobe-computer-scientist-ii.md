@@ -1,16 +1,16 @@
-# Computer Scientist-II at Adobe
+# Computer Scientist - II at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-II_R163802) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist---II_R169729) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-04-26.
+This software engineer position at Adobe was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

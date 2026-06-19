@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Telangana, IN |
+| Location | Kolkata, West Bengal, India |
 | Category | Business Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373155/transportation-specialist-i-relay-ops) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373122/transportation-specialist-i-relay-ops) |
 
 ## About This Role
 

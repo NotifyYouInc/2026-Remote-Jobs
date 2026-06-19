@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EML](https://scoutify.ai/companies/eml?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | 2 locations |
 | Category | Legal |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Sydney-New-South-Wales/Legal-Specialist_JR5581) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Sydney-New-South-Wales/Legal-Specialist_JR5640) |
 
 ## About This Role
 
-This legal position at EML was posted on 2026-05-07.
+This legal position at EML was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

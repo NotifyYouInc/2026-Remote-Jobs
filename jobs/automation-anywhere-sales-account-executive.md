@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Automation Anywhere](https://scoutify.ai/companies/automation-anywhere?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Medellín, Antioquia, Colombia |
+| Location | Illinois, US |
 | Category | Account Executive |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/CO-Remote/Sales-Account-Executive_JR1380) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/US-IL-Remote/Sales-Account-Executive_JR1409) |
 
 ## About This Role
 
-This account executive position at Automation Anywhere was posted on 2026-05-27.
+This account executive position at Automation Anywhere was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

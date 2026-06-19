@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ukraine |
-| Category | Product Marketing Management |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/402dd608-0ed9-4d80-af62-cbf2d9dfb63e) |
+| Location | Serbia |
+| Category | Product Manager |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/963e51b1-53af-4ca1-a7ae-13a21e701480) |
 
 ## About This Role
 
-This product marketing management position at Ruby Labs was posted on 2026-02-09.
+This product manager position at Ruby Labs was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

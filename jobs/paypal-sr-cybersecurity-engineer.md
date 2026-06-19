@@ -5,12 +5,12 @@
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Sr-Cybersecurity-Engineer_R0136836) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Sr-Cybersecurity-Engineer_R0136911) |
 
 ## About This Role
 
-This security engineer position at PayPal was posted on 2026-06-02.
+This security engineer position at PayPal was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

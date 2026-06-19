@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Workday-Analyst_R0057865) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Workday-Analyst_R0059454) |
 
 ## About This Role
 
-This human resources / people ops position at Empower was posted on 2026-04-10.
+This human resources / people ops position at Empower was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

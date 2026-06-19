@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Engineer_RQ105535) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Engineer_RQ110572-1) |
 
 ## About This Role
 
-This data engineer position at BP was posted on 2026-05-25.
+This data engineer position at BP was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

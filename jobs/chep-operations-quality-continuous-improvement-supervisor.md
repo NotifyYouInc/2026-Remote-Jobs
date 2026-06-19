@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHEP](https://scoutify.ai/companies/chep?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
-| Category | Project Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://brambles.wd5.myworkdayjobs.com/chep_plant_careers/job/Kilgore-Texas-USA/Operations-Quality---Continuous-Improvement-Supervisor_JR23444) |
+| Location | Georgia, US |
+| Category | Operations |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://brambles.wd5.myworkdayjobs.com/chep_plant_careers/job/Pendergrass-Georgia-USA/Operations-Quality---Continuous-Improvement-Supervisor_JR23864-1) |
 
 ## About This Role
 
-This project manager position at CHEP was posted on 2026-03-27.
+This operations position at CHEP was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

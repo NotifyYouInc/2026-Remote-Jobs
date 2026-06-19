@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | North Carolina, US |
 | Category | Project Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Start-up-Team-Manager---FSP_R-01343177) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Start-up-Team-Manager---FSP_R-01355467) |
 
 ## About This Role
 
-This project manager position at Thermo Fisher Scientific was posted on 2026-05-08.
+This project manager position at Thermo Fisher Scientific was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Japan |
+| Location | Tokyo, Tokyo, Japan |
 | Category | ESG / Sustainability |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Aichi-Japan/Professional--Sustainable-Operations_REQ501133) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tokyo-Japan/Professional--Sustainable-Operations_REQ514784) |
 
 ## About This Role
 
-This esg / sustainability position at JLL was posted on 2026-04-17.
+This esg / sustainability position at JLL was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

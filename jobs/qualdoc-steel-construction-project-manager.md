@@ -5,12 +5,12 @@
 | Company | [Qualdoc](https://scoutify.ai/companies/qualdoc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Project Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.lever.co/qualdoc/7b1d10d9-d6d7-40c6-a8d9-653c668c32f7) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.lever.co/qualdoc/773acfbb-6609-4f28-a129-2840c4b02e93) |
 
 ## About This Role
 
-This project manager position at Qualdoc was posted on 2026-06-04.
+This project manager position at Qualdoc was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

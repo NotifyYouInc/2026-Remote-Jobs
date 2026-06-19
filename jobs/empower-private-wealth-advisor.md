@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/CA-Los-Angeles---Remote/Private-Wealth-Advisor_R0058845-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/OR-Portland---Remote/Private-Wealth-Advisor_R0059455) |
 
 ## About This Role
 
-This corporate finance position at Empower was posted on 2026-05-14.
+This corporate finance position at Empower was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

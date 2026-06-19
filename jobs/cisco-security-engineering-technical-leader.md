@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Guangzhou, Guangdong, China |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Security-Engineering-Technical-Leader_2011049-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Guangzhou-China/Security-Engineering-Technical-Leader_2015913) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-05-07.
+This security engineer position at Cisco was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
