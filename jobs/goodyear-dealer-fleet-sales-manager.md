@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Maryland, US |
-| Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/US-MD-Home-Office/Dealer-Fleet-Sales-Manager_JR-40106037-1) |
+| Location | 2 locations |
+| Category | Account Manager |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/US-NJ-Home-Office/Dealer-Fleet-Sales-Manager_JR-40109540-1) |
 
 ## About This Role
 
-This account executive position at Goodyear was posted on 2026-03-03.
+This account manager position at Goodyear was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

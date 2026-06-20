@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Alberta, CA |
+| Location | Québec, Quebec, Canada |
 | Category | Program Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Quebec/Program-Manager_R262204) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Quebec/Program-Manager_R2610209) |
 
 ## About This Role
 
-This program manager position at Cencora was posted on 2026-02-25.
+This program manager position at Cencora was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

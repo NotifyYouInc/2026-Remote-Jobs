@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Atlanta, Georgia, United States |
 | Category | Sales Leadership |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Account-Partner-Director_JR342301) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Account-Partner-Director_JR344159) |
 
 ## About This Role
 
-This sales leadership position at Salesforce was posted on 2026-05-17.
+This sales leadership position at Salesforce was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

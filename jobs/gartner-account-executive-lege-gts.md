@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Germany |
+| Location | Sweden |
 | Category | Account Executive |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Germany/Account-Executive--LE-GE--GTS_110167) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Sweden/Account-Executive--LE-GE--GTS_110025) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-05-18.
+This account executive position at Gartner was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

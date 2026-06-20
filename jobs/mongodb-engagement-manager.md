@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Customer Success |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7861722) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7997003) |
 
 ## About This Role
 
-This customer success position at MongoDB was posted on 2026-04-30.
+This customer success position at MongoDB was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Learning & Development |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Program-Enablement-Director---Energy-Transformation_38554) |
+| Location | Arlington, Texas, United States |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Program-Enablement-Director---Energy-Transformation_40433) |
 
 ## About This Role
 
-This learning & development position at Guidehouse was posted on 2026-04-20.
+This strategy / management consulting position at Guidehouse was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

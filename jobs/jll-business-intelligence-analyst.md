@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | 4 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Business-Intelligence-Analyst_REQ490835) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Business-Intelligence-Analyst_REQ515053) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-03-11.
+This data analyst position at JLL was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

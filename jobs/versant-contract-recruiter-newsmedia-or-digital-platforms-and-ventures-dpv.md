@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | 3 locations |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000130576780-contract-recruiter-newsmedia-or-digital-platforms-and-ventures-dpv) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131969575-contract-recruiter-newsmedia-or-digital-platforms-and-ventures-dpv) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Versant was posted on 2026-06-05.
+This talent acquisition / recruiting position at Versant was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

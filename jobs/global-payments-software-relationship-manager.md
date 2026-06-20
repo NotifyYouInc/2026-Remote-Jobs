@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Minneapolis, Minnesota, United States |
-| Category | None of the Above (Reject) |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/MINNEAPOLIS-MINNESOTA/SRM-C_R0070794) |
+| Location | Dallas, Texas, United States |
+| Category | Account Executive |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/DALLAS-TEXAS/Software-Relationship-Manager_R0072270) |
 
 ## About This Role
 
-This none of the above (reject) position at Global Payments was posted on 2026-06-05.
+This account executive position at Global Payments was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

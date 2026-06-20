@@ -5,12 +5,12 @@
 | Company | [Rockbot](https://scoutify.ai/companies/rockbot?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rockbot/jobs/5992083004) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rockbot/jobs/6026667004) |
 
 ## About This Role
 
-This account executive position at Rockbot was posted on 2026-05-08.
+This account executive position at Rockbot was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

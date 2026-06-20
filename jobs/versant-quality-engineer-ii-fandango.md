@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Englewood Cliffs, New Jersey, United States |
 | Category | QA Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000120807477-quality-engineer-ii-fandango) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131967372-quality-engineer-ii-fandango) |
 
 ## About This Role
 
-This qa engineer position at Versant was posted on 2026-04-14.
+This qa engineer position at Versant was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

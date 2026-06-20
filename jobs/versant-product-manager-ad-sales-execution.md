@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000130885319-product-manager-ad-sales-execution) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131968414-product-manager-ad-sales-execution) |
 
 ## About This Role
 
-This product manager position at Versant was posted on 2026-06-08.
+This product manager position at Versant was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

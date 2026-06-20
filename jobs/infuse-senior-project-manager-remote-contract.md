@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Portugal |
+| Location | Ukraine |
 | Category | Project Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4700504005) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4705521005) |
 
 ## About This Role
 
-This project manager position at INFUSE was posted on 2026-05-28.
+This project manager position at INFUSE was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | Austin, Texas, United States |
 | Category | Business Development |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Business-Development-Representative_R169245) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Austin/Business-Development-Representative_R169749) |
 
 ## About This Role
 
-This business development position at Adobe was posted on 2026-05-29.
+This business development position at Adobe was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

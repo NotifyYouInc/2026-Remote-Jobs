@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Legal |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Law-Clerk-I---USAO_322186) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Law-Clerk-I---USAO_327574) |
 
 ## About This Role
 
-This legal position at CACI was posted on 2026-02-23.
+This legal position at CACI was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

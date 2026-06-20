@@ -1,16 +1,16 @@
-# Enterprise Account Executive - Managed Solutions at Comcast
+# Enterprise Account Executive, Managed Solutions at Comcast
 
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | New York City, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/AZ---Virtual---C/Enterprise-Account-Executive---Managed-Solutions_R436795) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---Virtual---E/Enterprise-Account-Executive--Managed-Solutions_R439355) |
 
 ## About This Role
 
-This account executive position at Comcast was posted on 2026-05-05.
+This account executive position at Comcast was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

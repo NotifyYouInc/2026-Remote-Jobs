@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Dallas, Texas, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Senior-Engineer--Product-Applications_R263315) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Senior-Engineer--Product-Applications_R263427) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-06-08.
+This electrical / hardware engineer position at Analog Devices was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

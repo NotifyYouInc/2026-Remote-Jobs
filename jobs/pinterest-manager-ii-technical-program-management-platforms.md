@@ -5,12 +5,12 @@
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Program Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7494654) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=8002076) |
 
 ## About This Role
 
-This program manager position at Pinterest was posted on 2026-03-30.
+This program manager position at Pinterest was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

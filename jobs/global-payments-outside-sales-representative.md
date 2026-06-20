@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Madison, Wisconsin, United States |
-| Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Madison-Wisconsin-USA/Outside-Sales-Representative_R0069736) |
+| Location | Dallas, Texas, United States |
+| Category | Account Executive |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/DALLAS-TEXAS/Outside-Sales-Representative_R0072271) |
 
 ## About This Role
 
-This sales position at Global Payments was posted on 2026-02-11.
+This account executive position at Global Payments was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Network Management Consultant - Work from Home at HCSC
+# Sr Network Management Consultant - Work From Home at HCSC
 
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Richardson, Texas, United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Sr-Network-Management-Consultant---Work-from-Home_R0051157-2) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Sr-Network-Management-Consultant---Work-From-Home_R0051194-1) |
 
 ## About This Role
 
-This strategy / management consulting position at HCSC was posted on 2026-05-29.
+This strategy / management consulting position at HCSC was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

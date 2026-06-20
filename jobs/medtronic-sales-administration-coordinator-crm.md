@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sales-Administration-Coordinator--CRM_R65587-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sales-Administration-Coordinator--CRM_R65589-1) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-05-08.
+This corporate finance position at Medtronic was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

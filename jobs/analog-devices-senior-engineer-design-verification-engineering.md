@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Senior-Engineer--Design-Verification-Engineering_R262670) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Engineer--Design-Verification-Engineering_R263430) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-05-14.
+This semiconductor / chip design position at Analog Devices was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

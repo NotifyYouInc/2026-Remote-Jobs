@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pluralsight](https://scoutify.ai/companies/pluralsight?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australian Capital Territory, AU |
+| Location | Melbourne, Victoria, Australia |
 | Category | Account Executive |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://pluralsight.wd1.myworkdayjobs.com/Careers/job/Remote---Australia-Australian-Capital-Territory/Enterprise-Account-Executive_R0014039) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://pluralsight.wd1.myworkdayjobs.com/Careers/job/Melbourne-Australia/Enterprise-Account-Executive_R0014227) |
 
 ## About This Role
 
-This account executive position at Pluralsight was posted on 2026-03-16.
+This account executive position at Pluralsight was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

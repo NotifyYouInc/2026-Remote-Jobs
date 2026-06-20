@@ -5,12 +5,12 @@
 | Company | [Chainguard](https://scoutify.ai/companies/chainguard?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4628558006) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4676423006) |
 
 ## About This Role
 
-This account executive position at Chainguard was posted on 2026-04-27.
+This account executive position at Chainguard was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

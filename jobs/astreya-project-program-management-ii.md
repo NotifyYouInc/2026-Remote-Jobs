@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Singapore, Singapore |
+| Location | Reston, Virginia, United States |
 | Category | Program Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Singapore/Project---Program-Management-II_R0015447-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Reston-VA/Project---Program-Management-II_R0015927) |
 
 ## About This Role
 
-This program manager position at Astreya was posted on 2026-04-28.
+This program manager position at Astreya was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
