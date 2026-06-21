@@ -1,16 +1,16 @@
-# ServiceNow Application Architect at IBM
+# Technical Customer Support Team Lead at Eleven Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Eleven Labs](https://scoutify.ai/companies/eleven-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Customer Success |
 | Posted | 2026-06-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120282) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/elevenlabs/b20e2b5f-1cc3-40e6-87da-3f907e3796da) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-06-14.
+This customer success position at Eleven Labs was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

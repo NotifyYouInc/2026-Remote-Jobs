@@ -1,16 +1,16 @@
-# Product Manager, Legal at Versant
+# Senior Product Manager at Tremendous
 
 | Field | Details |
 |-------|---------|
-| Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Englewood Cliffs, New Jersey, United States |
+| Company | [Tremendous](https://scoutify.ai/companies/tremendous?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131989718-product-manager-legal) |
+| Posted | 2026-01-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tremendous/db48b621-647f-410e-8aa9-6af43cdd1797) |
 
 ## About This Role
 
-This product manager position at Versant was posted on 2026-06-12.
+This product manager position at Tremendous was posted on 2026-01-12.
 
 ## Get Real-Time Alerts
 

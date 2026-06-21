@@ -1,16 +1,16 @@
-# Contract Program Manager - TS/SCI with Polygraph at General Dynamics Information Technology
+# Tactical Communications Instructor at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Program Manager |
+| Location | Fort Bragg, North Carolina, United States |
+| Category | IT & Systems Administration |
 | Posted | 2026-06-14 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Contract-Program-Manager---TS-SCI-with-Polygraph_RQ222171-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Tactical-Communications-Instructor_RQ221485-2) |
 
 ## About This Role
 
-This program manager position at General Dynamics Information Technology was posted on 2026-06-14.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

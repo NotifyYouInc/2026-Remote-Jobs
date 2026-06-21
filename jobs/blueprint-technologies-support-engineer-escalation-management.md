@@ -1,16 +1,16 @@
-# ServiceNow Application Architect at IBM
+# Support Engineer - Escalation Management at Blueprint Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Blueprint Technologies](https://scoutify.ai/companies/blueprint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
+| Category | Customer Success |
 | Posted | 2026-06-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120282) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bpcs/jobs/8006811) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-06-14.
+This customer success position at Blueprint Technologies was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# ServiceNow Application Architect at IBM
+# Product Support Specialist at Tremendous
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Tremendous](https://scoutify.ai/companies/tremendous?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120282) |
+| Category | Customer Success |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tremendous/54a9f856-66c1-400c-aab3-dc5d1bd64ecf) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-06-14.
+This customer success position at Tremendous was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

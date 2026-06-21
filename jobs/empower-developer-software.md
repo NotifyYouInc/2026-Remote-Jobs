@@ -1,16 +1,16 @@
-# Financial Analyst 2 at Adobe
+# Developer Software. at Empower
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Financial-Analyst-2_R169695-1) |
+| Category | Software Engineer |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Developer-Software_R0059419) |
 
 ## About This Role
 
-This corporate finance position at Adobe was posted on 2026-06-14.
+This software engineer position at Empower was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

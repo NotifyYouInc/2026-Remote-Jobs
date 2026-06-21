@@ -1,16 +1,16 @@
-# ServiceNow Application Architect at IBM
+# Product Counsel at Tremendous
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Tremendous](https://scoutify.ai/companies/tremendous?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120282) |
+| Category | Legal |
+| Posted | 2026-01-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tremendous/61737f0f-453d-4902-9f68-dcd373ad507c) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-06-14.
+This legal position at Tremendous was posted on 2026-01-19.
 
 ## Get Real-Time Alerts
 

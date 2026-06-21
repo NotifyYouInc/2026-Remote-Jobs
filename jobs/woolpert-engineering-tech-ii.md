@@ -1,16 +1,16 @@
-# ServiceNow Application Architect at IBM
+# Engineering Tech II at Woolpert
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Woolpert](https://scoutify.ai/companies/woolpert?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120282) |
+| Category | Engineering Manager |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/woolpert/jobs/4109447009) |
 
 ## About This Role
 
-This technical & solutions architect position at IBM was posted on 2026-06-14.
+This engineering manager position at Woolpert was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 
