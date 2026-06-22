@@ -6,7 +6,7 @@
 | Location | Lexington, Kentucky, United States |
 | Category | Account Executive |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013609046-specialty-representative-hcv-lexington-ky) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013609611-specialty-representative-hcv-lexington-ky) |
 
 ## About This Role
 

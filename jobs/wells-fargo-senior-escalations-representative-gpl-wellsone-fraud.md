@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
 | Category | Customer Success |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/TAGUIG-CITY-00/Senior-Escalations-Representative--GPL---WellsOne-Service-Delivery_R-528053) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/TAGUIG-CITY-00/Senior-Escalations-Representative--GPL---WellsOne-Fraud_R-551526) |
 
 ## About This Role
 
-This customer success position at Wells Fargo was posted on 2026-03-10.
+This customer success position at Wells Fargo was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

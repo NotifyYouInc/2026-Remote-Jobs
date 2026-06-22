@@ -1,0 +1,22 @@
+# Asia Pacific Channel Sales Sr. Manager at Altera Corporation
+
+| Field | Details |
+|-------|---------|
+| Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Sales Leadership |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Seoul-South-Korea-Remote/Asia-Pacific-Channel-Sales-Sr-Manager_R02650) |
+
+## About This Role
+
+This sales leadership position at Altera Corporation was posted on 2026-06-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KION Group](https://scoutify.ai/companies/kion-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Exeter, England, United Kingdom |
-| Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Exeter-United-Kingdom/Automation-Sales-Manager_JR-0082908) |
+| Location | Milton Keynes, England, United Kingdom |
+| Category | Account Executive |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Milton-Keynes-United-Kingdom/Automation-Sales-Manager_JR-0086848-2) |
 
 ## About This Role
 
-This sales position at KION Group was posted on 2026-02-11.
+This account executive position at KION Group was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

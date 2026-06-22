@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acronis](https://scoutify.ai/companies/acronis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
+| Location | Florida, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://acronis.wd502.myworkdayjobs.com/acronis_careers/job/Canada---Remote/Cloud-Sales-Representative_R-101135) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://acronis.wd502.myworkdayjobs.com/acronis_careers/job/Florida-USA---Remote/Cloud-Sales-Representative_R-101188) |
 
 ## About This Role
 
-This account executive position at Acronis was posted on 2026-05-07.
+This account executive position at Acronis was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

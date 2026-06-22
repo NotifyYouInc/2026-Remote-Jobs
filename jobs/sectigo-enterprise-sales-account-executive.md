@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sectigo](https://scoutify.ai/companies/sectigo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Johor Bahru, Johor, Malaysia |
 | Category | Account Executive |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990012628436-enterprise-sales-account-executive) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990013613732-enterprise-sales-account-executive) |
 
 ## About This Role
 
-This account executive position at Sectigo was posted on 2026-04-16.
+This account executive position at Sectigo was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

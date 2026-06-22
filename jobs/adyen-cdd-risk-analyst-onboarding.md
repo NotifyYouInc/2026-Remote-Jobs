@@ -5,12 +5,12 @@
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Singapore, Singapore |
 | Category | Financial Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7774389) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7985498) |
 
 ## About This Role
 
-This financial analyst position at Adyen was posted on 2026-04-10.
+This financial analyst position at Adyen was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

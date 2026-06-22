@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000118635407-capital-market-business-analyst-alm-treasury-hf) |
+| Category | Corporate Finance |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000132128114-capital-market-business-analyst-alm-treasury-hf) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-04-03.
+This corporate finance position at Talan was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

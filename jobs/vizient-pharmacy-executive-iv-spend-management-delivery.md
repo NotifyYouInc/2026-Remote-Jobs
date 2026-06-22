@@ -5,12 +5,12 @@
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Pharmacy-Executive-IV_32152R) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Pharmacy-Executive-IV---Spend-Management-Delivery_32469R) |
 
 ## About This Role
 
-This business analyst position at Vizient was posted on 2026-06-03.
+This business analyst position at Vizient was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
