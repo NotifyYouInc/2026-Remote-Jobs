@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Thiruvananthapuram, Kerala, India |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | Account Executive |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Thiruvananthapuram-Kerala-India/Sales-Representative--III_R68203-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Colombo-Basnhira-pata-Sri-Lanka/Sales-Representative--III_R69077-2) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-05-29.
+This account executive position at Medtronic was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Addison, Illinois, United States |
 | Category | Business Development |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000131978269-director-global-partner-leader-wipro) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000132281854-director-global-partner-leader-wipro) |
 
 ## About This Role
 
-This business development position at ServiceNow was posted on 2026-06-12.
+This business development position at ServiceNow was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

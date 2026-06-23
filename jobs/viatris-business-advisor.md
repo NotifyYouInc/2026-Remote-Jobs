@@ -1,16 +1,16 @@
-# BUSINESS ADVISOR at Viatris
+# Business Advisor at Viatris
 
 | Field | Details |
 |-------|---------|
 | Company | [Viatris](https://scoutify.ai/companies/viatris?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Account Executive |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://viatris.wd5.myworkdayjobs.com/external/job/Australia-Remote-Office/BUSINESS-ADVISOR_R5667737) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://viatris.wd5.myworkdayjobs.com/external/job/Australia-Remote-Office/Business-Advisor_R5670281) |
 
 ## About This Role
 
-This account executive position at Viatris was posted on 2026-03-11.
+This account executive position at Viatris was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

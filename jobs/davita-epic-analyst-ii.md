@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Data Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09528---Georgia-Remote/Epic-Analyst-II_R0462625) |
+| Location | Houston, Texas, United States |
+| Category | Customer Success |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01548---Texas-Remote/Epic-Analyst-II_R0462899) |
 
 ## About This Role
 
-This data analyst position at DaVita was posted on 2026-06-10.
+This customer success position at DaVita was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

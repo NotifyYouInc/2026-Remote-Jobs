@@ -5,12 +5,12 @@
 | Company | [DriveTime](https://scoutify.ai/companies/drivetime?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tempe, Arizona, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Manager--Software-Engineering_R15556) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Manager--Software-Engineering_R15756) |
 
 ## About This Role
 
-This engineering manager position at DriveTime was posted on 2026-05-27.
+This engineering manager position at DriveTime was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

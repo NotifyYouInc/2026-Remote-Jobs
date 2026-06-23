@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Senior-Software-Engineer_R-277921-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-280212) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-05-20.
+This software engineer position at Mastercard was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sitemate](https://scoutify.ai/companies/sitemate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Business Development |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/f124b230-ff05-4ba0-b9c7-9bdc7cbec9f0) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/9034d784-ff84-4a17-bc58-398bef31f506) |
 
 ## About This Role
 
-This business development position at Sitemate was posted on 2026-06-12.
+This business development position at Sitemate was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

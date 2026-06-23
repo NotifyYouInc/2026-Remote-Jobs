@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Account Executive |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Australia---Remote/Territory-Manager_31147441-1) |
+| Location | Chandigarh, Chandigarh, India |
+| Category | Account Manager |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India--Chandigarh--Remote/Territory-Manager_31153715) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-04-22.
+This account manager position at Abbott was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

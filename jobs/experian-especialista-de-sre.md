@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117066959-especialista-de-sre) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000132292390-especialista-de-sre) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-03-26.
+This devops engineer position at Experian was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

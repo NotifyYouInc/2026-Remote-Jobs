@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Queens, New York, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000131533019-management-trainee-laguardia-airport) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000132282149-management-trainee-laguardia-airport) |
 
 ## About This Role
 
-This leadership development program position at Sixt was posted on 2026-06-10.
+This leadership development program position at Sixt was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

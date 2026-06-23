@@ -5,12 +5,12 @@
 | Company | [Cornerstone Building Brands](https://scoutify.ai/companies/cornerstonebuildingbrands?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Account Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990013405977-territory-sales-manager) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990013630276-territory-sales-manager) |
 
 ## About This Role
 
-This account manager position at Cornerstone Building Brands was posted on 2026-06-01.
+This account manager position at Cornerstone Building Brands was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

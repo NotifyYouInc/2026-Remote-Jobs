@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acronis](https://scoutify.ai/companies/acronis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
-| Category | Account Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://acronis.wd502.myworkdayjobs.com/acronis_careers/job/Brazil---Remote/Strategic-Partner-Account-Manager_R-101036) |
+| Location | United States |
+| Category | Business Development |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://acronis.wd502.myworkdayjobs.com/acronis_careers/job/USA---Remote/Strategic-Partner-Account-Manager_R-101165) |
 
 ## About This Role
 
-This account manager position at Acronis was posted on 2026-03-27.
+This business development position at Acronis was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
