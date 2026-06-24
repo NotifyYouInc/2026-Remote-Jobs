@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Charleston, South Carolina, United States |
 | Category | Account Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Dallas-TX/Territory-Sales-Manager--Autotrader-_R202677912) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---South-Carolina/Territory-Sales-Manager--Autotrader-_R202678817) |
 
 ## About This Role
 
-This account manager position at Cox was posted on 2026-05-29.
+This account manager position at Cox was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

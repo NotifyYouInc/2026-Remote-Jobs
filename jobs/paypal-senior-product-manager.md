@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Jose, California, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Senior-Product-Manager_R0136016) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Senior-Product-Manager_R0136946) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-03-26.
+This product manager position at PayPal was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

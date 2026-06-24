@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Texas, US |
 | Category | Customer Success |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Texas-Remote-Work/Application-Specialist_R64478) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Texas-Remote-Work/Application-Specialist_R66022) |
 
 ## About This Role
 
-This customer success position at Motorola Solutions was posted on 2026-05-11.
+This customer success position at Motorola Solutions was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

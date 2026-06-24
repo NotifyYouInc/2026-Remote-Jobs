@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bridgestone](https://scoutify.ai/companies/bridgestone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kansas, US |
+| Location | Atlanta, Georgia, United States |
 | Category | Account Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://bridgestone.wd5.myworkdayjobs.com/external/job/Remote---Missouri/Mileage-Sales-Field-Supervisor_2026_06747-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://bridgestone.wd5.myworkdayjobs.com/external/job/Remote---Georgia/Mileage-Sales-Field-Supervisor_2026_13415-1) |
 
 ## About This Role
 
-This account manager position at Bridgestone was posted on 2026-05-21.
+This account manager position at Bridgestone was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

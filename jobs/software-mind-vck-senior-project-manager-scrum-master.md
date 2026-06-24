@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San José, San José, Costa Rica |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000131995029-vck-senior-project-manager-scrum-master) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000132495310-vck-senior-project-manager-scrum-master) |
 
 ## About This Role
 
-This scrum master & agile coach position at Software Mind was posted on 2026-06-12.
+This scrum master & agile coach position at Software Mind was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

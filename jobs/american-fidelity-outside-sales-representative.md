@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Fidelity](https://scoutify.ai/companies/americanfidelity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Eugene, Oregon, United States |
-| Category | Account Executive |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Eugene-Oregon/Outside-Sales-Representative_JR817) |
+| Location | Zanesville, Ohio, United States |
+| Category | Account Manager |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Zanesville-Ohio/Outside-Sales-Representative_JR859) |
 
 ## About This Role
 
-This account executive position at American Fidelity was posted on 2026-06-04.
+This account manager position at American Fidelity was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

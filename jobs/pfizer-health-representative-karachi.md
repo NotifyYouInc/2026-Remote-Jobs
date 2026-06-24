@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Karachi, Sindh, Pakistan |
-| Category | Sales Engineer |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Pakistan---Remote/Health-Representative---Karachi_4954711) |
+| Category | Business Development |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Pakistan---Remote/Health-Representative---Karachi_4959574) |
 
 ## About This Role
 
-This sales engineer position at Pfizer was posted on 2026-04-05.
+This business development position at Pfizer was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

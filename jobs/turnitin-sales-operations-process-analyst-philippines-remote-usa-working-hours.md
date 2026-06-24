@@ -5,12 +5,12 @@
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Operations |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000118637672-sales-operations-process-analyst-philippines-remote-usa-working-hours) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000132567569-sales-operations-process-analyst-philippines-remote-usa-working-hours) |
 
 ## About This Role
 
-This operations position at Turnitin was posted on 2026-04-03.
+This operations position at Turnitin was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Security-Engineer-3---DevOps_R165183) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Security-Engineer-3_R169552) |
 
 ## About This Role
 
-This security engineer position at Adobe was posted on 2026-02-26.
+This security engineer position at Adobe was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

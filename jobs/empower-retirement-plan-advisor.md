@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Providence, Rhode Island, United States |
+| Location | Missouri, US |
 | Category | Financial Advisory & Consulting |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/RI-Providence---Remote/Retirement-Plan-Advisor_R0059068) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/MO-St-Louis---Remote/Retirement-Plan-Advisor_R0059506) |
 
 ## About This Role
 
-This financial advisory & consulting position at Empower was posted on 2026-05-27.
+This financial advisory & consulting position at Empower was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

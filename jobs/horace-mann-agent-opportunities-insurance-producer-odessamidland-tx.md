@@ -5,12 +5,12 @@
 | Company | [Horace Mann - Agent Opportunities](https://scoutify.ai/companies/horace-mann-agent-opportunities?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/horacemannagents/jobs/5787326004) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/horacemannagents/jobs/6004560004) |
 
 ## About This Role
 
-This account executive position at Horace Mann - Agent Opportunities was posted on 2026-04-24.
+This account executive position at Horace Mann - Agent Opportunities was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

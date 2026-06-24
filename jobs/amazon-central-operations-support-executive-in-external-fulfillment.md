@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Operations |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10414565/central-operations-support-executive-in-external-fulfillment) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449085/central-operations-support-executive-in-external-fulfillment) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-05-08.
+This operations position at Amazon was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Account Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000131226139-sr-strategic-account-mgr) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000132497169-sr-strategic-account-mgr) |
 
 ## About This Role
 
-This account manager position at Renesas Electronics was posted on 2026-06-09.
+This account manager position at Renesas Electronics was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Birmingham, Alabama, United States |
+| Location | Jersey City, New Jersey, United States |
 | Category | Legal |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6027016004) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6091907004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-06-12.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

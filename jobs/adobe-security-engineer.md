@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Security-Engineer_R167438) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Security-Engineer_R167562) |
 
 ## About This Role
 
-This security engineer position at Adobe was posted on 2026-04-06.
+This security engineer position at Adobe was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

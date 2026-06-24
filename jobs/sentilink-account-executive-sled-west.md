@@ -1,0 +1,22 @@
+# Account Executive, SLED (West) at Sentilink
+
+| Field | Details |
+|-------|---------|
+| Company | [Sentilink](https://scoutify.ai/companies/sentilink?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Account Executive |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sentilink/417908dd-afa7-4238-8b62-94dbd134955f) |
+
+## About This Role
+
+This account executive position at Sentilink was posted on 2026-06-16.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

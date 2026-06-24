@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kentucky, US |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Senior-Risk-Management-Professional_R-408630) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Senior-Risk-Management-Professional_R-420009) |
 
 ## About This Role
 
-This compliance & risk management position at Humana was posted on 2026-03-11.
+This compliance & risk management position at Humana was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

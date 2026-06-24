@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Field-Electrical-Engineer_R182016) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Field-Electrical-Engineer_R182059) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Parsons was posted on 2026-06-15.
+This electrical / hardware engineer position at Parsons was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

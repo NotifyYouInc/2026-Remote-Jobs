@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | New City, Illinois, United States |
 | Category | Account Executive |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/DALLAS-TEXAS/Outside-Sales-Representative_R0072271) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/NEW-CITY-NEW-YORK/Outside-Sales-Representative_R0072003) |
 
 ## About This Role
 
-This account executive position at Global Payments was posted on 2026-06-12.
+This account executive position at Global Payments was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
