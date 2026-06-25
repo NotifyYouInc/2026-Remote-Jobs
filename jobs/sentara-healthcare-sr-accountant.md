@@ -1,16 +1,16 @@
-# SR ACCOUNTANT at Sentara Healthcare
+# Sr Accountant at Sentara Healthcare
 
 | Field | Details |
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Norfolk, Virginia, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Sentara-Health-Corporate-Office/SR-ACCOUNTANT_JR-97613) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Sentara-Health-Corporate-Office/Sr-Accountant_JR-100973) |
 
 ## About This Role
 
-This corporate finance position at Sentara Healthcare was posted on 2026-04-23.
+This corporate finance position at Sentara Healthcare was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

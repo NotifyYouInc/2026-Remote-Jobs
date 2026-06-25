@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 3 locations |
 | Category | Project Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tampa-FL/Senior-Project-Manager_REQ511036) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Las-Colinas-TX/Senior-Project-Manager_REQ516143) |
 
 ## About This Role
 
-This project manager position at JLL was posted on 2026-06-05.
+This project manager position at JLL was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

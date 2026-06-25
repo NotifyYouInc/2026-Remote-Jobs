@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [US Fertility](https://scoutify.ai/companies/us-fertility?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Frederick, Maryland, United States |
+| Location | Not specified |
 | Category | Financial Advisory & Consulting |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://recruiting.ultipro.com/sgf1000sgfs/JobBoard/8daa09e3-0c07-4497-8d06-48273e07968f/OpportunityDetail?opportunityId=ba8980b4-f11c-40c6-9ba8-5ae7709a59e2) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://recruiting.ultipro.com/sgf1000sgfs/JobBoard/8daa09e3-0c07-4497-8d06-48273e07968f/OpportunityDetail?opportunityId=6cdd405f-3bf9-475b-9dfa-3683f3f272c6) |
 
 ## About This Role
 
-This financial advisory & consulting position at US Fertility was posted on 2026-06-08.
+This financial advisory & consulting position at US Fertility was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

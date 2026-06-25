@@ -5,12 +5,12 @@
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Consulting-Director_33665R) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Consulting-Director_33815R) |
 
 ## About This Role
 
-This strategy / management consulting position at Vizient was posted on 2026-05-20.
+This strategy / management consulting position at Vizient was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Guangzhou-China/Security-Engineer_2013685) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Security-Engineer_2016259-1) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-05-07.
+This security engineer position at Cisco was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

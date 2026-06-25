@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Obsidian Security](https://scoutify.ai/companies/obsidian-security?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United Kingdom |
-| Category | Trust & Safety |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5253216008) |
+| Location | United States |
+| Category | Product Manager |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5268845008) |
 
 ## About This Role
 
-This trust & safety position at Obsidian Security was posted on 2026-06-09.
+This product manager position at Obsidian Security was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

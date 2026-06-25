@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Jose, California, United States |
-| Category | Data Scientist |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Data-Science-Engineer_R167354-1) |
+| Category | Data Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Data-Science-Engineer_R169353-1) |
 
 ## About This Role
 
-This data scientist position at Adobe was posted on 2026-04-06.
+This data engineer position at Adobe was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

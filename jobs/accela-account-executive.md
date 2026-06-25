@@ -5,12 +5,12 @@
 | Company | [Accela](https://scoutify.ai/companies/accela-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/accela/jobs/7761640) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/accela/jobs/8010380) |
 
 ## About This Role
 
-This account executive position at Accela was posted on 2026-04-07.
+This account executive position at Accela was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

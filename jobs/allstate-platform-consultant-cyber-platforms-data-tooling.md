@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Platform-Consultant---Cyber-Platforms--Data----Tooling_R31084) |
+| Location | Canada |
+| Category | Software Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Canadian-Head-Office-It/Platform-Consultant---Cyber-Platforms--Data----Tooling_R31747) |
 
 ## About This Role
 
-This technical & solutions architect position at Allstate was posted on 2026-06-15.
+This software engineer position at Allstate was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

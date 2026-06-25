@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Athelas](https://scoutify.ai/companies/athelas?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/athelas/jobs/kLo7Ib6-manager-revenue-accounting) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/athelas/jobs/a55sI3r-manager-revenue-accounting) |
 
 ## About This Role
 
-This corporate finance position at Athelas was posted on 2026-05-13.
+This corporate finance position at Athelas was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

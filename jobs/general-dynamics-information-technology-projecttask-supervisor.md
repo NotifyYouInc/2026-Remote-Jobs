@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | California, Maryland, United States |
 | Category | Project Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-California/Project-Task-Supervisor_RQ220385-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-California/Project-Task-Supervisor_RQ222469-1) |
 
 ## About This Role
 
-This project manager position at General Dynamics Information Technology was posted on 2026-05-22.
+This project manager position at General Dynamics Information Technology was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

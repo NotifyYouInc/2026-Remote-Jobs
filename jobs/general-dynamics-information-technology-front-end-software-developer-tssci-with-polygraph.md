@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | McLean, Virginia, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Front-End-Software-Developer---TS-SCI-with-Polygraph_RQ217774-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Front-End-Software-Developer---TS-SCI-with-Polygraph_RQ222124-1) |
 
 ## About This Role
 
-This frontend engineer position at General Dynamics Information Technology was posted on 2026-04-03.
+This frontend engineer position at General Dynamics Information Technology was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

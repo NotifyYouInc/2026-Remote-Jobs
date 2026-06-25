@@ -5,12 +5,12 @@
 | Company | [SC Johnson](https://scoutify.ai/companies/scj?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Philippines---Makati/Analyst--Supply-Planning--Materials-Planning-_33146) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Philippines---Makati/Analyst--Supply-Planning--Materials-Planning-_33327) |
 
 ## About This Role
 
-This business analyst position at SC Johnson was posted on 2026-06-04.
+This business analyst position at SC Johnson was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

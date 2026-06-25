@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LaunchDarkly](https://scoutify.ai/companies/launchdarkly?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/launchdarkly/jobs/7638926003) |
+| Category | Operations |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/launchdarkly/jobs/7775103003) |
 
 ## About This Role
 
-This corporate finance position at LaunchDarkly was posted on 2026-02-21.
+This operations position at LaunchDarkly was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Morristown, Tennessee, United States |
+| Location | South Bend, Indiana, United States |
 | Category | Account Executive |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000130888039-clinical-territory-associate) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000132731739-clinical-territory-associate) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-06-08.
+This account executive position at Intuitive Surgical was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

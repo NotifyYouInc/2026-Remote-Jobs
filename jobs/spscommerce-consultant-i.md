@@ -5,12 +5,12 @@
 | Company | [Spscommerce](https://scoutify.ai/companies/spscommerce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Customer Success |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/Philippines-Remote/Consultant-I_R-000838) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/Philippines-Remote/Consultant-I_R-000656-1) |
 
 ## About This Role
 
-This customer success position at Spscommerce was posted on 2026-05-20.
+This customer success position at Spscommerce was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

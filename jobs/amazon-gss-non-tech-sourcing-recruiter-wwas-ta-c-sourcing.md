@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10394639/gss-non-tech-sourcing-recruiter-wwas-ta-c-sourcing) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10396067/gss-non-tech-sourcing-recruiter-wwas-ta-c-sourcing) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Amazon was posted on 2026-04-17.
+This talent acquisition / recruiting position at Amazon was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

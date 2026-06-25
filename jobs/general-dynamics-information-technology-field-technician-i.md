@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chesapeake, Virginia, United States |
 | Category | Marketing |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chesapeake/Field-Technician-I_RQ219453) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chesapeake/Field-Technician-I_RQ222432-1) |
 
 ## About This Role
 
-This marketing position at General Dynamics Information Technology was posted on 2026-05-07.
+This marketing position at General Dynamics Information Technology was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

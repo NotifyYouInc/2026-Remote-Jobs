@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HR Connect Limited](https://scoutify.ai/companies/hr-connect-limited?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Alberta, CA |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hrconnectlimited/744000128817989-senior-erp-consultant-remote) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hrconnectlimited/744000132739172-senior-erp-consultant-remote) |
 
 ## About This Role
 
-This technology / it consulting position at HR Connect Limited was posted on 2026-05-28.
+This technology / it consulting position at HR Connect Limited was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

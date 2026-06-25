@@ -5,12 +5,12 @@
 | Company | [Athelas](https://scoutify.ai/companies/athelas?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Sales Leadership |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/athelas/jobs/g8LhiYj-enterprise-sales-director-rcm) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/athelas/jobs/6ScTPnm-enterprise-sales-director-rcm) |
 
 ## About This Role
 
-This sales leadership position at Athelas was posted on 2026-05-13.
+This sales leadership position at Athelas was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

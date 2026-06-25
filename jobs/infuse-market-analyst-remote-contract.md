@@ -5,12 +5,12 @@
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Colombia |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4704067005) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4707216005) |
 
 ## About This Role
 
-This business analyst position at INFUSE was posted on 2026-06-08.
+This business analyst position at INFUSE was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

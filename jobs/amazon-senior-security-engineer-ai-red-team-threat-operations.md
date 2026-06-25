@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Poland |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10404716/senior-security-engineer-ai-red-team-threat-operations) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412446/senior-security-engineer-ai-red-team-threat-operations) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-04-28.
+This security engineer position at Amazon was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

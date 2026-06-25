@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ukraine |
+| Location | Slovenia |
 | Category | Marketing |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4692735005) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4707202005) |
 
 ## About This Role
 
-This marketing position at INFUSE was posted on 2026-05-05.
+This marketing position at INFUSE was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 
