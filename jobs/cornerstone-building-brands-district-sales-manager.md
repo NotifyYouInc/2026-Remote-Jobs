@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cornerstone Building Brands](https://scoutify.ai/companies/cornerstonebuildingbrands?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Rockford, Illinois, United States |
-| Category | Account Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990013278746-district-sales-manager) |
+| Location | Phoenix, Arizona, United States |
+| Category | Sales Leadership |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990013695176-district-sales-manager) |
 
 ## About This Role
 
-This account manager position at Cornerstone Building Brands was posted on 2026-05-22.
+This sales leadership position at Cornerstone Building Brands was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

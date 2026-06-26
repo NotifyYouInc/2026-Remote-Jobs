@@ -5,12 +5,12 @@
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#334594) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#325810) |
 
 ## About This Role
 
-This engineering manager position at Oracle was posted on 2026-05-22.
+This engineering manager position at Oracle was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

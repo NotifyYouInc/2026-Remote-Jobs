@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kansas, US |
 | Category | Project Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Project-Manager---US-Remote--Central-US-Region-_R62289) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Project-Manager---US-Remote--Central-US-Region-_R65782) |
 
 ## About This Role
 
-This project manager position at Motorola Solutions was posted on 2026-02-25.
+This project manager position at Motorola Solutions was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

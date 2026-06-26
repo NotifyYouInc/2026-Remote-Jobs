@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cleveland, Ohio, United States |
+| Location | Cherry Hill, New Jersey, United States |
 | Category | Account Executive |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000121297227-clinical-sales-representative) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000132957819-clinical-sales-representative) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-04-16.
+This account executive position at Intuitive Surgical was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Project manager at ABB
+# Project Manager at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brno, South Moravian, Czechia |
+| Location | North Carolina, US |
 | Category | Project Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Project-manager_JR00025297) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-North-Carolina-United-States-of-America/Project-Manager_JR00038664) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-04-20.
+This project manager position at ABB was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

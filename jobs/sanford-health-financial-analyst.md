@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanford Health](https://scoutify.ai/companies/sanford?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sioux Falls, South Dakota, United States |
+| Location | Wisconsin, US |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/SD-Sioux-Falls/Financial-Analyst_R-0255757) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/WI-City---Remote-WI/Financial-Analyst_R-0264604) |
 
 ## About This Role
 
-This corporate finance position at Sanford Health was posted on 2026-04-09.
+This corporate finance position at Sanford Health was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

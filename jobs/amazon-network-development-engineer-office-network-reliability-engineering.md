@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10380963/network-development-engineer-office-network-reliability-engineering) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426840/network-development-engineer-office-network-reliability-engineering) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-04-01.
+This devops engineer position at Amazon was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | District of Columbia, US |
+| Location | Florida, US |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-TX/Associate-Actuary--Strategic-Analytics_1634317) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Associate-Actuary--Strategic-Analytics_1642378) |
 
 ## About This Role
 
-This corporate finance position at Centene was posted on 2026-03-20.
+This corporate finance position at Centene was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Full Stack Engineer  at Robots and Pencils
+# Staff Full Stack Engineer at Robots and Pencils
 
 | Field | Details |
 |-------|---------|
 | Company | [Robots and Pencils](https://scoutify.ai/companies/robots-and-pencils?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Software Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5236431008) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5271262008) |
 
 ## About This Role
 
-This software engineer position at Robots and Pencils was posted on 2026-05-29.
+This software engineer position at Robots and Pencils was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

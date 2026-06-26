@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jitterbit](https://scoutify.ai/companies/jitterbit?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Jitterbit/744000132293329-assistant-controller-remote) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Jitterbit/744000132954129-assistant-controller-remote) |
 
 ## About This Role
 
-This corporate finance position at Jitterbit was posted on 2026-06-15.
+This corporate finance position at Jitterbit was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

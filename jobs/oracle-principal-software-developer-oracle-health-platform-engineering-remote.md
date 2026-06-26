@@ -5,12 +5,12 @@
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#330006) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#337304) |
 
 ## About This Role
 
-This software engineer position at Oracle was posted on 2026-03-19.
+This software engineer position at Oracle was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

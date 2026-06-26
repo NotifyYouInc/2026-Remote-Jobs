@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Digital-Product-Manager---Cybersecurity---Controls_R31336) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Canadian-Head-Office-It/Digital-Product-Manager---Cybersecurity---Controls_R31888) |
 
 ## About This Role
 
-This product manager position at Allstate was posted on 2026-06-17.
+This product manager position at Allstate was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

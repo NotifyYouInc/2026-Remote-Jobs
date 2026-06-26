@@ -5,12 +5,12 @@
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7818802) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7842952) |
 
 ## About This Role
 
-This account executive position at Twilio was posted on 2026-04-15.
+This account executive position at Twilio was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

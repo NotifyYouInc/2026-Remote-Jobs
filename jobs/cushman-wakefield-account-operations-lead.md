@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Program Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-Client-Site---USA---Flexible-United-States/Account-Operations-Lead_R320421) |
+| Location | Chatham, Illinois, United States |
+| Category | Operations |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Chatham-New-Jersey-USA/Account-Operations-Lead_R325019) |
 
 ## About This Role
 
-This program manager position at Cushman & Wakefield was posted on 2026-05-22.
+This operations position at Cushman & Wakefield was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

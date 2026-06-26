@@ -1,16 +1,16 @@
-# Account Director - Energy Providers at Guidehouse
+# Account Director- Energy Providers at Guidehouse
 
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Boulder, Colorado, United States |
 | Category | Account Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---CO-Boulder/Account-Director---Energy-Providers_40682) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---CO-Boulder/Account-Director--Energy-Providers_40836) |
 
 ## About This Role
 
-This account manager position at Guidehouse was posted on 2026-06-17.
+This account manager position at Guidehouse was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

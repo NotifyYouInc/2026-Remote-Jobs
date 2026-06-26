@@ -5,12 +5,12 @@
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bridgewater, New Jersey, United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#333389) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#337141) |
 
 ## About This Role
 
-This strategy / management consulting position at Oracle was posted on 2026-05-11.
+This strategy / management consulting position at Oracle was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Luis Potosí, San Luis Potosí, Mexico |
+| Location | Argentina |
 | Category | Customer Success |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Mexico-Remote/Technical-Service-Representative_R0029564) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Argentina-Remote/Technical-Service-Representative_R0030529) |
 
 ## About This Role
 
-This customer success position at Solenis was posted on 2026-05-28.
+This customer success position at Solenis was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

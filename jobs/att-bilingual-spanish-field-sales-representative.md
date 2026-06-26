@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Daly City, California, United States |
-| Category | Account Executive |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Daly-City-California/Bilingual-Spanish-Field-Sales-Representative_R-110991) |
+| Location | 5 locations |
+| Category | Business Development |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAORPortland--Sw-Greenburg-Rd10260-Sw-Greenburg-Rd/Bilingual-Spanish-Field-Sales-Representative_R-113421) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-05-21.
+This business development position at AT&T was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

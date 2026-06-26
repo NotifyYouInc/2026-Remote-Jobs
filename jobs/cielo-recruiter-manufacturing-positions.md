@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cielo](https://scoutify.ai/companies/cielo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Budapest, Budapest, Hungary |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cielo2/744000132782224-recruiter-manufacturing-positions) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cielo2/744000132998105-recruiter-manufacturing-positions) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Cielo was posted on 2026-06-18.
+This talent acquisition / recruiting position at Cielo was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

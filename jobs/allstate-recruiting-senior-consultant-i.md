@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Illinois, US |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Recruiting-Senior-Consultant-I_R30323-1) |
+| Location | Chicago, Illinois, United States |
+| Category | Talent Acquisition / Recruiting |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Recruiting-Senior-Consultant-I_R30939-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Allstate was posted on 2026-05-20.
+This talent acquisition / recruiting position at Allstate was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Channel / Partner Sales |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Kolkata-Regional-Office/Territory-Sales-Officer_R-1183188) |
+| Location | Sangrūr, Punjab, India |
+| Category | Account Manager |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Delhi-Regional-Office/Territory-Sales-Officer_R-1183587-1) |
 
 ## About This Role
 
-This channel / partner sales position at Unilever was posted on 2026-06-16.
+This account manager position at Unilever was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

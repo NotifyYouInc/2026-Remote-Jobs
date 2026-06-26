@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oregon, US |
-| Category | Account Executive |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Oregon-Remote/Regional-Sales-Manager_R0320969-1) |
+| Location | Jakarta, Jakarta, Indonesia |
+| Category | Sales Leadership |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Jakarta/Regional-Sales-Manager_R0331655-1) |
 
 ## About This Role
 
-This account executive position at Thales was posted on 2026-03-16.
+This sales leadership position at Thales was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

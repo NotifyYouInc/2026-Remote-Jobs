@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Japan |
+| Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10418065/sps-associate-sps) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439794/sps-associate-sps) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-05-13.
+This customer success position at Amazon was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

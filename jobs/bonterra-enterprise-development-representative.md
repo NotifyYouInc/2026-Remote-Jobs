@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bonterra](https://scoutify.ai/companies/bonterra?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Québec, Quebec, Canada |
+| Location | United States |
 | Category | Business Development |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote---Quebec-CAN/Enterprise-Development-Representative_R2026-0239) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/Enterprise-Development-Representative_R2026-0266) |
 
 ## About This Role
 
-This business development position at Bonterra was posted on 2026-06-05.
+This business development position at Bonterra was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

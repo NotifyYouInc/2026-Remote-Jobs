@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Option Care Health](https://scoutify.ai/companies/optioncare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Account Executive |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://optioncare.wd1.myworkdayjobs.com/optioncare/job/Phoenix-AZ/Specialty-Sales-Representative---AIC_R35024) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://optioncare.wd1.myworkdayjobs.com/optioncare/job/Nashville-TN/Specialty-Sales-Representative---AIC_R35699) |
 
 ## About This Role
 
-This account executive position at Option Care Health was posted on 2026-04-21.
+This account executive position at Option Care Health was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 
