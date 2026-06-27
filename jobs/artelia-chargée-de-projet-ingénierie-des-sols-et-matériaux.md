@@ -1,16 +1,16 @@
-# Chargé.e de projet - Ingénierie des sols et matériaux  at Artelia
+# Chargé.e de projet - Ingénierie des sols et matériaux at Artelia
 
 | Field | Details |
 |-------|---------|
 | Company | [Artelia](https://scoutify.ai/companies/artelia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Longueuil, Quebec, Canada |
-| Category | Project Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000120029472-chargee-de-projet-ingenierie-des-sols-et-materiaux) |
+| Category | Engineering Manager |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000133098250-chargee-de-projet-ingenierie-des-sols-et-materiaux) |
 
 ## About This Role
 
-This project manager position at Artelia was posted on 2026-04-10.
+This engineering manager position at Artelia was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

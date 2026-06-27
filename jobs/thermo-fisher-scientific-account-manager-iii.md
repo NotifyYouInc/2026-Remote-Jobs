@@ -1,16 +1,16 @@
-# Account manager III at Thermo Fisher Scientific
+# Account Manager III at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | China |
+| Location | Connecticut, US |
 | Category | Account Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/Account-manager-III_R-01349881) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Account-Manager-III_R-01357304-1) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-04-21.
+This account manager position at Thermo Fisher Scientific was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

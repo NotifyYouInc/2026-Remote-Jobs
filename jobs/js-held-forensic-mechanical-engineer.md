@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | St. Petersburg, Florida, United States |
 | Category | Engineering Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000132730020-forensic-mechanical-engineer) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000133110975-forensic-mechanical-engineer) |
 
 ## About This Role
 
-This engineering manager position at J.S. Held was posted on 2026-06-17.
+This engineering manager position at J.S. Held was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

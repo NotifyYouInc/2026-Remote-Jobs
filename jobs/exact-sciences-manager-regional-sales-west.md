@@ -5,12 +5,12 @@
 | Company | [Exact Sciences](https://scoutify.ai/companies/exactsciences?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Sales Leadership |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---Remote/Manager--Regional-Sales---West_R26-12890) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---Remote/Manager--Regional-Sales---West_R26-13569) |
 
 ## About This Role
 
-This sales leadership position at Exact Sciences was posted on 2026-03-30.
+This sales leadership position at Exact Sciences was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

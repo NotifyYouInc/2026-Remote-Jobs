@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Ward Law Group PL](https://scoutify.ai/companies/thewardlawgrouppl?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cuba |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Legal |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWardLawGroupPL/744000130885658-personal-injury-litigation-assistant-virtual-assistant) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWardLawGroupPL/744000133093505-personal-injury-litigation-assistant-virtual-assistant) |
 
 ## About This Role
 
-This legal position at The Ward Law Group PL was posted on 2026-06-08.
+This legal position at The Ward Law Group PL was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

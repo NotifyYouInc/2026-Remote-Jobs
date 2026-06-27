@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axiom](https://scoutify.ai/companies/axiom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8580946002&gh_jid=8580946002) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8601047002&gh_jid=8601047002) |
 
 ## About This Role
 
-This data engineer position at Axiom was posted on 2026-06-05.
+This data engineer position at Axiom was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

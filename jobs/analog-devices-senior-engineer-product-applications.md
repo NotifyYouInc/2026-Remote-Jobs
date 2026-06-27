@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | San Jose, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Senior-Engineer--Product-Applications_R263427) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Senior-Engineer--Product-Applications_R263634) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-06-12.
+This electrical / hardware engineer position at Analog Devices was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

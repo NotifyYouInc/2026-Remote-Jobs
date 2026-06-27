@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Jersey, US |
+| Location | Portland, Oregon, United States |
 | Category | Marketing |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-New-Jersey-United-States-of-America/Senior-Field-Service-Technician_JR00031118) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Oregon-United-States-of-America/Senior-Field-Service-Technician_JR00031702) |
 
 ## About This Role
 
-This marketing position at ABB was posted on 2026-06-08.
+This marketing position at ABB was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

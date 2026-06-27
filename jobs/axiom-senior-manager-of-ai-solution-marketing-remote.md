@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axiom](https://scoutify.ai/companies/axiom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 7 locations |
+| Location | 2 locations |
 | Category | Marketing |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8580949002&gh_jid=8580949002) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8601064002&gh_jid=8601064002) |
 
 ## About This Role
 
-This marketing position at Axiom was posted on 2026-06-05.
+This marketing position at Axiom was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

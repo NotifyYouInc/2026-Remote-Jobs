@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Springfield, Missouri, United States |
-| Category | Customer Success |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Springfield-Illinois/Field-Service-Specialist_JR-186204-1) |
+| Location | Phoenix, Arizona, United States |
+| Category | Marketing |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Phoenix-AZ-remote/Field-Service-Specialist_JR-186203-1) |
 
 ## About This Role
 
-This customer success position at Vantive was posted on 2026-03-16.
+This marketing position at Vantive was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Corrohealth](https://scoutify.ai/companies/corrohealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://corrohealth.wd1.myworkdayjobs.com/corro/job/US---Remote/Epic-Charge-Capture-Analyst_JR105037) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://corrohealth.wd1.myworkdayjobs.com/corro/job/US---Remote/Epic-Charge-Capture-Analyst_JR105448) |
 
 ## About This Role
 
-This business analyst position at Corrohealth was posted on 2026-04-24.
+This business analyst position at Corrohealth was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

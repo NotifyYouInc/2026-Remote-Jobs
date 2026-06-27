@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Rouen, Normandy, France |
-| Category | Frontend Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000118442557-alternance-developpeur-java-services-publics-rouen) |
+| Category | Software Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133094226-alternance-developpeur-java-services-publics-rouen) |
 
 ## About This Role
 
-This frontend engineer position at Sopra Steria was posted on 2026-04-02.
+This software engineer position at Sopra Steria was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

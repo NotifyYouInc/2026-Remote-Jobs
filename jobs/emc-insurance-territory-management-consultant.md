@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EMC Insurance](https://scoutify.ai/companies/emcins?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Account Executive |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Wisconsin/Territory-Management-Consultant_R6316) |
+| Location | Virginia, US |
+| Category | Account Manager |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Virginia/Territory-Management-Consultant_R6440) |
 
 ## About This Role
 
-This account executive position at EMC Insurance was posted on 2026-03-16.
+This account manager position at EMC Insurance was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

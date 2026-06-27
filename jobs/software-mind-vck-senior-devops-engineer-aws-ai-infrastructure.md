@@ -1,16 +1,16 @@
-# [VCK] Senior DevOps Engineer AWS / AI Infrastructure at Software Mind
+# [VCK] Senior DevOps Engineer (AWS + AI Infrastructure) at Software Mind
 
 | Field | Details |
 |-------|---------|
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000131979209-vck-senior-devops-engineer-aws-ai-infrastructure) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000133086624-vck-senior-devops-engineer-aws-ai-infrastructure) |
 
 ## About This Role
 
-This devops engineer position at Software Mind was posted on 2026-06-12.
+This devops engineer position at Software Mind was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

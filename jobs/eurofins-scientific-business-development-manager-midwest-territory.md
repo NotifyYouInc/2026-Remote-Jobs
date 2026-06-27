@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000118504907-business-development-manager-midwest-territory) |
+| Category | Account Executive |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000133139219-business-development-manager-midwest-territory) |
 
 ## About This Role
 
-This engineering manager position at Eurofins Scientific was posted on 2026-04-02.
+This account executive position at Eurofins Scientific was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

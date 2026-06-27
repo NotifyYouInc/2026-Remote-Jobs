@@ -5,12 +5,12 @@
 | Company | [Vonage](https://scoutify.ai/companies/vonage?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vonage/jobs/8559448002) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vonage/jobs/8591813002) |
 
 ## About This Role
 
-This account executive position at Vonage was posted on 2026-06-11.
+This account executive position at Vonage was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

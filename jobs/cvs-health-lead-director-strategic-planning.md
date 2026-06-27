@@ -1,16 +1,16 @@
-# Lead Director, Strategic Planning at CVS Health
+# Lead Director - Strategic Planning at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Operations |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Lead-Director--Strategic-Planning_R0869666) |
+| Location | Hartford, Connecticut, United States |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Lead-Director---Strategic-Planning_R0877051) |
 
 ## About This Role
 
-This operations position at CVS Health was posted on 2026-04-01.
+This strategy / management consulting position at CVS Health was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

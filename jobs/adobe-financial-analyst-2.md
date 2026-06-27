@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Financial-Analyst-2_R169695-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Financial-Analyst-2_R169974) |
 
 ## About This Role
 
-This corporate finance position at Adobe was posted on 2026-06-14.
+This corporate finance position at Adobe was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

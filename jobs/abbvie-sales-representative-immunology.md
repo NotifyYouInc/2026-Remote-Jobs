@@ -1,16 +1,16 @@
-# Sales Representative Immunology at AbbVie
+# Sales Representative Immunology  at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Costa Rica |
-| Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011647146-sales-representative-immunology) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Account Executive |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013710616-sales-representative-immunology) |
 
 ## About This Role
 
-This sales position at AbbVie was posted on 2026-02-11.
+This account executive position at AbbVie was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000131979509-vck-senior-qa-automation-engineer-ai-systems) |
+| Category | QA Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000133088287-vck-senior-qa-automation-engineer-ai-systems) |
 
 ## About This Role
 
-This devops engineer position at Software Mind was posted on 2026-06-12.
+This qa engineer position at Software Mind was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

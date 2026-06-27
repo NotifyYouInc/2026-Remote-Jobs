@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | North Palm Beach, Florida, United States |
 | Category | Account Executive |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Orlando-Florida/B2B-Sales-Account-Executive_R-108637) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/North-Palm-Beach-Florida/B2B-Sales-Account-Executive_R-113481) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-05-01.
+This account executive position at AT&T was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

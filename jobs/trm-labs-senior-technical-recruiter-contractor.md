@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TRM Labs](https://scoutify.ai/companies/trm-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
+| Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/trm-labs/c2c663a0-139a-4db5-bf9c-a8dac643a087) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/trm-labs/daf727ec-f5b6-4080-8ac2-55f7c7fabd1d) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at TRM Labs was posted on 2026-03-11.
+This talent acquisition / recruiting position at TRM Labs was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

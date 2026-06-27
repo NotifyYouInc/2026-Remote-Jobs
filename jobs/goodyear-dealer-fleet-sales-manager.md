@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Account Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/US-NJ-Home-Office/Dealer-Fleet-Sales-Manager_JR-40109540-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/US-MS-Home-Office/Dealer-Fleet-Sales-Manager_JR-40109663) |
 
 ## About This Role
 
-This account manager position at Goodyear was posted on 2026-06-12.
+This account manager position at Goodyear was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

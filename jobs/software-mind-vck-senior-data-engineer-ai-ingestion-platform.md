@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000131979579-vck-senior-data-engineer-ai-ingestion-platform) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000133087266-vck-senior-data-engineer-ai-ingestion-platform) |
 
 ## About This Role
 
-This data engineer position at Software Mind was posted on 2026-06-12.
+This data engineer position at Software Mind was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

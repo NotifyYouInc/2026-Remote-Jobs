@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | Mississippi, US |
 | Category | Marketing |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Texas-United-States/Field-Service-Technician-Class-C_R0127677-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Mississippi-United-States/Field-Service-Technician-Class-C_R0134395) |
 
 ## About This Role
 
-This marketing position at Hitachi was posted on 2026-06-12.
+This marketing position at Hitachi was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

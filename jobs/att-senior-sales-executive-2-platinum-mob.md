@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Memphis, Tennessee, United States |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Memphis-Tennessee/Senior-Sales-Executive-2-Platinum-Mob_R-102053) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Greenville-South-Carolina/Senior-Sales-Executive-2-Platinum-Mob_R-113374) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-06.
+This account executive position at AT&T was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

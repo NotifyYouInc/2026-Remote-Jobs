@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Iowa, US |
+| Location | Pennsylvania, US |
 | Category | Account Executive |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-ND-Remote/Enterprise-Account-Executive_JR0146471-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Work-at-Home---Pennsylvania-USA-WPAA/Enterprise-Account-Executive_JR0149215) |
 
 ## About This Role
 
-This account executive position at McKesson was posted on 2026-06-09.
+This account executive position at McKesson was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

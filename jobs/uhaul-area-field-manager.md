@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Houston, Texas, United States |
+| Location | San Diego, California, United States |
 | Category | Account Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Houston-Texas/Area-Field-Manager_R246648) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/San-Diego-California/Area-Field-Manager_R248181) |
 
 ## About This Role
 
-This account manager position at Uhaul was posted on 2026-06-01.
+This account manager position at Uhaul was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
