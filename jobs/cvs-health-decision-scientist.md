@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Massachusetts, US |
-| Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Work-from-home/Decision-Scientist_R0911402) |
+| Location | Woonsocket, Rhode Island, United States |
+| Category | Data Scientist |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Decision-Scientist_R0942482) |
 
 ## About This Role
 
-This data analyst position at CVS Health was posted on 2026-05-18.
+This data scientist position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

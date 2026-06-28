@@ -6,7 +6,7 @@
 | Location | Santa Clara, California, United States |
 | Category | Electrical / Hardware Engineer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000133120389-senior-product-safety-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000133127174-senior-product-safety-engineer) |
 
 ## About This Role
 

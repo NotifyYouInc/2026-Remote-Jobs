@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, US |
+| Location | Woonsocket, Rhode Island, United States |
 | Category | QA Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Work-from-home/Sr-Quality-Engineer_R0944594) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Quality-Engineer_R0942498) |
 
 ## About This Role
 
-This qa engineer position at CVS Health was posted on 2026-06-19.
+This qa engineer position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

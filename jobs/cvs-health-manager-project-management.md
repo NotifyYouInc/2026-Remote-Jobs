@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, US |
+| Location | Woonsocket, Rhode Island, United States |
 | Category | Project Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WA---Work-from-home/Manager--Project-Management_R0934184) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Manager--Project-Management_R0942494) |
 
 ## About This Role
 
-This project manager position at CVS Health was posted on 2026-06-03.
+This project manager position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

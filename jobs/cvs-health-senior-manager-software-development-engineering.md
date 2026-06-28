@@ -1,16 +1,16 @@
-# Senior Manager Software Development Engineering at CVS Health
+# Senior Manager, Software Development Engineering at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
-| Category | Engineering Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Texas/Senior-Manager-Software-Development-Engineering_R0875238) |
+| Location | Woonsocket, Rhode Island, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Senior-Manager--Software-Development-Engineering_R0942392) |
 
 ## About This Role
 
-This engineering manager position at CVS Health was posted on 2026-04-10.
+This software engineer position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

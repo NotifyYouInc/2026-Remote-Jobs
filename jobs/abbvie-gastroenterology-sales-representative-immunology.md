@@ -6,7 +6,7 @@
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Account Executive |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013709997-gastroenterology-sales-representative-immunology) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013711741-gastroenterology-sales-representative-immunology) |
 
 ## About This Role
 

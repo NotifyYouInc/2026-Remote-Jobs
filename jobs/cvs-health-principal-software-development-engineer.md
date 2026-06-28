@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Woonsocket, Rhode Island, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Buffalo-Grove/Principal-Software-Development-Engineer_R0818165-1) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Principal-Software-Development-Engineer_R0942248) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-06-11.
+This software engineer position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 
