@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [New Relic](https://scoutify.ai/companies/new-relic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Account Manager |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5221610008) |
+| Category | Customer Success |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5221607008) |
 
 ## About This Role
 
-This account manager position at New Relic was posted on 2026-05-26.
+This customer success position at New Relic was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

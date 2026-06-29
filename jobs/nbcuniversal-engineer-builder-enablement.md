@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000132946749-engineer-builder-enablement) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000133233119-engineer-builder-enablement) |
 
 ## About This Role
 
-This software engineer position at NBCUniversal was posted on 2026-06-18.
+This software engineer position at NBCUniversal was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
+| Location | Irving, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IN---Work-from-home/Machine-Learning-Engineer_R0930355-1) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Machine-Learning-Engineer_R0942466) |
 
 ## About This Role
 
-This machine learning engineer position at CVS Health was posted on 2026-06-19.
+This machine learning engineer position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Shijiazhuang, Hebei, China |
+| Location | Luoyang, Henan, China |
 | Category | Sales Leadership |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013462706-district-manager) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013718866-district-manager) |
 
 ## About This Role
 
-This sales leadership position at AbbVie was posted on 2026-06-04.
+This sales leadership position at AbbVie was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

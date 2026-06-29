@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Philippines |
 | Category | Learning & Development |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Principal-Training-Coordinator_R-01352520) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Philippines/Principal-Training-Coordinator_R-01358286) |
 
 ## About This Role
 
-This learning & development position at Thermo Fisher Scientific was posted on 2026-06-05.
+This learning & development position at Thermo Fisher Scientific was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

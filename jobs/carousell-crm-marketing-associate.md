@@ -5,12 +5,12 @@
 | Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Growth Marketing |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000130971515-crm-marketing-associate) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000133263848-crm-marketing-associate) |
 
 ## About This Role
 
-This growth marketing position at Carousell was posted on 2026-06-09.
+This growth marketing position at Carousell was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

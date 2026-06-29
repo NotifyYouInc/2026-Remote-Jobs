@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kunming, Yunnan, China |
 | Category | Account Executive |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Kunming-Yunnan-China/CRM-CIED-Technical-Sales-Representative-Kunming_R69794) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Kunming-Yunnan-China/CRM-CIED-Technical-Sales-Representative-Kunming_R70041) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-06-16.
+This account executive position at Medtronic was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

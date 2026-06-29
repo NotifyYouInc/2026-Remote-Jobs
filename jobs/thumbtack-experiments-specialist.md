@@ -5,12 +5,12 @@
 | Company | [Thumbtack](https://scoutify.ai/companies/thumbtack?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thumbtack/jobs/7543785) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/6a12ae13-4fb3-4438-b1b1-0b44d3365d9f) |
 
 ## About This Role
 
-This customer success position at Thumbtack was posted on 2026-04-28.
+This customer success position at Thumbtack was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

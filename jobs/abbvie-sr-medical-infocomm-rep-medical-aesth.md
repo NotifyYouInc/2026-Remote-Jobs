@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hefei, Anhui, China |
-| Category | Sales Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013633246-sr-medical-infocomm-rep-medical-aesth) |
+| Location | Shanghai, Shanghai, China |
+| Category | Account Manager |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013718096-sr-medical-infocomm-rep-medical-aesth) |
 
 ## About This Role
 
-This sales engineer position at AbbVie was posted on 2026-06-15.
+This account manager position at AbbVie was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
