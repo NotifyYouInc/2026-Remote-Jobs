@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, US |
+| Location | Chicago, Illinois, United States |
 | Category | Customer Success |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000127964780-genesis-consultant) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000133459260-genesis-consultant) |
 
 ## About This Role
 
-This customer success position at Intuitive Surgical was posted on 2026-05-22.
+This customer success position at Intuitive Surgical was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

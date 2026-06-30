@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Alabama, US |
-| Category | Customer Success |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Irondale-Alabama/Senior-Field-Service-Technician_R47509) |
+| Location | Irondale, Alabama, United States |
+| Category | Industrial Automation |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Irondale-Alabama/Senior-Field-Service-Technician_R48674) |
 
 ## About This Role
 
-This customer success position at Xylem was posted on 2026-03-30.
+This industrial automation position at Xylem was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

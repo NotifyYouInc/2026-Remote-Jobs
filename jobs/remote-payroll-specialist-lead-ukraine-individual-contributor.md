@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ukraine |
-| Category | Accounting |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7771121003) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7780958003) |
 
 ## About This Role
 
-This accounting position at Remote was posted on 2026-06-12.
+This human resources / people ops position at Remote was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

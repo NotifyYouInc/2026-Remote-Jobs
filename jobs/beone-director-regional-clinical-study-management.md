@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Leadership Development Program |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Regional-Clinical-Study-Management_R34758) |
+| Category | Program Manager |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Regional-Clinical-Study-Management_R35313) |
 
 ## About This Role
 
-This leadership development program position at BeOne was posted on 2026-05-20.
+This program manager position at BeOne was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

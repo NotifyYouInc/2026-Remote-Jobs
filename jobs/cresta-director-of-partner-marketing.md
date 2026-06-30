@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cresta](https://scoutify.ai/companies/cresta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Growth Marketing |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/5215461008) |
+| Category | Marketing |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/5275942008) |
 
 ## About This Role
 
-This growth marketing position at Cresta was posted on 2026-05-10.
+This marketing position at Cresta was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

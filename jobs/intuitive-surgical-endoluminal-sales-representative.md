@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Baton Rouge, Louisiana, United States |
+| Location | Newark, New Jersey, United States |
 | Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000112535748-endoluminal-sales-representative) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000133496809-endoluminal-sales-representative) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-03-03.
+This account executive position at Intuitive Surgical was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

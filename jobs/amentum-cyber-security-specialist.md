@@ -1,16 +1,16 @@
-# Cyber & Security Specialist at Amentum
+# Cyber Security Specialist at Amentum
 
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Williamtown, New South Wales, Australia |
 | Category | Security Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OC-AUS-Canberra/Cyber---Security-Specialist_R0156192) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OC-AUS-Williamtown-NSW/Cyber-Security-Specialist_R0164057) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-03-11.
+This security engineer position at Amentum was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

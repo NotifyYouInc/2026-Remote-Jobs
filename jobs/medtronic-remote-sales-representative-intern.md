@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Business Development |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Seoul-Seoul-Korea/Remote-Sales-Representative--Intern-_R61942-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Seoul-Seoul-Korea/Remote-Sales-Representative--Intern-_R70140-1) |
 
 ## About This Role
 
-This business development position at Medtronic was posted on 2026-06-02.
+This business development position at Medtronic was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

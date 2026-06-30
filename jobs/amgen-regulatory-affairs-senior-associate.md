@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Regulatory-Affairs-Senior-Associate_R-245071-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Regulatory-Affairs-Senior-Associate_R-248574) |
 
 ## About This Role
 
-This compliance & risk management position at Amgen was posted on 2026-05-18.
+This compliance & risk management position at Amgen was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

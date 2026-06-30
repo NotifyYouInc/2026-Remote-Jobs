@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tracktik](https://scoutify.ai/companies/tracktik?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | United States |
 | Category | Account Executive |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.lever.co/tracktik/73cd802c-f3da-44a6-9b6e-4be2109a8e8d) |
+| Apply | [View on company site](https://jobs.lever.co/tracktik/19d81252-e313-447d-97a3-aefc142d4814) |
 
 ## About This Role
 

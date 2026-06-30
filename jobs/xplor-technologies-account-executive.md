@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Juan Capistrano, California, United States |
+| Location | Saginaw, Michigan, United States |
 | Category | Account Executive |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000126583939-account-executive) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000133398959-account-executive) |
 
 ## About This Role
 
-This account executive position at Xplor Technologies was posted on 2026-05-14.
+This account executive position at Xplor Technologies was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

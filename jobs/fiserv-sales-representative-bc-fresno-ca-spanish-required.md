@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Fresno, California, United States |
 | Category | Account Executive |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-California/Sales-Representative-BC---Fresno--CA_R-10391938) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-California/Sales-Representative-BC---Fresno--CA--Spanish-Required-_R-10394481-1) |
 
 ## About This Role
 
-This account executive position at Fiserv was posted on 2026-06-06.
+This account executive position at Fiserv was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

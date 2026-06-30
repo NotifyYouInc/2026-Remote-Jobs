@@ -1,16 +1,16 @@
-# Manager, Trainee - Quality (Travel Program, Relocation Required) at Takeda
+# Manager Trainee - Quality (Travel Program, Relocation Required) at Takeda
 
 | Field | Details |
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | United States |
 | Category | Leadership Development Program |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Florida---Virtual/Manager--Trainee---Quality--Travel-Program--Relocation-Required-_R0180522) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Maryland---Virtual/Manager-Trainee---Quality--Travel-Program--Relocation-Required-_R0183039-1) |
 
 ## About This Role
 
-This leadership development program position at Takeda was posted on 2026-05-19.
+This leadership development program position at Takeda was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
