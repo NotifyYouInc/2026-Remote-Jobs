@@ -5,12 +5,12 @@
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Development |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-Australia/Sales-Development-Representative_R-102177) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-Australia/Sales-Development-Representative_R-102295) |
 
 ## About This Role
 
-This business development position at Rimini Street was posted on 2026-04-24.
+This business development position at Rimini Street was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alkami Technology](https://scoutify.ai/companies/alkami-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://alkami.wd12.myworkdayjobs.com/alkami/job/India-Home-Office---Gurugram/Sr-Data-Engineer_JR-000636) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Sr-Data-Engineer_JR-000718) |
 
 ## About This Role
 
-This data engineer position at Alkami Technology was posted on 2026-05-06.
+This data engineer position at Alkami Technology was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

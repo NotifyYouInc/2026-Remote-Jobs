@@ -5,12 +5,12 @@
 | Company | [Gamma](https://scoutify.ai/companies/gamma?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Customer Success |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/gamma/b9ab4e64-af4c-44b5-aa50-23a3115121af) |
+| Posted | 2025-11-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/gamma/171f040a-dec1-4129-b0a0-e0e96be8a703) |
 
 ## About This Role
 
-This customer success position at Gamma was posted on 2026-04-17.
+This customer success position at Gamma was posted on 2025-11-09.
 
 ## Get Real-Time Alerts
 

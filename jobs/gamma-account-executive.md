@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gamma](https://scoutify.ai/companies/gamma?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/gamma/25606b03-82d9-4691-b982-4f94bf69b475) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/gamma/8dabb460-9542-4150-9076-098e1e7591b6) |
 
 ## About This Role
 
-This account executive position at Gamma was posted on 2026-04-18.
+This account executive position at Gamma was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

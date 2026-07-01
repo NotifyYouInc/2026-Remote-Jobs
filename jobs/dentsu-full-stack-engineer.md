@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Gurugram---Golf-View-Corporate-Towers/Full-Stack-Engineer_R1123034-5) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Pune---Indiqube-Orchid/Full-Stack-Engineer_R1123031-5) |
 
 ## About This Role
 
-This software engineer position at Dentsu was posted on 2026-06-15.
+This software engineer position at Dentsu was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

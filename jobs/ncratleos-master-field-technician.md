@@ -5,12 +5,12 @@
 | Company | [Ncratleos](https://scoutify.ai/companies/ncratleos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Australia |
 | Category | Customer Success |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/QUEENSLAND-VIRTUAL-AUS/Master-Field-Technician_R1153229) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/VICTORIA-VIRTUAL-AUS/Master-Field-Technician_R1153228-1) |
 
 ## About This Role
 
-This customer success position at Ncratleos was posted on 2026-06-15.
+This customer success position at Ncratleos was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

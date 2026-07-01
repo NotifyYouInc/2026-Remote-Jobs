@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Englewood, Colorado, United States |
+| Location | San Ramon, California, United States |
 | Category | Account Executive |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Englewood-Colorado/Business-Sales-Executive_R-111987) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Ramon-California/Business-Sales-Executive_R-113869) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-06-02.
+This account executive position at AT&T was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

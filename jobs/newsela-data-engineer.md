@@ -5,12 +5,12 @@
 | Company | [Newsela](https://scoutify.ai/companies/newsela?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newsela/jobs/7616064) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newsela/jobs/7985789) |
 
 ## About This Role
 
-This data engineer position at Newsela was posted on 2026-03-31.
+This data engineer position at Newsela was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

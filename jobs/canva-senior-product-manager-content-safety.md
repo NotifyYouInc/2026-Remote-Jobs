@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Content Marketing |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001138569-senior-product-manager-content-safety) |
+| Category | Product Manager |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001176736-senior-product-manager-content-safety) |
 
 ## About This Role
 
-This content marketing position at Canva was posted on 2026-06-09.
+This product manager position at Canva was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

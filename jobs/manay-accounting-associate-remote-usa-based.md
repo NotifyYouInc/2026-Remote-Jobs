@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MANAY](https://scoutify.ai/companies/manay?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Turkey |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.lever.co/manaycpa.com/a20092f1-8213-47ff-a2f9-5c66fe466078) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.lever.co/manaycpa.com/8bde7d7d-9e52-4540-8e6a-61db0f3efaf6) |
 
 ## About This Role
 
-This corporate finance position at MANAY was posted on 2026-03-05.
+This corporate finance position at MANAY was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

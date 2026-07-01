@@ -5,12 +5,12 @@
 | Company | [Lesaffre](https://scoutify.ai/companies/lesaffre?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Marcq-en-Barœul, Hauts-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lesaffre/744000133190729-category-manager-animal-health-nutrition-mf) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lesaffre/744000133883949-category-manager-animal-health-nutrition-mf) |
 
 ## About This Role
 
-This product manager position at Lesaffre was posted on 2026-06-20.
+This product manager position at Lesaffre was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

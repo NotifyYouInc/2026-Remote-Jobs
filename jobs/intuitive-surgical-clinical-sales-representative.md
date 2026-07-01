@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cherry Hill, New Jersey, United States |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Account Executive |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000132957819-clinical-sales-representative) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000133709155-clinical-sales-representative) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-06-19.
+This account executive position at Intuitive Surgical was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

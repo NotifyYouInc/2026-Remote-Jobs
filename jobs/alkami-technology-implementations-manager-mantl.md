@@ -5,12 +5,12 @@
 | Company | [Alkami Technology](https://scoutify.ai/companies/alkami-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Implementations-Manager--MANTL-_JR-000717) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Implementations-Manager--MANTL-_JR-000726) |
 
 ## About This Role
 
-This customer success position at Alkami Technology was posted on 2026-06-22.
+This customer success position at Alkami Technology was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

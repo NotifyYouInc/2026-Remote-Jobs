@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Fukuoka, Fukuoka, Japan |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Account Executive |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Fukuoka-Japan/Sales-Specialist_R1312298) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Tokyo-Japan/Sales-Specialist_R1313885) |
 
 ## About This Role
 
-This account executive position at Danaher was posted on 2026-05-28.
+This account executive position at Danaher was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

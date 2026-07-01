@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Account Executive |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Sales-Representative--II_R67449-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jakarta-Jakarta-Indonesia/Sales-Representative--II_R70363-2) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-05-22.
+This account executive position at Medtronic was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

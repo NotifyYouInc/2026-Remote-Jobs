@@ -5,12 +5,12 @@
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Murray, Utah, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Employee-Service-Center/Human-Resources-Compensation-Consultant_R164905) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Employee-Service-Center/Human-Resources-Compensation-Consultant_R174141) |
 
 ## About This Role
 
-This human resources / people ops position at Intermountain Health was posted on 2026-03-17.
+This human resources / people ops position at Intermountain Health was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Confluent](https://scoutify.ai/companies/confluent?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United Kingdom |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/confluent/94779f17-93f1-4890-8b11-178bd17cdde1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/confluent/d591b540-a5a1-4b71-9cd5-f25470f7ea1f) |
 
 ## About This Role
 
-This software engineer position at Confluent was posted on 2026-03-04.
+This software engineer position at Confluent was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

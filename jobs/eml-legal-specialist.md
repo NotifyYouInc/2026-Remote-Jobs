@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EML](https://scoutify.ai/companies/eml?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Perth, Western Australia, Australia |
 | Category | Legal |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Sydney-New-South-Wales/Legal-Specialist_JR5640) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://eml.wd105.myworkdayjobs.com/eml/job/Perth-Western-Australia/Legal-Specialist_JR5831) |
 
 ## About This Role
 
-This legal position at EML was posted on 2026-06-12.
+This legal position at EML was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

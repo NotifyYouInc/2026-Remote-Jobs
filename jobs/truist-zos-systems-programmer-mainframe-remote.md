@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/z-OS-Systems-Programmer---Mainframe---Remote_R0112581) |
+| Location | 2 locations |
+| Category | IT & Systems Administration |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC---2320-Cascade-Pointe-Boulevard/z-OS-Systems-Programmer---Mainframe---Remote_R0115691) |
 
 ## About This Role
 
-This software engineer position at Truist was posted on 2026-03-18.
+This it & systems administration position at Truist was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
