@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Project Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Project-Control-Services-Practitioner_ATCI-5614031-S2027121-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Program Manager |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Project-Control-Services-Practitioner_ATCI-5637783-S2032188-1) |
 
 ## About This Role
 
-This project manager position at Accenture was posted on 2026-06-03.
+This program manager position at Accenture was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

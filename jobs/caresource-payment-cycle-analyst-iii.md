@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CareSource](https://scoutify.ai/companies/caresource?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Ohio, US |
 | Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Payment-Cycle-Analyst-III_R12764) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Ohio-WFH/Payment-Cycle-Analyst-III_R13041) |
 
 ## About This Role
 
-This business analyst position at CareSource was posted on 2026-05-19.
+This business analyst position at CareSource was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

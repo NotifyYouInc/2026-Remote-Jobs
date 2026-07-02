@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fusion Consulting](https://scoutify.ai/companies/fusionconsulting?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Frankfurt am Main, Hesse, Germany |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000133356924-senior-sap-sd-logistics-consultant) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000133928342-senior-sap-sd-logistics-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Fusion Consulting was posted on 2026-06-22.
+This technology / it consulting position at Fusion Consulting was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Edmonton, Alberta, Canada |
-| Category | Account Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Edmonton-Alberta/Mobile-Mortgage-Specialist_R_1496283) |
+| Location | Thornhill, Nova Scotia, Canada |
+| Category | Account Executive |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Thornhill-Ontario/Mobile-Mortgage-Specialist_R_1496750) |
 
 ## About This Role
 
-This account manager position at TD Bank was posted on 2026-06-22.
+This account executive position at TD Bank was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

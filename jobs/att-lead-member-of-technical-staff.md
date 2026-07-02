@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Plano, Texas, United States |
-| Category | QA Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Lead-Member-of-Technical-Staff_R-108017) |
+| Location | Middletown, New Jersey, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Middletown-New-Jersey/Lead-Member-of-Technical-Staff_R-113406) |
 
 ## About This Role
 
-This qa engineer position at AT&T was posted on 2026-06-11.
+This software engineer position at AT&T was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

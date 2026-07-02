@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | 2 locations |
 | Category | Sales Leadership |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Jakarta/Regional-Sales-Manager_R0331655-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Texas/Regional-Sales-Manager_R0332081-1) |
 
 ## About This Role
 
-This sales leadership position at Thales was posted on 2026-06-19.
+This sales leadership position at Thales was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

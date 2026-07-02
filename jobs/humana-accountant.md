@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Accountant_R-409710) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Accountant_R-420617) |
 
 ## About This Role
 
-This corporate finance position at Humana was posted on 2026-03-31.
+This corporate finance position at Humana was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

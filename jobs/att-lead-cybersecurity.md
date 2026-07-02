@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Lead-Cybersecurity_R-108761) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Charlotte-North-Carolina/Lead-Cybersecurity_R-113404) |
 
 ## About This Role
 
-This security engineer position at AT&T was posted on 2026-05-14.
+This security engineer position at AT&T was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

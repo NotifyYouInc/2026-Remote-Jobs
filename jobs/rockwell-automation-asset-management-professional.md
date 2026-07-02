@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Columbia-South-Carolina-United-States/Asset-Management-Professional_R26-2448) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Monterrey-Nuevo-Leon-Mexico/Asset-Management-Professional_R26-3900) |
 
 ## About This Role
 
-This corporate finance position at Rockwell Automation was posted on 2026-04-15.
+This corporate finance position at Rockwell Automation was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

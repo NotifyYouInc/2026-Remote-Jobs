@@ -5,12 +5,12 @@
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Colombia |
 | Category | Project Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7818577) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7818575) |
 
 ## About This Role
 
-This project manager position at Twilio was posted on 2026-04-17.
+This project manager position at Twilio was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

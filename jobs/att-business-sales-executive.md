@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Ramon, California, United States |
+| Location | Portland, Oregon, United States |
 | Category | Account Executive |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Ramon-California/Business-Sales-Executive_R-113869) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Portland-Oregon/Business-Sales-Executive_R-113969) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-06-24.
+This account executive position at AT&T was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

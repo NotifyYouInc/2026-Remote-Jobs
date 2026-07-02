@@ -5,12 +5,12 @@
 | Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Principal-Machine-Learning-Engineer--Content-ML--Level-7_R0045615) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Principal-Machine-Learning-Engineer--Content-ML--Level-7_R0045945) |
 
 ## About This Role
 
-This machine learning engineer position at Snapchat was posted on 2026-05-29.
+This machine learning engineer position at Snapchat was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

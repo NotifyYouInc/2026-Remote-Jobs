@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Draper, Utah, United States |
 | Category | Engineering Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Sr-Manager--Software-Engineering_R202678806) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Sr-Manager--Software-Engineering_R202677720) |
 
 ## About This Role
 
-This engineering manager position at Cox was posted on 2026-06-19.
+This engineering manager position at Cox was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

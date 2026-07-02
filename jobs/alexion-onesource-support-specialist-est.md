@@ -5,12 +5,12 @@
 | Company | [Alexion](https://scoutify.ai/companies/astrazeneca?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US/OneSource-Support-Specialist--EST-_R-249092) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US/OneSource-Support-Specialist--EST-_R-255218) |
 
 ## About This Role
 
-This customer success position at Alexion was posted on 2026-03-30.
+This customer success position at Alexion was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

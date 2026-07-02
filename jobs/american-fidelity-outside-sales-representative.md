@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Fidelity](https://scoutify.ai/companies/americanfidelity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Zanesville, Ohio, United States |
+| Location | Illinois, US |
 | Category | Account Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Zanesville-Ohio/Outside-Sales-Representative_JR859) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Illinois-Remote/Outside-Sales-Representative_JR875) |
 
 ## About This Role
 
-This account manager position at American Fidelity was posted on 2026-06-16.
+This account manager position at American Fidelity was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Circle](https://scoutify.ai/companies/circle?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Singapore, Singapore |
+| Location | 24 locations |
 | Category | Customer Success |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://circle.wd1.myworkdayjobs.com/circle/job/Singapore---remote-first-in-Singapore/Customer-Care-Advisor_JR100958) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://circle.wd1.myworkdayjobs.com/circle/job/San-Francisco---remote-first-in-US/Customer-Care-Advisor_JR101072) |
 
 ## About This Role
 
-This customer success position at Circle was posted on 2026-04-09.
+This customer success position at Circle was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

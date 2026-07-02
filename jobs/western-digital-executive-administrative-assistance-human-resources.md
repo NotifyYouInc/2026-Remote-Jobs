@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Jose, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000132512779-executive-administrative-assistance-human-resources) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000134040419-executive-administrative-assistance-human-resources) |
 
 ## About This Role
 
-This human resources / people ops position at Western Digital was posted on 2026-06-16.
+This human resources / people ops position at Western Digital was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

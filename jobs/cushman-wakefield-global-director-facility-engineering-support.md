@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | London, England, United Kingdom |
 | Category | Engineering Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Global-Director--Facility---Engineering-Support_R324025) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/London-London/Global-Director--Facility---Engineering-Support_R325298) |
 
 ## About This Role
 
-This engineering manager position at Cushman & Wakefield was posted on 2026-06-09.
+This engineering manager position at Cushman & Wakefield was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

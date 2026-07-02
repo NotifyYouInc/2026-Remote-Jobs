@@ -5,12 +5,12 @@
 | Company | [Triomics](https://scoutify.ai/companies/triomics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
 | Category | Account Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/triomics/jobs/o5uDSS3-account-manager) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/triomics/jobs/N73Ea4P-account-manager) |
 
 ## About This Role
 
-This account manager position at Triomics was posted on 2026-05-29.
+This account manager position at Triomics was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ZOLL Medical Corporation](https://scoutify.ai/companies/zoll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Iowa City, Iowa, United States |
-| Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Iowa-City-IA/Territory-Manager--EMS_R18150) |
+| Location | Mississauga, Ontario, Canada |
+| Category | Account Manager |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Mississauga-Ontario/Territory-Manager--EMS_R19501-1) |
 
 ## About This Role
 
-This sales position at ZOLL Medical Corporation was posted on 2026-02-11.
+This account manager position at ZOLL Medical Corporation was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

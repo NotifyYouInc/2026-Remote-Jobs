@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Mexico-City/Senior-Data-Scientist_P750161-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Bengaluru/Senior-Data-Scientist_P750307-1) |
 
 ## About This Role
 
-This data scientist position at Zillow was posted on 2026-04-29.
+This data scientist position at Zillow was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
