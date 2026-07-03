@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nuvolar](https://scoutify.ai/companies/nuvolar?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Spain |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Software Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/nuvolar/jobs/4905058101) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/nuvolar/jobs/4902611101) |
 
 ## About This Role
 
-This software engineer position at Nuvolar was posted on 2026-06-22.
+This software engineer position at Nuvolar was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

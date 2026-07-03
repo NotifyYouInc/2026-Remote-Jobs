@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/GA-Atlanta---Remote/Retirement-Plan-Advisor_R0059621) |
+| Location | New York City, New York, United States |
+| Category | Corporate Finance |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/NY-New-York-City---Remote/Retirement-Plan-Advisor_R0059578) |
 
 ## About This Role
 
-This financial advisory & consulting position at Empower was posted on 2026-06-24.
+This corporate finance position at Empower was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

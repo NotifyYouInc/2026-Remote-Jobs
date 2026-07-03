@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AMAROK](https://scoutify.ai/companies/amarok?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Tulsa, Oklahoma, United States |
 | Category | Account Executive |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/amarok/jobs/6099594004) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/amarok/jobs/6101729004) |
 
 ## About This Role
 
-This account executive position at AMAROK was posted on 2026-06-23.
+This account executive position at AMAROK was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Senior Account Executive, Global Systems Integrators (GSI) - India at Neo4j
+
+| Field | Details |
+|-------|---------|
+| Company | [Neo4j](https://scoutify.ai/companies/neo4j?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | India |
+| Category | Account Executive |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://boards.greenhouse.io/neo4j/jobs/4684573006?gh_jid=4684573006) |
+
+## About This Role
+
+This account executive position at Neo4j was posted on 2026-06-26.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

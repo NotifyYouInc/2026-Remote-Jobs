@@ -5,12 +5,12 @@
 | Company | [Ncratleos](https://scoutify.ai/companies/ncratleos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
 | Category | Customer Success |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/INDIA-VIRTUAL-IND/Customer-Engineer_LC2026015) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/INDIA-VIRTUAL-IND/Customer-Engineer_R1153650) |
 
 ## About This Role
 
-This customer success position at Ncratleos was posted on 2026-06-24.
+This customer success position at Ncratleos was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

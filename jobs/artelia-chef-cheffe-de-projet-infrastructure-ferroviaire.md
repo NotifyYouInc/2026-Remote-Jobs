@@ -5,12 +5,12 @@
 | Company | [Artelia](https://scoutify.ai/companies/artelia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Project Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000115055857-chef-cheffe-de-projet-infrastructure-ferroviaire) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000134414901-chef-cheffe-de-projet-infrastructure-ferroviaire) |
 
 ## About This Role
 
-This project manager position at Artelia was posted on 2026-03-16.
+This project manager position at Artelia was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

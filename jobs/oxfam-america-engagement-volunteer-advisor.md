@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oxfam America](https://scoutify.ai/companies/oxfam-america?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Program Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/oxfamamerica2/744000125222316-engagement-volunteer-advisor) |
+| Category | Marketing |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/oxfamamerica2/744000125934927-engagement-volunteer-advisor) |
 
 ## About This Role
 
-This program manager position at Oxfam America was posted on 2026-05-07.
+This marketing position at Oxfam America was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

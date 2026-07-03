@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Manager---Reporting-COE_REQ507568) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Manager---Reporting-COE_REQ507570) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-15.
+This corporate finance position at JLL was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

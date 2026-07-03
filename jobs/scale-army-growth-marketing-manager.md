@@ -5,12 +5,12 @@
 | Company | [Scale Army](https://scoutify.ai/companies/scale-army?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Egypt |
 | Category | Growth Marketing |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/db6bebcb-d2d4-42cc-a252-4c2531809097) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/d14f7abc-20d8-4e17-bfb5-ce795caab698) |
 
 ## About This Role
 
-This growth marketing position at Scale Army was posted on 2026-05-27.
+This growth marketing position at Scale Army was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

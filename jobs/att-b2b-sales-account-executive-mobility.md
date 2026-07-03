@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Biloxi-Mississippi/B2B-Sales-Account-Executive---Mobility_R-112522) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Casper-Wyoming/B2B-Sales-Account-Executive---Mobility_R-114091-1) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-06-11.
+This account executive position at AT&T was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

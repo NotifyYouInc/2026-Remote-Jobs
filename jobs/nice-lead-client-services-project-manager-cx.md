@@ -5,12 +5,12 @@
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Project Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4831290101?gh_jid=4831290101) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4908743101?gh_jid=4908743101) |
 
 ## About This Role
 
-This project manager position at NiCE was posted on 2026-06-19.
+This project manager position at NiCE was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

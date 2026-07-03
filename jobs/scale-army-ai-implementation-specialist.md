@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scale Army](https://scoutify.ai/companies/scale-army?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Egypt |
-| Category | AI / ML Research |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/0fedff06-fa37-4d93-b165-81b0e2a30d92) |
+| Location | Not specified |
+| Category | Customer Success |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/3c458132-4fa7-487b-9390-2be14d0c1ea6) |
 
 ## About This Role
 
-This ai / ml research position at Scale Army was posted on 2026-06-12.
+This customer success position at Scale Army was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

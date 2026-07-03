@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sweden |
-| Category | Customer Success |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/SWE---Remote/Upstream-Field-Application-Specialist_R1304252) |
+| Category | Sales Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/SWE---Remote/Upstream-Field-Application-Specialist_R1313825) |
 
 ## About This Role
 
-This customer success position at Danaher was posted on 2026-03-18.
+This sales engineer position at Danaher was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cambria](https://scoutify.ai/companies/cambria?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Eau Claire, Wisconsin, United States |
 | Category | Account Executive |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Seattle-WA/Residential-Market-Sales-Representative_R-103227) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Eau-Claire-WI/Residential-Market-Sales-Representative_R-103234-1) |
 
 ## About This Role
 
-This account executive position at Cambria was posted on 2026-06-24.
+This account executive position at Cambria was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

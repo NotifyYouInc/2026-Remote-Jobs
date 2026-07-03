@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Haryana, IN |
 | Category | Account Executive |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Delhi-Regional-Office/Key-Account-Executive_R-1182324-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Delhi-Regional-Office/Key-Account-Executive_R-1184156-1) |
 
 ## About This Role
 
-This account executive position at Unilever was posted on 2026-06-02.
+This account executive position at Unilever was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

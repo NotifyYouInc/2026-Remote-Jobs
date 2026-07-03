@@ -5,12 +5,12 @@
 | Company | [MAZARS](https://scoutify.ai/companies/mazars?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mazars/744000134192465-consultant-junior-en-transformation-secteur-sante-2026-hf) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mazars/744000134432380-consultant-junior-en-transformation-secteur-sante-2026-hf) |
 
 ## About This Role
 
-This strategy / management consulting position at MAZARS was posted on 2026-06-25.
+This strategy / management consulting position at MAZARS was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

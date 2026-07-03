@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Minnesota, US |
 | Category | Legal |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Remote---USA---Nationwide/Legal-Editor_R109102) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Minnesota/Legal-Editor_R115075-2) |
 
 ## About This Role
 
-This legal position at LexisNexis Risk Solutions was posted on 2026-02-19.
+This legal position at LexisNexis Risk Solutions was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

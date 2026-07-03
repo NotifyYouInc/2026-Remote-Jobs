@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Buffalo, New York, United States |
 | Category | Legal |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6098068004) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6102261004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-06-19.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

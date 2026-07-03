@@ -5,12 +5,12 @@
 | Company | [American Iron & Metal](https://scoutify.ai/companies/americanironandmetal?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sacramento, California, United States |
 | Category | Account Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AmericanIronandMetal/744000134011357-national-account-manager) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AmericanIronandMetal/744000134307970-national-account-manager) |
 
 ## About This Role
 
-This account manager position at American Iron & Metal was posted on 2026-06-24.
+This account manager position at American Iron & Metal was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

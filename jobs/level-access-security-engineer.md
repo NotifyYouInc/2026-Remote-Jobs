@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Level Access](https://scoutify.ai/companies/level-access?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ukraine |
+| Location | Poland |
 | Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/levelaccess/jobs/7529268002) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/levelaccess/jobs/8609503002) |
 
 ## About This Role
 
-This security engineer position at Level Access was posted on 2026-06-01.
+This security engineer position at Level Access was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

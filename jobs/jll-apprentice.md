@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Apprentice_REQ510916) |
+| Category | Business Analyst |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Apprentice_REQ511373) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-06-02.
+This business analyst position at JLL was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

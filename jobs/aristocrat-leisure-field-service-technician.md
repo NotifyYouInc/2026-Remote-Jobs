@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Reno, Nevada, United States |
+| Location | Temecula, California, United States |
 | Category | Customer Success |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Reno-NV-US/Field-Service-Technician_R0021552) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Temecula-CA-US/Field-Service-Technician_R0021764) |
 
 ## About This Role
 
-This customer success position at Aristocrat Leisure was posted on 2026-06-11.
+This customer success position at Aristocrat Leisure was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
