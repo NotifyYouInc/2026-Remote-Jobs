@@ -1,16 +1,16 @@
-# Sr. Sales Engineer  at Illumio
+# Sr. Sales Engineer at Illumio
 
 | Field | Details |
 |-------|---------|
 | Company | [Illumio](https://scoutify.ai/companies/illumio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgia, US |
+| Location | Atlanta, Georgia, United States |
 | Category | Sales Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/c626ed75-4f26-4e3b-ac6d-ccf66257eb75) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/cc972f2d-6c1b-4987-9a81-bdacfac98c00) |
 
 ## About This Role
 
-This sales engineer position at Illumio was posted on 2026-05-29.
+This sales engineer position at Illumio was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

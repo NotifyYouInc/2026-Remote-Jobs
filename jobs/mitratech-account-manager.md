@@ -1,16 +1,16 @@
-# Account Manager at Mitratech
+# Account Manager  at Mitratech
 
 | Field | Details |
 |-------|---------|
 | Company | [Mitratech](https://scoutify.ai/companies/mitratech?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico |
+| Location | Canada |
 | Category | Account Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mitratech/jobs/7962073) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mitratech/jobs/8009069) |
 
 ## About This Role
 
-This account manager position at Mitratech was posted on 2026-06-10.
+This account manager position at Mitratech was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avantor Asia Middle East Africa (AMEA)](https://scoutify.ai/companies/avantor-asia-middle-east-africa-amea?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Portland, Oregon, United States |
 | Category | Account Executive |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://vwr.wd1.myworkdayjobs.com/avantorjobs/job/Mexico-City-MEX/Sales-Representative_R-172152) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://vwr.wd1.myworkdayjobs.com/avantorjobs/job/Remote---Oregon/Sales-Representative_R-173172) |
 
 ## About This Role
 
-This account executive position at Avantor Asia Middle East Africa (AMEA) was posted on 2026-05-27.
+This account executive position at Avantor Asia Middle East Africa (AMEA) was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

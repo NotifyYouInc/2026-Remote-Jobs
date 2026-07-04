@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico |
+| Location | Canada |
 | Category | Customer Success |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7985884?gh_jid=7985884) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8010753?gh_jid=8010753) |
 
 ## About This Role
 
-This customer success position at Samsara was posted on 2026-06-05.
+This customer success position at Samsara was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | California, US |
 | Category | Operations |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Japan---Remote-Tokyo/Principal-Deal-Review-Consultant--Remote-_R27836) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Principal-Deal-Review-Consultant--Remote-_R28765) |
 
 ## About This Role
 
-This operations position at CrowdStrike was posted on 2026-03-10.
+This operations position at CrowdStrike was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

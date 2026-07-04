@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Taiwan |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/TWN---Remote/Sales-Representative_R1309437) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Mexico-City-Mexico/Sales-Representative_R1313237-1) |
 
 ## About This Role
 
-This account executive position at Danaher was posted on 2026-06-03.
+This account executive position at Danaher was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lakeshore Learning](https://scoutify.ai/companies/lakeshorelearning?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 9 locations |
-| Category | Account Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000131994649-regional-sales-manager-bay-area) |
+| Location | 3 locations |
+| Category | Account Executive |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000134561729-regional-sales-manager-bay-area) |
 
 ## About This Role
 
-This account manager position at Lakeshore Learning was posted on 2026-06-12.
+This account executive position at Lakeshore Learning was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

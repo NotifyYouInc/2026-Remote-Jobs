@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Nashville, Tennessee, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000129236804-remarketing-automotive-business-development-manager) |
+| Location | Washington, US |
+| Category | Account Manager |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000134551696-remarketing-automotive-business-development-manager) |
 
 ## About This Role
 
-This engineering manager position at Sixt was posted on 2026-05-29.
+This account manager position at Sixt was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

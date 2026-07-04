@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rithum LinkedIn Board](https://scoutify.ai/companies/rithum-linkedin-board?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | North Carolina, US |
 | Category | Program Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rithumliboard/jobs/7952036) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rithumliboard/jobs/8031877) |
 
 ## About This Role
 
-This program manager position at Rithum LinkedIn Board was posted on 2026-05-21.
+This program manager position at Rithum LinkedIn Board was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7895112?gh_jid=7895112) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8022729?gh_jid=8022729) |
 
 ## About This Role
 
-This it & systems administration position at Samsara was posted on 2026-05-14.
+This it & systems administration position at Samsara was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

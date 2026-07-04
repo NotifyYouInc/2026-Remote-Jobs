@@ -5,12 +5,12 @@
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 4 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Consultant--Advanced-Technologies--Antitrust_R0033924) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-New-York-NY-1166-Avenue-of-Americas/Consultant--Advanced-Technologies--Antitrust_R0034569) |
 
 ## About This Role
 
-This technology / it consulting position at Epiqsystems was posted on 2026-04-14.
+This technology / it consulting position at Epiqsystems was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

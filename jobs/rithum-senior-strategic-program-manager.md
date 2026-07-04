@@ -5,12 +5,12 @@
 | Company | [Rithum](https://scoutify.ai/companies/rithum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Program Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rithum/jobs/7952013) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rithum/jobs/8031847) |
 
 ## About This Role
 
-This program manager position at Rithum was posted on 2026-05-21.
+This program manager position at Rithum was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

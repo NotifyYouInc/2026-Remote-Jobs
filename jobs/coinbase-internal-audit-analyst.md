@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Accounting |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7683744?gh_jid=7683744) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/8031603?gh_jid=8031603) |
 
 ## About This Role
 
-This accounting position at Coinbase was posted on 2026-03-09.
+This compliance & risk management position at Coinbase was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
