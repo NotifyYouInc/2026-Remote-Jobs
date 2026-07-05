@@ -1,16 +1,16 @@
-# Graphic Designer ID at Bjak
+# Site Reliability Engineer at Orkes
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Indonesia |
-| Category | Marketing |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/55b619f3-864f-4d5b-b128-f3cbc9f99cbf) |
+| Company | [Orkes](https://scoutify.ai/companies/orkes?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Australia |
+| Category | DevOps Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/orkes/jobs/5221481008) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-06-27.
+This devops engineer position at Orkes was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

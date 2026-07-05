@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Account Executive |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013821776-clinical-account-executive-oncology-baltimoredc) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013822044-clinical-account-executive-oncology-baltimoredc) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# B2B Sales Account Executive at AT&T
+# Copy of Lead, Satellite Optical Payload Engineering at Logos Space
 
 | Field | Details |
 |-------|---------|
-| Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Logos Space](https://scoutify.ai/companies/logos-space?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
-| Category | Account Executive |
+| Category | Engineering Manager |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Orange-Park-Florida/B2B-Sales-Account-Executive_R-110607) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/logos-space/62c32bb5-1be0-4f98-95fa-11b3aabc7810) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-06-28.
+This engineering manager position at Logos Space was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

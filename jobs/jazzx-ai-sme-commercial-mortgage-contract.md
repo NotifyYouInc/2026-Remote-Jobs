@@ -1,16 +1,16 @@
-# Senior Graphic Designer - UK  at Bjak
+# SME - Commercial Mortgage (Contract) at JazzX AI
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
+| Company | [JazzX AI](https://scoutify.ai/companies/jazzx-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Not specified |
+| Category | Technology / IT Consulting |
 | Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/aca9464d-8ba4-4aa4-b0bc-a26d6c159fdc) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/jazzx-ai/jobs/5285228008) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-06-27.
+This technology / it consulting position at JazzX AI was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# B2B Sales Account Executive at AT&T
+# Founding Engineer at Revion
 
 | Field | Details |
 |-------|---------|
-| Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
+| Company | [Revion](https://scoutify.ai/companies/yc-revion?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | London, England, United Kingdom |
+| Category | Software Engineer |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Orange-Park-Florida/B2B-Sales-Account-Executive_R-110607) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/revion/jobs/4ahU7yI-founding-engineer) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-06-28.
+This software engineer position at Revion was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

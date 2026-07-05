@@ -1,16 +1,16 @@
-# B2B Sales Account Executive at AT&T
+# Web UX Designer at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Product Designer |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Orange-Park-Florida/B2B-Sales-Account-Executive_R-110607) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Web-UX-Designer_R170004) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-06-28.
+This product designer position at Adobe was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Graphic Designer - UK  at Bjak
+# Onboarding Manager  at Tapcheck
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
+| Company | [Tapcheck](https://scoutify.ai/companies/tapcheck?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | District of Columbia, US |
+| Category | Customer Success |
 | Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/aca9464d-8ba4-4aa4-b0bc-a26d6c159fdc) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tapcheck/48e0c791-9375-4fdf-aa2b-20360a1d6eb1) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-06-27.
+This customer success position at Tapcheck was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

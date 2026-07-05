@@ -1,16 +1,16 @@
-# Invoice Entry Clerk - Data Entry at Jobs for Humanity
+# Sustainability, Environment & Social Value Strategy Lead at Jobs for Humanity
 
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000134639209-invoice-entry-clerk-data-entry) |
+| Location | London, England, United Kingdom |
+| Category | ESG / Sustainability |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000134607436-sustainability-environment-social-value-strategy-lead) |
 
 ## About This Role
 
-This corporate finance position at Jobs for Humanity was posted on 2026-06-28.
+This esg / sustainability position at Jobs for Humanity was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

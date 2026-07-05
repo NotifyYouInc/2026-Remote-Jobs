@@ -1,16 +1,16 @@
-# Invoice Entry Clerk - Data Entry at Jobs for Humanity
+# Senior Finance Accountant at Jobs for Humanity
 
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000134639209-invoice-entry-clerk-data-entry) |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000134607779-senior-finance-accountant) |
 
 ## About This Role
 
-This corporate finance position at Jobs for Humanity was posted on 2026-06-28.
+This corporate finance position at Jobs for Humanity was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IT Project Manager at General Dynamics Information Technology
+# Implementation Integration architect – Electronic Health Records – Remote! at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arlington, Texas, United States |
-| Category | Project Manager |
+| Location | United States |
+| Category | Customer Success |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/IT-Project-Manager_RQ223130-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Implementation-Integration-architect---Electronic-Health-Records---Remote-_RQ223001) |
 
 ## About This Role
 
-This project manager position at General Dynamics Information Technology was posted on 2026-06-28.
+This customer success position at General Dynamics Information Technology was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IDEXX](https://scoutify.ai/companies/idexx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Inside-Sales-Diagnostic-Specialist_J-052019-1) |
+| Category | Business Development |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Inside-Sales-Diagnostic-Specialist_J-053802) |
 
 ## About This Role
 
-This account executive position at IDEXX was posted on 2026-03-09.
+This business development position at IDEXX was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 
