@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10451134/transportation-specialist-eu-fleet) |
+| Category | Operations |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460826/transportation-specialist-eu-fleet) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-06-17.
+This operations position at Amazon was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

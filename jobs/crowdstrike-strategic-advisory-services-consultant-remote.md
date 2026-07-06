@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Strategic-Advisory-Services-Consultant--Remote-_R28534) |
+| Location | Texas, US |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Strategic-Advisory-Services-Consultant--Bilingual-Spanish-English--Remote-_R25668) |
 
 ## About This Role
 
-This implementation / professional services position at CrowdStrike was posted on 2026-04-28.
+This strategy / management consulting position at CrowdStrike was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

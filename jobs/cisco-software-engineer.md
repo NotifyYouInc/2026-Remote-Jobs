@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chennai-India/Software-Engineer_2018250-1) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Knoxville-Tennessee-US/Software-Engineer_2016513) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-06-24.
+This software engineer position at Cisco was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

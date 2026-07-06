@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mozilla](https://scoutify.ai/companies/mozilla?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Engineering Manager |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mozilla/jobs/8031137) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mozilla/jobs/8031796) |
 
 ## About This Role
 

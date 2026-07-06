@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tanium](https://scoutify.ai/companies/tanium?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.tanium.com/careers/7592761?gh_jid=7592761) |
+| Location | Italy |
+| Category | Account Executive |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tanium/jobs/8024995) |
 
 ## About This Role
 
-This sales position at Tanium was posted on 2026-02-09.
+This account executive position at Tanium was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

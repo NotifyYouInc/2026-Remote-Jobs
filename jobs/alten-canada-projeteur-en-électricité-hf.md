@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000128470139-projeteur-en-electricite-hf) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000134718090-projeteur-en-electricite-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN Canada was posted on 2026-05-26.
+This electrical / hardware engineer position at ALTEN Canada was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

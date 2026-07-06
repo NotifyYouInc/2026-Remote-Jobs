@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126223259-staff-engineer-ukg-wfm-integration-developer) |
+| Location | United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134703379-staff-engineer-ukg-wfm-integration-developer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-05-13.
+This technology / it consulting position at Nagarro was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

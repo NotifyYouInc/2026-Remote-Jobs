@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Vancouver, British Columbia, Canada |
-| Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000122556597-pcie-seniorlead-software-engineer) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000134690040-pcie-seniorlead-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Arista Networks was posted on 2026-04-23.
+This embedded / firmware engineer position at Arista Networks was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000111771700-associate-principal-engineer) |
+| Location | Philippines |
+| Category | Program Manager |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134741159-associate-principal-engineer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-02-27.
+This program manager position at Nagarro was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 
