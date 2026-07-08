@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hopscotch Primary Care](https://scoutify.ai/companies/hopscotchprimarycare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Spindale, North Carolina, United States |
+| Location | Marion, Iowa, United States |
 | Category | Account Executive |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hopscotchprimarycare/jobs/6102972004) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hopscotchprimarycare/jobs/6105923004) |
 
 ## About This Role
 
-This account executive position at Hopscotch Primary Care was posted on 2026-06-26.
+This account executive position at Hopscotch Primary Care was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

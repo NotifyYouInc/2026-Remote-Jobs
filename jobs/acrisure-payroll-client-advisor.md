@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acrisure](https://scoutify.ai/companies/acrisure?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | New Hampshire, US |
 | Category | Account Executive |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/DETROIT-MI/Payroll-Client-Advisor_JR113486) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/NEW-HAMPSHIRE/Payroll-Client-Advisor_JR113711) |
 
 ## About This Role
 
-This account executive position at Acrisure was posted on 2026-06-03.
+This account executive position at Acrisure was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

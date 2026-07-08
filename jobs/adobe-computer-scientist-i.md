@@ -1,16 +1,16 @@
-# Computer Scientist - I at Adobe
+# Computer Scientist I at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist---I_R166139) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-I_R170169) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-03-05.
+This software engineer position at Adobe was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

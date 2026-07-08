@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Digital Health](https://scoutify.ai/companies/alteradigitalhealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
+| Location | 2 locations |
 | Category | Project Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Remote---Alberta/Project-Manager_R0041008) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Remote-Pune-Baroda-India/Project-Manager_R0044144-1) |
 
 ## About This Role
 
-This project manager position at Altera Digital Health was posted on 2026-06-10.
+This project manager position at Altera Digital Health was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

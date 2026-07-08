@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-Data-AI-Engineering_R-109114) |
+| Location | 4 locations |
+| Category | Data Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Atlanta-Georgia/Principal-Data-AI-Engineering_R-114287) |
 
 ## About This Role
 
-This ai / ml research position at AT&T was posted on 2026-05-28.
+This data engineer position at AT&T was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

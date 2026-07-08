@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Maryland, US |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Information-Technology-Support-Specialist---TS-SCI-w-Poly_RQ223207-1) |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Information-Technology-Support-Specialist---TS-SCI-w-Poly_RQ223498) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-06-26.
+This technical support engineer position at General Dynamics Information Technology was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

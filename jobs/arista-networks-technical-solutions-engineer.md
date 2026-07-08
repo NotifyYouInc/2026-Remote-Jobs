@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000107838910-technical-solutions-engineer) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000135241910-technical-solutions-engineer) |
 
 ## About This Role
 
-This operations position at Arista Networks was posted on 2026-02-06.
+This technical support engineer position at Arista Networks was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

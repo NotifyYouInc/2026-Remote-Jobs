@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Sr-Systems-Engineer_R0039423-2) |
+| Location | 2 locations |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Sr-Systems-Engineer_R0043995-1) |
 
 ## About This Role
 
-This operations position at Harris Computer was posted on 2026-02-05.
+This technical support engineer position at Harris Computer was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

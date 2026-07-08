@@ -1,16 +1,16 @@
-# Cybersecurity Engineering - DPaaS at Leidos
+# Cybersecurity Engineering DPaaS at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cybersecurity-Engineering---DPaaS_R-00177804) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cybersecurity-Engineering-DPaaS_R-00186541) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-03-10.
+This security engineer position at Leidos was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

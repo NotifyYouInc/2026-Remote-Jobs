@@ -1,16 +1,16 @@
-# Senior Manager, Franchise Recruiting & Engagement at Ameriprise Financial
+# Senior Manager - Franchise Recruiting & Engagement at Ameriprise Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Troy, Michigan, United States |
+| Location | 4 locations |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Troy-Michigan/Senior-Manager--Franchise-Recruiting---Engagement_R26_0895-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Nashville-Tennessee/Senior-Manager---Franchise-Recruiting---Engagement_R26_2451-1) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Ameriprise Financial was posted on 2026-03-13.
+This talent acquisition / recruiting position at Ameriprise Financial was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

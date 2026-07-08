@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brooklyn, New York, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5808686004) |
+| Location | Arizona, US |
+| Category | Account Manager |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6105905004) |
 
 ## About This Role
 
-This business analyst position at Morgan & Morgan, P.A. was posted on 2026-02-19.
+This account manager position at Morgan & Morgan, P.A. was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

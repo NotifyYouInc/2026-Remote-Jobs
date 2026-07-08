@@ -5,12 +5,12 @@
 | Company | [K2 Space](https://scoutify.ai/companies/k2-space?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5180271008) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5288635008) |
 
 ## About This Role
 
-This semiconductor / chip design position at K2 Space was posted on 2026-04-07.
+This semiconductor / chip design position at K2 Space was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

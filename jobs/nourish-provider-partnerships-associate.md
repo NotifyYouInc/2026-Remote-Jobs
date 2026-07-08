@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nourish](https://scoutify.ai/companies/nourish-usenourish?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Delaware, US |
 | Category | Account Executive |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/usenourish/jobs/4527930008) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/usenourish/jobs/5285958008) |
 
 ## About This Role
 
-This account executive position at Nourish was posted on 2026-06-16.
+This account executive position at Nourish was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

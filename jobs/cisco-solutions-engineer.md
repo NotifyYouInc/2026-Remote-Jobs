@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chicago-Illinois-US/Solutions-Engineer_2015413-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Tampa-Florida-US/Solutions-Engineer_2018460) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-06-03.
+This sales engineer position at Cisco was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000116493889-consultora-sap-mm-senior) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000135329860-consultora-sap-mm-senior) |
 
 ## About This Role
 
-This technology / it consulting position at Inetum was posted on 2026-03-24.
+This technology / it consulting position at Inetum was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

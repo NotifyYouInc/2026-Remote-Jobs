@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Irvine, California, United States |
+| Location | Buffalo, New York, United States |
 | Category | Legal |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6103550004) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6107044004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-06-28.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

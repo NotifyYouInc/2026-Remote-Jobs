@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412446/senior-security-engineer-ai-red-team-threat-operations) |
+| Location | Georgia, US |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464106/senior-security-engineer-ai-red-team-threat-operations) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-05-06.
+This offensive security & pentesting position at Amazon was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

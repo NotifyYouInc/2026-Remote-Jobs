@@ -1,16 +1,16 @@
-# Enterprise Product Advisor at MariaDB plc
+# Enterprise Product Advisor  at MariaDB plc
 
 | Field | Details |
 |-------|---------|
 | Company | [MariaDB plc](https://scoutify.ai/companies/mariadb-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Business Development |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4876924101) |
+| Location | Bucharest, București, Romania |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4901941101) |
 
 ## About This Role
 
-This business development position at MariaDB plc was posted on 2026-06-09.
+This sales development (sdr / bdr) position at MariaDB plc was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Eagan/Simulator-Technician-I_119135) |
+| Location | Orlando, Florida, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Simulator-Technician-I_122131) |
 
 ## About This Role
 
-This electrical / hardware engineer position at CAE was posted on 2026-02-19.
+This it & systems administration position at CAE was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

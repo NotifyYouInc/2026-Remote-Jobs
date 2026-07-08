@@ -1,16 +1,16 @@
-# Director of Sales, New Logo at Temporal Technologies
+# Director of Sales, New Logo  at Temporal Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [Temporal Technologies](https://scoutify.ai/companies/temporal-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Sales Leadership |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5124306007) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5166463007) |
 
 ## About This Role
 
-This sales leadership position at Temporal Technologies was posted on 2026-05-12.
+This sales leadership position at Temporal Technologies was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

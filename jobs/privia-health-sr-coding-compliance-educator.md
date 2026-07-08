@@ -5,12 +5,12 @@
 | Company | [Privia Health](https://scoutify.ai/companies/privia-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/priviahealth/744000132494829-sr-coding-compliance-educator) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/priviahealth/744000135320349-sr-coding-compliance-educator) |
 
 ## About This Role
 
-This compliance & risk management position at Privia Health was posted on 2026-06-16.
+This compliance & risk management position at Privia Health was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 
