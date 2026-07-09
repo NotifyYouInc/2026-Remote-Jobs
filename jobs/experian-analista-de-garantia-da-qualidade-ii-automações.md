@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | QA Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000128817909-analista-de-garantia-da-qualidade-ii-automacoes) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135374851-analista-de-garantia-da-qualidade-ii-automacoes) |
 
 ## About This Role
 
-This qa engineer position at Experian was posted on 2026-05-28.
+This qa engineer position at Experian was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

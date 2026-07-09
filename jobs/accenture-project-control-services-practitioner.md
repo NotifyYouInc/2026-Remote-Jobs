@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Program Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Project-Control-Services-Practitioner_ATCI-5637783-S2032188-1) |
+| Location | 3 locations |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Project-Control-Services-Practitioner_ATCI-5608205-S2055932-1) |
 
 ## About This Role
 
-This program manager position at Accenture was posted on 2026-06-25.
+This technology / it consulting position at Accenture was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Endoluminal Director Commercial Distribution  at Intuitive Surgical
+# Endoluminal Director Commercial Distribution at Intuitive Surgical
 
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Sales Leadership |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000132998179-endoluminal-director-commercial-distribution) |
+| Category | Channel / Partner Sales |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000135444180-endoluminal-director-commercial-distribution) |
 
 ## About This Role
 
-This sales leadership position at Intuitive Surgical was posted on 2026-06-19.
+This channel / partner sales position at Intuitive Surgical was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

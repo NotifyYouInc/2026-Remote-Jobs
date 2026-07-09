@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Consulting-Director---Medical-Capital-Equipment_32181R) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Consulting-Director---Medical-Capital-Equipment_34238R) |
 
 ## About This Role
 
-This strategy / management consulting position at Vizient was posted on 2026-03-12.
+This strategy / management consulting position at Vizient was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

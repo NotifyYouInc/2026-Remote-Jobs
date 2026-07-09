@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Torrens University Australia](https://scoutify.ai/companies/torrens-university-australia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
+| Location | Queensland, AU |
 | Category | Learning & Development |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://strayer.wd1.myworkdayjobs.com/anz_direct_applicants1/job/NSW-Remote/Learning-Facilitator_R30233) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://strayer.wd1.myworkdayjobs.com/anz_direct_applicants1/job/QLD-Remote/Learning-Facilitator_R30620) |
 
 ## About This Role
 
-This learning & development position at Torrens University Australia was posted on 2026-05-08.
+This learning & development position at Torrens University Australia was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

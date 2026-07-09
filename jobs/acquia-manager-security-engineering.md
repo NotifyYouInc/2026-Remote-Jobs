@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acquia](https://scoutify.ai/companies/acquia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/acquia/jobs/8022299) |
+| Location | Canada |
+| Category | Security Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/acquia/jobs/8036426) |
 
 ## About This Role
 
-This engineering manager position at Acquia was posted on 2026-06-27.
+This security engineer position at Acquia was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

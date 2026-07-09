@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/EHS-Manager_REQ503177) |
+| Category | ESG / Sustainability |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/EHS-Manager_REQ519478-1) |
 
 ## About This Role
 
-This compliance & risk management position at JLL was posted on 2026-05-13.
+This esg / sustainability position at JLL was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

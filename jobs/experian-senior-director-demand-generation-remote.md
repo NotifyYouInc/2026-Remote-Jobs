@@ -6,7 +6,7 @@
 | Location | Costa Mesa, California, United States |
 | Category | Growth Marketing |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135335537-senior-director-demand-generation-remote) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135350829-senior-director-demand-generation-remote) |
 
 ## About This Role
 

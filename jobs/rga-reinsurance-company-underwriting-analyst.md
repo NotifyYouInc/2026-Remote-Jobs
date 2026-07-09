@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | North Carolina, US |
+| Location | Iowa, US |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Remote-North-Carolina-United-States-of-America/Underwriting-Analyst_J27570) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Remote-Iowa-United-States-of-America/Underwriting-Analyst_J27991) |
 
 ## About This Role
 
-This actuary / insurance analytics position at RGA Reinsurance Company was posted on 2026-05-22.
+This actuary / insurance analytics position at RGA Reinsurance Company was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Alpharetta, Georgia, United States |
-| Category | Mobile Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Alpharetta-Georgia/Senior-Software-Engineering_R-112628) |
+| Location | Plano, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Senior-Software-Engineering_R-111492) |
 
 ## About This Role
 
-This mobile engineer position at AT&T was posted on 2026-06-25.
+This software engineer position at AT&T was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

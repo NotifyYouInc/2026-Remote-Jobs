@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
 | Category | Project Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000133527399-responsable-de-projet-aeronautique-hf) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000135437839-responsable-de-projet-aeronautique-hf) |
 
 ## About This Role
 
-This project manager position at Scalian was posted on 2026-06-23.
+This project manager position at Scalian was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

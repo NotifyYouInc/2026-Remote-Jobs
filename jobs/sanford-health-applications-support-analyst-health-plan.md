@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanford Health](https://scoutify.ai/companies/sanford?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | South Dakota, US |
-| Category | Customer Success |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/SD-City---Remote-SD/Applications-Support-Analyst---Health-Plan_R-0264731) |
+| Location | Sioux Falls, South Dakota, United States |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/SD-Sioux-Falls/Applications-Support-Analyst---Health-Plan_R-0264773) |
 
 ## About This Role
 
-This customer success position at Sanford Health was posted on 2026-06-19.
+This technical support engineer position at Sanford Health was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 
