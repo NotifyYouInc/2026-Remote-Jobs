@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Redding, California, United States |
-| Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Redding/Wealth-Management-Client-Associate_26012167) |
+| Location | Saginaw, Michigan, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Saginaw/Wealth-Management-Client-Associate_26022373-2) |
 
 ## About This Role
 
-This customer success position at Bank of America was posted on 2026-04-01.
+This wealth management / private banking position at Bank of America was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

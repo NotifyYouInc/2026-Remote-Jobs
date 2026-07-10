@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Karnataka, IN |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10434197/central-operations-support-executive-in-external-fulfillment) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465467/central-operations-support-executive-in-external-fulfillment) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-07-02.
+This business analyst position at Amazon was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

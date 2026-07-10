@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Durham, North Carolina, United States |
-| Category | Business Development |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Durham-NC-USA/Direct-Response-Representative_JR111313) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Durham-NC-USA/Direct-Response-Representative_JR111632-1) |
 
 ## About This Role
 
-This business development position at Genesys was posted on 2026-06-05.
+This sales development (sdr / bdr) position at Genesys was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

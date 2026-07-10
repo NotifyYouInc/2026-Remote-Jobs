@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Billings, Montana, United States |
-| Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/LAS-EH/Radiation-Oncology-Clinical-Implementation-Consultant--Remote-Travel-_R-27790-1) |
+| Location | 4 locations |
+| Category | Implementation / Professional Services |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/APH-N/Radiation-Oncology-Clinical-Implementation-Consultant--Remote-Travel-_R-28664-1) |
 
 ## About This Role
 
-This customer success position at Varian was posted on 2026-04-07.
+This implementation / professional services position at Varian was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

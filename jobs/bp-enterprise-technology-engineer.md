@@ -1,16 +1,16 @@
-# Enterprise technology engineer at BP
+# Enterprise Technology Engineer at BP
 
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Enterprise-technology-engineer_RQ100166) |
+| Category | Software Engineer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Enterprise-Technology-Engineer_RQ112489) |
 
 ## About This Role
 
-This it & systems administration position at BP was posted on 2026-04-21.
+This software engineer position at BP was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

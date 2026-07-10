@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10407480/prod-comp-assc-tse-with-japanese-language-risc-ops) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465399/prod-comp-assc-tse-with-japanese-language-risc-ops) |
 
 ## About This Role
 
-This compliance & risk management position at Amazon was posted on 2026-04-30.
+This compliance & risk management position at Amazon was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

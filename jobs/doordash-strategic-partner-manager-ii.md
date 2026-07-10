@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Business Development |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/7948250) |
+| Location | Los Angeles, California, United States |
+| Category | Account Manager |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/8044721) |
 
 ## About This Role
 
-This business development position at DoorDash was posted on 2026-05-20.
+This account manager position at DoorDash was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

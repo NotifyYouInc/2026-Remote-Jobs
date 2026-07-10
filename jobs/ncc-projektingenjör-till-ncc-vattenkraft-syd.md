@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCC](https://scoutify.ai/companies/ncc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Jönköping, Jönköping, Sweden |
+| Location | Karlstad, Värmland, Sweden |
 | Category | Project Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCC/744000134187459-projektingenjor-till-ncc-vattenkraft-syd) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCC/744000135650380-projektingenjor-till-ncc-vattenkraft-syd) |
 
 ## About This Role
 
-This project manager position at NCC was posted on 2026-06-25.
+This project manager position at NCC was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

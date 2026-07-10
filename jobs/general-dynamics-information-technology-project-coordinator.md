@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Project Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Project-Coordinator_RQ221649-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Project-Coordinator_RQ223278-1) |
 
 ## About This Role
 
-This project manager position at General Dynamics Information Technology was posted on 2026-06-12.
+This project manager position at General Dynamics Information Technology was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Georgia, US |
 | Category | Learning & Development |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Instructional-Designer---Home-Services_Req178492) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Instructional-Designer---Home-Services_Req185774) |
 
 ## About This Role
 
-This learning & development position at The Home Depot was posted on 2026-04-28.
+This learning & development position at The Home Depot was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

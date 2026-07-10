@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Marketing |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Communications-Specialist_RQ216258) |
+| Location | United States |
+| Category | PR & External Communications |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Communications-Specialist_RQ223302-2) |
 
 ## About This Role
 
-This marketing position at General Dynamics Information Technology was posted on 2026-03-22.
+This pr & external communications position at General Dynamics Information Technology was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

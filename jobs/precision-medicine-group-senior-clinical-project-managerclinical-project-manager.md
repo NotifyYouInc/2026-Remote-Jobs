@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Precision Medicine Group](https://scoutify.ai/companies/precision-medicine-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
+| Location | Hong Kong |
 | Category | Project Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5774989004) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6108715004) |
 
 ## About This Role
 
-This project manager position at Precision Medicine Group was posted on 2026-04-24.
+This project manager position at Precision Medicine Group was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
