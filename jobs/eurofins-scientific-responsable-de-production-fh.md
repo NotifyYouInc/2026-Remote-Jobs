@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ivry-sur-Seine, Île-de-France, France |
 | Category | Engineering Manager |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000134698685-responsable-de-production-fh) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000135755329-responsable-de-production-fh) |
 
 ## About This Role
 
-This engineering manager position at Eurofins Scientific was posted on 2026-06-29.
+This engineering manager position at Eurofins Scientific was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

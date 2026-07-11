@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
-| Category | Customer Success |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8010753?gh_jid=8010753) |
+| Location | Mexico |
+| Category | Customer Success Manager |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7960376?gh_jid=7960376) |
 
 ## About This Role
 
-This customer success position at Samsara was posted on 2026-06-26.
+This customer success manager position at Samsara was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

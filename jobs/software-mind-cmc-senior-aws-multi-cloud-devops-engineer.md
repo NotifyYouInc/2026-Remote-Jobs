@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000135272147-cmc-senior-aws-multi-cloud-devops-engineer) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000135688919-cmc-senior-aws-multi-cloud-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Software Mind was posted on 2026-07-01.
+This devops engineer position at Software Mind was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

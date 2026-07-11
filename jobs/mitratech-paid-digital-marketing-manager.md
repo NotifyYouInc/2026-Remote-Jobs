@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mitratech](https://scoutify.ai/companies/mitratech?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico |
+| Location | Canada |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mitratech/jobs/8035065) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mitratech/jobs/8038444) |
 
 ## About This Role
 
-This digital / performance marketing position at Mitratech was posted on 2026-07-02.
+This digital / performance marketing position at Mitratech was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

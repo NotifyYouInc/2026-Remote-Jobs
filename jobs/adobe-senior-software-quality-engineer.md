@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Hamburg, Hamburg, Germany |
 | Category | QA Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Senior-Software-Quality-Engineer_R168402-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Hamburg/Senior-Software-Quality-Engineer_R170172) |
 
 ## About This Role
 
-This qa engineer position at Adobe was posted on 2026-05-22.
+This qa engineer position at Adobe was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

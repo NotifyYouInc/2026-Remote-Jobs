@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Maharashtra, IN |
+| Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India--Virtual--Maharashtra-DTA/Development-Engineer-3_R431032) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India--Virtual--Karnataka-DTA/Development-Engineer-3_R440409) |
 
 ## About This Role
 
-This software engineer position at Comcast was posted on 2026-02-24.
+This software engineer position at Comcast was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

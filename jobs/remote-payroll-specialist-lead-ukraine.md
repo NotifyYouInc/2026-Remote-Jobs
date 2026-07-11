@@ -5,12 +5,12 @@
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ukraine |
 | Category | Accounting |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7719417003) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7793638003) |
 
 ## About This Role
 
-This accounting position at Remote was posted on 2026-04-30.
+This accounting position at Remote was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

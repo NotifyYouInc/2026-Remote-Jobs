@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Project-Control-Services-Practitioner_ATCI-5608205-S2055932-1) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Program Manager |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Project-Control-Services-Practitioner_ATCP-1447973-S425811-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-07-02.
+This program manager position at Accenture was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

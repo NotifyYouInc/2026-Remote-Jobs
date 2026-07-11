@@ -5,12 +5,12 @@
 | Company | [Cerfrance Côtes d'Armor](https://scoutify.ai/companies/cerfrancecotesdarmor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Plérin, Brittany, France |
 | Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CerfranceCotesDArmor/744000135311019-data-controleur-comptable-fh) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CerfranceCotesDArmor/744000135753715-data-controleur-comptable-fh) |
 
 ## About This Role
 
-This accounting position at Cerfrance Côtes d'Armor was posted on 2026-07-01.
+This accounting position at Cerfrance Côtes d'Armor was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

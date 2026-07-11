@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cergy, Île-de-France, France |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Cergy/Division-Management-Controller-F-H_REQ2026077010) |
+| Location | Bobigny, Île-de-France, France |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Bobigny/Division-Management-Controller-F-H_REQ2026077147) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-06-26.
+This fp&a / strategic finance position at Valeo was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

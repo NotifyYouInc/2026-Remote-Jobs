@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000133278979-tender-managerin-b2b-energie) |
+| Category | Account Executive |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000135745499-tender-managerin-b2b-energie) |
 
 ## About This Role
 
-This business analyst position at Vattenfall was posted on 2026-06-22.
+This account executive position at Vattenfall was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

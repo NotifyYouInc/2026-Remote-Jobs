@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Oskarshamn, Kalmar, Sweden |
-| Category | Robotics Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000124490299-erfaren-robotprogrammerare) |
+| Category | Industrial Automation |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000135708880-erfaren-robotprogrammerare) |
 
 ## About This Role
 
-This robotics engineer position at AFRY was posted on 2026-05-04.
+This industrial automation position at AFRY was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
