@@ -1,16 +1,16 @@
-# Financial Systems Engineer at DoiT
+# (Senior) Product Development Manager (gn) - Protein Powder Category More at TQG
 
 | Field | Details |
 |-------|---------|
-| Company | [DoiT](https://scoutify.ai/companies/doit?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United Kingdom |
-| Category | IT & Systems Administration |
+| Company | [TQG](https://scoutify.ai/companies/tqg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Germany |
+| Category | Product Manager |
 | Posted | 2026-07-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7795513003) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4919354101) |
 
 ## About This Role
 
-This it & systems administration position at DoiT was posted on 2026-07-05.
+This product manager position at TQG was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

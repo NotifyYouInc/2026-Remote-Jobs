@@ -1,16 +1,16 @@
-# Financial Systems Engineer at DoiT
+# Founding Engineer at Bravi
 
 | Field | Details |
 |-------|---------|
-| Company | [DoiT](https://scoutify.ai/companies/doit?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United Kingdom |
-| Category | IT & Systems Administration |
+| Company | [Bravi](https://scoutify.ai/companies/yc-bravi?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Paris, Île-de-France, France |
+| Category | Software Engineer |
 | Posted | 2026-07-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7795513003) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/bravi/jobs/fXVdy60-founding-engineer) |
 
 ## About This Role
 
-This it & systems administration position at DoiT was posted on 2026-07-05.
+This software engineer position at Bravi was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

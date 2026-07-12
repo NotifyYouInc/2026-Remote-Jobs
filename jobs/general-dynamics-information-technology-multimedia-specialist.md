@@ -1,16 +1,16 @@
-# Network Engineering Manager at General Dynamics Information Technology
+# Multimedia Specialist at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
-| Category | Engineering Manager |
+| Location | Fort Bragg, North Carolina, United States |
+| Category | Motion / Video Production |
 | Posted | 2026-07-05 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Network-Engineering-Manager_RQ223675-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg---Fort-Bragg-NCC004/Multimedia-Specialist_RQ223631-1) |
 
 ## About This Role
 
-This engineering manager position at General Dynamics Information Technology was posted on 2026-07-05.
+This motion / video production position at General Dynamics Information Technology was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 
