@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Philippines |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Account Executive |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000127580460-sr-sales-executive) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000135921819-sr-sales-executive) |
 
 ## About This Role
 
-This account executive position at SEEK was posted on 2026-05-21.
+This account executive position at SEEK was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

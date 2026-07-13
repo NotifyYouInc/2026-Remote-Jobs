@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everway](https://scoutify.ai/companies/everway?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/everway/jobs/4671625006) |
+| Category | Technical Product Manager |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/everway/jobs/4689369006) |
 
 ## About This Role
 
-This product manager position at Everway was posted on 2026-05-01.
+This technical product manager position at Everway was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

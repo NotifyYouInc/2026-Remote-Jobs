@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Nanterre, Île-de-France, France |
 | Category | Brand Marketing |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000135689802-cdd-4-mois-chef-de-projets-activation-client-fh) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000135932216-cdd-4-mois-chef-de-projets-activation-client-fh) |
 
 ## About This Role
 
-This brand marketing position at METRO/MAKRO was posted on 2026-07-03.
+This brand marketing position at METRO/MAKRO was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

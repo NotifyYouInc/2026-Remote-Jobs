@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EPSA](https://scoutify.ai/companies/epsa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | Business Development |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSA/744000134421434-sdr-business-developer-b2b-prospection-c-level-hf) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSA/744000135942810-sdr-business-developer-b2b-prospection-c-level-hf) |
 
 ## About This Role
 
-This business development position at EPSA was posted on 2026-06-26.
+This sales development (sdr / bdr) position at EPSA was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

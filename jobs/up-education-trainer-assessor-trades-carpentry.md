@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Up Education](https://scoutify.ai/companies/up-education?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Newcastle, New South Wales, Australia |
 | Category | Learning & Development |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/upeducation/6000000000914789-trainer-assessor-trades-carpentry) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/upeducation/6000000001209331-trainer-assessor-trades-carpentry) |
 
 ## About This Role
 
-This learning & development position at Up Education was posted on 2026-03-06.
+This learning & development position at Up Education was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

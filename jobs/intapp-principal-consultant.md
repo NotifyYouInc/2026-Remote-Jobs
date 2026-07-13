@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intapp](https://scoutify.ai/companies/intapp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Charlotte, North Carolina, United States |
 | Category | Implementation / Professional Services |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/London-UK/Principal-Consultant_R2025059-1) |
+| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Principal-Consultant_R2025060-1) |
 
 ## About This Role
 

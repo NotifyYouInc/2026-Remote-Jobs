@@ -6,7 +6,7 @@
 | Location | Warsaw, Mazovia, Poland |
 | Category | Software Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000135735014-senior-java-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000135752261-senior-java-developer) |
 
 ## About This Role
 

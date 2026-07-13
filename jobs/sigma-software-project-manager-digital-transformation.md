@@ -6,7 +6,7 @@
 | Location | Lviv, Lviv, Ukraine |
 | Category | Project Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000135747869-project-manager-digital-transformation) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000135754679-project-manager-digital-transformation) |
 
 ## About This Role
 

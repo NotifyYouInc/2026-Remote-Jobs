@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Adelaide-South-Australia-Australia/HR-Resourcing-Lead_R2125337) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Adelaide-South-Australia-Australia/HR-Resourcing-Lead_R2126035-1) |
 
 ## About This Role
 
-This human resources / people ops position at KBR was posted on 2026-06-19.
+This human resources / people ops position at KBR was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

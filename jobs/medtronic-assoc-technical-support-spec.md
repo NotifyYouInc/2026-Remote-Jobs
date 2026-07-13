@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Customer Success |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tokyo-Tokyo-Japan/XMLNAME--Disabled-Hiring-Technical-Support-Specialist--CRM---Tokyo-_R62700-6) |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tokyo-Tokyo-Japan/XMLNAME--Disabled-Hiring-Technical-Support-Specialist--CRM---Tokyo-_R71178-3) |
 
 ## About This Role
 
-This customer success position at Medtronic was posted on 2026-06-19.
+This technical support engineer position at Medtronic was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

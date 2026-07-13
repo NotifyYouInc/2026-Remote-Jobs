@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Maynard, Massachusetts, United States |
-| Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Data-Science-Analyst_2011813) |
+| Location | 2 locations |
+| Category | Data Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Science-Analyst_2014648) |
 
 ## About This Role
 
-This data analyst position at Cisco was posted on 2026-04-22.
+This data engineer position at Cisco was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

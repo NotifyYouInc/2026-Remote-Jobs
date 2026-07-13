@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Karnataka, IN |
 | Category | Engineering Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Director-Software-Engineering--ITC_R-86693) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Director-Software-Engineering--ITC_R-87276) |
 
 ## About This Role
 
-This engineering manager position at Nike was posted on 2026-06-26.
+This engineering manager position at Nike was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Machine Learning Engineer (L4) at Twilio
+# Staff, Machine Learning Engineer (L4) at Twilio
 
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7716287) |
+| Location | India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7699243) |
 
 ## About This Role
 
-This ai / llm engineer position at Twilio was posted on 2026-03-13.
+This machine learning engineer position at Twilio was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

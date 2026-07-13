@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United Kingdom |
-| Category | Marketing |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/aca9464d-8ba4-4aa4-b0bc-a26d6c159fdc) |
+| Category | Graphic / Brand Design |
+| Posted | 2026-07-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/ef5750be-67a1-4fd2-ac88-1a2cc2ce1524) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-06-27.
+This graphic / brand design position at Bjak was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 
