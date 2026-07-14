@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore---Remote/Territory-Account-Executive---SMB_JR347356) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai---Remote/Territory-Account-Executive---SMB_JR347741) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-06-23.
+This account executive position at Salesforce was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

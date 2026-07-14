@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Growth Marketing |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001205974-lifecycle-marketing-manager-monetisation) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001214487-lifecycle-marketing-manager-monetisation) |
 
 ## About This Role
 
-This growth marketing position at Canva was posted on 2026-07-03.
+This growth marketing position at Canva was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

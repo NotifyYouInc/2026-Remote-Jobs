@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Honolulu, Hawaii, United States |
+| Location | Utah, US |
 | Category | Project Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Honolulu-HI/Construction-Project-Manager_REQ517466) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/St-George-UT/Construction-Project-Manager_REQ520298) |
 
 ## About This Role
 
-This project manager position at JLL was posted on 2026-06-23.
+This project manager position at JLL was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

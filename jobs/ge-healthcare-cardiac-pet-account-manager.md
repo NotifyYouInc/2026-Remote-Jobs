@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Cardiac-PET-Account-Manager_R4035955-2) |
+| Location | United States |
+| Category | Account Manager |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Cardiac-PET-Account-Manager_R4043346-1) |
 
 ## About This Role
 
-This customer success position at GE HealthCare was posted on 2026-02-05.
+This account manager position at GE HealthCare was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

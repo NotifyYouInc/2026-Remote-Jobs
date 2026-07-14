@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nava Benefits](https://scoutify.ai/companies/nava-benefits?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | California, US |
 | Category | Account Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/nava-benefits/e5177173-b612-434c-afd3-e74e82f50dbc) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nava-benefits/47c530ab-1753-42e5-9695-c5ab9f6701fa) |
 
 ## About This Role
 
-This account manager position at Nava Benefits was posted on 2026-06-22.
+This account manager position at Nava Benefits was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

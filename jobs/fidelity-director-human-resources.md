@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Director--Human-Resources_2130547-2) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Director--Human-Resources_2131156-1) |
 
 ## About This Role
 
-This human resources / people ops position at Fidelity was posted on 2026-06-26.
+This human resources / people ops position at Fidelity was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

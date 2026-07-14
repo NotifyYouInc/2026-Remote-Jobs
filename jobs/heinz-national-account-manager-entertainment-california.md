@@ -5,12 +5,12 @@
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | California, US |
 | Category | Account Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Virtual-USA/National-Account-Manager-Entertainment---California_R-102586-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Virtual-USA/National-Account-Manager-Entertainment---California_R-104399) |
 
 ## About This Role
 
-This account manager position at Heinz was posted on 2026-05-06.
+This account manager position at Heinz was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

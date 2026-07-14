@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 4 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Account Executive |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Ann-Arbor-Michigan-US/Account-Executive---Architecture_2011298-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Sydney-Australia/Account-Executive---Architecture_2017104) |
 
 ## About This Role
 
-This account executive position at Cisco was posted on 2026-04-16.
+This account executive position at Cisco was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

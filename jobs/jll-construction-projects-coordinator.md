@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | Denver, Colorado, United States |
 | Category | Project Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Salt-Lake-City-UT/Construction-Projects-Coordinator_REQ517441) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Construction-Projects-Coordinator_REQ517443) |
 
 ## About This Role
 
-This project manager position at JLL was posted on 2026-06-23.
+This project manager position at JLL was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

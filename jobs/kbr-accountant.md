@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chennai-Tamil-Nadu-India/Accountant_R2121374) |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chennai-Tamil-Nadu-India/Accountant_R2125853) |
 
 ## About This Role
 
-This corporate finance position at KBR was posted on 2026-04-06.
+This accounting position at KBR was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Angers, Pays de la Loire, France |
 | Category | Account Manager |
-| Posted | 2026-07-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000135870239-ingenieur-comptes-semences-region-pays-de-loire-departements-72-37-49-41-53-44-79-hf-cdi) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000136151368-ingenieur-comptes-semences-region-pays-de-loire-departements-72-37-49-41-53-44-79-hf-cdi) |
 
 ## About This Role
 
-This account manager position at Syngenta was posted on 2026-07-05.
+This account manager position at Syngenta was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

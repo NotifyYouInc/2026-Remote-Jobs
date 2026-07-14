@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Up Education](https://scoutify.ai/companies/up-education?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New Zealand |
-| Category | Talent Acquisition / Recruiting |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/upeducation/6000000001097952-student-recruitment-advisor) |
+| Category | Account Executive |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/upeducation/6000000001213343-student-recruitment-advisor) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Up Education was posted on 2026-05-22.
+This account executive position at Up Education was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

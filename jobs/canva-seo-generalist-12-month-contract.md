@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Growth Marketing |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001121063-seo-generalist-12-month-contract) |
+| Category | Content Marketing |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001213451-seo-generalist-12-month-contract) |
 
 ## About This Role
 
-This growth marketing position at Canva was posted on 2026-06-01.
+This content marketing position at Canva was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

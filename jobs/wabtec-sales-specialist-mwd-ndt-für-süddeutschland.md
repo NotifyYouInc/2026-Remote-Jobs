@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Reutlingen, Baden-Wurttemberg, Germany |
 | Category | Account Executive |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013677872-sales-specialist-mwd-ndt-fur-suddeutschland) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013951326-sales-specialist-mwd-ndt-fur-suddeutschland) |
 
 ## About This Role
 
-This account executive position at Wabtec was posted on 2026-06-18.
+This account executive position at Wabtec was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

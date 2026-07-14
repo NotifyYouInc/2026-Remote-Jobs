@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | Virginia, US |
 | Category | Account Executive |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Texas-USA/Sales-Representative-II_R-01355388) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Virginia-USA/Sales-Representative-II_R-01359080) |
 
 ## About This Role
 
-This account executive position at Thermo Fisher Scientific was posted on 2026-06-05.
+This account executive position at Thermo Fisher Scientific was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 
