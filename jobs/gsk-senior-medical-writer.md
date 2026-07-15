@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 4 locations |
 | Category | Technical Writer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Senior-Medical-Writer_441912) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Senior-Medical-Writer_443696) |
 
 ## About This Role
 
-This technical writer position at GSK was posted on 2026-05-27.
+This technical writer position at GSK was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

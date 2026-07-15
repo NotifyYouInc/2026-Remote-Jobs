@@ -1,16 +1,16 @@
-# Regional Sales Manager - East at Plexus Worldwide
+#  Regional Sales Manager - East at Plexus Worldwide
 
 | Field | Details |
 |-------|---------|
 | Company | [Plexus Worldwide](https://scoutify.ai/companies/plexus-worldwide?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Sales Leadership |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/plexusworldwidellc/jobs/4696690005) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/plexusworldwidellc/jobs/4712208005) |
 
 ## About This Role
 
-This sales leadership position at Plexus Worldwide was posted on 2026-05-20.
+This sales leadership position at Plexus Worldwide was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 
