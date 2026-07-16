@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
-| Category | Operations |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-AK/Senior-Business-Process-Improvement-Manager_1638557) |
+| Location | Kentucky, US |
+| Category | Program Manager |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-KY/Senior-Business-Process-Improvement-Manager_1643220) |
 
 ## About This Role
 
-This operations position at Centene was posted on 2026-05-05.
+This program manager position at Centene was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

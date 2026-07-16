@@ -5,12 +5,12 @@
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Florida, US |
 | Category | Data Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Senior-Analytics-Engineer_1642329-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Senior-Analytics-Engineer_1643516-1) |
 
 ## About This Role
 
-This data engineer position at Centene was posted on 2026-07-01.
+This data engineer position at Centene was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

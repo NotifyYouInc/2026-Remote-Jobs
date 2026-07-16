@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Customer Success |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000132567249-technical-support-representative-tier-1-remote) |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000136723440-technical-support-representative-tier-1-remote) |
 
 ## About This Role
 
-This customer success position at Turnitin was posted on 2026-06-17.
+This technical support engineer position at Turnitin was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

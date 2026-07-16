@@ -1,16 +1,16 @@
-# Home-Based Graphic Designer at Delegate CX
+# Home Based Graphic Designer at Delegate CX
 
 | Field | Details |
 |-------|---------|
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
-| Category | Marketing |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Graphic-Designer_JR104260) |
+| Category | Graphic / Brand Design |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Graphic-Designer_JR104415) |
 
 ## About This Role
 
-This marketing position at Delegate CX was posted on 2026-05-28.
+This graphic / brand design position at Delegate CX was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

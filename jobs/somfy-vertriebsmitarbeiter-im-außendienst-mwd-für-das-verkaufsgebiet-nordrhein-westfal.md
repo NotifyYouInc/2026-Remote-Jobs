@@ -5,12 +5,12 @@
 | Company | [Somfy](https://scoutify.ai/companies/somfy?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Münster, North Rhine-Westphalia, Germany |
 | Category | Account Executive |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/somfygroup/744000136407100-vertriebsmitarbeiter-im-auendienst-mwd-fur-das-verkaufsgebiet-nordrhein-westfalen-plz-regionen-3233464849) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/somfygroup/744000136753562-vertriebsmitarbeiter-im-auendienst-mwd-fur-das-verkaufsgebiet-nordrhein-westfalen-plz-regionen-3233464849) |
 
 ## About This Role
 
-This account executive position at Somfy was posted on 2026-07-08.
+This account executive position at Somfy was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

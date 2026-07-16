@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teecom](https://scoutify.ai/companies/teecom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.lever.co/teecom/35daeef9-9270-4618-8d96-0802ad3efd98) |
+| Location | United Kingdom |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.lever.co/teecom/1da373ee-a78b-4333-9ea7-d18505e768c0) |
 
 ## About This Role
 
-This engineering manager position at Teecom was posted on 2026-05-15.
+This technology / it consulting position at Teecom was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

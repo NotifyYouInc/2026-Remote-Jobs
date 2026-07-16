@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10381963/principal-product-manager-technical-alexa-connections) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10469631/principal-product-manager-technical-alexa-connections) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-04-02.
+This product manager position at Amazon was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

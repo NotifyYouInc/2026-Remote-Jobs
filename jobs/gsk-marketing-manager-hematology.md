@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
-| Category | Marketing |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Jeddah-Headquarters-Business-Park/Marketing-Manager-Hematology_431164) |
+| Category | Brand Marketing |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Saudi-Arabia---Jeddah/Marketing-Manager-Hematology_440811-1) |
 
 ## About This Role
 
-This marketing position at GSK was posted on 2026-02-20.
+This brand marketing position at GSK was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
