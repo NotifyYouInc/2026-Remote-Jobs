@@ -1,16 +1,16 @@
-# Enterprise Account Executive, Major Accounts - Mid-Atlantic at Cars
+# Enterprise Account Executive-Major Accounts, Mid-Atlantic at Cars
 
 | Field | Details |
 |-------|---------|
 | Company | [Cars](https://scoutify.ai/companies/cars?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | District of Columbia, US |
 | Category | Account Executive |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://cars.wd12.myworkdayjobs.com/cars/job/Remote----District-of-Columbia/Enterprise-Account-Executive--Major-Accounts---Mid-Atlantic_JR11138) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://cars.wd12.myworkdayjobs.com/cars/job/Remote---Virginia/Enterprise-Account-Executive-Major-Account--Mid-Atlantic_JR11218) |
 
 ## About This Role
 
-This account executive position at Cars was posted on 2026-04-17.
+This account executive position at Cars was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

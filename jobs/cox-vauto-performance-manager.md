@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Virginia, US |
+| Location | California, US |
 | Category | Account Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Virginia/vAuto-Performance-Manager_R202678055-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---California/vAuto-Performance-Manager_R202679805) |
 
 ## About This Role
 
-This account manager position at Cox was posted on 2026-06-01.
+This account manager position at Cox was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

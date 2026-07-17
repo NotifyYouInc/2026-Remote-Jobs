@@ -1,16 +1,16 @@
-# Sales Supervisor, GT at Mondelez International
+# Sales Supervisor GT at Mondelez International
 
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Vietnam |
 | Category | Sales Leadership |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Vietnam-Remote/Sales-Supervisor--GT_R-167863-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Vietnam-Remote/Sales-Supervisor-GT_R-172790) |
 
 ## About This Role
 
-This sales leadership position at Mondelez International was posted on 2026-05-17.
+This sales leadership position at Mondelez International was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

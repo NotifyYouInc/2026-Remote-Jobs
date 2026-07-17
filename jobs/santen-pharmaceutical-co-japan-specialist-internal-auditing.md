@@ -5,12 +5,12 @@
 | Company | [Santen Pharmaceutical Co.](https://scoutify.ai/companies/santenpharmaceuticalco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Osaka, Osaka, Japan |
 | Category | Compliance & Risk Management |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000136159649-japan-specialist-internal-auditing) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000136914979-japan-specialist-internal-auditing) |
 
 ## About This Role
 
-This compliance & risk management position at Santen Pharmaceutical Co. was posted on 2026-07-07.
+This compliance & risk management position at Santen Pharmaceutical Co. was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

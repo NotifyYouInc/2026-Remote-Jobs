@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santen Pharmaceutical Co.](https://scoutify.ai/companies/santenpharmaceuticalco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000118829447-japan-sr-director-director-head-of-strategic-execution-management) |
+| Category | Strategy & Operations |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000137043199-japan-sr-director-director-head-of-strategic-execution-management) |
 
 ## About This Role
 
-This strategy / management consulting position at Santen Pharmaceutical Co. was posted on 2026-04-06.
+This strategy & operations position at Santen Pharmaceutical Co. was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

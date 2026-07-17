@@ -1,16 +1,16 @@
-# Seller Live Project Intern (TikTok Shop Operations) - 2026 Start (BS/MS) at TikTok
+# Seller Live Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS) at TikTok
 
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7597568502488647989/detail) |
+| Location | Los Angeles, California, United States |
+| Category | Program Manager |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7660403300474652981/detail) |
 
 ## About This Role
 
-This business analyst position at TikTok was posted on 2026-05-07.
+This program manager position at TikTok was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

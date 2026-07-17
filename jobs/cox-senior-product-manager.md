@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Senior-Product-Manager_R202679128) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Senior-Product-Manager_R202679724) |
 
 ## About This Role
 
-This product manager position at Cox was posted on 2026-06-26.
+This product manager position at Cox was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Manager -2 Platinum at AT&T
+# Sales Manager 2-Platinum at AT&T
 
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Harrisburg, Pennsylvania, United States |
+| Location | 2 locations |
 | Category | Sales Leadership |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Harrisburg-Pennsylvania/Sales-Manager--2-Platinum_R-106171) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Kansas-City-Missouri/Sales-Manager-2-Platinum_R-115147) |
 
 ## About This Role
 
-This sales leadership position at AT&T was posted on 2026-04-06.
+This sales leadership position at AT&T was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

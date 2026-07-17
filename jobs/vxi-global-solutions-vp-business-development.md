@@ -5,12 +5,12 @@
 | Company | [VXI Global Solutions](https://scoutify.ai/companies/vxi-global-solutions?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Texas, US |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://vxi.wd12.myworkdayjobs.com/careers/job/Virtual--Texas/VP--Business-Development_R26_03473) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://vxi.wd12.myworkdayjobs.com/careers/job/Virtual--Texas/VP--Business-Development_R26_03322) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at VXI Global Solutions was posted on 2026-07-07.
+This sales development (sdr / bdr) position at VXI Global Solutions was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

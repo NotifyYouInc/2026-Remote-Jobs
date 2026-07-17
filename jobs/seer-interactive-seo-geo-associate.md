@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Seer Interactive](https://scoutify.ai/companies/seerinteractive?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | United States |
 | Category | Growth Marketing |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.lever.co/seerinteractive/135d6f2e-7b59-47d4-8d93-b7c9ff506aae) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.lever.co/seerinteractive/2994f6ea-16c1-452c-9995-d46fdadd20aa) |
 
 ## About This Role
 
-This growth marketing position at Seer Interactive was posted on 2026-03-13.
+This growth marketing position at Seer Interactive was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

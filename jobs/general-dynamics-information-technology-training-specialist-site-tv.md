@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Illinois, US |
 | Category | Learning & Development |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-IL-Great-Lakes/Training-Specialist-SITE-TV_RQ222181-2) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-IL-Great-Lakes/Training-Specialist-SITE-TV_RQ223909-1) |
 
 ## About This Role
 
-This learning & development position at General Dynamics Information Technology was posted on 2026-06-12.
+This learning & development position at General Dynamics Information Technology was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

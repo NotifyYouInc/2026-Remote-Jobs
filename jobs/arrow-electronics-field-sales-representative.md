@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Oregon, US |
 | Category | Account Executive |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/CA-AB-Alberta-Canada-Remote-Employees/Field-Sales-Representative_R243879) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-OR-Oregon-Remote-Employees/Field-Sales-Representative_R244038-1) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-07-06.
+This account executive position at Arrow Electronics was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

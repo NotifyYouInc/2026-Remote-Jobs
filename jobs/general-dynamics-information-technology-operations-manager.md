@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | Not specified |
 | Category | Program Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Operations-Manager_RQ217908-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Operations-Manager_RQ223906) |
 
 ## About This Role
 
-This program manager position at General Dynamics Information Technology was posted on 2026-04-09.
+This program manager position at General Dynamics Information Technology was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

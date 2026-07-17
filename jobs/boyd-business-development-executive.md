@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boyd](https://scoutify.ai/companies/boyd?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Jose, California, United States |
-| Category | Account Executive |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://boydcorp.wd12.myworkdayjobs.com/boyd_careers/job/Remote-California/Business-Development-Executive_R-102341) |
+| Location | Texas, US |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://boydcorp.wd12.myworkdayjobs.com/boyd_careers/job/Remote-Texas/Business-Development-Executive_R-102886) |
 
 ## About This Role
 
-This account executive position at Boyd was posted on 2026-05-08.
+This sales development (sdr / bdr) position at Boyd was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

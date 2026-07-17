@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Account Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/South-Korea-Seoul/ASIC-and-Custom-Silicon-Sales-Account-Manager-for-Asia-Pacific---Japan--APJ-_JR0285480) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Japan-Tokyo/ASIC-and-Custom-Silicon-Sales-Account-Manager-for-Asia-Pacific---Japan--APJ-_JR0285482) |
 
 ## About This Role
 
-This account manager position at Intel was posted on 2026-07-09.
+This account manager position at Intel was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

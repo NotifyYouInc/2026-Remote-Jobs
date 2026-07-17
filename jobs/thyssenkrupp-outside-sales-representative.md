@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [thyssenkrupp](https://scoutify.ai/companies/thyssenkruppmaterialsna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Concord, Ontario, Canada |
+| Location | Santa Fe Springs, California, United States |
 | Category | Account Executive |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Concord-Ontario-CAN/Outside-Sales-Representative_JR104986-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Santa-Fe-Springs-California-USA/Outside-Sales-Representative_JR103719) |
 
 ## About This Role
 
-This account executive position at thyssenkrupp was posted on 2026-05-01.
+This account executive position at thyssenkrupp was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
