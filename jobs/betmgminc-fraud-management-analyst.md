@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Betmgminc](https://scoutify.ai/companies/betmgminc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Jersey, US |
+| Location | Connecticut, US |
 | Category | Compliance & Risk Management |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://betmgminc.wd5.myworkdayjobs.com/betmgm/job/New-Jersey/Fraud-Management-Analyst_JR100687) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://betmgminc.wd5.myworkdayjobs.com/betmgm/job/Remote-New-Jersey/Fraud-Management-Analyst_JR100750) |
 
 ## About This Role
 
-This compliance & risk management position at Betmgminc was posted on 2026-05-05.
+This compliance & risk management position at Betmgminc was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

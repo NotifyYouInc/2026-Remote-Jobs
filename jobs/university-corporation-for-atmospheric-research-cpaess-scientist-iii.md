@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University Corporation for Atmospheric Research](https://scoutify.ai/companies/ucar?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | College Park, Maryland, United States |
+| Location | Princeton, Florida, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/College-Park-MD/CPAESS-Scientist-III_REQ-2026-51-1) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Princeton-NJ/CPAESS-Scientist-III_REQ-2026-118-1) |
 
 ## About This Role
 
-This data scientist position at University Corporation for Atmospheric Research was posted on 2026-04-13.
+This data scientist position at University Corporation for Atmospheric Research was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

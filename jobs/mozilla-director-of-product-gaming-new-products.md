@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mozilla](https://scoutify.ai/companies/mozilla?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mozilla/jobs/8039910) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mozilla/jobs/8056280) |
 
 ## About This Role
 
-This product manager position at Mozilla was posted on 2026-07-03.
+This product manager position at Mozilla was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

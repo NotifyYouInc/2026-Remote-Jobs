@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Aurora, Colorado, United States |
+| Location | Mebane, North Carolina, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Aurora-Colorado/Recruiter_R2606792) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Mebane-North-Carolina/Recruiter_R2614002) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Medline was posted on 2026-04-03.
+This talent acquisition / recruiting position at Medline was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

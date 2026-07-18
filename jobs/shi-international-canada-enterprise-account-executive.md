@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Quebec, CA |
+| Location | Canada |
 | Category | Account Executive |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/CA---QC---Home-Office/Canada-Enterprise-Account-Executive_JR2603) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/CA---QC---Home-Office/Canada-Enterprise-Account-Executive_JR3359) |
 
 ## About This Role
 
-This account executive position at SHI International was posted on 2026-03-17.
+This account executive position at SHI International was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

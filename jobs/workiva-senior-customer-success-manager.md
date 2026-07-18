@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
-| Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/Canada---Remote/Senior-Customer-Success-Manager_R11386) |
+| Location | Florida, US |
+| Category | Customer Success Manager |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Senior-Customer-Success-Manager_R12051) |
 
 ## About This Role
 
-This customer success position at Workiva was posted on 2026-02-19.
+This customer success manager position at Workiva was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

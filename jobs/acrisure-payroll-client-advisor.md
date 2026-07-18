@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acrisure](https://scoutify.ai/companies/acrisure?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Hampshire, US |
-| Category | Account Executive |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/NEW-HAMPSHIRE/Payroll-Client-Advisor_JR113711) |
+| Location | Louisiana, US |
+| Category | Accounting |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/LOUISIANA/Payroll-Client-Advisor_JR113638) |
 
 ## About This Role
 
-This account executive position at Acrisure was posted on 2026-07-01.
+This accounting position at Acrisure was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

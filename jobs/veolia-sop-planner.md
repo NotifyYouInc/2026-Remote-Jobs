@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Trevose, Pennsylvania, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135342499-sop-planner) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137221289-sop-planner) |
 
 ## About This Role
 
-This business analyst position at Veolia was posted on 2026-07-01.
+This business analyst position at Veolia was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

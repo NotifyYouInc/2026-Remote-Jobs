@@ -5,12 +5,12 @@
 | Company | [Rithum](https://scoutify.ai/companies/rithum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rithum/jobs/7808447) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rithum/jobs/8054599) |
 
 ## About This Role
 
-This product manager position at Rithum was posted on 2026-04-16.
+This product manager position at Rithum was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

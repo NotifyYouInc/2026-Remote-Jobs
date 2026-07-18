@@ -5,12 +5,12 @@
 | Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Arkansas, US |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-TN/Product-Manager_R75323) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-KY/Product-Manager_R75576-1) |
 
 ## About This Role
 
-This product manager position at Sedgwick Group was posted on 2026-07-01.
+This product manager position at Sedgwick Group was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

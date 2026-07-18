@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | QA Engineer |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AL-Huntsville/Test-Engineer_RQ222600) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AL-Huntsville/Test-Engineer_RQ223918-2) |
 
 ## About This Role
 
-This qa engineer position at General Dynamics Information Technology was posted on 2026-06-20.
+This qa engineer position at General Dynamics Information Technology was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

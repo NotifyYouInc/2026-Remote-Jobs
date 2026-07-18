@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chainguard](https://scoutify.ai/companies/chainguard?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4682909006) |
+| Category | Customer Success Manager |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4694869006) |
 
 ## About This Role
 
-This customer success position at Chainguard was posted on 2026-05-19.
+This customer success manager position at Chainguard was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

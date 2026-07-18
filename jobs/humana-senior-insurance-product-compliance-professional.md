@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Compliance & Risk Management |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Insurance-Product-Compliance-Professional_R-420814) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Insurance-Product-Compliance-Professional_R-419746-1) |
 
 ## About This Role
 
-This compliance & risk management position at Humana was posted on 2026-07-01.
+This compliance & risk management position at Humana was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

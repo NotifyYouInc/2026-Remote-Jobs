@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Taiwan |
+| Location | Beijing, Beijing, China |
 | Category | Technical Support Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/TPE-DH-337/Product-Support-Engineer_R-28880-1) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PEK-CJ/Product-Support-Engineer_R-28356-1) |
 
 ## About This Role
 
-This technical support engineer position at Varian was posted on 2026-07-03.
+This technical support engineer position at Varian was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

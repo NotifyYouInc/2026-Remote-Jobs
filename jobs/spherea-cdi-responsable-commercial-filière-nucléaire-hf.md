@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SPHEREA](https://scoutify.ai/companies/spherea?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | 2 locations |
 | Category | Account Manager |
-| Posted | 2025-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SPHEREA/744000082244936-cdi-responsable-commercial-filiere-nucleaire-hf) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SPHEREA/744000137188429-cdi-responsable-commercial-filiere-nucleaire-hf) |
 
 ## About This Role
 
-This account manager position at SPHEREA was posted on 2025-09-16.
+This account manager position at SPHEREA was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

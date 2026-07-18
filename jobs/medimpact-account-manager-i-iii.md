@@ -5,12 +5,12 @@
 | Company | [Medimpact](https://scoutify.ai/companies/medimpact?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Diego, California, United States |
 | Category | Account Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://medimpact.wd5.myworkdayjobs.com/medimpact/job/San-Diego-CA/Account-Manager_JR102582) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://medimpact.wd5.myworkdayjobs.com/medimpact/job/San-Diego-CA/Account-Manager-I-III_JR102659) |
 
 ## About This Role
 
-This account manager position at Medimpact was posted on 2026-06-12.
+This account manager position at Medimpact was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

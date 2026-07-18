@@ -5,12 +5,12 @@
 | Company | [CollectWise](https://scoutify.ai/companies/yc-collectwise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/collectwise/jobs/VF20CVA-founding-account-executive) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive) |
 
 ## About This Role
 
-This account executive position at CollectWise was posted on 2026-05-13.
+This account executive position at CollectWise was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Edison, New Jersey, United States |
+| Location | United States |
 | Category | Account Executive |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Edison-NJ/VP--Regional-Sales-Executive_JR4263) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Remote-USA/VP--Regional-Sales-Executive_JR4910) |
 
 ## About This Role
 
-This account executive position at Axos Bank was posted on 2026-03-17.
+This account executive position at Axos Bank was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

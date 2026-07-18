@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rithum LinkedIn Board](https://scoutify.ai/companies/rithum-linkedin-board?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rithumliboard/jobs/7819799) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rithumliboard/jobs/8056331) |
 
 ## About This Role
 
-This product manager position at Rithum LinkedIn Board was posted on 2026-04-16.
+This product manager position at Rithum LinkedIn Board was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

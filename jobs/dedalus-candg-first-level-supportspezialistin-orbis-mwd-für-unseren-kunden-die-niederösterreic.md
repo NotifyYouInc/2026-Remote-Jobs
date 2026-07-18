@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bonn, North Rhine-Westphalia, Germany |
-| Category | Customer Success |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Bonn/First-Level-Supportspezialist-in-ORBIS--m-w-d----Fr-unseren-Kunden--die--Niedersterreichische-Landesgesundheitsagentur-_JR108448) |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Bonn/First-Level-Supportspezialist-in-ORBIS--m-w-d----Fr-unseren-Kunden--die--Niedersterreichische-Landesgesundheitsagentur-_JR108661-1) |
 
 ## About This Role
 
-This customer success position at Dedalus CandG was posted on 2026-05-23.
+This technical support engineer position at Dedalus CandG was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 
