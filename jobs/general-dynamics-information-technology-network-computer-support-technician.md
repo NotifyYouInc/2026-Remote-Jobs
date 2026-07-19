@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, US |
+| Location | Tacoma, Washington, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-WA-McChord-AFB/Network-Computer-Support-Technician_RQ221413-1) |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-WA-McChord-AFB/Network-Computer-Support-Technician_RQ224031-1) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-05-29.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

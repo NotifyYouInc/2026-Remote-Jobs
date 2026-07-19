@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sangrūr, Punjab, India |
-| Category | Account Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Delhi-Regional-Office/Territory-Sales-Officer_R-1183587-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Channel / Partner Sales |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Chennai-Regional-Office/Territory-Sales-Officer_R-1184926) |
 
 ## About This Role
 
-This account manager position at Unilever was posted on 2026-06-19.
+This channel / partner sales position at Unilever was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

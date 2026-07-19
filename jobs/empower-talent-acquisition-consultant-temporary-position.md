@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Talent-Acquisition-Consultant---Temporary-position_R0056786) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Talent-Acquisition-Consultant---Temporary-position_R0060425) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Empower was posted on 2026-02-24.
+This talent acquisition / recruiting position at Empower was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

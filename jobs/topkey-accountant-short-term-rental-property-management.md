@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Topkey](https://scoutify.ai/companies/topkey?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/topkey/jobs/NExTd7z-accountant-short-term-rental-property-management) |
+| Category | Accounting |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/topkey/jobs/ZM7KYzO-accountant-short-term-rental-property-management) |
 
 ## About This Role
 
-This corporate finance position at Topkey was posted on 2026-05-13.
+This accounting position at Topkey was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

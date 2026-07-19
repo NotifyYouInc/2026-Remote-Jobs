@@ -5,12 +5,12 @@
 | Company | [nCino](https://scoutify.ai/companies/ncino?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/US---Remote---US/Senior-Product-Specialist_R6162) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/Remote-USA/Senior-Product-Specialist_R6309) |
 
 ## About This Role
 
-This sales engineer position at nCino was posted on 2026-04-17.
+This sales engineer position at nCino was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
