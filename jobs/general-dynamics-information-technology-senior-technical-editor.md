@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Maryland, US |
+| Location | United States |
 | Category | Technical Writer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-West-Bethesda/Senior-Technical-Editor_RQ219541-2) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Technical-Editor_RQ224129-1) |
 
 ## About This Role
 
-This technical writer position at General Dynamics Information Technology was posted on 2026-05-08.
+This technical writer position at General Dynamics Information Technology was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

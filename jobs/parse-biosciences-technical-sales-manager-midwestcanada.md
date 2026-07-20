@@ -1,0 +1,22 @@
+# Technical Sales Manager -Midwest/Canada at Parse Biosciences
+
+| Field | Details |
+|-------|---------|
+| Company | [Parse Biosciences](https://scoutify.ai/companies/parsebiosciences?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Minneapolis, Minnesota, United States |
+| Category | Account Manager |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/parsebiosciences/jobs/7734910003?gh_jid=7734910003) |
+
+## About This Role
+
+This account manager position at Parse Biosciences was posted on 2026-06-30.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

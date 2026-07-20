@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Remote---USA/Manager_J2415572) |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Remote---USA/Manager_J2432318) |
 
 ## About This Role
 
-This strategy / management consulting position at Jabil was posted on 2026-07-01.
+This strategy / management consulting position at Jabil was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

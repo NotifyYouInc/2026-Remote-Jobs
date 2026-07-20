@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Stoke-on-Trent, England, United Kingdom |
 | Category | Industrial Automation |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135672947-service-engineer-municipal) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137379019-service-engineer-municipal) |
 
 ## About This Role
 
-This industrial automation position at Veolia was posted on 2026-07-03.
+This industrial automation position at Veolia was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

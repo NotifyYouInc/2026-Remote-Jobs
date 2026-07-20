@@ -5,12 +5,12 @@
 | Company | [Yell Ltd](https://scoutify.ai/companies/yellltd?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United Kingdom |
 | Category | Account Executive |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/YellLtd/744000121471555-new-business-sales-executive-remote-29k-ote-50k-per-annum) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/YellLtd/744000137409100-new-business-sales-executive-remote-29k-ote-50k-per-annum) |
 
 ## About This Role
 
-This account executive position at Yell Ltd was posted on 2026-04-17.
+This account executive position at Yell Ltd was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

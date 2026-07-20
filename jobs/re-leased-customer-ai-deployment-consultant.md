@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Re-Leased](https://scoutify.ai/companies/released?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/released/jobs/7747536003) |
+| Location | Auckland, Auckland, New Zealand |
+| Category | Sales Engineer |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/released/jobs/7802195003) |
 
 ## About This Role
 
-This implementation / professional services position at Re-Leased was posted on 2026-07-06.
+This sales engineer position at Re-Leased was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

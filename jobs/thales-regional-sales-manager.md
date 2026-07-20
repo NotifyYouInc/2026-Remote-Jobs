@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Florida, US |
 | Category | Sales Leadership |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Texas/Regional-Sales-Manager_R0332081-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Florida/Regional-Sales-Manager_R0331001-1) |
 
 ## About This Role
 
-This sales leadership position at Thales was posted on 2026-06-24.
+This sales leadership position at Thales was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

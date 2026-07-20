@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | ESG / Sustainability |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taipei-Taiwan-China/Senior-Project-Manager--Sustainability-_REQ507614) |
+| Category | Project Manager |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taipei-Taiwan-China/Senior-Project-Manager--Sustainability-_REQ521631) |
 
 ## About This Role
 
-This esg / sustainability position at JLL was posted on 2026-05-28.
+This project manager position at JLL was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

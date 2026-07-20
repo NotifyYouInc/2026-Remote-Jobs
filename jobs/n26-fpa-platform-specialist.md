@@ -1,16 +1,16 @@
-# FP&A Platform Specialist  at N26
+#  FP&A Platform Specialist  at N26
 
 | Field | Details |
 |-------|---------|
 | Company | [N26](https://scoutify.ai/companies/n26?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Barcelona, Catalonia, Spain |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://n26.com/en-eu/careers/positions/8025879?gh_jid=8025879) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://n26.com/en-eu/careers/positions/8053205?gh_jid=8053205) |
 
 ## About This Role
 
-This fp&a / strategic finance position at N26 was posted on 2026-07-03.
+This fp&a / strategic finance position at N26 was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

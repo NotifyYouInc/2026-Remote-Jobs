@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ukraine |
+| Location | Lutsk, Volyn, Ukraine |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000131826008-recruitment-researcher-intern) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000137396909-recruitment-researcher-intern) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Lions Candle-Dispatch Solution was posted on 2026-06-12.
+This talent acquisition / recruiting position at Lions Candle-Dispatch Solution was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

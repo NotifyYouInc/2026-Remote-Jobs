@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpartanNash](https://scoutify.ai/companies/spartannash?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Battle Creek, Michigan, United States |
+| Location | Fargo, North Dakota, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Battle-Creek-Michigan/Associate-Engagement-Coordinator_R86662) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Fargo-North-Dakota/Associate-Engagement-Coordinator_R87452-1) |
 
 ## About This Role
 
-This human resources / people ops position at SpartanNash was posted on 2026-06-12.
+This human resources / people ops position at SpartanNash was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
