@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
-| Category | Content Marketing |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Marketing-Coordinator_JR103990) |
+| Category | Marketing Operations |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Marketing-Coordinator_JR104431) |
 
 ## About This Role
 
-This content marketing position at Delegate CX was posted on 2026-03-25.
+This marketing operations position at Delegate CX was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

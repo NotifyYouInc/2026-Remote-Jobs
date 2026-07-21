@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000133879959-mms-cloud-engineer-gcpazure-managed-services) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000137612534-mms-cloud-engineer-gcpazure-managed-services) |
 
 ## About This Role
 
-This devops engineer position at Software Mind was posted on 2026-06-24.
+This devops engineer position at Software Mind was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

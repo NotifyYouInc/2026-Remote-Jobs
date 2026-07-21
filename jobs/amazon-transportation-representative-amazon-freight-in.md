@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439501/transportation-representative-amazon-freight-in) |
+| Location | Telangana, IN |
+| Category | Strategy & Operations |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473410/transportation-representative-amazon-freight-in) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-06-04.
+This strategy & operations position at Amazon was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

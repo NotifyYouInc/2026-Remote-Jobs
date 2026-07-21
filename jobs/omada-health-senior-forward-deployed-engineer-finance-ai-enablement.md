@@ -1,16 +1,16 @@
-# Senior Forward Deployed Engineer — Finance AI Enablement at Omada Health
+# Senior Forward Deployed Engineer - Finance AI Enablement at Omada Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Omada Health](https://scoutify.ai/companies/omada-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/omadahealth/jobs/7964773) |
+| Category | Forward Deployed Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/omadahealth/jobs/7993267) |
 
 ## About This Role
 
-This corporate finance position at Omada Health was posted on 2026-06-01.
+This forward deployed engineer position at Omada Health was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

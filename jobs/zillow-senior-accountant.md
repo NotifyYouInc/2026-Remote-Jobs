@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Accountant_P749543-1) |
+| Category | Accounting |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Accountant_P750851) |
 
 ## About This Role
 
-This corporate finance position at Zillow was posted on 2026-03-23.
+This accounting position at Zillow was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LaunchDarkly](https://scoutify.ai/companies/launchdarkly?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/launchdarkly/jobs/7751966003) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/launchdarkly/jobs/7803175003) |
 
 ## About This Role
 
-This account executive position at LaunchDarkly was posted on 2026-05-28.
+This account executive position at LaunchDarkly was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Singapore, Singapore |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Japan---Tokyo/Strategic-Advisory-Services-Principal-Consultant_R28285) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Singapore/Strategic-Advisory-Services-Principal-Consultant_R29412) |
 
 ## About This Role
 
-This strategy / management consulting position at CrowdStrike was posted on 2026-04-09.
+This strategy / management consulting position at CrowdStrike was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

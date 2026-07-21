@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | South Carolina, US |
-| Category | Account Executive |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---South-Carolina/Business-Development-Executive--LE--GBS_107755) |
+| Location | Illinois, US |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Illinois/Business-Development-Executive--LE--GBS_111733-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-05-14.
+This sales development (sdr / bdr) position at Gartner was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

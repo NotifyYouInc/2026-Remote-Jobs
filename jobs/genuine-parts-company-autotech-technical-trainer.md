@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Saint Louis, Michigan, United States |
 | Category | Implementation / Professional Services |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Autotech-Technical-Trainer_R26_0000017660) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Saint-Louis-MO-USA/Autotech-Technical-Trainer_R26_0000008034) |
 
 ## About This Role
 
-This implementation / professional services position at Genuine Parts Company was posted on 2026-05-28.
+This implementation / professional services position at Genuine Parts Company was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

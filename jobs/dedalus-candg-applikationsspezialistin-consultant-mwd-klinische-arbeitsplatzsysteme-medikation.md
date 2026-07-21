@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bonn, North Rhine-Westphalia, Germany |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Bonn/Applikationsspezialist-in---Consultant--m-w-d--klinische-Arbeitsplatzsysteme---Medikationsprozess_JR108418) |
+| Category | Implementation / Professional Services |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Bonn/Applikationsspezialist-in---Consultant--m-w-d--klinische-Arbeitsplatzsysteme---Medikationsprozess_JR108641) |
 
 ## About This Role
 
-This technology / it consulting position at Dedalus CandG was posted on 2026-05-25.
+This implementation / professional services position at Dedalus CandG was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

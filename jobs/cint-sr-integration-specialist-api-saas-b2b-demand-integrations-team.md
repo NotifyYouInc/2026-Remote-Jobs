@@ -5,12 +5,12 @@
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Brazil |
 | Category | Implementation / Professional Services |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000137212762-sr-integration-specialist-api-saas-b2b-demand-integrations-team) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000137552649-sr-integration-specialist-api-saas-b2b-demand-integrations-team) |
 
 ## About This Role
 
-This implementation / professional services position at Cint was posted on 2026-07-10.
+This implementation / professional services position at Cint was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Marketing |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-Ohio-Remote/Group-Field-Marketing-Manager--THV_Req-47117) |
+| Location | 3 locations |
+| Category | Field & Event Marketing |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---Arizona--Phoenix/Group-Field-Marketing-Manager--THV_Req-49402) |
 
 ## About This Role
 
-This marketing position at Edwards Lifesciences was posted on 2026-04-07.
+This field & event marketing position at Edwards Lifesciences was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

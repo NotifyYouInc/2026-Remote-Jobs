@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tunis, Tunis Governorate, Tunisia |
 | Category | Customer Success Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000137373271-customer-success-manager) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000137622709-customer-success-manager) |
 
 ## About This Role
 
-This customer success manager position at Sika was posted on 2026-07-13.
+This customer success manager position at Sika was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Jaipur, Rajasthan, India |
 | Category | Account Executive |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jakarta-Jakarta-Indonesia/Sales-Representative--II_R70363-2) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jaipur-Rajasthan-India/Sales-Representative--II_R69812-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-06-24.
+This account executive position at Medtronic was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

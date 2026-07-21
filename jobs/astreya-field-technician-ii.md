@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ohio, US |
-| Category | Marketing |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-OH/Field-Technician-II_R0015347) |
+| Location | Georgia, US |
+| Category | Deployment Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-GA/Field-Technician-II_R0016014-2) |
 
 ## About This Role
 
-This marketing position at Astreya was posted on 2026-06-11.
+This deployment engineer position at Astreya was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

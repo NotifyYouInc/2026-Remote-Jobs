@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Member-of-Technical-Staff-II_R170276) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Software Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Member-of-Technical-Staff-II_R170426) |
 
 ## About This Role
 
-This frontend engineer position at Adobe was posted on 2026-07-09.
+This software engineer position at Adobe was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

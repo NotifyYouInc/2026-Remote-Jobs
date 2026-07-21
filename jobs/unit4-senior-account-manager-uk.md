@@ -5,12 +5,12 @@
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Account Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000133365844-senior-account-manager-uk) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000137613769-senior-account-manager-uk) |
 
 ## About This Role
 
-This account manager position at Unit4 was posted on 2026-06-22.
+This account manager position at Unit4 was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

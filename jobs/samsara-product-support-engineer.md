@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8016952?gh_jid=8016952) |
+| Location | Canada |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8060689?gh_jid=8060689) |
 
 ## About This Role
 
-This customer success position at Samsara was posted on 2026-06-18.
+This technical support engineer position at Samsara was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

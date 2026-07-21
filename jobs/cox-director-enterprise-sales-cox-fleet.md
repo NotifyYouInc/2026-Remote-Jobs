@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Georgia, US |
-| Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Georgia/Director--Enterprise-Sales--Cox-Fleet-_R202675051) |
+| Category | Sales Leadership |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Michigan/Director--Enterprise-Sales--Cox-Fleet-_R202679861) |
 
 ## About This Role
 
-This account executive position at Cox was posted on 2026-03-30.
+This sales leadership position at Cox was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

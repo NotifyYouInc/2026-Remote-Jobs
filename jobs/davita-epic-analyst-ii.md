@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Customer Success |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01548---Texas-Remote/Epic-Analyst-II_R0462899) |
+| Location | Denver, Colorado, United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06797---DPS-CKD-OPS/Epic-Analyst-II_R0462172) |
 
 ## About This Role
 
-This customer success position at DaVita was posted on 2026-06-15.
+This technology / it consulting position at DaVita was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
