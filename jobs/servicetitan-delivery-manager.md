@@ -5,12 +5,12 @@
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Project Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Delivery-Manager_JR114297) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Delivery-Manager_JR115413) |
 
 ## About This Role
 
-This project manager position at ServiceTitan was posted on 2026-03-24.
+This project manager position at ServiceTitan was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Associate Field Service Technician at Diebold Nixdorf
+
+| Field | Details |
+|-------|---------|
+| Company | [Diebold Nixdorf](https://scoutify.ai/companies/us6-cx-oj29826?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://eeug.fa.us6.oraclecloud.com/jobs/#19629) |
+
+## About This Role
+
+This technical support engineer position at Diebold Nixdorf was posted on 2026-07-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

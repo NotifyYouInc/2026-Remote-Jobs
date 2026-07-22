@@ -5,12 +5,12 @@
 | Company | [EPSA](https://scoutify.ai/companies/epsa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Financial Advisory & Consulting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSA/744000135943969-consultant-en-charges-sociales-hf) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSA/744000137819819-consultant-en-charges-sociales-hf) |
 
 ## About This Role
 
-This financial advisory & consulting position at EPSA was posted on 2026-07-06.
+This financial advisory & consulting position at EPSA was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

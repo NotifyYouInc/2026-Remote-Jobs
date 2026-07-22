@@ -5,12 +5,12 @@
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Project Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Project-Manager_R046893) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Project-Manager_R047977) |
 
 ## About This Role
 
-This project manager position at Ensemble Health Partners was posted on 2026-06-19.
+This project manager position at Ensemble Health Partners was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

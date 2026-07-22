@@ -5,12 +5,12 @@
 | Company | [Up Education](https://scoutify.ai/companies/up-education?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | South Melbourne, Victoria, Australia |
 | Category | Technical Writer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/upeducation/6000000001040074-course-writer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/upeducation/6000000001235243-course-writer) |
 
 ## About This Role
 
-This technical writer position at Up Education was posted on 2026-05-01.
+This technical writer position at Up Education was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

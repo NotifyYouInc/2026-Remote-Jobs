@@ -5,12 +5,12 @@
 | Company | [Santen Pharmaceutical Co.](https://scoutify.ai/companies/santenpharmaceuticalco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Osaka, Osaka, Japan |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000136948316-japan-specialist-group-fpa) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000137815395-japan-specialist-group-fpa) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Santen Pharmaceutical Co. was posted on 2026-07-10.
+This fp&a / strategic finance position at Santen Pharmaceutical Co. was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

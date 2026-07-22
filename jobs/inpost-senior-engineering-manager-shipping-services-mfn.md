@@ -5,12 +5,12 @@
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Poland |
 | Category | Engineering Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000136147229-senior-engineering-manager-shipping-services-mfn) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000137805139-senior-engineering-manager-shipping-services-mfn) |
 
 ## About This Role
 
-This engineering manager position at INPOST was posted on 2026-07-07.
+This engineering manager position at INPOST was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honor](https://scoutify.ai/companies/honor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Account Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/honor/jobs/8512905002?gh_jid=8512905002) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://boards.greenhouse.io/honor/jobs/8633824002?gh_jid=8633824002) |
 
 ## About This Role
 
-This account manager position at Honor was posted on 2026-04-17.
+This account manager position at Honor was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | 2 locations |
 | Category | Program Manager |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-Software-Deliv-Proj-Prog-Mgmt_R-114440-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-Software-Deliv-Proj-Prog-Mgmt_R-115200-1) |
 
 ## About This Role
 
-This program manager position at AT&T was posted on 2026-07-10.
+This program manager position at AT&T was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wilsonhcg](https://scoutify.ai/companies/wilsonhcg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://wilsonhcg.wd5.myworkdayjobs.com/wilson_careers/job/US-Remote/Recruitment-Consultant---US--Remote-_R622) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://wilsonhcg.wd5.myworkdayjobs.com/wilson_careers/job/US-Remote/Recruitment-Consultant---US--Remote-_R682) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Wilsonhcg was posted on 2026-06-05.
+This talent acquisition / recruiting position at Wilsonhcg was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

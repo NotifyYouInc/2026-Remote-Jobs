@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Business Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Nurse-Analyst-Investigator_RQ222298-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Nurse-Analyst-Investigator_RQ224070-1) |
 
 ## About This Role
 
-This business analyst position at General Dynamics Information Technology was posted on 2026-06-18.
+This data analyst position at General Dynamics Information Technology was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

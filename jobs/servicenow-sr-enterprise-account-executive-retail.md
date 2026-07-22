@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Account Executive |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000133465864-sr-enterprise-account-executive-retail) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000137770069-sr-enterprise-account-executive-retail) |
 
 ## About This Role
 
-This account executive position at ServiceNow was posted on 2026-06-22.
+This account executive position at ServiceNow was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

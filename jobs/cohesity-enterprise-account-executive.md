@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | Phoenix, Arizona, United States |
 | Category | Account Executive |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Florida---Remote/Enterprise-Account-Executive_R03361) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Phoenix-Metro-Area---Arizona---USA-Remote/Enterprise-Account-Executive_R04201) |
 
 ## About This Role
 
-This account executive position at Cohesity was posted on 2026-05-09.
+This account executive position at Cohesity was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

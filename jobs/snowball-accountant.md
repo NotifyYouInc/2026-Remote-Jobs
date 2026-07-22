@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowball](https://scoutify.ai/companies/snowball?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowball/6701ea9e-5861-4bce-a57d-54f2930c2025) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowball/2882069c-bbe1-433d-a982-bef90651e5ff) |
 
 ## About This Role
 
-This accounting position at Snowball was posted on 2026-07-14.
+This accounting position at Snowball was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

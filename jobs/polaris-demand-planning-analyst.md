@@ -5,12 +5,12 @@
 | Company | [Polaris](https://scoutify.ai/companies/polaris?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Plymouth, Minnesota, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Plymouth-MN-USA/Demand-Planning-Analyst_R29144) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Plymouth-MN-USA/Demand-Planning-Analyst_R30375) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Polaris was posted on 2026-03-31.
+This fp&a / strategic finance position at Polaris was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
