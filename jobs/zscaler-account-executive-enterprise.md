@@ -1,16 +1,16 @@
-# Account Executive, Enterprise  at Zscaler
+#  Account Executive - Enterprise at Zscaler
 
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Saudi Arabia |
+| Location | Taiwan |
 | Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5015402007) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5156009007) |
 
 ## About This Role
 
-This account executive position at Zscaler was posted on 2026-03-03.
+This account executive position at Zscaler was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

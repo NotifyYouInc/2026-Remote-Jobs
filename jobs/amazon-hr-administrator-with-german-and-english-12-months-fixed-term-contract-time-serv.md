@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Romania |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464000/hr-administrator-with-german-and-english-12-months-fixed-term-contract-time-services-germany-ctk-team) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10476088/hr-administrator-with-german-and-english-12-months-fixed-term-contract-time-services-germany-ctk-team) |
 
 ## About This Role
 
-This human resources / people ops position at Amazon was posted on 2026-07-01.
+This human resources / people ops position at Amazon was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

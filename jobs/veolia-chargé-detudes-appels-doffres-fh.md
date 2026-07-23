@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ecquevilly, Île-de-France, France |
-| Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000131058435-charge-detudes-appels-doffres-fh) |
+| Category | Project Manager |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138045424-charge-detudes-appels-doffres-fh) |
 
 ## About This Role
 
-This business analyst position at Veolia was posted on 2026-06-09.
+This project manager position at Veolia was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

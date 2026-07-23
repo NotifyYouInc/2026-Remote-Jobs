@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Argentina |
-| Category | Project Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Argentina-Remote/Site-Contract-Leader_R0000040986-1) |
+| Category | Program Manager |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Argentina-Remote/Site-Contract-Leader_R0000042781) |
 
 ## About This Role
 
-This project manager position at Parexel was posted on 2026-04-22.
+This program manager position at Parexel was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

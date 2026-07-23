@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 8 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Atlanta-GA/Advanced-Technologies-Consultant_R0034414) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Atlanta-GA/Advanced-Technologies-Consultant_R0034562) |
 
 ## About This Role
 
-This technology / it consulting position at Epiqsystems was posted on 2026-05-28.
+This technology / it consulting position at Epiqsystems was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

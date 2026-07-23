@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Project Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Mexico-Mexico-City/Senior-Biospecimen-Project-Manager--FSP-_JR154836) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Argentina-Buenos-Aires/Senior-Project-Manager--Laboratory_JR155488-1) |
 
 ## About This Role
 
-This project manager position at ICON plc was posted on 2026-07-02.
+This project manager position at ICON plc was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

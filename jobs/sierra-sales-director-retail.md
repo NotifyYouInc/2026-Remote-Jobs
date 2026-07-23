@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Sales Leadership |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/63d41476-9621-4566-a6fa-8fde0d643836) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/82d714bd-4908-4648-b72e-3322ad4211b6) |
 
 ## About This Role
 
-This sales leadership position at Sierra was posted on 2026-07-10.
+This sales leadership position at Sierra was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

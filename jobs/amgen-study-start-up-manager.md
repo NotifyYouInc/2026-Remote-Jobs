@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Project Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Study-Start-up-Manager_R-237510-1) |
+| Location | Aberdeen, Scotland, United Kingdom |
+| Category | Program Manager |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-Kingdom---Aberdeen/Study-Start-up-Manager_R-250449-1) |
 
 ## About This Role
 
-This project manager position at Amgen was posted on 2026-02-18.
+This program manager position at Amgen was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

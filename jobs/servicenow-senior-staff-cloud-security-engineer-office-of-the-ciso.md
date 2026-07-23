@@ -1,16 +1,16 @@
-# Senior Staff Cloud Security Engineer |  Office of the CISO at ServiceNow
+# Senior Staff Cloud Security Engineer – Office of the CISO at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108269485-senior-staff-cloud-security-engineer-office-of-the-ciso) |
+| Location | Toronto, Ontario, Canada |
+| Category | Security Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000137989399-senior-staff-cloud-security-engineer-office-of-the-ciso) |
 
 ## About This Role
 
-This cybersecurity engineer position at ServiceNow was posted on 2026-02-09.
+This security engineer position at ServiceNow was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

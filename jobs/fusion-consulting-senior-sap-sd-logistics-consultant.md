@@ -5,12 +5,12 @@
 | Company | [Fusion Consulting](https://scoutify.ai/companies/fusionconsulting?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000134732784-senior-sap-sd-logistics-consultant) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000138039989-senior-sap-sd-logistics-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Fusion Consulting was posted on 2026-06-29.
+This technology / it consulting position at Fusion Consulting was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

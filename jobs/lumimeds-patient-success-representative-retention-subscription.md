@@ -5,12 +5,12 @@
 | Company | [Lumimeds](https://scoutify.ai/companies/lumimeds?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lumimeds/jobs/4305188009) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lumimeds/jobs/4294173009) |
 
 ## About This Role
 
-This customer success manager position at Lumimeds was posted on 2026-07-02.
+This customer success manager position at Lumimeds was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

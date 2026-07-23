@@ -5,12 +5,12 @@
 | Company | [TOPdesk](https://scoutify.ai/companies/topdesk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kaiserslautern, Rheinland-Pfalz, Germany |
 | Category | Channel / Partner Sales |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000127578649-senior-channel-partner-acquisition-specialist-dach-b2b-vertrieb-full-remote-mwd-channel-partner-manager) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000138028339-senior-channel-partner-acquisition-specialist-dach-b2b-vertrieb-full-remote-mwd-channel-partner-manager) |
 
 ## About This Role
 
-This channel / partner sales position at TOPdesk was posted on 2026-05-21.
+This channel / partner sales position at TOPdesk was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

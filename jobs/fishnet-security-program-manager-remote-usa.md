@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FishNet Security](https://scoutify.ai/companies/fishnet-security?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Overland Park, Kansas, United States |
+| Location | 5 locations |
 | Category | Program Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://optiv.wd5.myworkdayjobs.com/optiv_careers/job/Overland-Park-Kansas/Program-Manager---Remote--USA_2026-13837) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://optiv.wd5.myworkdayjobs.com/optiv_careers/job/Overland-Park-Kansas/Program-Manager---Remote--USA_2026-13872) |
 
 ## About This Role
 
-This program manager position at FishNet Security was posted on 2026-06-10.
+This program manager position at FishNet Security was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

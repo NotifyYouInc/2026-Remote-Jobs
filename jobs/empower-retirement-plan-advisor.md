@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/NY-New-York-City---Remote/Retirement-Plan-Advisor_R0059578) |
+| Location | San Francisco, California, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/CA-San-Francisco---Remote/Retirement-Plan-Advisor_R0060857) |
 
 ## About This Role
 
-This corporate finance position at Empower was posted on 2026-06-26.
+This wealth management / private banking position at Empower was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

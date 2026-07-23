@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 4 locations |
+| Location | Houston, Texas, United States |
 | Category | Project Manager |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000134658109-scheduler-planner-data-center-construction) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000137991239-scheduler-planner-data-center-construction) |
 
 ## About This Role
 
-This project manager position at Turner & Townsend was posted on 2026-06-28.
+This project manager position at Turner & Townsend was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

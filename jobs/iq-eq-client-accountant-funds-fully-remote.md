@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Newcastle upon Tyne, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000116291733-client-accountant-funds-fully-remote) |
+| Category | Accounting |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000138054409-client-accountant-funds-fully-remote) |
 
 ## About This Role
 
-This corporate finance position at IQ-EQ was posted on 2026-03-23.
+This accounting position at IQ-EQ was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

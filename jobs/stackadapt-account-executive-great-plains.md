@@ -1,16 +1,16 @@
-# Account Executive (Great Plains) at StackAdapt
+# Account Executive, Great Plains at StackAdapt
 
 | Field | Details |
 |-------|---------|
 | Company | [StackAdapt](https://scoutify.ai/companies/stackadapt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arkansas, US |
+| Location | United States |
 | Category | Account Executive |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/stackadapt/jobs/4163344009) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/stackadapt/jobs/4317288009) |
 
 ## About This Role
 
-This account executive position at StackAdapt was posted on 2026-05-11.
+This account executive position at StackAdapt was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

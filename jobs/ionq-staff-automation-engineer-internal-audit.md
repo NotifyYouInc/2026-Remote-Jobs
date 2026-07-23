@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IonQ](https://scoutify.ai/companies/ionq?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Industrial Automation |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ionq/jobs/5818448004) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ionq/jobs/6019041004) |
 
 ## About This Role
 
-This industrial automation position at IonQ was posted on 2026-03-09.
+This devops engineer position at IonQ was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

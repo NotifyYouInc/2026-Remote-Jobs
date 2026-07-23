@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tustin, California, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Sales Leadership |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Tustin-California/Associate-Director-Sales-Loyalty_R-109098) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Atlanta-Georgia/Associate-Director-Sales-Loyalty_R-115602-1) |
 
 ## About This Role
 
-This sales leadership position at AT&T was posted on 2026-05-11.
+This sales leadership position at AT&T was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

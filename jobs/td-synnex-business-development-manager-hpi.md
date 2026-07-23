@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Karnataka, IN |
 | Category | Engineering Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Remote-Vadodara-India/Business-Development-Manager--HPI_R47958) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Remote--Mangalore-India/Business-Development-Manager--HPI_R52919) |
 
 ## About This Role
 
-This engineering manager position at TD Synnex was posted on 2026-03-24.
+This engineering manager position at TD Synnex was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Virginia, US |
+| Location | Maryland, US |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-VA/OpenShift-Virtualization-Senior-Consultant---Top-Secret-Clearance-Required_R-056228) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-VA/OpenShift-Virtualization-Senior-Consultant---Top-Secret-Clearance-Required_R-057226) |
 
 ## About This Role
 
-This strategy / management consulting position at Red Hat was posted on 2026-04-03.
+This strategy / management consulting position at Red Hat was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

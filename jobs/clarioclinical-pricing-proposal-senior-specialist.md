@@ -1,16 +1,16 @@
-# Pricing & Proposal Senior Specialist at Clarioclinical
+# Pricing & Proposal, Senior Specialist at Clarioclinical
 
 | Field | Details |
 |-------|---------|
 | Company | [Clarioclinical](https://scoutify.ai/companies/clarioclinical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Costa Rica |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Costa-Rica-Remote/Pricing---Proposal-Senior-Specialist_R17788) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/United-States-Remote/Pricing---Proposal--Senior-Specialist_R17917) |
 
 ## About This Role
 
-This business analyst position at Clarioclinical was posted on 2026-06-16.
+This business analyst position at Clarioclinical was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

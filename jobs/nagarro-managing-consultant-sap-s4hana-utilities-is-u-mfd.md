@@ -1,0 +1,22 @@
+# Managing Consultant SAP S/4HANA Utilities / IS-U (m/f/d) at Nagarro
+
+| Field | Details |
+|-------|---------|
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Germany |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000138064599-managing-consultant-sap-s4hana-utilities-is-u-mfd) |
+
+## About This Role
+
+This technology / it consulting position at Nagarro was posted on 2026-07-16.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
