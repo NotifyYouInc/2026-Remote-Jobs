@@ -1,16 +1,16 @@
-# Creative Lead at Nagarro
+# Creative Lead  at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Portugal |
-| Category | Marketing |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134761644-creative-lead) |
+| Category | Graphic / Brand Design |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000138282729-creative-lead) |
 
 ## About This Role
 
-This marketing position at Nagarro was posted on 2026-06-29.
+This graphic / brand design position at Nagarro was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

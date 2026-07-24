@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Project Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127798959-project-management-support) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138200080-project-management-support) |
 
 ## About This Role
 
-This project manager position at Experian was posted on 2026-05-22.
+This project manager position at Experian was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

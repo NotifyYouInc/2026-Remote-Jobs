@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Carmel, Indiana, United States |
+| Location | Arizona, US |
 | Category | Account Executive |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Carmel-IN-USA/Account-Executive_R26_0000001656-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---Arizona/Account-Executive_R26_0000002429-1) |
 
 ## About This Role
 
-This account executive position at Brown & Brown Insurance was posted on 2026-05-02.
+This account executive position at Brown & Brown Insurance was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

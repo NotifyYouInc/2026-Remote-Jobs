@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | California, US |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Point-Mugu/Electronic-Technician-Senior_RQ220489-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Point-Mugu/Electronic-Technician-Senior_RQ224320) |
 
 ## About This Role
 
-This electrical / hardware engineer position at General Dynamics Information Technology was posted on 2026-05-23.
+This electrical / hardware engineer position at General Dynamics Information Technology was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

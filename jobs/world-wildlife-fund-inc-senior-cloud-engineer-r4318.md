@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [World Wildlife Fund, Inc.](https://scoutify.ai/companies/world-wildlife-fund-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | DevOps Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/worldwildlifefundinc1/744000136113509-senior-cloud-engineer-r4318) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/worldwildlifefundinc1/744000138237784-senior-cloud-engineer-r4318) |
 
 ## About This Role
 
-This devops engineer position at World Wildlife Fund, Inc. was posted on 2026-07-06.
+This devops engineer position at World Wildlife Fund, Inc. was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Manager, Commercial Operations, MONARCH at Johnson & Johnson
+# Sr Manager, Commercial Operations, Monarch at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Sr-Manager--Commercial-Operations--MONARCH_R-063196-1) |
+| Location | Santa Clara, California, United States |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Sr-Manager--Commercial-Operations--Monarch_R-088440-1) |
 
 ## About This Role
 
-This business analyst position at Johnson & Johnson was posted on 2026-03-10.
+This revenue / sales operations position at Johnson & Johnson was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

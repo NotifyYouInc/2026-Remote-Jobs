@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kemper](https://scoutify.ai/companies/kemper?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Houston, Texas, United States |
+| Location | 2 locations |
 | Category | Legal |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Houston-Texas/In-House-Trial-Attorney---Remote--Contract-role-_R-26-0037488) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/San-Antonio-Texas/In-House-Trial-Attorney---Remote--Contract-role-_R-26-0037529) |
 
 ## About This Role
 
-This legal position at Kemper was posted on 2026-07-14.
+This legal position at Kemper was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

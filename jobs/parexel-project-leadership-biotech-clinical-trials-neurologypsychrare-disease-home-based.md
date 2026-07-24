@@ -1,16 +1,16 @@
-# Project Leadership – Biotech (clinical trials) –Neurology/Psych/Rare Disease - Home Based - (Future Needs) at Parexel
+# Project Leadership – Biotech (clinical trials) –Neurology/Psych/Rare Disease - Home Based at Parexel
 
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Project Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/United-States---Remote/Project-Leadership---Biotech--clinical-trials---Neurology-Psych-Rare-Disease---Home-Based----Future-Needs-_R0000039542) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/United-States---Remote/Project-Leadership---Biotech--clinical-trials---Neurology-Psych-Rare-Disease---Home-Based_R0000043641) |
 
 ## About This Role
 
-This project manager position at Parexel was posted on 2026-03-09.
+This project manager position at Parexel was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

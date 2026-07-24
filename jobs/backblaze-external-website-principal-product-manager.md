@@ -5,12 +5,12 @@
 | Company | [Backblaze External Website](https://scoutify.ai/companies/backblaze-external-website?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/backblaze/jobs/5202579008) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/backblaze/jobs/5346170008) |
 
 ## About This Role
 
-This product manager position at Backblaze External Website was posted on 2026-05-01.
+This product manager position at Backblaze External Website was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

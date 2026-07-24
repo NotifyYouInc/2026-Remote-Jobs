@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Principal-Network-Engineer--Real-Time-Markets-_R0115159-1) |
+| Location | 2 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Principal-Network-Engineer--Real-Time-Markets-_R0115162-1) |
 
 ## About This Role
 
-This software engineer position at LSEG was posted on 2026-02-17.
+This devops engineer position at LSEG was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

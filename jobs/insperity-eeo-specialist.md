@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Insperity](https://scoutify.ai/companies/insperity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Texas, US |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/EEO-Specialist_JR102522-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/TX-Home-Office/EEO-Specialist_JR102928) |
 
 ## About This Role
 
-This human resources / people ops position at Insperity was posted on 2026-04-17.
+This human resources / people ops position at Insperity was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

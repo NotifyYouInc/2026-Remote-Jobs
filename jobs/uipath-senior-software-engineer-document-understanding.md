@@ -5,12 +5,12 @@
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Romania |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/00b68e61-2866-466d-845a-25564619478e) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/424ac16b-7297-482d-9642-68773c8bb5a3) |
 
 ## About This Role
 
-This software engineer position at UiPath was posted on 2026-02-13.
+This software engineer position at UiPath was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

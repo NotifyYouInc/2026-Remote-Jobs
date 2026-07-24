@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131226930-product-marketing-manager-remote) |
+| Category | Product Marketing |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138202619-product-marketing-manager-remote) |
 
 ## About This Role
 
-This marketing position at Experian was posted on 2026-06-09.
+This product marketing position at Experian was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

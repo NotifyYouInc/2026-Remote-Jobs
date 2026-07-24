@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Saint Charles, Missouri, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000128602709-machine-learning-engineer-ii) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000138205109-machine-learning-engineer-ii) |
 
 ## About This Role
 
-This machine learning engineer position at Eurofins Scientific was posted on 2026-05-27.
+This machine learning engineer position at Eurofins Scientific was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

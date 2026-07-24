@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Switzerland |
-| Category | Data Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Switzerland-Remote/Associate-Director--Biostatistics_R35032-1) |
+| Location | United States |
+| Category | Bioinformatics / Computational Biology |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Associate-Director--Biostatistics_R35867) |
 
 ## About This Role
 
-This data analyst position at BeOne was posted on 2026-06-11.
+This bioinformatics / computational biology position at BeOne was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Customer Success |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000127810369-technical-customer-support-specialist-payments-pos-german-english-remote-work) |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000138255204-technical-customer-support-specialist-payments-pos-german-english-remote-work) |
 
 ## About This Role
 
-This customer success position at Sutherland was posted on 2026-05-22.
+This technical support engineer position at Sutherland was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

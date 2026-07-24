@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Remote/IT-Service-Desk-Analyst-1_R219219) |
+| Location | Macon, Georgia, United States |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Atrium-Health-Navicent-The-Medical-Center---777-Hemlock-St-Macon-GA/IT-Service-Desk-Analyst-1_R256288) |
 
 ## About This Role
 
-This customer success position at Advocate Health was posted on 2026-04-07.
+This technical support engineer position at Advocate Health was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

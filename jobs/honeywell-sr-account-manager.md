@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Kowloon, Hong Kong |
 | Category | Account Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153446) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#152915) |
 
 ## About This Role
 
-This account manager position at Honeywell was posted on 2026-07-15.
+This account manager position at Honeywell was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

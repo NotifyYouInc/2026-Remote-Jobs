@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
-| Category | Growth Marketing |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127798929-email-campaign-specialist) |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138200324-email-campaign-specialist) |
 
 ## About This Role
 
-This growth marketing position at Experian was posted on 2026-05-22.
+This digital / performance marketing position at Experian was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Illinois, US |
-| Category | Business Development |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Remote---Illinois-USA/Sales-Development-Representative_2013196) |
+| Location | Washington, District of Columbia, United States |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Washington-District-of-Columbia-US/Sales-Development-Representative_2019588-1) |
 
 ## About This Role
 
-This business development position at Cisco was posted on 2026-06-15.
+This sales development (sdr / bdr) position at Cisco was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

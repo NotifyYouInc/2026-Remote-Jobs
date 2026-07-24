@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smithfield Foods](https://scoutify.ai/companies/smithfield-foods?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Minnesota, US |
+| Location | Missouri, US |
 | Category | Account Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Remote-MN/Sales-Account-Manager_R-2026-4861) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Remote-MO/Sales-Account-Manager_R-2026-9542) |
 
 ## About This Role
 
-This account manager position at Smithfield Foods was posted on 2026-05-22.
+This account manager position at Smithfield Foods was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

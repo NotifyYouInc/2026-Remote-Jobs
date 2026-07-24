@@ -1,16 +1,16 @@
-# Senior Tax Associate  at Focus Financial Partners
+# Senior Tax Associate at Focus Financial Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Focus Financial Partners](https://scoutify.ai/companies/focus-financial-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/5823418004) |
+| Location | United States |
+| Category | Accounting |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focusfinancialpartners/jobs/6118644004) |
 
 ## About This Role
 
-This corporate finance position at Focus Financial Partners was posted on 2026-03-10.
+This accounting position at Focus Financial Partners was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

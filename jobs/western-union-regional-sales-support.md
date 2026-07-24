@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
-| Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/Work-From-Home---USA--TX/Regional-Sales-Support_JR0130198) |
+| Location | California, US |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/Work-From-Home---USA--CA/Regional-Sales-Support_JR0131145) |
 
 ## About This Role
 
-This business analyst position at Western Union was posted on 2026-05-15.
+This revenue / sales operations position at Western Union was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

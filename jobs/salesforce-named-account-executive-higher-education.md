@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 5 locations |
 | Category | Account Executive |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Named-Account-Executive--Higher-Education_JR345305) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Named-Account-Executive_JR351886) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-06-10.
+This account executive position at Salesforce was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
