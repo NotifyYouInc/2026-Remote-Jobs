@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Account Executive |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000114485287-sr-enterprise-account-executive) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138403224-sr-enterprise-account-executive) |
 
 ## About This Role
 
-This account executive position at ServiceNow was posted on 2026-03-12.
+This account executive position at ServiceNow was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

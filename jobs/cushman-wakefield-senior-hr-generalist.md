@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Reading, Pennsylvania, United States |
+| Location | 3 locations |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Reading-Pennsylvania-USA/Senior-HR-Generalist_R321116) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Boston-Massachusetts-USA/Senior-HR-Generalist_R326049-1) |
 
 ## About This Role
 
-This human resources / people ops position at Cushman & Wakefield was posted on 2026-05-29.
+This human resources / people ops position at Cushman & Wakefield was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

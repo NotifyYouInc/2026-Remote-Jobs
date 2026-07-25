@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [G-P](https://scoutify.ai/companies/g-p?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Business Development |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7771767003) |
+| Location | China |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7808305003) |
 
 ## About This Role
 
-This business development position at G-P was posted on 2026-06-12.
+This sales development (sdr / bdr) position at G-P was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

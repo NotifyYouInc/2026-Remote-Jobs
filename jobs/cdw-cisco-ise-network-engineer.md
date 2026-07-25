@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Virginia, US |
+| Location | Washington, District of Columbia, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Washington-DC---VA/Cisco-ISE-Network-Engineer_R26_00001372) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Washington-DC---VA/Cisco-ISE-Network-Engineer_R26_00002035) |
 
 ## About This Role
 
-This security engineer position at CDW was posted on 2026-04-03.
+This security engineer position at CDW was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

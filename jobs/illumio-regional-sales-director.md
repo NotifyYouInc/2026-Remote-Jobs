@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Illumio](https://scoutify.ai/companies/illumio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Minnesota, US |
+| Location | Illinois, US |
 | Category | Sales Leadership |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/229fce67-9d1e-4398-a727-1b44e998a12e) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/6649ebcc-5caf-4ac5-9c91-58fe2d00919d) |
 
 ## About This Role
 
-This sales leadership position at Illumio was posted on 2026-07-01.
+This sales leadership position at Illumio was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

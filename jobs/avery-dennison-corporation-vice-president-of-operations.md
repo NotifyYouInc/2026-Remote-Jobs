@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mentor, Ohio, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000135327129-vice-president-of-operations) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000138401576-vice-president-of-operations) |
 
 ## About This Role
 
-This strategy & operations position at Avery Dennison Corporation was posted on 2026-07-01.
+This strategy & operations position at Avery Dennison Corporation was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

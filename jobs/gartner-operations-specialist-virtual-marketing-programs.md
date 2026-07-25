@@ -1,16 +1,16 @@
-# Operations Specialist - Virtual Marketing Programs at Gartner
+# Operations Specialist, Virtual Marketing Programs at Gartner
 
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
-| Category | Marketing |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Operations-Specialist---Virtual-Marketing-Programs_110441) |
+| Category | Marketing Operations |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Operations-Specialist--Virtual-Marketing-Programs_112377) |
 
 ## About This Role
 
-This marketing position at Gartner was posted on 2026-06-04.
+This marketing operations position at Gartner was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

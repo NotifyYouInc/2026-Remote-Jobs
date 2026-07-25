@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fortune Brands](https://scoutify.ai/companies/fortune-brands?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tallahassee, Florida, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Account Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/fortunebrands/744000129040479-territory-sales-manager) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/fortunebrands/744000138409929-territory-sales-manager) |
 
 ## About This Role
 
-This account manager position at Fortune Brands was posted on 2026-05-28.
+This account manager position at Fortune Brands was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

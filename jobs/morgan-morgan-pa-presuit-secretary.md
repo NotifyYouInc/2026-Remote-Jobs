@@ -5,12 +5,12 @@
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Memphis, Tennessee, United States |
 | Category | Legal |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6106763004) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6119122004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-07-01.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lithia Motors](https://scoutify.ai/companies/lithia-motors?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Medford, Oregon, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Lithia-Motors-Home-Office-Medford-OR-97501/AR-Credit-Administrator_R106128) |
+| Category | Accounting |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://lithia.wd5.myworkdayjobs.com/lithiacareers/job/Lithia-Motors-Home-Office-Medford-OR-97501/AR-Credit-Administrator_R113036) |
 
 ## About This Role
 
-This corporate finance position at Lithia Motors was posted on 2026-04-29.
+This accounting position at Lithia Motors was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

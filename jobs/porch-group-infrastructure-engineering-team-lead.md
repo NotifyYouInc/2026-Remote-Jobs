@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Porch Group](https://scoutify.ai/companies/porch-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, US |
+| Location | Wa, Upper West, Ghana |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/US-WA-Remote---Non-Seattle/Engineering-Team-Lead_JR101052) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/US-WA-Remote---Non-Seattle/Infrastructure-Engineering-Team-Lead_JR101354) |
 
 ## About This Role
 
-This devops engineer position at Porch Group was posted on 2026-02-13.
+This devops engineer position at Porch Group was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

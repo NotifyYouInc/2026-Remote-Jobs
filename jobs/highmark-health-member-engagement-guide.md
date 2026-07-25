@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pennsylvania, US |
-| Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Member-Engagement-Guide_J279191) |
+| Category | Account Manager |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Member-Engagement-Guide_J284588-1) |
 
 ## About This Role
 
-This customer success position at Highmark Health was posted on 2026-04-07.
+This account manager position at Highmark Health was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

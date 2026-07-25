@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | Industrial Automation |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000135325539-industrial-technician-st-louis-mo) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000138416147-industrial-technician-st-louis-mo) |
 
 ## About This Role
 
-This industrial automation position at Konecranes was posted on 2026-07-01.
+This industrial automation position at Konecranes was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Middletown, New Jersey, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000115952267-industrial-technician-middletown-oh) |
+| Category | Industrial Automation |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000138416119-industrial-technician-middletown-oh) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Konecranes was posted on 2026-03-20.
+This industrial automation position at Konecranes was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

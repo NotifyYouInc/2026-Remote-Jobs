@@ -1,16 +1,16 @@
-# Senior System Administrator II [Ceph Engineer] at Adyen
+# Senior System Administrator II (Ceph Engineer) at Adyen
 
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7792694) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7649505) |
 
 ## About This Role
 
-This it & systems administration position at Adyen was posted on 2026-05-28.
+This it & systems administration position at Adyen was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

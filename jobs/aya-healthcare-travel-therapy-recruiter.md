@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aya Healthcare](https://scoutify.ai/companies/aya-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Diego, California, United States |
+| Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/7689466?gh_jid=7689466) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/8073251?gh_jid=8073251) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Aya Healthcare was posted on 2026-03-06.
+This talent acquisition / recruiting position at Aya Healthcare was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

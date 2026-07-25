@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arkansas, US |
+| Location | Massachusetts, US |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Senior-Full-Stack-Engineer_R-407219) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Massachusetts/Senior-Full-Stack-Engineer_R-421130) |
 
 ## About This Role
 
-This software engineer position at Humana was posted on 2026-03-11.
+This software engineer position at Humana was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

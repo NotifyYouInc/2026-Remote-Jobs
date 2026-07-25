@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TRM Labs](https://scoutify.ai/companies/trm-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/trm-labs/73255d78-7e06-4e53-b959-dc5fde29d598) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/trm-labs/6ca99633-14be-4323-a096-e948c9cc2717) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at TRM Labs was posted on 2026-03-09.
+This talent acquisition / recruiting position at TRM Labs was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

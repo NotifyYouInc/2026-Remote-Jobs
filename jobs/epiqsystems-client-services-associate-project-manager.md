@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Beaverton, Oregon, United States |
+| Location | Allen, Texas, United States |
 | Category | Project Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-Beaverton-OR-10300-SW-Allen/Client-Services-Associate-Project-Manager_R0033649-1) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-Beaverton-OR-10300-SW-Allen/Client-Services-Associate-Project-Manager_R0034819) |
 
 ## About This Role
 
-This project manager position at Epiqsystems was posted on 2026-03-10.
+This project manager position at Epiqsystems was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

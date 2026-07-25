@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Focus Partners Wealth](https://scoutify.ai/companies/focuspartnerswealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/focuspartnerswealth/jobs/6099990004) |
+| Location | Walnut Creek, California, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/focuspartnerswealth/jobs/6119126004) |
 
 ## About This Role
 
-This corporate finance position at Focus Partners Wealth was posted on 2026-06-23.
+This wealth management / private banking position at Focus Partners Wealth was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

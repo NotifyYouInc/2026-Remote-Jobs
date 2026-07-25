@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000132948949-senior-pricing-manager) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138421279-senior-pricing-manager) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-06-18.
+This product manager position at ServiceNow was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

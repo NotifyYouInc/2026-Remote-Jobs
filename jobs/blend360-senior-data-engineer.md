@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Data Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000137979580-senior-data-engineer) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000138409689-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-07-15.
+This data engineer position at Blend360 was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

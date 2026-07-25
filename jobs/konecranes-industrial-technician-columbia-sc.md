@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Columbia, South Carolina, United States |
 | Category | Industrial Automation |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000131209339-industrial-technician-columbia-sc) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000138415179-industrial-technician-columbia-sc) |
 
 ## About This Role
 
-This industrial automation position at Konecranes was posted on 2026-06-09.
+This industrial automation position at Konecranes was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

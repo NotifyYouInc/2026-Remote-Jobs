@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Connecticut, US |
+| Location | California, US |
 | Category | Account Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Account-Manager-III_R-01357304-1) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-California-USA/Account-Manager-III_R-01360760) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-06-19.
+This account manager position at Thermo Fisher Scientific was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

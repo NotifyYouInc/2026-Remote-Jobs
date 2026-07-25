@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KIPP](https://scoutify.ai/companies/kipp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
-| Category | Operations |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000126417559-senior-vice-president-growth) |
+| Category | Strategy & Operations |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000138402379-senior-vice-president-growth) |
 
 ## About This Role
 
-This operations position at KIPP was posted on 2026-05-13.
+This strategy & operations position at KIPP was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

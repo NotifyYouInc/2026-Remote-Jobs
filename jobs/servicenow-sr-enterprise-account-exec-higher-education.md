@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Vienna, Virginia, United States |
 | Category | Account Executive |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000133700769-sr-enterprise-account-exec-higher-education) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138415410-sr-enterprise-account-exec-higher-education) |
 
 ## About This Role
 
-This account executive position at ServiceNow was posted on 2026-06-23.
+This account executive position at ServiceNow was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
