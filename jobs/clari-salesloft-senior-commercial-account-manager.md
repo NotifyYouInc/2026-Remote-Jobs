@@ -1,16 +1,16 @@
-# Director of MRO and PD Services at Fictiv
+# Senior Commercial Account Manager at Clari + Salesloft
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Clari + Salesloft](https://scoutify.ai/companies/clari-salesloft?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales Leadership |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8640050002) |
+| Category | Account Manager |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://www.salesloft.com/company/careers?gh_jid=8071616) |
 
 ## About This Role
 
-This sales leadership position at Fictiv was posted on 2026-07-19.
+This account manager position at Clari + Salesloft was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

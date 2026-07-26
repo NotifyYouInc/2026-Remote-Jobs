@@ -1,16 +1,16 @@
-# Revenue Specialist I (ROPS) at DaVita
+# Director, Clinician Experience at DaVita
 
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Revenue / Sales Operations |
+| Category | Program Manager |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Revenue-Specialist-I--ROPS-_R0469168) |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Director--Clinician-Experience_R0468528) |
 
 ## About This Role
 
-This revenue / sales operations position at DaVita was posted on 2026-07-17.
+This program manager position at DaVita was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Director of MRO and PD Services at Fictiv
+# Principal C++ Engineer at Private Identity
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Private Identity](https://scoutify.ai/companies/privateidentity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales Leadership |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8640050002) |
+| Category | Software Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/privateidentity/jobs/4223345009) |
 
 ## About This Role
 
-This sales leadership position at Fictiv was posted on 2026-07-19.
+This software engineer position at Private Identity was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

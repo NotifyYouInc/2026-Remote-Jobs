@@ -1,16 +1,16 @@
-# Director of MRO and PD Services at Fictiv
+# Full-Stack Developer (Virtual) at Boeing
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales Leadership |
+| Category | Software Engineer |
 | Posted | 2026-07-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8640050002) |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Full-Stack-Developer--Virtual-_JR2026518215-1) |
 
 ## About This Role
 
-This sales leadership position at Fictiv was posted on 2026-07-19.
+This software engineer position at Boeing was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

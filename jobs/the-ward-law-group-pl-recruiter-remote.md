@@ -5,12 +5,12 @@
 | Company | [The Ward Law Group PL](https://scoutify.ai/companies/thewardlawgrouppl?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWardLawGroupPL/744000138197838-recruiter-remote) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWardLawGroupPL/744000138466444-recruiter-remote) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at The Ward Law Group PL was posted on 2026-07-16.
+This talent acquisition / recruiting position at The Ward Law Group PL was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

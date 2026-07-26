@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fortune Brands](https://scoutify.ai/companies/fortune-brands?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | Myrtle Beach, South Carolina, United States |
 | Category | Account Manager |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/fortunebrands/744000138409929-territory-sales-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/fortunebrands/744000138410998-territory-sales-manager) |
 
 ## About This Role
 

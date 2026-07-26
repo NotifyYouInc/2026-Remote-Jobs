@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Operations |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Strategic-Planning-Manager_P750001) |
+| Category | Strategy & Operations |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Strategic-Planning-Manager_P750827-1) |
 
 ## About This Role
 
-This operations position at Zillow was posted on 2026-04-24.
+This strategy & operations position at Zillow was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

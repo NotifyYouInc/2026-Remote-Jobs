@@ -1,16 +1,16 @@
-# Director of MRO and PD Services at Fictiv
+# Internal Audit Manager  at Oklo
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Sales Leadership |
+| Company | [Oklo](https://scoutify.ai/companies/oklo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Santa Clara, California, United States |
+| Category | Accounting |
 | Posted | 2026-07-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8640050002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oklo/jobs/6116895004) |
 
 ## About This Role
 
-This sales leadership position at Fictiv was posted on 2026-07-19.
+This accounting position at Oklo was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

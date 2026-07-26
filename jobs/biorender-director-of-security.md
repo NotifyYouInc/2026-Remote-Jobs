@@ -1,16 +1,16 @@
-# Director of MRO and PD Services at Fictiv
+# Director of Security at BioRender
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Sales Leadership |
+| Company | [BioRender](https://scoutify.ai/companies/biorender?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Canada |
+| Category | Security Engineer |
 | Posted | 2026-07-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8640050002) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/biorender/jobs/S54JpvR-director-of-security) |
 
 ## About This Role
 
-This sales leadership position at Fictiv was posted on 2026-07-19.
+This security engineer position at BioRender was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

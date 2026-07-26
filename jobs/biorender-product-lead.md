@@ -1,16 +1,16 @@
-# Director of MRO and PD Services at Fictiv
+# Product Lead at BioRender
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Sales Leadership |
+| Company | [BioRender](https://scoutify.ai/companies/biorender?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Canada |
+| Category | Product Manager |
 | Posted | 2026-07-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8640050002) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/biorender/jobs/NgqS4u8-product-lead) |
 
 ## About This Role
 
-This sales leadership position at Fictiv was posted on 2026-07-19.
+This product manager position at BioRender was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

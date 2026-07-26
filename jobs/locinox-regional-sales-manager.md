@@ -1,16 +1,16 @@
-# Director of MRO and PD Services at Fictiv
+# Regional Sales Manager at Locinox
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Company | [Locinox](https://scoutify.ai/companies/locinox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Leeds, England, United Kingdom |
 | Category | Sales Leadership |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8640050002) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Locinox/744000130193199-regional-sales-manager) |
 
 ## About This Role
 
-This sales leadership position at Fictiv was posted on 2026-07-19.
+This sales leadership position at Locinox was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Director of MRO and PD Services at Fictiv
+# Account Executive (Vertrieb) at Clera
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Sales Leadership |
+| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Munich, Bavaria, Germany |
+| Category | Account Executive |
 | Posted | 2026-07-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8640050002) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/7d46e968-1068-4c10-b5e3-0aec17402d54) |
 
 ## About This Role
 
-This sales leadership position at Fictiv was posted on 2026-07-19.
+This account executive position at Clera was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

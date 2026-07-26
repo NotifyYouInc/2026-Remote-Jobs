@@ -5,12 +5,12 @@
 | Company | [Chit Chats](https://scoutify.ai/companies/venturemedia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Account Executive |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VentureMedia/744000138245089-sales-representative-permanent-full-time-supply-chain-and-logistics-b2b-ontario) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VentureMedia/744000138459789-sales-representative-permanent-full-time-supply-chain-and-logistics-b2b-ontario) |
 
 ## About This Role
 
-This account executive position at Chit Chats was posted on 2026-07-17.
+This account executive position at Chit Chats was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

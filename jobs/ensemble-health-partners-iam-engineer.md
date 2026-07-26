@@ -1,16 +1,16 @@
-# Senior Project Manager at Ensemble Health Partners
+# IAM Engineer at Ensemble Health Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Project Manager |
+| Category | Security Engineer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Senior-Project-Manager_R047978) |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/IAM-Engineer_R047824) |
 
 ## About This Role
 
-This project manager position at Ensemble Health Partners was posted on 2026-07-17.
+This security engineer position at Ensemble Health Partners was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

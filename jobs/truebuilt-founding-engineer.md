@@ -1,16 +1,16 @@
-# Director of MRO and PD Services at Fictiv
+# Founding Engineer  at TrueBuilt
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [TrueBuilt](https://scoutify.ai/companies/applytotruebuilt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales Leadership |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8640050002) |
+| Category | Software Engineer |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/applytotruebuilt/jobs/4588866004) |
 
 ## About This Role
 
-This sales leadership position at Fictiv was posted on 2026-07-19.
+This software engineer position at TrueBuilt was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

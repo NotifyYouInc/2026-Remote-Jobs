@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Marsa Alam, Red Sea, Egypt |
-| Category | Corporate Finance |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000132338774-accounts-payable) |
+| Category | Accounting |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000138495269-accounts-payable) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-16.
+This accounting position at ACCOR was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

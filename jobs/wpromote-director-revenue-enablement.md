@@ -1,16 +1,16 @@
-# Revenue Specialist I (ROPS) at DaVita
+# Director, Revenue Enablement at Wpromote
 
 | Field | Details |
 |-------|---------|
-| Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Wpromote](https://scoutify.ai/companies/wpromote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Revenue-Specialist-I--ROPS-_R0469168) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobs.lever.co/wpromote/16dbfc6c-2e50-4742-a1e1-f7ed9dd63765) |
 
 ## About This Role
 
-This revenue / sales operations position at DaVita was posted on 2026-07-17.
+This revenue / sales operations position at Wpromote was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

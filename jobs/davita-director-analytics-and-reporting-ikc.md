@@ -1,16 +1,16 @@
-# Revenue Specialist I (ROPS) at DaVita
+# Director, Analytics and Reporting (IKC) at DaVita
 
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Revenue / Sales Operations |
+| Category | Data Analyst |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Revenue-Specialist-I--ROPS-_R0469168) |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/19511---Pennsylvania-Remote/Director--Analytics-and-Reporting--IKC-_R0469303-1) |
 
 ## About This Role
 
-This revenue / sales operations position at DaVita was posted on 2026-07-17.
+This data analyst position at DaVita was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
