@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Majesco](https://scoutify.ai/companies/ocs-cx-oj65966?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
-| Category | Software Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://fa-emad-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5101) |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://fa-emad-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5219) |
 
 ## About This Role
 
-This software engineer position at Majesco was posted on 2026-06-15.
+This technical support engineer position at Majesco was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

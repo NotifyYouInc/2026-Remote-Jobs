@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Analyst |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Performance-Analyst_RQ109556) |
+| Category | Program Manager |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Performance-Analyst_RQ113345-1) |
 
 ## About This Role
 
-This data analyst position at BP was posted on 2026-04-19.
+This program manager position at BP was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

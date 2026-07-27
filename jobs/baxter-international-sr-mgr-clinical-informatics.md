@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Indiana, Pennsylvania, United States |
-| Category | Sales Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Indiana-remote/Sr-Mgr--Clinical-Informatics_JR-200483) |
+| Location | California, US |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Arizona-remote/Sr-Mgr--Clinical-Informatics_JR-200064-1) |
 
 ## About This Role
 
-This sales engineer position at Baxter International was posted on 2026-05-28.
+This technical & solutions architect position at Baxter International was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

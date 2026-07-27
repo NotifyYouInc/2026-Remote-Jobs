@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Germany |
+| Location | Graz, Styria, Austria |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000134734235-senior-sea-manager-mfd) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000138558389-senior-sea-manager-mfd) |
 
 ## About This Role
 
-This digital / performance marketing position at Redcare Pharmacy was posted on 2026-06-29.
+This digital / performance marketing position at Redcare Pharmacy was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

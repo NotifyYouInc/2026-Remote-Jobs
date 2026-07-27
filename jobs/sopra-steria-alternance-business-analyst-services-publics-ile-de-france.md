@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000138056190-alternance-business-analyst-services-publics-ile-de-france) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000138585536-alternance-business-analyst-services-publics-ile-de-france) |
 
 ## About This Role
 
-This business analyst position at Sopra Steria was posted on 2026-07-16.
+This business analyst position at Sopra Steria was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

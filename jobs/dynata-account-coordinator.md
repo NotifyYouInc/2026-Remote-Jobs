@@ -5,12 +5,12 @@
 | Company | [Dynata](https://scoutify.ai/companies/dynata?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Account Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Philippines-Cebu/Account-Coordinator_REQ13435) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Philippines-Cebu/Account-Coordinator_REQ13590) |
 
 ## About This Role
 
-This account manager position at Dynata was posted on 2026-06-01.
+This account manager position at Dynata was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

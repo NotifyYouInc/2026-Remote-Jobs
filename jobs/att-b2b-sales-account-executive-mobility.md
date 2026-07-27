@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bloomington, Minnesota, United States |
+| Location | Centennial, Colorado, United States |
 | Category | Account Executive |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bloomington-Minnesota/B2B-Sales-Account-Executive---Mobility_R-116291) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Centennial-Colorado/B2B-Sales-Account-Executive---Mobility_R-116434-1) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-07-17.
+This account executive position at AT&T was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

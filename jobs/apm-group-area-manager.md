@@ -1,16 +1,16 @@
-# Area Manager at APM Group
+# Area Manager   at APM Group
 
 | Field | Details |
 |-------|---------|
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wollongong, New South Wales, Australia |
-| Category | Human Resources / People Ops |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000000992032-area-manager) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Program Manager |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001244891-area-manager) |
 
 ## About This Role
 
-This human resources / people ops position at APM Group was posted on 2026-04-13.
+This program manager position at APM Group was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

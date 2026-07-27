@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Artelia](https://scoutify.ai/companies/artelia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Le Havre, Normandy, France |
-| Category | Engineering Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000127361170-process-leader-industriel) |
+| Category | Industrial Automation |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000138566711-process-leader-industriel) |
 
 ## About This Role
 
-This engineering manager position at Artelia was posted on 2026-05-20.
+This industrial automation position at Artelia was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

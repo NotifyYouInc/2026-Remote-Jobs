@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Minnesota, US |
 | Category | Program Manager |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MN---Work-from-home/Medicaid-Proposal-Director_R0959091) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MN---Work-from-home/Medicaid-Proposal-Director_R0959082-1) |
 
 ## About This Role
 
-This program manager position at CVS Health was posted on 2026-07-03.
+This program manager position at CVS Health was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

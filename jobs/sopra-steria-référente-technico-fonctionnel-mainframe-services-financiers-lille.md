@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Technology / IT Consulting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135935308-referente-technico-fonctionnel-mainframe-services-financiers-lille) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000138587683-referente-technico-fonctionnel-mainframe-services-financiers-lille) |
 
 ## About This Role
 
-This technology / it consulting position at Sopra Steria was posted on 2026-07-06.
+This technology / it consulting position at Sopra Steria was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
