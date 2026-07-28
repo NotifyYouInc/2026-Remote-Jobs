@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Arlington Heights, Illinois, United States |
 | Category | Account Executive |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Charlotte-North-Carolina/Sr-Specialist-Sales-Exec-1-Platinum-Mob_R-110830) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Arlington-Heights-Illinois/Sr-Specialist-Sales-Exec-1-Platinum-Mob_R-115988) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-05-22.
+This account executive position at AT&T was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

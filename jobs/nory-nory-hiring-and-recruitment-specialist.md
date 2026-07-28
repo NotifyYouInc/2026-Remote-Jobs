@@ -5,12 +5,12 @@
 | Company | [NORY](https://scoutify.ai/companies/nory-co?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/nory-co/e9f63f58-061c-4b2e-a81d-8b8c7394eaaf) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nory-co/546523de-aa79-4f06-b264-9fbb68a9582a) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at NORY was posted on 2026-07-08.
+This talent acquisition / recruiting position at NORY was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

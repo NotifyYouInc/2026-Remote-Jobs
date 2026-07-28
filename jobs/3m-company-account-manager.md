@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wuhan, Hubei, China |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Account Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-WuHan-Remote/Account-Manager_R01166455) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/TW-Taipei-City-Taipei/Sr-Sales-Representative_R01168321) |
 
 ## About This Role
 
-This account manager position at 3M Company was posted on 2026-06-09.
+This account manager position at 3M Company was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

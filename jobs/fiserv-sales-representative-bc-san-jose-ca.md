@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | California, US |
 | Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-California/Sales-Representative-BC---San-Jose--CA_R-10388923) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-California/Sales-Representative-BC---San-Jose--CA_R-10399192) |
 
 ## About This Role
 
-This account executive position at Fiserv was posted on 2026-02-24.
+This account executive position at Fiserv was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

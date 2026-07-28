@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Richmond, Victoria, Australia |
+| Location | 2 locations |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000138242609-people-partner) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000138736450-people-partner) |
 
 ## About This Role
 
-This human resources / people ops position at Endeavour Group Careers was posted on 2026-07-17.
+This human resources / people ops position at Endeavour Group Careers was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

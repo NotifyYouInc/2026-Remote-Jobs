@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Poznań, Greater Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000135438965-ai-infrastructure-platform-operations-engineer-remote-in-the-eu) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000138802219-ai-infrastructure-platform-operations-engineer-remote-in-the-eu) |
 
 ## About This Role
 
-This devops engineer position at Mirantis was posted on 2026-07-02.
+This devops engineer position at Mirantis was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

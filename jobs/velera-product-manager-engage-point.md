@@ -5,12 +5,12 @@
 | Company | [Velera](https://scoutify.ai/companies/velera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Product-Manager---Engage-Point_9118) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Product-Manager---Engage-Point_9496) |
 
 ## About This Role
 
-This product manager position at Velera was posted on 2026-03-19.
+This product manager position at Velera was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

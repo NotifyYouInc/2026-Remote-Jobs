@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
-| Category | Project Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Brazil-Remote/Country-Study-Operations-Manager-I---FSP_R0000040522) |
+| Location | Argentina |
+| Category | Program Manager |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Mexico-Remote/Country-Study-Operations-Manager-I---FSP_R0000043565) |
 
 ## About This Role
 
-This project manager position at Parexel was posted on 2026-04-07.
+This program manager position at Parexel was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

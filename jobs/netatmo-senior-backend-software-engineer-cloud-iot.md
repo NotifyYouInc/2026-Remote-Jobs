@@ -5,12 +5,12 @@
 | Company | [Netatmo](https://scoutify.ai/companies/netatmo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netatmo/744000130260469-senior-backend-software-engineer-cloud-iot) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netatmo/744000138813161-senior-backend-software-engineer-cloud-iot) |
 
 ## About This Role
 
-This software engineer position at Netatmo was posted on 2026-06-04.
+This software engineer position at Netatmo was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

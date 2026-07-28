@@ -1,16 +1,16 @@
-# Consultant, DB Pension Administration at TELUS
+# Consultant DB pension administration at TELUS
 
 | Field | Details |
 |-------|---------|
 | Company | [TELUS](https://scoutify.ai/companies/telus?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 4 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Montreal-Quebec-Canada/Consultant--Pension-Plans_R-16972) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Montreal-Quebec-Canada/Consultant-DB-pension-administration_R-22760) |
 
 ## About This Role
 
-This technology / it consulting position at TELUS was posted on 2026-07-13.
+This technology / it consulting position at TELUS was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

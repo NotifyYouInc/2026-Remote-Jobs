@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pennsylvania, US |
+| Location | Ontario, CA |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Pennsylvania/Program-Analyst_R0017351) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---ON/Program-Analyst_R0017829) |
 
 ## About This Role
 
-This business analyst position at CLEAResult was posted on 2026-05-05.
+This business analyst position at CLEAResult was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Arizona, US |
 | Category | Account Executive |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Tampa-Florida/Account-Executive--Business-Sales_REQ362120-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Arizona/Account-Executive--Business-Sales_REQ354151-1) |
 
 ## About This Role
 
-This account executive position at T-Mobile was posted on 2026-07-10.
+This account executive position at T-Mobile was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

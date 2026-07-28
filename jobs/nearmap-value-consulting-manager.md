@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Carlsbad, California, United States |
+| Location | Lehi, Utah, United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000121095987-value-consulting-manager) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000138740665-value-consulting-manager) |
 
 ## About This Role
 
-This strategy / management consulting position at Nearmap was posted on 2026-04-16.
+This strategy / management consulting position at Nearmap was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Francisco-California/Lead-Consultant-Prof-Services-ATC_R-108527) |
+| Location | 2 locations |
+| Category | Account Executive |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Chicago-Illinois/Lead-Consultant-Prof-Services-ATC_R-114332) |
 
 ## About This Role
 
-This customer success position at AT&T was posted on 2026-04-28.
+This account executive position at AT&T was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | Canada |
 | Category | Offensive Security & Pentesting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Virtual-FL-USA/AI-Penetration-Tester_R260019049) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/AI-Penetration-Tester_R260021486) |
 
 ## About This Role
 
-This offensive security & pentesting position at Bank of Montreal was posted on 2026-07-17.
+This offensive security & pentesting position at Bank of Montreal was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

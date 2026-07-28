@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tours, Centre-Val de Loire, France |
 | Category | Project Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000137376994-chef-de-projet-nucleaire-experimente-hf) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000138819489-chef-de-projet-nucleaire-experimente-hf) |
 
 ## About This Role
 
-This project manager position at Assystem was posted on 2026-07-13.
+This project manager position at Assystem was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

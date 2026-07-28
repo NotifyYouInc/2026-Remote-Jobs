@@ -1,0 +1,22 @@
+# Instructional Designers - Allstate Claims University at Allstate
+
+| Field | Details |
+|-------|---------|
+| Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Arkansas, US |
+| Category | Learning & Development |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---TX-Remote/Instructional-Designers---Allstate-Claims-University_R32696) |
+
+## About This Role
+
+This learning & development position at Allstate was posted on 2026-07-21.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Miami, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Miami-FL-33178/Pricing-Business-Partner_R174613) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Miami-FL-33178/Pricing-Business-Partner_R178300-1) |
 
 ## About This Role
 
-This corporate finance position at Ryder System was posted on 2026-06-05.
+This fp&a / strategic finance position at Ryder System was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Florida, US |
 | Category | Legal |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Miami-Ng/Trial-Attorney--Remote---Miami--FL-_R27075) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---FL-Remote/Trial-Attorney--Remote---Miami--FL-_R32949) |
 
 ## About This Role
 
-This legal position at Allstate was posted on 2026-03-11.
+This legal position at Allstate was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

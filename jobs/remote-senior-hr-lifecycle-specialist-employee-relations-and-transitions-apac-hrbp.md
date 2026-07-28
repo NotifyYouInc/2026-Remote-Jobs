@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hong Kong, Hong Kong |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7806572003) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7811411003) |
 
 ## About This Role
 
-This human resources / people ops position at Remote was posted on 2026-07-16.
+This human resources / people ops position at Remote was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

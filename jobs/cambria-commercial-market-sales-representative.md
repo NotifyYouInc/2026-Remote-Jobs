@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cambria](https://scoutify.ai/companies/cambria?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Account Executive |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Salt-Lake-City-UT/Commercial-Market-Sales-Representative_R-103229) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/San-Antonio-TX/Commercial-Market-Sales-Representative_R-103211) |
 
 ## About This Role
 
-This account executive position at Cambria was posted on 2026-06-24.
+This account executive position at Cambria was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

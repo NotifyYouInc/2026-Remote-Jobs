@@ -5,12 +5,12 @@
 | Company | [NORY](https://scoutify.ai/companies/nory-co?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/nory-co/55e5f699-91f2-4e37-8564-3a41d4c83446) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nory-co/6ec3340c-86e3-4f85-b126-39b625127d4b) |
 
 ## About This Role
 
-This digital / performance marketing position at NORY was posted on 2026-06-05.
+This digital / performance marketing position at NORY was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

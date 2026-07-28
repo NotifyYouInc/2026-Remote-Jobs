@@ -5,12 +5,12 @@
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Project Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000134347179-senior-construction-scheduler-aviation) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000138738669-senior-construction-scheduler-aviation) |
 
 ## About This Role
 
-This project manager position at Turner & Townsend was posted on 2026-06-25.
+This project manager position at Turner & Townsend was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
