@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Project Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Malaysia-Kuala-Lumpur/Project-Manager_JR154928) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Mexico-Mexico-City/Project-Manager_JR156248) |
 
 ## About This Role
 
-This project manager position at ICON plc was posted on 2026-07-07.
+This project manager position at ICON plc was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

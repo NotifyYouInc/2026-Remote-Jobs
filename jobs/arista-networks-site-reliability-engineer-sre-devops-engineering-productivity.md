@@ -1,16 +1,16 @@
-# Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity  at Arista Networks
+# Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity at Arista Networks
 
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000135271241-site-reliability-engineer-sre-devops-engineering-productivity) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000139028051-site-reliability-engineer-sre-devops-engineering-productivity) |
 
 ## About This Role
 
-This devops engineer position at Arista Networks was posted on 2026-07-01.
+This devops engineer position at Arista Networks was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

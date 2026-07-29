@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Boston-MA/Consultant--Epiq-Advisory_R0034503) |
+| Location | Austin, Texas, United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Austin-TX/Consultant--Epiq-Advisory_R0034560-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Epiqsystems was posted on 2026-06-12.
+This technology / it consulting position at Epiqsystems was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/United-States-of-America---Remote/Senior-Product-Security-Engineer_JR-201345-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/United-States-of-America---Remote/Senior-Product-Security-Engineer_JR-205862-2) |
 
 ## About This Role
 
-This security engineer position at Baxter International was posted on 2026-05-28.
+This security engineer position at Baxter International was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

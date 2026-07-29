@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Portland-Oregon/Business-Sales-Executive_R-113969) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Sacramento-California/Business-Sales-Executive_R-116807-1) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-06-25.
+This account executive position at AT&T was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

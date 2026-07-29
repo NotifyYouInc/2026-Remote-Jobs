@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Project Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Field-Operations-Lead_R-00187340) |
+| Category | Security Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Field-Operations-Lead_R-00187789) |
 
 ## About This Role
 
-This project manager position at Leidos was posted on 2026-07-15.
+This security engineer position at Leidos was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

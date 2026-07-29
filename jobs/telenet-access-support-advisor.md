@@ -5,12 +5,12 @@
 | Company | [Telenet](https://scoutify.ai/companies/em2-cx-oj105850?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mechelen, Flanders, Belgium |
 | Category | Technical Support Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ebza.fa.em2.oraclecloud.com/jobs/#5527) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ebza.fa.em2.oraclecloud.com/jobs/#5830) |
 
 ## About This Role
 
-This technical support engineer position at Telenet was posted on 2026-05-19.
+This technical support engineer position at Telenet was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

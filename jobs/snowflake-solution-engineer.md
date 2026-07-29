@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | West Virginia, US |
+| Location | Florida, US |
 | Category | Sales Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/a5cf7425-8109-4d5b-94d5-03f584cea83d) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/54e19e48-9d91-4d8d-bfb8-041a5db6dc21) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-05-18.
+This sales engineer position at Snowflake was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

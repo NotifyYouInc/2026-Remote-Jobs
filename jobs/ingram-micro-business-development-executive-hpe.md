@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 4 locations |
-| Category | Account Executive |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Field/Business-Development-Executive---HPE_R-114853-1) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Field/Business-Development-Executive---HPE_R-115570) |
 
 ## About This Role
 
-This account executive position at Ingram Micro was posted on 2026-05-01.
+This sales development (sdr / bdr) position at Ingram Micro was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

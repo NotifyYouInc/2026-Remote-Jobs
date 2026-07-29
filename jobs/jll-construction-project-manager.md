@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Utah, US |
+| Location | Tucson, Arizona, United States |
 | Category | Project Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/St-George-UT/Construction-Project-Manager_REQ520298) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tucson-AZ/Construction-Project-Manager_REQ523809-1) |
 
 ## About This Role
 
-This project manager position at JLL was posted on 2026-07-06.
+This project manager position at JLL was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

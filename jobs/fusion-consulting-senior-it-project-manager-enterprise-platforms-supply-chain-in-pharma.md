@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fusion Consulting](https://scoutify.ai/companies/fusionconsulting?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Budapest, Budapest, Hungary |
 | Category | Project Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000136743594-senior-it-project-manager-enterprise-platforms-supply-chain-in-pharma) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000139022280-senior-it-project-manager-enterprise-platforms-supply-chain-in-pharma) |
 
 ## About This Role
 
-This project manager position at Fusion Consulting was posted on 2026-07-09.
+This project manager position at Fusion Consulting was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

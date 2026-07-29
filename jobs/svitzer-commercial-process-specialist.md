@@ -5,12 +5,12 @@
 | Company | [Svitzer](https://scoutify.ai/companies/svitzer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://svitzer.wd3.myworkdayjobs.com/svitzer_careers/job/Mumbai-Local-Office/Commercial-Process-Specialist_JR3752) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://svitzer.wd3.myworkdayjobs.com/svitzer_careers/job/Mumbai-Local-Office/Commercial-Process-Specialist_JR3860) |
 
 ## About This Role
 
-This business analyst position at Svitzer was posted on 2026-06-03.
+This business analyst position at Svitzer was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

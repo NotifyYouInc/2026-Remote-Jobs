@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Compliance & Risk Management |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Payroll-Tax---Compliance-Specialist_R-00185772) |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Payroll-Tax---Compliance-Specialist_R-00187804) |
 
 ## About This Role
 
-This compliance & risk management position at Leidos was posted on 2026-06-18.
+This accounting position at Leidos was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

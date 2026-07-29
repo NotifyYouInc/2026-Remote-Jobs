@@ -1,16 +1,16 @@
-# Sr. Talent Acquisition Partner at GE Vernova
+# Sr Talent Acquisition Partner at GE Vernova
 
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Sr-Talent-Acquisition-Partner_R5047656-2) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Sr-Talent-Acquisition-Partner_R5048088-2) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at GE Vernova was posted on 2026-07-16.
+This talent acquisition / recruiting position at GE Vernova was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

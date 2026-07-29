@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oneleet](https://scoutify.ai/companies/oneleet-27167?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Software Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/oneleet/876516bd-5bb9-4b3e-b719-e4c36ba17591) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/oneleet/9951519c-458c-4782-b34b-312a5ecc399a) |
 
 ## About This Role
 
-This software engineer position at Oneleet was posted on 2026-05-28.
+This software engineer position at Oneleet was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
+| Location | Singapore, Singapore |
 | Category | Trust & Safety |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/8021644?gh_jid=8021644) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/8078239?gh_jid=8078239) |
 
 ## About This Role
 
-This trust & safety position at Coinbase was posted on 2026-06-23.
+This trust & safety position at Coinbase was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
