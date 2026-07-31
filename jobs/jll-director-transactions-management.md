@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Director--Transactions-Management_REQ516671) |
+| Location | 2 locations |
+| Category | Program Manager |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Director--Transactions-Management_REQ522499) |
 
 ## About This Role
 
-This strategy / management consulting position at JLL was posted on 2026-06-23.
+This program manager position at JLL was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

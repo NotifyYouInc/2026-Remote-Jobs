@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Missouri, US |
-| Category | Customer Success |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Remote---Missouri/Customer-Success-Manager_J00175898) |
+| Location | Georgia, US |
+| Category | Customer Success Manager |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Remote---Missouri/Customer-Success-Manager_J00178082-1) |
 
 ## About This Role
 
-This customer success position at Equifax was posted on 2026-03-25.
+This customer success manager position at Equifax was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

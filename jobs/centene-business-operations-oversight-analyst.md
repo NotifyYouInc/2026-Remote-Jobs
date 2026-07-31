@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Missouri, US |
-| Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Business-Operations-Oversight-Analyst_1642210) |
+| Location | Florida, US |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Business-Operations-Oversight-Analyst_1645877-1) |
 
 ## About This Role
 
-This business analyst position at Centene was posted on 2026-06-16.
+This data analyst position at Centene was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

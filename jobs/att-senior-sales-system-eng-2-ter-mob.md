@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Diego-California/Senior-Sales-System-Eng-2-Ter-Mob_R-103739) |
+| Location | San Ramon, California, United States |
+| Category | Sales Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Ramon-California/Senior-Sales-System-Eng-2-Ter-Mob_R-116713-1) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-10.
+This sales engineer position at AT&T was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Account Executive |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-MI/Representative--Business-Development_JR_1049982) |
+| Location | Oregon, US |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-OR/Representative--Business-Development_JR_1051606) |
 
 ## About This Role
 
-This account executive position at Zeiss was posted on 2026-06-04.
+This sales development (sdr / bdr) position at Zeiss was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

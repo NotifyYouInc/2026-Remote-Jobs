@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Account Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/United-States/Business-Development-Manager_R26_01003) |
+| Location | Houston, Texas, United States |
+| Category | Engineering Manager |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Houston-Texas-United-States/Business-Development-Manager_R26_03786) |
 
 ## About This Role
 
-This account manager position at Regal Rexnord was posted on 2026-06-17.
+This engineering manager position at Regal Rexnord was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

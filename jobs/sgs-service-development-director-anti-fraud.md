@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Italy |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000135922129-service-development-director-anti-fraud) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000139540190-service-development-director-anti-fraud) |
 
 ## About This Role
 
-This product manager position at SGS was posted on 2026-07-06.
+This product manager position at SGS was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

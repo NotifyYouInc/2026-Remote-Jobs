@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10472580/case-mgr-mloa-s-disability-and-leave-services) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10483327/case-mgr-mloa-s-disability-and-leave-services) |
 
 ## About This Role
 
-This human resources / people ops position at Amazon was posted on 2026-07-15.
+This human resources / people ops position at Amazon was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

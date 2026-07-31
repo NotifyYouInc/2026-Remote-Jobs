@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Quince](https://scoutify.ai/companies/quince?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Learning & Development |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quince/jobs/5170806008) |
+| Category | Data Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quince/jobs/5366362008) |
 
 ## About This Role
 
-This learning & development position at Quince was posted on 2026-04-01.
+This data analyst position at Quince was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

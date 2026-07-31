@@ -1,16 +1,16 @@
-# Manager Applications at Avera Health
+# Manager - Applications at Avera Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Avera Health](https://scoutify.ai/companies/avera-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sioux Falls, South Dakota, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://avera.wd5.myworkdayjobs.com/avera-careers/job/Sioux-Falls-SD/Manager-Applications_R-260024244) |
+| Category | Engineering Manager |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://avera.wd5.myworkdayjobs.com/avera-careers/job/Sioux-Falls-SD/Manager---Applications_R-260025968) |
 
 ## About This Role
 
-This it & systems administration position at Avera Health was posted on 2026-06-10.
+This engineering manager position at Avera Health was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Product-Owner_RQ223400) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Product-Owner_RQ224615) |
 
 ## About This Role
 
-This product manager position at General Dynamics Information Technology was posted on 2026-07-02.
+This product manager position at General Dynamics Information Technology was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

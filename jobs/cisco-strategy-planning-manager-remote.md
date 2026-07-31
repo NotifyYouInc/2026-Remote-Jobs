@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Jose, California, United States |
+| Location | 2 locations |
 | Category | Strategy & Operations |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Strategy---Planning-Manager--Remote-_2018205) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seattle-Washington-US/Strategy---Planning-Manager--Remote-_2015725) |
 
 ## About This Role
 
-This strategy & operations position at Cisco was posted on 2026-07-18.
+This strategy & operations position at Cisco was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

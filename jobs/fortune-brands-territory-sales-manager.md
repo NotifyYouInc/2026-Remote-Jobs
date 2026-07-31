@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fortune Brands](https://scoutify.ai/companies/fortune-brands?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Myrtle Beach, South Carolina, United States |
+| Location | Portland, Oregon, United States |
 | Category | Account Manager |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/fortunebrands/744000138410998-territory-sales-manager) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/fortunebrands/744000139371469-territory-sales-manager) |
 
 ## About This Role
 
-This account manager position at Fortune Brands was posted on 2026-07-17.
+This account manager position at Fortune Brands was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

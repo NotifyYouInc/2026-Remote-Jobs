@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Standard](https://scoutify.ai/companies/standard?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://standard.wd1.myworkdayjobs.com/Search/job/Portland-OR/Financial-and-Accounting-Associate_REQ006596) |
+| Category | Accounting |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://standard.wd1.myworkdayjobs.com/Search/job/Portland-OR/Financial-and-Accounting-Associate_REQ006837) |
 
 ## About This Role
 
-This corporate finance position at The Standard was posted on 2026-06-01.
+This accounting position at The Standard was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

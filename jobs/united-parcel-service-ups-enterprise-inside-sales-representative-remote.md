@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Center, Texas, United States |
 | Category | Account Executive |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---SAN-ANTONIO-HUB-TXANT/Enterprise-Inside-Sales-Representative---Remote_R26008772) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---CENTEX-INTERNATIONAL-PHONE-CENTER-TXSUM/Enterprise-Inside-Sales-Representative---Remote_R26025350-1) |
 
 ## About This Role
 
-This account executive position at United Parcel Service (UPS) was posted on 2026-03-19.
+This account executive position at United Parcel Service (UPS) was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Košice, Košice Region, Slovakia |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000129917877-senior-ict-engineer-for-infrastructure-fci-vmware-cloud-foundation-mfd) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000139532359-senior-ict-engineer-for-infrastructure-fci-vmware-cloud-foundation-mfd) |
 
 ## About This Role
 
-This it & systems administration position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-06-03.
+This it & systems administration position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

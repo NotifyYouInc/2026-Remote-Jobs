@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | 2 locations |
 | Category | Project Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Cincinnati-OH/Professional--PDS-Projects_REQ507796-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Professional--PDS-Projects_REQ523093-1) |
 
 ## About This Role
 
-This project manager position at JLL was posted on 2026-05-20.
+This project manager position at JLL was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

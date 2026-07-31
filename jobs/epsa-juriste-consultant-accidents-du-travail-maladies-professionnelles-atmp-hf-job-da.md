@@ -5,12 +5,12 @@
 | Company | [EPSA](https://scoutify.ai/companies/epsa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Montpellier, Occitanie, France |
 | Category | Legal |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSA/744000138269521-juriste-consultant-accidents-du-travail-maladies-professionnelles-atmp-hf-job-dating-17-septembre-2026-a-montpellier) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSA/744000139552322-juriste-consultant-accidents-du-travail-maladies-professionnelles-atmp-hf-job-dating-17-septembre-2026-a-montpellier) |
 
 ## About This Role
 
-This legal position at EPSA was posted on 2026-07-17.
+This legal position at EPSA was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

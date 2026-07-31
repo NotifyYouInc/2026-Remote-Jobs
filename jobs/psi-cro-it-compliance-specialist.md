@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Location | Riga, Riga, Latvia |
 | Category | Compliance & Risk Management |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000133010259-it-compliance-specialist) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000139550864-it-compliance-specialist) |
 
 ## About This Role
 
-This compliance & risk management position at Psi Cro was posted on 2026-06-19.
+This compliance & risk management position at Psi Cro was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

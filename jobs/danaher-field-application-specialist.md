@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Tokyo-Japan/Field-Application-Specialist_R1308530) |
+| Location | Italy |
+| Category | Implementation / Professional Services |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/ITA---Remote/Field-Application-Specialist_R1314436) |
 
 ## About This Role
 
-This customer success position at Danaher was posted on 2026-04-01.
+This implementation / professional services position at Danaher was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

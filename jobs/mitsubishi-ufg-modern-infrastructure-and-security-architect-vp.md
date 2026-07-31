@@ -5,12 +5,12 @@
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Modern-Infrastructure-and-Security-Architect---VP_10075675-WD) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Modern-Infrastructure-and-Security-Architect---VP_10075910-WD) |
 
 ## About This Role
 
-This security engineer position at Mitsubishi UFG was posted on 2026-04-06.
+This security engineer position at Mitsubishi UFG was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

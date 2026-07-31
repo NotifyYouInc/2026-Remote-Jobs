@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Channel / Partner Sales |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Indonesia---Jakarta/Distributor-Business-Specialist_RQ112888) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Indonesia---Jakarta/Distributor-Business-Specialist_RQ113841) |
 
 ## About This Role
 
-This channel / partner sales position at BP was posted on 2026-07-07.
+This channel / partner sales position at BP was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

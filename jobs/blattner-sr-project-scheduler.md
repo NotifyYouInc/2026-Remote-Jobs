@@ -5,12 +5,12 @@
 | Company | [Blattner](https://scoutify.ai/companies/blattner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Project Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://blattner.wd5.myworkdayjobs.com/blattnercompany/job/RemoteTraveling-For-Corporate-Use-Only/Sr-Project-Scheduler_R7550) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://blattner.wd5.myworkdayjobs.com/blattnercompany/job/RemoteTraveling-For-Corporate-Use-Only/Sr-Project-Scheduler_R7624-1) |
 
 ## About This Role
 
-This project manager position at Blattner was posted on 2026-04-24.
+This project manager position at Blattner was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

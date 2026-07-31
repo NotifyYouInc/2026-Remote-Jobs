@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Red-Team-Services-Consultant--Remote-_R27863) |
+| Category | Implementation / Professional Services |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Red-Team-Services-Consultant--Remote-_R29462-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at CrowdStrike was posted on 2026-03-10.
+This implementation / professional services position at CrowdStrike was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

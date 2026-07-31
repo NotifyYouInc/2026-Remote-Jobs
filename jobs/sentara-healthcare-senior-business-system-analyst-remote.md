@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Norfolk, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Richmond-VA/Senior-Business-System-Analyst---Remote_JR-103205) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Norfolk-VA/Senior-Business-System-Analyst---Remote_JR-102677) |
 
 ## About This Role
 
-This business analyst position at Sentara Healthcare was posted on 2026-07-17.
+This business analyst position at Sentara Healthcare was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

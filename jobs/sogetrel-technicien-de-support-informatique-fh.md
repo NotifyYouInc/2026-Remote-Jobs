@@ -5,12 +5,12 @@
 | Company | [Sogetrel](https://scoutify.ai/companies/sogetrel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Belfort, Bourgogne, France |
 | Category | Technical Support Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sogetrel/744000135649559-technicien-de-support-informatique-fh) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sogetrel/744000139531284-technicien-de-support-informatique-fh) |
 
 ## About This Role
 
-This technical support engineer position at Sogetrel was posted on 2026-07-03.
+This technical support engineer position at Sogetrel was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

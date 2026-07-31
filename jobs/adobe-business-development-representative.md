@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Business Development |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Austin/Business-Development-Representative_R169749) |
+| Location | 2 locations |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Business-Development-Representative_R170489-1) |
 
 ## About This Role
 
-This business development position at Adobe was posted on 2026-06-12.
+This sales development (sdr / bdr) position at Adobe was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

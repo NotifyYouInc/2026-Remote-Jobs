@@ -5,12 +5,12 @@
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Project Manager |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000137055189-cost-plannersenior-cost-planner-infrastructure) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000139556741-cost-plannersenior-cost-planner-infrastructure) |
 
 ## About This Role
 
-This project manager position at Turner & Townsend was posted on 2026-07-10.
+This project manager position at Turner & Townsend was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

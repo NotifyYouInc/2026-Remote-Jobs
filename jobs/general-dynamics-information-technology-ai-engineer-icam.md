@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Falls Church, Virginia, United States |
+| Location | Not specified |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/AI-Engineer---ICAM_RQ221383-2) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer---ICAM_RQ224799-1) |
 
 ## About This Role
 
-This ai / llm engineer position at General Dynamics Information Technology was posted on 2026-06-01.
+This ai / llm engineer position at General Dynamics Information Technology was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

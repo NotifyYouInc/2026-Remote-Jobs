@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/DevSecOps-Engineer--Entry-level---Clearance-Required-----US-Remote-_R2601142) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/DevSecOps-Engineer--Entry-level---Clearance-Required-----US-Remote-_R2602510) |
 
 ## About This Role
 
-This security engineer position at ICF was posted on 2026-04-01.
+This devops engineer position at ICF was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

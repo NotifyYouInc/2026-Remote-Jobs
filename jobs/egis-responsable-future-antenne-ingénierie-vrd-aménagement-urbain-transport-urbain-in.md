@@ -1,0 +1,22 @@
+# Responsable future Antenne Ingénierie VRD (Aménagement urbain - Transport urbain - Infrastructure routière) H/F at Egis
+
+| Field | Details |
+|-------|---------|
+| Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Annecy, Rhône-Alpes, France |
+| Category | Engineering Manager |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000139540649-responsable-future-antenne-ingenierie-vrd-amenagement-urbain-transport-urbain-infrastructure-routiere-hf) |
+
+## About This Role
+
+This engineering manager position at Egis was posted on 2026-07-24.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

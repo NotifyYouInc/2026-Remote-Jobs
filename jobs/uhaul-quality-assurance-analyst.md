@@ -5,12 +5,12 @@
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | QA Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Quality-Assurance-Analyst_R243571) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Quality-Assurance-Analyst_R251132) |
 
 ## About This Role
 
-This qa engineer position at Uhaul was posted on 2026-04-28.
+This qa engineer position at Uhaul was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
