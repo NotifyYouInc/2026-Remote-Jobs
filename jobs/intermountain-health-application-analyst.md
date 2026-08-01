@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Broomfield, Colorado, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Peaks-Regional-Office/Application-Analyst_R169765) |
+| Location | West Valley City, Utah, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Lake-Park-Building/Application-Analyst_R178433) |
 
 ## About This Role
 
-This business analyst position at Intermountain Health was posted on 2026-05-05.
+This it & systems administration position at Intermountain Health was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Grafana Labs](https://scoutify.ai/companies/grafana-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/grafanalabs/jobs/6010807004) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/grafanalabs/jobs/6112250004) |
 
 ## About This Role
 
-This account executive position at Grafana Labs was posted on 2026-06-01.
+This account executive position at Grafana Labs was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

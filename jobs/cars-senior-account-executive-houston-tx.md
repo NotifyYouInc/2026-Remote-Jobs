@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cars](https://scoutify.ai/companies/cars?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Texas, US |
 | Category | Account Executive |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://cars.wd12.myworkdayjobs.com/cars/job/Remote---Texas/Senior-Account-Executive---Houston--TX_JR11240) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://cars.wd12.myworkdayjobs.com/cars/job/Remote---Texas/Senior-Account-Executive---Houston--TX_JR11241) |
 
 ## About This Role
 
-This account executive position at Cars was posted on 2026-07-10.
+This account executive position at Cars was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

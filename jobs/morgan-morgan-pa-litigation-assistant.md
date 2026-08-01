@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Memphis, Tennessee, United States |
 | Category | Legal |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6119248004) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6126913004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-07-18.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

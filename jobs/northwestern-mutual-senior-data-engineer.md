@@ -5,12 +5,12 @@
 | Company | [Northwestern Mutual](https://scoutify.ai/companies/northwesternmutual?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
 | Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Senior-Data-Engineer_JR-44813) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Senior-Data-Engineer_JR-45707-1) |
 
 ## About This Role
 
-This data engineer position at Northwestern Mutual was posted on 2026-02-11.
+This data engineer position at Northwestern Mutual was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

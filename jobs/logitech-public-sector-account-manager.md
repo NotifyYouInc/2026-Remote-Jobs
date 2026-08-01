@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Logitech](https://scoutify.ai/companies/logitech?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Irvine, California, United States |
 | Category | Account Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://logitech.wd5.myworkdayjobs.com/logitech/job/Offsite---USA---GA/Public-Sector-Account-Manager_146789) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://logitech.wd5.myworkdayjobs.com/logitech/job/Offsite---USA---CA---Southern/Public-Sector-Account-Manager_147534) |
 
 ## About This Role
 
-This account manager position at Logitech was posted on 2026-05-28.
+This account manager position at Logitech was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

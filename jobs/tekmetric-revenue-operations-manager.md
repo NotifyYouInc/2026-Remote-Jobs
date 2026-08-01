@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tekmetric](https://scoutify.ai/companies/tekmetric?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Houston, Texas, United States |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tekmetric/jobs/6107003004) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tekmetric/jobs/6123272004) |
 
 ## About This Role
 
-This revenue / sales operations position at Tekmetric was posted on 2026-07-01.
+This revenue / sales operations position at Tekmetric was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

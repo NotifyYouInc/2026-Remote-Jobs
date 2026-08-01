@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Diego, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal---Sr-Principal-Data-Scientist---ML-and-Predictive-Analytics_R10226925) |
+| Category | Data Scientist |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal---Sr-Principal-Data-Scientist---ML-and-Predictive-Analytics_R10242196) |
 
 ## About This Role
 
-This machine learning engineer position at Northrop Grumman was posted on 2026-03-25.
+This data scientist position at Northrop Grumman was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

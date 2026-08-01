@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Florida, US |
-| Category | Customer Success |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Remote-Florida---United-States/Traveling-Transition-Support-Associate---100--Travel_R-0010985) |
+| Category | Implementation / Professional Services |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Remote-Florida---United-States/Traveling-Transition-Support-Associate---100--Travel_R-0012213) |
 
 ## About This Role
 
-This customer success position at Raymond James Financial was posted on 2026-05-06.
+This implementation / professional services position at Raymond James Financial was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

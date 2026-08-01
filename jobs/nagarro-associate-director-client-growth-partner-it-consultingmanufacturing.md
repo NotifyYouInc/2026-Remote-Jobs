@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Account Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000132490679-associate-director-client-growth-partner-it-consultingmanufacturing) |
+| Category | Growth Marketing |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000139678100-associate-director-client-growth-partner-it-consultingmanufacturing) |
 
 ## About This Role
 
-This account manager position at Nagarro was posted on 2026-06-16.
+This growth marketing position at Nagarro was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

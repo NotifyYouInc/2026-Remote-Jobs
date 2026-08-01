@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Lancaster, California, United States |
-| Category | Growth Marketing |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000131995889-marketing-manager) |
+| Category | Content Marketing |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000139685119-marketing-manager) |
 
 ## About This Role
 
-This growth marketing position at Eurofins Scientific was posted on 2026-06-12.
+This content marketing position at Eurofins Scientific was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

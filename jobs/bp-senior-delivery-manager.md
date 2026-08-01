@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Milton Keynes, England, United Kingdom |
-| Category | Program Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/Senior-Delivery-Manager_RQ106148-1) |
+| Location | Chicago, Illinois, United States |
+| Category | Project Manager |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Illinois---Chicago/Senior-Delivery-Manager_RQ112723) |
 
 ## About This Role
 
-This program manager position at BP was posted on 2026-02-13.
+This project manager position at BP was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

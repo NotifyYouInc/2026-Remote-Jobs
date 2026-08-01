@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harsco](https://scoutify.ai/companies/harsco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pomona, California, United States |
-| Category | Account Executive |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000111926065-regional-account-manager) |
+| Location | Glencoe, Illinois, United States |
+| Category | Account Manager |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000139683309-regional-account-manager) |
 
 ## About This Role
 
-This account executive position at Harsco was posted on 2026-02-27.
+This account manager position at Harsco was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Businesswire](https://scoutify.ai/companies/businesswire?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Business Development |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.lever.co/businesswire/f4042708-34f5-43f7-916b-b1764edf44d7) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.lever.co/businesswire/1f743cf8-cb9f-4809-afb1-fb6911de75c8) |
 
 ## About This Role
 
-This business development position at Businesswire was posted on 2026-04-10.
+This sales development (sdr / bdr) position at Businesswire was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

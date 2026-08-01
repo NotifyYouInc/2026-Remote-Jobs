@@ -1,0 +1,22 @@
+# Event Manager at Clarivate
+
+| Field | Details |
+|-------|---------|
+| Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Field & Event Marketing |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Remote-121--Massachusetts/Event-Manager_JREQ136126-1) |
+
+## About This Role
+
+This field & event marketing position at Clarivate was posted on 2026-07-24.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

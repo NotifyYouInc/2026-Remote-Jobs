@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Lehi, Utah, United States |
+| Location | San Jose, California, United States |
 | Category | Program Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Principal-Engineering-Program-Manager_R166037) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Engineering-Program-Manager_R170565) |
 
 ## About This Role
 
-This program manager position at Adobe was posted on 2026-03-06.
+This program manager position at Adobe was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

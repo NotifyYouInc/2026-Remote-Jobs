@@ -5,12 +5,12 @@
 | Company | [Restream](https://scoutify.ai/companies/restream?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-01-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/restream/529b47ed-7e86-4476-92e8-2de06f99ff55) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/restream/13b5f9b8-edc2-43bd-8afa-2afc10662cf8) |
 
 ## About This Role
 
-This product manager position at Restream was posted on 2026-01-23.
+This product manager position at Restream was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

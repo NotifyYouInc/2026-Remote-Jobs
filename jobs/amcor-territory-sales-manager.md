@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amcor](https://scoutify.ai/companies/amcor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Georgia, US |
-| Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RemoteHome-Georgia/Territory-Sales-Manager_REQ_86274) |
+| Category | Account Manager |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RemoteHome-Georgia/Territory-Sales-Manager_REQ_93239) |
 
 ## About This Role
 
-This account executive position at Amcor was posted on 2026-03-02.
+This account manager position at Amcor was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

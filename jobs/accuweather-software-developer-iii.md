@@ -1,16 +1,16 @@
-# Software Developer III -  at AccuWeather
+# Software Developer III  at AccuWeather
 
 | Field | Details |
 |-------|---------|
 | Company | [AccuWeather](https://scoutify.ai/companies/accuweather?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | State College, Pennsylvania, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/accuweather/jobs/7773707) |
+| Category | Software Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/accuweather/jobs/8084448) |
 
 ## About This Role
 
-This frontend engineer position at AccuWeather was posted on 2026-04-01.
+This software engineer position at AccuWeather was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

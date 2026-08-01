@@ -5,12 +5,12 @@
 | Company | [Honeycomb.io](https://scoutify.ai/companies/honeycomb-io?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/honeycomb/jobs/5225261008) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/honeycomb/jobs/4947130008) |
 
 ## About This Role
 
-This account executive position at Honeycomb.io was posted on 2026-05-21.
+This account executive position at Honeycomb.io was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

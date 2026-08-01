@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Technical Writer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Technical-Writer_RQ218900-2) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Technical-Writer_RQ224851) |
 
 ## About This Role
 
-This technical writer position at General Dynamics Information Technology was posted on 2026-04-27.
+This technical writer position at General Dynamics Information Technology was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

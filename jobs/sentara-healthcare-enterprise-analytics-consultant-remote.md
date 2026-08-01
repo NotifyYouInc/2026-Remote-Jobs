@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Norfolk, Virginia, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Norfolk-VA/Enterprise-Analytics-Consultant---Remote_JR-101441) |
+| Location | Virginia Beach, Virginia, United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Enterprise-Analytics-Consultant---Remote_JR-103144) |
 
 ## About This Role
 
-This business analyst position at Sentara Healthcare was posted on 2026-06-17.
+This technology / it consulting position at Sentara Healthcare was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Practice Better](https://scoutify.ai/companies/practice-better?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Canada |
-| Category | Operations |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/practicebetter/jobs/5200757008) |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/practicebetter/jobs/5370475008) |
 
 ## About This Role
 
-This operations position at Practice Better was posted on 2026-04-24.
+This revenue / sales operations position at Practice Better was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

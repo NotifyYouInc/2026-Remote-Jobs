@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Malaysia |
+| Location | United States |
 | Category | Account Executive |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Malaysia/Sales-Executive_R013599) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Michigan-USA/Sales-Executive_R013858-1) |
 
 ## About This Role
 
-This account executive position at SailPoint Technologies was posted on 2026-06-10.
+This account executive position at SailPoint Technologies was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
