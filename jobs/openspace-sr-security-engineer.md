@@ -1,16 +1,16 @@
-# Senior Quality Engineer,  Findata  at AlphaSense
+# Sr. Security Engineer at OpenSpace
 
 | Field | Details |
 |-------|---------|
-| Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [OpenSpace](https://scoutify.ai/companies/openspace?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | QA Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8649680002) |
+| Category | Security Engineer |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://www.openspace.ai/careers?gh_jid=7815704003) |
 
 ## About This Role
 
-This qa engineer position at AlphaSense was posted on 2026-07-24.
+This security engineer position at OpenSpace was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Quality Engineer,  Findata  at AlphaSense
+# Engineering Manager, CRM Systems at Human Interest
 
 | Field | Details |
 |-------|---------|
-| Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Human Interest](https://scoutify.ai/companies/human-interest?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | QA Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8649680002) |
+| Category | Engineering Manager |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/humaninterest/jobs/8080734) |
 
 ## About This Role
 
-This qa engineer position at AlphaSense was posted on 2026-07-24.
+This engineering manager position at Human Interest was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

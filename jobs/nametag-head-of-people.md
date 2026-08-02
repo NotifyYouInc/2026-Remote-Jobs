@@ -1,16 +1,16 @@
-# Senior Quality Engineer,  Findata  at AlphaSense
+# Head of People at Nametag
 
 | Field | Details |
 |-------|---------|
-| Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Nametag](https://scoutify.ai/companies/nametag?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | QA Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8649680002) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nametag/jobs/4331571009) |
 
 ## About This Role
 
-This qa engineer position at AlphaSense was posted on 2026-07-24.
+This human resources / people ops position at Nametag was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

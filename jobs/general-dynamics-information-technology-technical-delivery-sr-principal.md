@@ -1,16 +1,16 @@
-# Information Security Analyst Principal at General Dynamics Information Technology
+# Technical Delivery Sr. Principal at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Security Engineer |
+| Location | Virginia, US |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-07-26 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Information-Security-Analyst-Principal_RQ224758) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Home-Office-VAHOME/Technical-Delivery-Sr-Principal_RQ224672-2) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-07-26.
+This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

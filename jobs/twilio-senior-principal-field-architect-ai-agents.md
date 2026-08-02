@@ -1,16 +1,16 @@
-# Senior Quality Engineer,  Findata  at AlphaSense
+# Senior Principal Field Architect - AI Agents at Twilio
 
 | Field | Details |
 |-------|---------|
-| Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | QA Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8649680002) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8039186) |
 
 ## About This Role
 
-This qa engineer position at AlphaSense was posted on 2026-07-24.
+This technical & solutions architect position at Twilio was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

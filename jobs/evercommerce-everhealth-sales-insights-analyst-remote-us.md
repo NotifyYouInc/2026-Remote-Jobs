@@ -1,16 +1,16 @@
-# EverPro - Customer Success Manager (Remote, US) at EverCommerce
+# EverHealth - Sales Insights Analyst (Remote, US) at EverCommerce
 
 | Field | Details |
 |-------|---------|
 | Company | [EverCommerce](https://scoutify.ai/companies/evercommerce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Customer Success Manager |
+| Category | Data Analyst |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverPro---Customer-Success-Manager--Remote--US-_R-106392) |
+| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-US/EverHealth---Sales-Insights-Analyst--Remote--US-_R-106346) |
 
 ## About This Role
 
-This customer success manager position at EverCommerce was posted on 2026-07-24.
+This data analyst position at EverCommerce was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

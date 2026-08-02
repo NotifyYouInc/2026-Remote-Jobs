@@ -1,16 +1,16 @@
-# Revenue Specialist I (ROPS) at DaVita
+# Client Services Analyst (CSA) at Wex
 
 | Field | Details |
 |-------|---------|
-| Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Revenue / Sales Operations |
+| Category | Business Analyst |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09510---Washington-Remote/Revenue-Specialist-I--ROPS-_R0470195) |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Client-Services-Analyst--CSA-_R22298) |
 
 ## About This Role
 
-This revenue / sales operations position at DaVita was posted on 2026-07-24.
+This business analyst position at Wex was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

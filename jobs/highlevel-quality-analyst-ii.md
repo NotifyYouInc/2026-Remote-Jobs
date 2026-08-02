@@ -1,16 +1,16 @@
-# Senior Quality Engineer,  Findata  at AlphaSense
+# Quality Analyst II at HighLevel
 
 | Field | Details |
 |-------|---------|
-| Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [HighLevel](https://scoutify.ai/companies/highlevel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | QA Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8649680002) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://jobs.lever.co/gohighlevel/abe7d65a-e6a5-4bcf-99c7-f5ac4aa7627c) |
 
 ## About This Role
 
-This qa engineer position at AlphaSense was posted on 2026-07-24.
+This qa engineer position at HighLevel was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

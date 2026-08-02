@@ -1,16 +1,16 @@
-# Revenue Specialist I (ROPS) at DaVita
+# Natural Language Measurement Specialist at College Board
 
 | Field | Details |
 |-------|---------|
-| Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [College Board](https://scoutify.ai/companies/college-board?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Revenue / Sales Operations |
+| Category | Data Scientist |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09510---Washington-Remote/Revenue-Specialist-I--ROPS-_R0470195) |
+| Apply | [View on company site](https://collegeboard.wd1.myworkdayjobs.com/careers/job/Remote---USA/Natural-Language-Measurement-Specialist_REQ002809) |
 
 ## About This Role
 
-This revenue / sales operations position at DaVita was posted on 2026-07-24.
+This data scientist position at College Board was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
