@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cerfrance Brocéliande](https://scoutify.ai/companies/cerfrancebrocliande?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | La Guerche-de-Bretagne, Brittany, France |
+| Location | Janzé, Brittany, France |
 | Category | Accounting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CerfranceBroceliande/744000135213180-comptable-marche-agricole-fh) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CerfranceBroceliande/744000139937909-comptable-marche-agricole-fh) |
 
 ## About This Role
 
-This accounting position at Cerfrance Brocéliande was posted on 2026-07-01.
+This accounting position at Cerfrance Brocéliande was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

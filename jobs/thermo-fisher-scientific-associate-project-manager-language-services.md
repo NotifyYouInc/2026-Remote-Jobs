@@ -1,16 +1,16 @@
-# Associate Project Manager - Language Services at Thermo Fisher Scientific
+# Associate Project Manager, Language Services at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Peru |
+| Location | Mumbai, Maharashtra, India |
 | Category | Project Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Peru/Associate-Project-Manager---Language-Services_R-01352609) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mumbai-India/Associate-Project-Manager--Language-Services_R-01361373) |
 
 ## About This Role
 
-This project manager position at Thermo Fisher Scientific was posted on 2026-05-15.
+This project manager position at Thermo Fisher Scientific was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dnipro, Dnipropetrovsk, Ukraine |
+| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000109039855-senior-python-engineer) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000139971776-senior-python-engineer) |
 
 ## About This Role
 
-This software engineer position at Lions Candle-Dispatch Solution was posted on 2026-02-12.
+This software engineer position at Lions Candle-Dispatch Solution was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

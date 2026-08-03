@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Guangzhou, Guangdong, China |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Monterrey/Business-Analyst_14333022) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Guangzhou/Business-Analyst_13753726) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-05-14.
+This business analyst position at Accenture was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

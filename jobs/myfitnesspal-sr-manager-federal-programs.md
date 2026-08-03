@@ -5,12 +5,12 @@
 | Company | [MyFitnessPal](https://scoutify.ai/companies/myfitnesspal?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Program Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/myfitnesspal/jobs/8070395) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/myfitnesspal/jobs/8087802) |
 
 ## About This Role
 
-This program manager position at MyFitnessPal was posted on 2026-07-16.
+This program manager position at MyFitnessPal was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

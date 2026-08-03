@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000135418887-staff-engineer-servicenow-ham) |
+| Location | India |
+| Category | Software Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000139963840-staff-engineer-servicenow-ham) |
 
 ## About This Role
 
-This it & systems administration position at Nagarro was posted on 2026-07-02.
+This software engineer position at Nagarro was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

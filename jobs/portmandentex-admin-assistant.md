@@ -5,12 +5,12 @@
 | Company | [PortmanDentex](https://scoutify.ai/companies/portmandentex?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Cheltenham, England, United Kingdom |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PortmanDentex/744000138828279-admin-assistant) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PortmanDentex/744000139955869-admin-assistant) |
 
 ## About This Role
 
-This human resources / people ops position at PortmanDentex was posted on 2026-07-21.
+This human resources / people ops position at PortmanDentex was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

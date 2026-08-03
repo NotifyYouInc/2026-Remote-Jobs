@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpartanNash](https://scoutify.ai/companies/spartannash?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Fargo, North Dakota, United States |
+| Location | Dickinson, North Dakota, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Fargo-North-Dakota/Associate-Engagement-Coordinator_R87452-1) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Dickinson-North-Dakota/Associate-Engagement-Coordinator_R87871) |
 
 ## About This Role
 
-This human resources / people ops position at SpartanNash was posted on 2026-07-13.
+This human resources / people ops position at SpartanNash was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

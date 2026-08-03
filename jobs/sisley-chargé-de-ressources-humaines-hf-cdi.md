@@ -5,12 +5,12 @@
 | Company | [Sisley](https://scoutify.ai/companies/sisley?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Saint-Ouen-l'Aumône, Île-de-France, France |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SISLEY/744000134725959-charge-de-ressources-humaines-hf-cdi) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SISLEY/744000139873669-charge-de-ressources-humaines-hf-cdi) |
 
 ## About This Role
 
-This human resources / people ops position at Sisley was posted on 2026-06-29.
+This human resources / people ops position at Sisley was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

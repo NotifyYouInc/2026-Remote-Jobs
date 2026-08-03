@@ -5,12 +5,12 @@
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kota Damansara, Selangor, Malaysia |
 | Category | Engineering Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Kota-Damansara/Business-Development-Manager_JR00007813) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Kota-Damansara/Business-Development-Manager_JR00009799) |
 
 ## About This Role
 
-This engineering manager position at OCBC was posted on 2026-05-15.
+This engineering manager position at OCBC was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

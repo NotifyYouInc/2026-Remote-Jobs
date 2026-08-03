@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Lviv, Lviv, Ukraine |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Project Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000132566020-project-coordinator) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000139961245-project-coordinator) |
 
 ## About This Role
 
-This project manager position at Sigma Software was posted on 2026-06-17.
+This project manager position at Sigma Software was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

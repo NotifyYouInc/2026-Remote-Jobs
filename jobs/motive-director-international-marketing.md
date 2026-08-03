@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motive](https://scoutify.ai/companies/motive?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Growth Marketing |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8642918002) |
+| Location | Canada |
+| Category | Product Marketing |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8650115002) |
 
 ## About This Role
 
-This growth marketing position at Motive was posted on 2026-07-24.
+This product marketing position at Motive was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 
