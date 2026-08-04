@@ -1,16 +1,16 @@
-# Product Solutions and Operations Project Intern (Ads Interface and Platform Product) - 2026 Start at TikTok
+# Product Solutions and Operations project Intern (Ads Interface and Platform Product ) - 2026 Start at TikTok
 
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Jose, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7665080709191108917/detail) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7665081919226284293/detail) |
 
 ## About This Role
 
-This product manager position at TikTok was posted on 2026-07-23.
+This product manager position at TikTok was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

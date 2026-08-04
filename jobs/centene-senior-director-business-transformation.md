@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kentucky, US |
+| Location | Florida, US |
 | Category | Operations |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-KY/Senior-Director--Business-Transformation_1637812) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--Business-Transformation_1644924) |
 
 ## About This Role
 
-This operations position at Centene was posted on 2026-06-02.
+This operations position at Centene was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

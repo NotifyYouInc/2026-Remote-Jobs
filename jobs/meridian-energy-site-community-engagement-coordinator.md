@@ -5,12 +5,12 @@
 | Company | [Meridian Energy](https://scoutify.ai/companies/meridianenergy1?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Social Media / Community |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MeridianEnergy1/744000138534679-site-community-engagement-coordinator) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MeridianEnergy1/744000140145199-site-community-engagement-coordinator) |
 
 ## About This Role
 
-This social media / community position at Meridian Energy was posted on 2026-07-20.
+This social media / community position at Meridian Energy was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

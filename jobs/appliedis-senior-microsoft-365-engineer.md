@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appliedis](https://scoutify.ai/companies/appliedis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Reston, Virginia, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Senior-Microsoft-365-Engineer_JR2026001135-1) |
+| Location | United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Senior-Microsoft-365-Engineer_JR2026001302) |
 
 ## About This Role
 
-This it & systems administration position at Appliedis was posted on 2026-04-10.
+This devops engineer position at Appliedis was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

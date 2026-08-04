@@ -5,12 +5,12 @@
 | Company | [Talent International](https://scoutify.ai/companies/talent3?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talent3/744000139922179-senior-talent-acquisition-sourcing-specialist) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talent3/744000140160959-senior-talent-acquisition-sourcing-specialist) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Talent International was posted on 2026-07-27.
+This talent acquisition / recruiting position at Talent International was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

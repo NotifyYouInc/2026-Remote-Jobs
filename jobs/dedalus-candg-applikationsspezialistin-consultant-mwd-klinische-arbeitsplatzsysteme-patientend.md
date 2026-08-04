@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bonn, North Rhine-Westphalia, Germany |
-| Category | Implementation / Professional Services |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Bonn/Applikationsspezialist-in---Consultant--m-w-d--klinische-Arbeitsplatzsysteme---Patientendatenadministration_JR108702) |
+| Category | Customer Success |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Bonn/Applikationsspezialist-in---Consultant--m-w-d--klinische-Arbeitsplatzsysteme---Patientendatenadministration_JR108751-2) |
 
 ## About This Role
 
-This implementation / professional services position at Dedalus CandG was posted on 2026-07-20.
+This customer success position at Dedalus CandG was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

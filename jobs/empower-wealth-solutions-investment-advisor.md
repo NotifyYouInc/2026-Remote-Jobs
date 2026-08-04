@@ -1,16 +1,16 @@
-# Wealth Solutions - Investment Advisor at Empower
+# Wealth Solutions Investment Advisor at Empower
 
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Wealth-Solutions---Investment-Advisor_R0058988) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Wealth-Solutions-Investment-Advisor_R0061277) |
 
 ## About This Role
 
-This corporate finance position at Empower was posted on 2026-05-22.
+This wealth management / private banking position at Empower was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

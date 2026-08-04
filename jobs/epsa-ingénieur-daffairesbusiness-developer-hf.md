@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EPSA](https://scoutify.ai/companies/epsa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
-| Category | Account Executive |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSA/744000138572210-ingenieur-daffairesbusiness-developer-hf) |
+| Location | Strasbourg, Grand Est, France |
+| Category | Sales |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSA/744000140163935-ingenieur-daffairesbusiness-developer-hf) |
 
 ## About This Role
 
-This account executive position at EPSA was posted on 2026-07-20.
+This sales position at EPSA was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

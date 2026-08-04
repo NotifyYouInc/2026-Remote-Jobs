@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tmhcc](https://scoutify.ai/companies/tmhcc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Iowa, US |
-| Category | Account Executive |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/Remote---Iowa/Business-Development-Manager_2026-606-1) |
+| Location | United States |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://tmhcc.wd108.myworkdayjobs.com/external/job/Remote---USA/Business-Development-Manager_2026-600-2) |
 
 ## About This Role
 
-This account executive position at Tmhcc was posted on 2026-06-18.
+This sales development (sdr / bdr) position at Tmhcc was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

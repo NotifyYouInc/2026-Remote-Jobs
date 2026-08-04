@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Majesco](https://scoutify.ai/companies/ocs-cx-oj65966?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://fa-emad-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5366) |
+| Category | Customer Success |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://fa-emad-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5224) |
 
 ## About This Role
 
-This software engineer position at Majesco was posted on 2026-07-22.
+This customer success position at Majesco was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

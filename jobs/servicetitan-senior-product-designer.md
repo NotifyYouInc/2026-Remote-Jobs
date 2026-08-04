@@ -5,12 +5,12 @@
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
 | Category | Product Designer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/India-Remote/Senior-Product-Designer_JR115385) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/India-Remote/Senior-Product-Designer_JR115488) |
 
 ## About This Role
 
-This product designer position at ServiceTitan was posted on 2026-07-15.
+This product designer position at ServiceTitan was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

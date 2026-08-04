@@ -1,16 +1,16 @@
-# Technical Service Specialist at Abbott
+# Technical Service Specialist at Abbott
 
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Latvia |
+| Location | Australia |
 | Category | Customer Success |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Latvia---Remote/Technical-Service-Specialist_31154112-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Australia---Remote/Technical-Service-Specialist_31157224) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-06-25.
+This customer success position at Abbott was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

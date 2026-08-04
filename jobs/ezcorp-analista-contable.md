@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EZCORP](https://scoutify.ai/companies/ezcorp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ezcorp.wd12.myworkdayjobs.com/ezcorp/job/Corporate-Remote-Mexico/Analista-Contable_JR125548) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Accounting |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://ezcorp.wd12.myworkdayjobs.com/ezcorp/job/Corporate-Remote-Mexico/Analista-Contable_JR129226) |
 
 ## About This Role
 
-This corporate finance position at EZCORP was posted on 2026-03-06.
+This accounting position at EZCORP was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

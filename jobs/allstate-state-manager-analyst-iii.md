@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/State-Manager-Analyst-III_R27856) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/State-Manager-Analyst-III_R32957) |
 
 ## About This Role
 
-This business analyst position at Allstate was posted on 2026-03-24.
+This actuary / insurance analytics position at Allstate was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

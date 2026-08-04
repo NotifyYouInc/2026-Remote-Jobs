@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
-| Category | Legal |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Turkey-Istanbul/Contract-Analyst-I_JR153153-1) |
+| Location | Paris, Île-de-France, France |
+| Category | Business Analyst |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/France-Paris/Contract-Analyst-I_JR156532) |
 
 ## About This Role
 
-This legal position at ICON plc was posted on 2026-06-15.
+This business analyst position at ICON plc was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

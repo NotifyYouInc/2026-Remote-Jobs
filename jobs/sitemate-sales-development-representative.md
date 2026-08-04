@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sitemate](https://scoutify.ai/companies/sitemate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Business Development |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/2a085c6c-747f-4f42-8309-c47feddaade2) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/762a9d2b-ebdf-4a5e-bb3b-bda5cbaa87fc) |
 
 ## About This Role
 
-This business development position at Sitemate was posted on 2026-06-19.
+This sales development (sdr / bdr) position at Sitemate was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

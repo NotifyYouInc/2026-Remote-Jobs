@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Yell Ltd](https://scoutify.ai/companies/yellltd?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Newport, Wales, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/YellLtd/744000137841059-business-development-manager-bdm-newport-circa-41k-package-53k-ote-uncapped) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/YellLtd/744000140194320-business-development-manager-bdm-newport-circa-41k-package-53k-ote-uncapped) |
 
 ## About This Role
 
-This engineering manager position at Yell Ltd was posted on 2026-07-15.
+This sales development (sdr / bdr) position at Yell Ltd was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

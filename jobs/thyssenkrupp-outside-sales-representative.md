@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [thyssenkrupp](https://scoutify.ai/companies/thyssenkruppmaterialsna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Nevada, US |
-| Category | Account Executive |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Nevada-Remote/Outside-Sales-Representative_JR104464) |
+| Location | New Mexico, US |
+| Category | Sales |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Arizona-Remote/Outside-Sales-Representative_JR104405) |
 
 ## About This Role
 
-This account executive position at thyssenkrupp was posted on 2026-07-21.
+This sales position at thyssenkrupp was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
