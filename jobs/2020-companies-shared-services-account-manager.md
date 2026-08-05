@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [2020 Companies](https://scoutify.ai/companies/2020-companies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Little Rock, Arkansas, United States |
+| Location | 2 locations |
 | Category | Account Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Little-Rock-AR/Shared-Services-Account-Manager_REQ_104631) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Dallas-TX/Shared-Services-Account-Manager_REQ_109136) |
 
 ## About This Role
 
-This account manager position at 2020 Companies was posted on 2026-05-18.
+This account manager position at 2020 Companies was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

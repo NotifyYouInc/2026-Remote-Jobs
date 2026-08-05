@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Makati-Philippines/Application-Support-Analyst_REQ522823) |
+| Category | Customer Success |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Makati-Philippines/Application-Support-Analyst_REQ521497) |
 
 ## About This Role
 
-This technical support engineer position at JLL was posted on 2026-07-24.
+This customer success position at JLL was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

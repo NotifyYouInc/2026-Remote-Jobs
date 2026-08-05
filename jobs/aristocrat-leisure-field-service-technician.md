@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Boston-MA-US/Field-Service-Technician_R0021910) |
+| Location | Miami, Florida, United States |
+| Category | Customer Success |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Miami-OK-US/Field-Service-Technician_R0022127) |
 
 ## About This Role
 
-This technical support engineer position at Aristocrat Leisure was posted on 2026-07-15.
+This customer success position at Aristocrat Leisure was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

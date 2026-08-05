@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Boardman, Ohio, United States |
+| Location | Murfreesboro, Tennessee, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Oregon---Boardman/Operations-Technician_RQ107587) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Tennessee---Murfreesboro/Operations-Technician_RQ114073) |
 
 ## About This Role
 
-This industrial automation position at BP was posted on 2026-03-04.
+This industrial automation position at BP was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

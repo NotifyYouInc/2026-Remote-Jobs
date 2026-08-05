@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Talent-Acquisition-Partner--Executive_R0449009) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09567---Denver-HQ-Non-CA-or-CO-Remote/Talent-Acquisition-Partner--Executive_R0470814) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at DaVita was posted on 2026-05-21.
+This talent acquisition / recruiting position at DaVita was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

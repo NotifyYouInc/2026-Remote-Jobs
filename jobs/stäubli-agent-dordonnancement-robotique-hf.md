@@ -1,16 +1,16 @@
-# Agent d'ordonnancement - Robotique (H/F) at Stäubli
+# Agent d'ordonnancement - Robotique (H/F)  at Stäubli
 
 | Field | Details |
 |-------|---------|
 | Company | [Stäubli](https://scoutify.ai/companies/stubli?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | France |
 | Category | Industrial Automation |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000136393079-agent-dordonnancement-robotique-hf) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000140388329-agent-dordonnancement-robotique-hf) |
 
 ## About This Role
 
-This industrial automation position at Stäubli was posted on 2026-07-08.
+This industrial automation position at Stäubli was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

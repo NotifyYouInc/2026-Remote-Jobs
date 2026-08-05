@@ -1,16 +1,16 @@
-# Home-Based Accounting Assistant at Delegate CX
+# Home Based Accounting Assistant at Delegate CX
 
 | Field | Details |
 |-------|---------|
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Accounting |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Accounting-Assistant_JR104411) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Accounting-Assistant_JR104473) |
 
 ## About This Role
 
-This accounting position at Delegate CX was posted on 2026-07-08.
+This accounting position at Delegate CX was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | Industrial Automation |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000124443459-automaticien-controle-commande-epr2-hf) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000140423253-automaticien-controle-commande-epr2-hf) |
 
 ## About This Role
 
-This industrial automation position at ALTEN Canada was posted on 2026-05-04.
+This industrial automation position at ALTEN Canada was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

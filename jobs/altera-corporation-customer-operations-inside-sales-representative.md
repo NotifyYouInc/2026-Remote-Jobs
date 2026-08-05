@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 3 locations |
 | Category | Account Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/London-United-Kingdom-Remote/Customer-Operations---Inside-Sales-Representative_R02846) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Shenzhen-Guangdong-China-Remote/Customer-Operations---Inside-Sales-Representative_R02862) |
 
 ## About This Role
 
-This account manager position at Altera Corporation was posted on 2026-07-28.
+This account manager position at Altera Corporation was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

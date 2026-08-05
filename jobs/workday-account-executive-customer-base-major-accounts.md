@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Account Executive |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-NY-Remote/Account-Executive---Customer-Base-Major-Accounts_JR-0108396) |
+| Category | Sales |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-NY-Remote/Account-Executive---Customer-Base-Major-Accounts_JR-0108699-1) |
 
 ## About This Role
 
-This account executive position at Workday was posted on 2026-07-07.
+This sales position at Workday was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

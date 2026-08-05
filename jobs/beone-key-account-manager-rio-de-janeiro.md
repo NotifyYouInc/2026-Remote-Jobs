@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
-| Category | Customer Success |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Brazil-Remote/Key-Account-Manager---Rio-de-Janeiro_R33279) |
+| Location | Brazil |
+| Category | Account Manager |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Brazil-Remote/Key-Account-Manager---Rio-de-Janeiro_R36041) |
 
 ## About This Role
 
-This customer success position at BeOne was posted on 2026-02-10.
+This account manager position at BeOne was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

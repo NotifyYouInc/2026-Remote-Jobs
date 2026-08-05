@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Project Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Manager-CDM_R-01354886) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Manager-CDM_R-01354891) |
 
 ## About This Role
 
-This project manager position at Thermo Fisher Scientific was posted on 2026-05-29.
+This project manager position at Thermo Fisher Scientific was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

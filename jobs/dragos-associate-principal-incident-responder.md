@@ -1,16 +1,16 @@
-# Associate Principal Incident Responder at Dragos
+# Associate Principal Incident Responder  at Dragos
 
 | Field | Details |
 |-------|---------|
 | Company | [Dragos](https://scoutify.ai/companies/dragos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Singapore, Singapore |
+| Location | United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5152009008) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5362144008) |
 
 ## About This Role
 
-This soc & incident response position at Dragos was posted on 2026-03-20.
+This soc & incident response position at Dragos was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

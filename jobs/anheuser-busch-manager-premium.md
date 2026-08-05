@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anheuser-Busch](https://scoutify.ai/companies/abinbev?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hawaii, US |
-| Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://abinbev.wd1.myworkdayjobs.com/USA/job/Aiea-Hawaii/Manager--Premium_30093137) |
+| Location | California, US |
+| Category | Marketing |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://abinbev.wd1.myworkdayjobs.com/USA/job/Remote---CA/Manager--Premium_30101200) |
 
 ## About This Role
 
-This account executive position at Anheuser-Busch was posted on 2026-04-03.
+This marketing position at Anheuser-Busch was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

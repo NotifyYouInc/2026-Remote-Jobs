@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Onion](https://scoutify.ai/companies/blue-onion?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/blue-onion/jobs/WPITk1Q-accounting-solutions-expert) |
+| Category | Accounting |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/blue-onion/jobs/lC6W0v4-accounting-solutions-expert) |
 
 ## About This Role
 
-This corporate finance position at Blue Onion was posted on 2026-05-13.
+This accounting position at Blue Onion was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

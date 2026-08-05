@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | Texas, US |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Principal-Product-Manager--AI-Powered-Security-Operations_R63530-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/New-Hampshire-US-Offsite/Principal-Product-Manager--AI-Powered-Security-Operations_R67193-1) |
 
 ## About This Role
 
-This soc & incident response position at Motorola Solutions was posted on 2026-04-01.
+This soc & incident response position at Motorola Solutions was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

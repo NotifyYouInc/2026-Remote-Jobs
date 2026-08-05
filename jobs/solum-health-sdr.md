@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solum Health](https://scoutify.ai/companies/solum-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Medellín, Antioquia, Colombia |
 | Category | Business Development |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/solum-health/jobs/dps4TUt-sdr) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/solum-health/jobs/wql2dxJ-sdr) |
 
 ## About This Role
 
-This business development position at Solum Health was posted on 2026-05-25.
+This business development position at Solum Health was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Jose, California, United States |
+| Location | San Francisco, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Engineer_R170365) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Engineer_R170680-1) |
 
 ## About This Role
 
-This data engineer position at Adobe was posted on 2026-07-17.
+This data engineer position at Adobe was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

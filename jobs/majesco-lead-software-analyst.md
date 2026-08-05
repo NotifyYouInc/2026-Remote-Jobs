@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Majesco](https://scoutify.ai/companies/ocs-cx-oj65966?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://fa-emad-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5219) |
+| Category | Customer Success |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://fa-emad-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#5373) |
 
 ## About This Role
 
-This technical support engineer position at Majesco was posted on 2026-07-20.
+This customer success position at Majesco was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

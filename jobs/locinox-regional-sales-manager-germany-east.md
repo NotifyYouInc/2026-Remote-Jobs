@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Locinox](https://scoutify.ai/companies/locinox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Sales Leadership |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Locinox/744000131149508-regional-sales-manager-germany-east) |
+| Category | Account Manager |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Locinox/744000140415584-regional-sales-manager-germany-east) |
 
 ## About This Role
 
-This sales leadership position at Locinox was posted on 2026-06-09.
+This account manager position at Locinox was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Terrassa, Catalonia, Spain |
 | Category | Robotics Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000127359539-mechanical-motion-engineer-life-science-equipments) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000140403469-mechanical-motion-engineer-life-science-equipments) |
 
 ## About This Role
 
-This robotics engineer position at Syntegon Technology was posted on 2026-05-20.
+This robotics engineer position at Syntegon Technology was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

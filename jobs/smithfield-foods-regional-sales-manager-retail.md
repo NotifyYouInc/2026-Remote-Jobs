@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smithfield Foods](https://scoutify.ai/companies/smithfield-foods?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Illinois, US |
-| Category | Sales Leadership |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Remote-IL/Regional-Sales-Manager_R-2026-2944) |
+| Location | New Jersey, US |
+| Category | Account Manager |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Remote-NJ/Regional-Sales-Manager--Retail-_R-2026-10028) |
 
 ## About This Role
 
-This sales leadership position at Smithfield Foods was posted on 2026-05-22.
+This account manager position at Smithfield Foods was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

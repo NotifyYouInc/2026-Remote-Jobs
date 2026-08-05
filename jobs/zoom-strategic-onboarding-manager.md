@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Strategic-Onboarding-Manager_R18944-1) |
+| Category | Strategy & Operations |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Strategic-Onboarding-Manager_R19451-1) |
 
 ## About This Role
 
-This customer success position at Zoom was posted on 2026-04-23.
+This strategy & operations position at Zoom was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
