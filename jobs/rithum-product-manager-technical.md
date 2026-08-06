@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rithum](https://scoutify.ai/companies/rithum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Technical Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rithum/jobs/8010880) |
+| Location | United Kingdom |
+| Category | Product Manager |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rithum/jobs/8094706) |
 
 ## About This Role
 
-This technical product manager position at Rithum was posted on 2026-06-16.
+This product manager position at Rithum was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

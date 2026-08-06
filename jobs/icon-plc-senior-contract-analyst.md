@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Milan, Lombardy, Italy |
 | Category | Legal |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Malaysia-Kuala-Lumpur/Senior-Contract-Analyst_JR155627) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Italy-Milan/Senior-Contract-Analyst_JR156667-1) |
 
 ## About This Role
 
-This legal position at ICON plc was posted on 2026-07-15.
+This legal position at ICON plc was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

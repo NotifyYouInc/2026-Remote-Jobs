@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Las Vegas, Nevada, United States |
 | Category | Customer Success |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Miami-OK-US/Field-Service-Technician_R0022127) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Las-Vegas-NV-US/Field-Service-Technician_R0022189) |
 
 ## About This Role
 
-This customer success position at Aristocrat Leisure was posted on 2026-07-29.
+This customer success position at Aristocrat Leisure was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

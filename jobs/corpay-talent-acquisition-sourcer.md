@@ -1,16 +1,16 @@
-# Talent Acquisition - Sourcer at Corpay
+# Talent Acquisition Sourcer at Corpay
 
 | Field | Details |
 |-------|---------|
 | Company | [Corpay](https://scoutify.ai/companies/corpay?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
+| Location | Not specified |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/IND-Remote---Cross-Border/Talent-Acquisition---Sourcer_R08491) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/PHL-Remote---Corporate-Overhead/Talent-Acquisition-Sourcer_R09044) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Corpay was posted on 2026-06-04.
+This talent acquisition / recruiting position at Corpay was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

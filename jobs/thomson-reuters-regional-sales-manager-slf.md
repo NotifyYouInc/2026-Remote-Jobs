@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Sales Leadership |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Los-Angeles-California/Regional-Sales-Manager---SLF_JREQ200158-1) |
+| Location | Frisco, Texas, United States |
+| Category | Sales |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Regional-Sales-Manager---SLF_JREQ202147-1) |
 
 ## About This Role
 
-This sales leadership position at Thomson Reuters was posted on 2026-04-27.
+This sales position at Thomson Reuters was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

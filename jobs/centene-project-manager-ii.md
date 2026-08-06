@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | California, US |
 | Category | Project Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-TX/Project-Manager-II_1631217) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/Project-Manager-II_1647158) |
 
 ## About This Role
 
-This project manager position at Centene was posted on 2026-02-13.
+This project manager position at Centene was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

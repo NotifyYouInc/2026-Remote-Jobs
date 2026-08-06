@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/GOS-AP-Accountant_R304999) |
+| Location | Austin, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Austin-Texas-USA/GOS-AP-Accountant_R330560) |
 
 ## About This Role
 
-This corporate finance position at Cushman & Wakefield was posted on 2026-03-10.
+This accounting position at Cushman & Wakefield was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

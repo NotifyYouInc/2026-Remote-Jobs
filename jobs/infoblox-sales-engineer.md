@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Infoblox](https://scoutify.ai/companies/us6-cx-oj53716?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Sales Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://efpv.fa.us6.oraclecloud.com/jobs/#7897) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://efpv.fa.us6.oraclecloud.com/jobs/#7896) |
 
 ## About This Role
 
-This sales engineer position at Infoblox was posted on 2026-07-29.
+This sales engineer position at Infoblox was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

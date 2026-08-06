@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Connecticut, US |
+| Location | Tennessee, US |
 | Category | Account Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/US-MA-Home-Office/Fleet-Solutions-Sales-Manager_JR-40106285) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/US-TN-Home-Office/Fleet-Solutions-Sales-Manager_JR-40111079) |
 
 ## About This Role
 
-This account manager position at Goodyear was posted on 2026-03-06.
+This account manager position at Goodyear was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

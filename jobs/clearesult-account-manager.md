@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oregon, US |
+| Location | Michigan, US |
 | Category | Account Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Oregon/Account-Manager_R0017423) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Michigan/Account-Manager_R0017865) |
 
 ## About This Role
 
-This account manager position at CLEAResult was posted on 2026-04-30.
+This account manager position at CLEAResult was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Stäubli](https://scoutify.ai/companies/stubli?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | France |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000139944259-charge-de-recrutement-hf) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000140637800-charge-de-recrutement-hf) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Stäubli was posted on 2026-07-27.
+This talent acquisition / recruiting position at Stäubli was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

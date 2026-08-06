@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | North Carolina, US |
-| Category | Software Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/AI-Engineer_R-01328367) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/AI-Engineer_R-01360657-1) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-02-16.
+This machine learning engineer position at Thermo Fisher Scientific was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

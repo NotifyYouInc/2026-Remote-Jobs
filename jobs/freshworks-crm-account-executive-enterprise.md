@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Lafayette, Louisiana, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000117064187-account-executive-enterprise) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000140562379-account-executive-enterprise) |
 
 ## About This Role
 
-This account executive position at Freshworks CRM was posted on 2026-03-26.
+This account executive position at Freshworks CRM was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

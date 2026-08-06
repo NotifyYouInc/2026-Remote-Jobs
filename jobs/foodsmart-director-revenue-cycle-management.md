@@ -5,12 +5,12 @@
 | Company | [Foodsmart](https://scoutify.ai/companies/foodsmart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Operations |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.lever.co/foodsmart/405a6c82-f846-480e-bfc6-f8bdf246e106) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.lever.co/foodsmart/86d56b73-61af-4d01-9003-339b3de7f67e) |
 
 ## About This Role
 
-This operations position at Foodsmart was posted on 2026-05-05.
+This operations position at Foodsmart was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

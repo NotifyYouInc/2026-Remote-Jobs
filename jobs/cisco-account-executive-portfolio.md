@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | San Diego, California, United States |
 | Category | Account Executive |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seattle-Washington-US/Account-Executive---Portfolio_2013134) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Diego-California-US/Account-Executive---Portfolio_2020188) |
 
 ## About This Role
 
-This account executive position at Cisco was posted on 2026-07-07.
+This account executive position at Cisco was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

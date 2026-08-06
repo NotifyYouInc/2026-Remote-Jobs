@@ -5,12 +5,12 @@
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New Jersey, US |
 | Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-New-Jersey/Account-Executive--SMB-Sales_REQ347361-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-New-Jersey/Account-Executive--SMB-Sales_REQ367076-2) |
 
 ## About This Role
 
-This account executive position at T-Mobile was posted on 2026-03-09.
+This account executive position at T-Mobile was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

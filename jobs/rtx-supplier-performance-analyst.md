@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Arizona, US |
 | Category | Business Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-REMOTE/Supplier-Performance-Analyst_01853297) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-REMOTE/Supplier-Performance-Analyst_01862453) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-06-18.
+This business analyst position at RTX was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

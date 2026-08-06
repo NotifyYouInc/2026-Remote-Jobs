@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | Lviv, Lviv, Ukraine |
 | Category | Customer Success |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000140421619-integration-manager-retail-pricing-ai) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000140633109-integration-manager-retail-pricing-ai) |
 
 ## About This Role
 
-This customer success position at Sigma Software was posted on 2026-07-29.
+This customer success position at Sigma Software was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Telangana, IN |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7964396) |
+| Location | India |
+| Category | Customer Success |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8079708) |
 
 ## About This Role
 
-This technical support engineer position at Twilio was posted on 2026-07-08.
+This customer success position at Twilio was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

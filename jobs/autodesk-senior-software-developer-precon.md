@@ -1,16 +1,16 @@
-# Senior Software Developer (PreCon) at Autodesk
+# Senior Software Developer - PreCon at Autodesk
 
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | British Columbia, CA |
+| Location | Alberta, CA |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---British-Columbia---Remote/Senior-Software-Developer--PreCon-_26WD98045-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---British-Columbia---Remote/Senior-Software-Developer--PreCon_26WD98043-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-05-27.
+This software engineer position at Autodesk was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

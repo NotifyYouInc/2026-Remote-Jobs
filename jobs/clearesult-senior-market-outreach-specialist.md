@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Marketing |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Indianapolis-IN----Brookside-Avenue/Senior-Market-Outreach-Specialist_R0016988) |
+| Location | Oregon, US |
+| Category | Program Manager |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Oregon/Senior-Market-Outreach-Specialist_R0017861) |
 
 ## About This Role
 
-This marketing position at CLEAResult was posted on 2026-02-23.
+This program manager position at CLEAResult was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

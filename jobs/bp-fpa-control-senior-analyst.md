@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/FP-A-Control-Senior-Analyst_RQ111671) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/FP-A-Control-Senior-Analyst_RQ111274) |
 
 ## About This Role
 
-This corporate finance position at BP was posted on 2026-06-03.
+This fp&a / strategic finance position at BP was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Elan-Client-Development-Manager_2026-0014452) |
+| Location | Delaware, US |
+| Category | Account Manager |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-DE/Elan-Client-Development-Manager_2026-0002526) |
 
 ## About This Role
 
-This engineering manager position at U.S. Bancorp was posted on 2026-06-15.
+This account manager position at U.S. Bancorp was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

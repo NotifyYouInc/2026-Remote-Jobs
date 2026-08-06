@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | India |
 | Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Technical-Account-Engineer_R18718-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-IND/Technical-Account-Engineer_R19454-1) |
 
 ## About This Role
 
-This customer success position at Zoom was posted on 2026-03-11.
+This customer success position at Zoom was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
+| Location | Italy |
 | Category | Legal |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Brazil-Remote/Senior-Contract-Associate_R34039) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Italy-Remote/Senior-Contract-Associate_R36062) |
 
 ## About This Role
 
-This legal position at BeOne was posted on 2026-04-06.
+This legal position at BeOne was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

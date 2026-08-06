@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KPMG Nederland](https://scoutify.ai/companies/kpmgnederland?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Amstelveen, North Holland, The Netherlands |
-| Category | Strategy And Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000107458987-werkstudent-business-operations-managed-services) |
+| Category | Operations |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000140611550-werkstudent-business-operations-managed-services) |
 
 ## About This Role
 
-This strategy and operations position at KPMG Nederland was posted on 2026-02-05.
+This operations position at KPMG Nederland was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

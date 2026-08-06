@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Customer Success |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Raleigh-North-Carolina/Registered-Client-Service-Associate_R26_0936) |
+| Location | Florida, US |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Ft-Lauderdale-Florida/Registered-Client-Service-Associate_R26_2892) |
 
 ## About This Role
 
-This customer success position at Ameriprise Financial was posted on 2026-04-26.
+This wealth management / private banking position at Ameriprise Financial was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

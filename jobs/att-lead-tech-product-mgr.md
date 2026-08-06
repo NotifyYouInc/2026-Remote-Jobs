@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAGAAtlanta--1057-Lenox-Park-Blvd-Ne---Adm1057-Lenox-Park-Blvd-Ne/Lead-Tech-Product-Mgr_R-99329) |
+| Location | Dallas, Texas, United States |
+| Category | Technical Product Manager |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Tech-Product-Mgr_R-115892) |
 
 ## About This Role
 
-This product manager position at AT&T was posted on 2026-02-10.
+This technical product manager position at AT&T was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
