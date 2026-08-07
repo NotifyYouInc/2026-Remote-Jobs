@@ -1,16 +1,16 @@
-# Home-Based AP Specialist  at Delegate CX
+# Home-Based AP Specialist at Delegate CX
 
 | Field | Details |
 |-------|---------|
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-AP-Specialist-_JR104273) |
+| Category | Accounting |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-AP-Specialist_JR104480) |
 
 ## About This Role
 
-This corporate finance position at Delegate CX was posted on 2026-06-01.
+This accounting position at Delegate CX was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

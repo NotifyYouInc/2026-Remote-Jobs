@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nature](https://scoutify.ai/companies/nature?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oregon, US |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://nature.wd108.myworkdayjobs.com/externalcareers/job/Remote---Washington/Finance-Specialist_JR103026-1) |
+| Location | Florida, US |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://nature.wd108.myworkdayjobs.com/externalcareers/job/Remote---North-Carolina/Finance-Specialist_JR103549-1) |
 
 ## About This Role
 
-This corporate finance position at Nature was posted on 2026-06-05.
+This fp&a / strategic finance position at Nature was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

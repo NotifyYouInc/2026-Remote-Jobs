@@ -1,16 +1,16 @@
-# Workday Financials, Principal Consultant at Cognizant
+# Workday Financials Principal Consultant at Cognizant
 
 | Field | Details |
 |-------|---------|
 | Company | [Cognizant](https://scoutify.ai/companies/cognizant?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://collaborative.wd1.myworkdayjobs.com/AllOpenings/job/AUS---Australia---Sydney/Workday-Financials--Principal-Consultant_JR-16953) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://collaborative.wd1.myworkdayjobs.com/AllOpenings/job/AUS---Australia---Sydney/Workday-Financials-Principal-Consultant_JR-17118-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Cognizant was posted on 2026-05-21.
+This strategy / management consulting position at Cognizant was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

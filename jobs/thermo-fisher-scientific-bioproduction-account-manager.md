@@ -1,16 +1,16 @@
-# BioProduction Account Manager at Thermo Fisher Scientific
+# Bioproduction Account Manager at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | China |
 | Category | Account Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Shanghai-China/BioProduction-Account-Manager_R-01356865) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/Bioproduction-Account-Manager_R-01362880) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-06-12.
+This account manager position at Thermo Fisher Scientific was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

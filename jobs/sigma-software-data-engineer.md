@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
-| Category | Software Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000114721391-data-engineer) |
+| Location | Brasília, Federal District, Brazil |
+| Category | Data Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000140786339-data-engineer) |
 
 ## About This Role
 
-This software engineer position at Sigma Software was posted on 2026-03-13.
+This data engineer position at Sigma Software was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

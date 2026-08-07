@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Burlington, Ontario, Canada |
-| Category | Project Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Canada-Burlington/Country-Study-Operations-Manager_JR145143-1) |
+| Category | Program Manager |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Canada-Burlington/Country-Study-Operations-Manager_JR156196) |
 
 ## About This Role
 
-This project manager position at ICON plc was posted on 2026-06-15.
+This program manager position at ICON plc was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

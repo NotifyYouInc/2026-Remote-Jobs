@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verkada](https://scoutify.ai/companies/verkada?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Mateo, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5044478007) |
+| Location | United States |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5200009007) |
 
 ## About This Role
 
-This corporate finance position at Verkada was posted on 2026-02-10.
+This accounting position at Verkada was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

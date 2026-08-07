@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Pordenone, Friuli Venezia Giulia, Italy |
 | Category | Sales Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000135434979-da-vinci-clinical-territory-associate) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000140850579-da-vinci-clinical-territory-associate) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-07-02.
+This sales engineer position at Intuitive Surgical was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | Pennsylvania, US |
 | Category | Growth Marketing |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8597796002?gh_jid=8597796002) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8660047002?gh_jid=8660047002) |
 
 ## About This Role
 
-This growth marketing position at SpaceX was posted on 2026-06-17.
+This growth marketing position at SpaceX was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

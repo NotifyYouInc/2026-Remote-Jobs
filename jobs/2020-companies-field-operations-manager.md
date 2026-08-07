@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [2020 Companies](https://scoutify.ai/companies/2020-companies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Marketing |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Dallas-TX/Field-Operations-Manager_REQ_106225-1) |
+| Location | 2 locations |
+| Category | Program Manager |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Saint-Louis-MO/Field-Operations-Manager_REQ_109431) |
 
 ## About This Role
 
-This marketing position at 2020 Companies was posted on 2026-06-15.
+This program manager position at 2020 Companies was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

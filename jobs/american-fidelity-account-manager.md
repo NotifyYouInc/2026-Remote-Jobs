@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Fidelity](https://scoutify.ai/companies/americanfidelity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Kentucky, US |
 | Category | Account Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Trenton-New-Jersey/Account-Manager_JR570) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Kentucky/Account-Manager_JR971) |
 
 ## About This Role
 
-This account manager position at American Fidelity was posted on 2026-03-04.
+This account manager position at American Fidelity was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Georgia, US |
 | Category | Account Executive |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-GA-Remote/Field-Sales-Executive--Cloud-Software-Solution-Sales--Remote-_R0057834) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-GA-Remote/Field-Sales-Executive--Cloud-Software-Solution-Sales--Remote-_R0059015) |
 
 ## About This Role
 
-This account executive position at Wolters Kluwer was posted on 2026-06-05.
+This account executive position at Wolters Kluwer was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

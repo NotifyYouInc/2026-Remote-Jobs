@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Newsela](https://scoutify.ai/companies/newsela?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newsela/jobs/8051486) |
+| Category | Business Development |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newsela/jobs/8093345) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Newsela was posted on 2026-07-24.
+This business development position at Newsela was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

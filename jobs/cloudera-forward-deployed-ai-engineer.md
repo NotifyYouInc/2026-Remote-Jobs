@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Prague, Prague, Czechia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/United-Arab-Emirates--Dubai/Forward-Deployed-AI-Engineer_261078-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Czech-Republic-Prague/Forward-Deployed-AI-Engineer_261155-1) |
 
 ## About This Role
 
-This machine learning engineer position at Cloudera was posted on 2026-07-28.
+This machine learning engineer position at Cloudera was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

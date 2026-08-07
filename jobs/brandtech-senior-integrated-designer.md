@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brandtech+](https://scoutify.ai/companies/brandtech?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Colombia |
-| Category | Product Designer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brandtechplus/jobs/7863499) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Graphic / Brand Design |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brandtechplus/jobs/8098156) |
 
 ## About This Role
 
-This product designer position at Brandtech+ was posted on 2026-04-28.
+This graphic / brand design position at Brandtech+ was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

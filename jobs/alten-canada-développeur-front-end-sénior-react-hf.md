@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Frontend Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000139559429-developpeur-front-end-senior-react-hf) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000140840459-developpeur-front-end-senior-react-hf) |
 
 ## About This Role
 
-This frontend engineer position at ALTEN Canada was posted on 2026-07-24.
+This frontend engineer position at ALTEN Canada was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

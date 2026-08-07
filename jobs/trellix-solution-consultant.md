@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Mobile Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Solution-Consultant_JR0037168) |
+| Location | Poland |
+| Category | Customer Success |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-Poland/Solution-Consultant_JR0037627) |
 
 ## About This Role
 
-This mobile engineer position at Trellix was posted on 2026-05-18.
+This customer success position at Trellix was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

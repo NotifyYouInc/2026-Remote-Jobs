@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneDigital](https://scoutify.ai/companies/onedigital?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Account Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://onedigital.wd5.myworkdayjobs.com/onedigital/job/Remote/Account-Manager---Remote--PST-_R8646-2) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://onedigital.wd5.myworkdayjobs.com/onedigital/job/Remote/Account-Manager---Remote--PST-_R9263-1) |
 
 ## About This Role
 
-This account manager position at OneDigital was posted on 2026-03-30.
+This account manager position at OneDigital was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

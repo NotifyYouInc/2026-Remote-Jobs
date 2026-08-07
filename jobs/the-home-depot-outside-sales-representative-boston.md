@@ -1,16 +1,16 @@
-# Outside Sales Representative- Boston at The Home Depot
+# Outside Sales Representative Boston at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Massachusetts, US |
 | Category | Account Executive |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/MASSACHUSETTS---VIRTUAL---MA01/Outside-Sales-Representative--Boston_Req181359) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/MASSACHUSETTS---VIRTUAL---MA01/Outside-Sales-Representative-Boston_Req188534) |
 
 ## About This Role
 
-This account executive position at The Home Depot was posted on 2026-05-27.
+This account executive position at The Home Depot was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

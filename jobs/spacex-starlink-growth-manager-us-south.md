@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | Tennessee, US |
 | Category | Growth Marketing |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8597947002?gh_jid=8597947002) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8660044002?gh_jid=8660044002) |
 
 ## About This Role
 
-This growth marketing position at SpaceX was posted on 2026-06-18.
+This growth marketing position at SpaceX was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

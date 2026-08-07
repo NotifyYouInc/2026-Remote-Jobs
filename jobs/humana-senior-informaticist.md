@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Informaticist_R-424554) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Informaticist_R-423672) |
 
 ## About This Role
 
-This data scientist position at Humana was posted on 2026-07-29.
+This data scientist position at Humana was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

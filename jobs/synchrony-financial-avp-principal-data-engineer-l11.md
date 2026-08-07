@@ -5,12 +5,12 @@
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Principal-Data-Engineer--L11-_2601927-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Principal-Data-Engineer--L11-_2602164-1) |
 
 ## About This Role
 
-This data engineer position at Synchrony Financial was posted on 2026-07-10.
+This data engineer position at Synchrony Financial was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

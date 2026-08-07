@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Michigan, US |
+| Location | Pennsylvania, US |
 | Category | Operations |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Michigan/Operations-Specialist_R0016870) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Pennsylvania/Operations-Specialist_R0017824-1) |
 
 ## About This Role
 
-This operations position at CLEAResult was posted on 2026-02-09.
+This operations position at CLEAResult was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

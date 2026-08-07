@@ -5,12 +5,12 @@
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | California, US |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8003295) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8097837) |
 
 ## About This Role
 
-This digital / performance marketing position at DEPT® was posted on 2026-06-12.
+This digital / performance marketing position at DEPT® was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

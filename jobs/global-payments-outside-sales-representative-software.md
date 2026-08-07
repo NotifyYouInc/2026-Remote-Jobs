@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Baton Rouge, Louisiana, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Account Executive |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/BATON-ROUGE-LOUISIANA/Outside-Sales-Representative---Software_R0073181) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/SCOTTSDALE-ARIZONA/Outside-Sales-Representative---Software_R0073404) |
 
 ## About This Role
 
-This account executive position at Global Payments was posted on 2026-07-17.
+This account executive position at Global Payments was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

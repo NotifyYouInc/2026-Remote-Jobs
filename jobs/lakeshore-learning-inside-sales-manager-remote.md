@@ -5,12 +5,12 @@
 | Company | [Lakeshore Learning](https://scoutify.ai/companies/lakeshorelearning?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | North Carolina, US |
 | Category | Sales |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000140346070-inside-sales-manager-remote) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000140781107-inside-sales-manager-remote) |
 
 ## About This Role
 
-This sales position at Lakeshore Learning was posted on 2026-07-28.
+This sales position at Lakeshore Learning was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

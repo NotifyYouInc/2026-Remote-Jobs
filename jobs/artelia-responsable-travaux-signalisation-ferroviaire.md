@@ -5,12 +5,12 @@
 | Company | [Artelia](https://scoutify.ai/companies/artelia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | France |
 | Category | Project Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000134436840-responsable-travaux-signalisation-ferroviaire) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000140846439-responsable-travaux-signalisation-ferroviaire) |
 
 ## About This Role
 
-This project manager position at Artelia was posted on 2026-06-26.
+This project manager position at Artelia was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Account Executive |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/DALLAS-TEXAS/Software-Relationship-Manager_R0072270) |
+| Location | California, US |
+| Category | Account Manager |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ORANGE-COUNTY-CALIFORNIA/Software-Relationship-Manager_R0073039) |
 
 ## About This Role
 
-This account executive position at Global Payments was posted on 2026-06-12.
+This account manager position at Global Payments was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

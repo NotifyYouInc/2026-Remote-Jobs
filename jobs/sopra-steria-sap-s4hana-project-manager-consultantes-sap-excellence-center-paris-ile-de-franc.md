@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000118740877-sap-s4hana-project-manager-consultantes-sap-excellence-center-paris-ile-de-france) |
+| Category | Project Manager |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140830272-sap-s4hana-project-manager-consultantes-sap-excellence-center-paris-ile-de-france) |
 
 ## About This Role
 
-This technology / it consulting position at Sopra Steria was posted on 2026-04-05.
+This project manager position at Sopra Steria was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
