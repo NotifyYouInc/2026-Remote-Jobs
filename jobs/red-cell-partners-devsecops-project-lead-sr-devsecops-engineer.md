@@ -5,12 +5,12 @@
 | Company | [Red Cell Partners](https://scoutify.ai/companies/red-cell-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/redcellpartners/jobs/5147200007) |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/redcellpartners/jobs/5201224007) |
 
 ## About This Role
 
-This devops engineer position at Red Cell Partners was posted on 2026-06-02.
+This devops engineer position at Red Cell Partners was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

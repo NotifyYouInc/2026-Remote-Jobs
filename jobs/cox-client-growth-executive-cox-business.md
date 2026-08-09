@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wichita, Kansas, United States |
-| Category | Account Executive |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Wichita-KS/Client-Growth-Executive--Cox-Business-_R202677857) |
+| Location | Phoenix, Arizona, United States |
+| Category | Sales |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Phoenix-AZ/Client-Growth-Executive--Cox-Business-_R202680693) |
 
 ## About This Role
 
-This account executive position at Cox was posted on 2026-05-29.
+This sales position at Cox was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Application Analyst-Senior at Intermountain Health
+# Application Analyst Senior at Intermountain Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Broomfield, Colorado, United States |
-| Category | Project Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Peaks-Regional-Office/Application-Analyst-Senior_R173786) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Peaks-Regional-Office/Application-Analyst-Senior_R178020) |
 
 ## About This Role
 
-This project manager position at Intermountain Health was posted on 2026-06-09.
+This it & systems administration position at Intermountain Health was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

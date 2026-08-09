@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | 3 locations |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/REMOTE---USA/Digital-Marketing---Communications-Manager_R202679212-1) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Digital-Marketing---Communications-Manager_R202680388) |
 
 ## About This Role
 
-This digital / performance marketing position at Cox was posted on 2026-07-13.
+This digital / performance marketing position at Cox was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Roblox](https://scoutify.ai/companies/roblox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Motion / Video Production |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://careers.roblox.com/jobs/7923268?gh_jid=7923268) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://careers.roblox.com/jobs/8024947?gh_jid=8024947) |
 
 ## About This Role
 
-This motion / video production position at Roblox was posted on 2026-05-14.
+This motion / video production position at Roblox was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

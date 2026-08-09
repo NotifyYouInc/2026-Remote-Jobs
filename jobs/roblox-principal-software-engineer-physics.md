@@ -5,12 +5,12 @@
 | Company | [Roblox](https://scoutify.ai/companies/roblox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://careers.roblox.com/jobs/8084445?gh_jid=8084445) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://careers.roblox.com/jobs/8024941?gh_jid=8024941) |
 
 ## About This Role
 
-This software engineer position at Roblox was posted on 2026-07-24.
+This software engineer position at Roblox was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

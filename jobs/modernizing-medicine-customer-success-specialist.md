@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Modernizing Medicine](https://scoutify.ai/companies/modernizingmedicineinc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Florida, US |
 | Category | Customer Success |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://modmed.wd501.myworkdayjobs.com/ModMed12/job/Remote---USA/Customer-Success-Specialist_R4388-1) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://modmed.wd501.myworkdayjobs.com/ModMed12/job/Remote---Florida/Customer-Success-Specialist_R4791) |
 
 ## About This Role
 
-This customer success position at Modernizing Medicine was posted on 2026-04-30.
+This customer success position at Modernizing Medicine was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

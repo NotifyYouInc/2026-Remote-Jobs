@@ -6,7 +6,7 @@
 | Location | Mexico |
 | Category | FP&A / Strategic Finance |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Serbia/Project-Budget-Analyst_R-01361926) |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Project-Budget-Analyst_R-01361927-1) |
 
 ## About This Role
 

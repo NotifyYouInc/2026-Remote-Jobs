@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Account Executive |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000126913259-sales-executive-bulgaria) |
+| Category | Sales |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000141070299-sales-executive-bulgaria) |
 
 ## About This Role
 
-This account executive position at Delivery Hero was posted on 2026-05-18.
+This sales position at Delivery Hero was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

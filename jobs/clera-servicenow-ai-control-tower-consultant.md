@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/d2795a08-f27d-429b-819c-1e712316dffc) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/5921345c-e391-4ca2-a58c-5d16b3d41fc6) |
 
 ## About This Role
 
-This technology / it consulting position at Clera was posted on 2026-07-22.
+This technology / it consulting position at Clera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

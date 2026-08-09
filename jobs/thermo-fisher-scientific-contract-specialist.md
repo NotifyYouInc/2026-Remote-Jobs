@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Colombia |
+| Location | Argentina |
 | Category | Legal |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Colombia/Contract-Specialist_R-01355697) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Argentina/Contract-Specialist_R-01362493) |
 
 ## About This Role
 
-This legal position at Thermo Fisher Scientific was posted on 2026-06-11.
+This legal position at Thermo Fisher Scientific was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

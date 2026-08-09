@@ -1,16 +1,16 @@
-# Client Success Manager, Real Assets at Intapp
+# Client Success Manager - Real Assets at Intapp
 
 | Field | Details |
 |-------|---------|
 | Company | [Intapp](https://scoutify.ai/companies/intapp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | New York City, New York, United States |
 | Category | Customer Success |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Remote-United-States/Client-Success-Manager--Real-Assets_R2025048-2) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/US-NY-New-York/Client-Success-Manager---Real-Assets_R2025220-1) |
 
 ## About This Role
 
-This customer success position at Intapp was posted on 2026-06-25.
+This customer success position at Intapp was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

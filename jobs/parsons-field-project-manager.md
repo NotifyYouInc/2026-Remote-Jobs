@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Project Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Field-Project-Manager_R179676-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Field-Project-Manager_R184147) |
 
 ## About This Role
 
-This project manager position at Parsons was posted on 2026-04-15.
+This project manager position at Parsons was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

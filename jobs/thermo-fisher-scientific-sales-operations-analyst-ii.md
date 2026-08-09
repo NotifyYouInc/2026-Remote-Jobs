@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Italy |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Italy/Sales-Operations-Analyst-II_R-01359406) |
+| Location | New York, US |
+| Category | Operations |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-New-York-USA/Sales-Operations-Analyst-II_R-01360991) |
 
 ## About This Role
 
-This revenue / sales operations position at Thermo Fisher Scientific was posted on 2026-07-03.
+This operations position at Thermo Fisher Scientific was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

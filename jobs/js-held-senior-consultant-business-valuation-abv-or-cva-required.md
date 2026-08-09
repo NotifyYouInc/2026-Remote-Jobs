@@ -5,12 +5,12 @@
 | Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000137529659-senior-consultant-business-valuation-abv-or-cva-required) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000140993329-senior-consultant-business-valuation-abv-or-cva-required) |
 
 ## About This Role
 
-This strategy / management consulting position at J.S. Held was posted on 2026-07-13.
+This strategy / management consulting position at J.S. Held was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

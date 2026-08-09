@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arizona, US |
-| Category | Account Executive |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Arizona/Account-Executive--Business-Sales_REQ354151-1) |
+| Location | New Jersey, US |
+| Category | Sales |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-New-Jersey/Account-Executive--Business-Sales_REQ364757) |
 
 ## About This Role
 
-This account executive position at T-Mobile was posted on 2026-07-21.
+This sales position at T-Mobile was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

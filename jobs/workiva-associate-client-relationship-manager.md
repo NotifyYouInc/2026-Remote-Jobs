@@ -5,12 +5,12 @@
 | Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Associate-Client-Relationship-Manager_R11520) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Associate-Client-Relationship-Manager_R12118) |
 
 ## About This Role
 
-This account manager position at Workiva was posted on 2026-03-13.
+This account manager position at Workiva was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

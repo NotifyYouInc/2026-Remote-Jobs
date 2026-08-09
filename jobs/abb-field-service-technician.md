@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
-| Category | Marketing |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Texas-United-States-of-America/Field-Service-Technician-1_JR00038643) |
+| Location | Oregon, US |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Oregon-United-States-of-America/Field-Service-Technician_JR00042726) |
 
 ## About This Role
 
-This marketing position at ABB was posted on 2026-06-17.
+This electrical / hardware engineer position at ABB was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

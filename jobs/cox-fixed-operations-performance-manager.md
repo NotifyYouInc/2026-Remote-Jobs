@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kansas, US |
-| Category | Account Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Missouri/Fixed-Operations-Performance-Manager_R202677666) |
+| Location | Missouri, US |
+| Category | Sales |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Indiana/Fixed-Operations-Performance-Manager_R202680690) |
 
 ## About This Role
 
-This account manager position at Cox was posted on 2026-05-22.
+This sales position at Cox was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Austin-TX/Director--Contract-Solutions_R0033078) |
+| Location | Denver, Colorado, United States |
+| Category | Program Manager |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-Denver-CO-700--17th-St-Suite-700/Director--Contract-Solutions_R0034951) |
 
 ## About This Role
 
-This strategy / management consulting position at Epiqsystems was posted on 2026-03-12.
+This program manager position at Epiqsystems was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

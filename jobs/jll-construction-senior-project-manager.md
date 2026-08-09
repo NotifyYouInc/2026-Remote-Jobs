@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tucson, Arizona, United States |
+| Location | 2 locations |
 | Category | Project Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tucson-AZ/Construction-Senior-Project-Manager_REQ508194) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Provo-UT/Construction-Senior-Project-Manager_REQ525642) |
 
 ## About This Role
 
-This project manager position at JLL was posted on 2026-07-07.
+This project manager position at JLL was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

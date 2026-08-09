@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Irvine, California, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5127583007) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5200996007) |
 
 ## About This Role
 
-This software engineer position at The Trade Desk was posted on 2026-05-04.
+This software engineer position at The Trade Desk was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

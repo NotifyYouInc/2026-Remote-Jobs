@@ -5,12 +5,12 @@
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pennsylvania, US |
 | Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Pennsylvania/Operations-Analyst_R0017647-1) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Pennsylvania/Operations-Analyst_R0017840) |
 
 ## About This Role
 
-This business analyst position at CLEAResult was posted on 2026-06-09.
+This business analyst position at CLEAResult was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

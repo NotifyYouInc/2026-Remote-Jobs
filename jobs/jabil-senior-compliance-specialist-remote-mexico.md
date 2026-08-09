@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Senior-Compliance-Specialist--Remote-Mexico-_J2442112) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Senior-Compliance-Specialist--Remote-Mexico-_J2459732-1) |
 
 ## About This Role
 
-This compliance & risk management position at Jabil was posted on 2026-03-04.
+This compliance & risk management position at Jabil was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Industrial Automation |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Nationwide-Remote-USA/Transportation-Senior-Continuous-Improvement-Engineer--remote-_R172686) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Nationwide-Remote-USA/Transportation-Senior-Continuous-Improvement-Engineer--remote-_R179668) |
 
 ## About This Role
 
-This industrial automation position at Ryder System was posted on 2026-06-26.
+This industrial automation position at Ryder System was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

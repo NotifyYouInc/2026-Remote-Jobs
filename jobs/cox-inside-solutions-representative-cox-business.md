@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Diego, California, United States |
-| Category | Account Executive |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/San-Diego-CA/Inside-Solutions-Representative--Cox-Business-_R202678245) |
+| Category | Sales |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/San-Diego-CA/Inside-Solutions-Representative--Cox-Business-_R202680714) |
 
 ## About This Role
 
-This account executive position at Cox was posted on 2026-06-03.
+This sales position at Cox was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 4 locations |
+| Location | Phoenix, Arizona, United States |
 | Category | Sales Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Austin-Metro-Area---Texas---USA-Remote/Sr-Sales-Engineer_R04118) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Phoenix-Metro-Area---Arizona---USA-Remote/Sr-Sales-Engineer_R04357-1) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-07-02.
+This sales engineer position at Cohesity was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pushpay](https://scoutify.ai/companies/pushpay?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pushpay/jobs/8068373) |
+| Category | Business Development |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pushpay/jobs/8100415) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Pushpay was posted on 2026-07-15.
+This business development position at Pushpay was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

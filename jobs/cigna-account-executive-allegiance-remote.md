@@ -1,16 +1,16 @@
-# Account Executive - Allegiance - Remote at Cigna
+# Account Executive- Allegiance, Remote at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Account Executive |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Account-Executive---Allegiance---Remote_26005645) |
+| Category | Sales |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Account-Executive--Allegiance--Remote_26009450) |
 
 ## About This Role
 
-This account executive position at Cigna was posted on 2026-05-15.
+This sales position at Cigna was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 
