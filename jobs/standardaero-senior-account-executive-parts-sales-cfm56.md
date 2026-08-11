@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [StandardAero](https://scoutify.ai/companies/us1-cx-oj100181?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Miramar, Florida, United States |
-| Category | Account Executive |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://cva.fa.us1.oraclecloud.com/jobs/#9391) |
+| Location | Singapore, Singapore |
+| Category | Sales |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://cva.fa.us1.oraclecloud.com/jobs/#9926) |
 
 ## About This Role
 
-This account executive position at StandardAero was posted on 2026-05-08.
+This sales position at StandardAero was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

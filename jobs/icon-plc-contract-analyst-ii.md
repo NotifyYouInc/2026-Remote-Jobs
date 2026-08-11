@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Madrid, Madrid, Spain |
 | Category | Legal |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Spain-Madrid/Contract-Analyst-II_JR154922) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Spain-Madrid/Contract-Analyst-II_JR156656) |
 
 ## About This Role
 
-This legal position at ICON plc was posted on 2026-07-03.
+This legal position at ICON plc was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

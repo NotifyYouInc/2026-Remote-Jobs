@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Montigny-le-Bretonneux, Île-de-France, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000124457069-ingenieur-detudes-electricite-cfocfa-hf) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000141429634-ingenieur-detudes-electricite-cfocfa-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Assystem was posted on 2026-05-04.
+This electrical / hardware engineer position at Assystem was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

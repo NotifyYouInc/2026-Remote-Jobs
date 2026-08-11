@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Graphic / Brand Design |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139827549-art-director-campaigns) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000141368354-art-director-campaigns) |
 
 ## About This Role
 
-This graphic / brand design position at ServiceNow was posted on 2026-07-25.
+This graphic / brand design position at ServiceNow was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

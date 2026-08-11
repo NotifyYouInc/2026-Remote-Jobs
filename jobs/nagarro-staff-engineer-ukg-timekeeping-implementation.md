@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | India |
 | Category | Customer Success |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134703219-staff-engineer-ukg-timekeeping-implementation) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000141410569-staff-engineer-ukg-timekeeping-implementation) |
 
 ## About This Role
 
-This customer success position at Nagarro was posted on 2026-06-29.
+This customer success position at Nagarro was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

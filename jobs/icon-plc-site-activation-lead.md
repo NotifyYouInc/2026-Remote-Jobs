@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Project Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Taiwan-Taipei/Site-Activation-Lead_JR151609) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Program Manager |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Poland-Warsaw/Site-Activation-Lead_JR156537) |
 
 ## About This Role
 
-This project manager position at ICON plc was posted on 2026-07-09.
+This program manager position at ICON plc was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Virginia Beach, Virginia, United States |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000138063619-sales-assistant-no-experience) |
+| Location | Miami, Florida, United States |
+| Category | Sales |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000141338649-sales-assistant-no-experience) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Jobs for Humanity was posted on 2026-07-16.
+This sales position at Jobs for Humanity was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

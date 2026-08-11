@@ -1,16 +1,16 @@
-# Manager, Pricing at CVS Health
+# Manager - Pricing at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Illinois, US |
-| Category | Project Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Manager--Pricing_R0866474-1) |
+| Location | Rhode Island, US |
+| Category | Business Analyst |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Rhode-Island/Manager---Pricing_R0985633-1) |
 
 ## About This Role
 
-This project manager position at CVS Health was posted on 2026-03-31.
+This business analyst position at CVS Health was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

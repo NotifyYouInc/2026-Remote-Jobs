@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Account Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454555/brand-specialist-italian) |
+| Location | India |
+| Category | Sales |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10491199/brand-specialist-italian) |
 
 ## About This Role
 
-This account manager position at Amazon was posted on 2026-06-22.
+This sales position at Amazon was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

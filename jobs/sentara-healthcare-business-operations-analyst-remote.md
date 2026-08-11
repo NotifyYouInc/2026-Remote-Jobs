@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Delaware, US |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Glen-Allen-VA/Business-Operations-Analyst---Remote_JR-92497-1) |
+| Location | Virginia Beach, Virginia, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Virginia-Beach-VA/Business-Operations-Analyst---Remote_JR-103569-1) |
 
 ## About This Role
 
-This operations position at Sentara Healthcare was posted on 2026-02-11.
+This strategy & operations position at Sentara Healthcare was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

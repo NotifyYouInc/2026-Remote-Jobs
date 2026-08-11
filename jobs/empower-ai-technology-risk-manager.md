@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/AI-Technology-Risk-Manager_R0061388) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/AI-Technology-Risk-Manager_R0061413) |
 
 ## About This Role
 
-This compliance & risk management position at Empower was posted on 2026-08-01.
+This compliance & risk management position at Empower was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

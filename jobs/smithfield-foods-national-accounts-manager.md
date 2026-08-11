@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smithfield Foods](https://scoutify.ai/companies/smithfield-foods?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Indiana, US |
-| Category | Account Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Remote-IN/National-Accounts-Manager_R-2026-8297) |
+| Location | Georgia, US |
+| Category | Sales |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Remote-TN/National-Accounts-Manager_R-2026-10285) |
 
 ## About This Role
 
-This account manager position at Smithfield Foods was posted on 2026-07-02.
+This sales position at Smithfield Foods was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

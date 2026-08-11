@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Corporate Finance |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000133221069-financial-controller) |
+| Location | Lucknow, Uttar Pradesh, India |
+| Category | Accounting |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000141423440-financial-controller) |
 
 ## About This Role
 
-This corporate finance position at ACCOR was posted on 2026-06-21.
+This accounting position at ACCOR was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

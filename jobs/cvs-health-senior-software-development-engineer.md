@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Richardson, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Richardson-909-E-Collins-Blvd/Senior-Software-Development-Engineer_R0937713) |
+| Location | Florida, US |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Work-from-home/Senior-Software-Development-Engineer_R0992387) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-07-17.
+This ai / llm engineer position at CVS Health was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

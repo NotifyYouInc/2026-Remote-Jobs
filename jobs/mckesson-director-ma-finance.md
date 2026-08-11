@@ -1,16 +1,16 @@
-# Director M&A Finance at McKesson
+# Director, M&A Finance at McKesson
 
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Director-M-A-Finance_JR0142897) |
+| Location | 4 locations |
+| Category | Corporate Development & M&A |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Director--M-A-Finance_JR0151307) |
 
 ## About This Role
 
-This corporate finance position at McKesson was posted on 2026-02-11.
+This corporate development & m&a position at McKesson was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
