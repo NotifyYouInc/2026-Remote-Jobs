@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ERGOMED](https://scoutify.ai/companies/ergomed?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Business Development |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ergomed/744000113025688-sales-development-account-manager) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Sales |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ergomed/744000141650719-sales-development-account-manager) |
 
 ## About This Role
 
-This business development position at ERGOMED was posted on 2026-03-05.
+This sales position at ERGOMED was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

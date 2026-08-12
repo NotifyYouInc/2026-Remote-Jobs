@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Switzerland |
 | Category | Data Scientist |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Senior-Manager-R-D-Quality-Analytics---Portfolio-Insights_R36142-1) |
+| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Switzerland-Remote/Senior-Manager-R-D-Quality-Analytics---Portfolio-Insights_R36194) |
 
 ## About This Role
 

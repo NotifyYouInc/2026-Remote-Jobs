@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
-| Category | Account Executive |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Colombo-Basnhira-pata-Sri-Lanka/Sales-Representative--III_R69077-2) |
+| Location | Gurugram, Haryana, India |
+| Category | Sales |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Gurgaon-Haryana-India/Sales-Representative--III_R73435-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-06-16.
+This sales position at Medtronic was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

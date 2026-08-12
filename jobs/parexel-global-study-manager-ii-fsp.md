@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Project Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/United-States---Remote/Global-Study-Manager-II---FSP_R0000040720-1) |
+| Location | Argentina |
+| Category | Program Manager |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Mexico-Remote/Global-Study-Manager-II---FSP_R0000044322-1) |
 
 ## About This Role
 
-This project manager position at Parexel was posted on 2026-04-15.
+This program manager position at Parexel was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

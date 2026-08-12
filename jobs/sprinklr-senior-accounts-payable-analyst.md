@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Delaware, US |
-| Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Texas---Remote/Senior-Accounts-Payable-Analyst_112284-JOB) |
+| Location | New York City, New York, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Texas---Remote/Senior-Accounts-Payable-Analyst_113399-JOB) |
 
 ## About This Role
 
-This accounting position at Sprinklr was posted on 2026-07-24.
+This corporate finance position at Sprinklr was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

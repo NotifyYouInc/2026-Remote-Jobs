@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VSP Vision](https://scoutify.ai/companies/vsp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Senior-Accounts-Receivable-Specialist_R-9703) |
+| Category | Corporate Finance |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Senior-Accounts-Receivable-Specialist_R-9837) |
 
 ## About This Role
 
-This accounting position at VSP Vision was posted on 2026-07-02.
+This corporate finance position at VSP Vision was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

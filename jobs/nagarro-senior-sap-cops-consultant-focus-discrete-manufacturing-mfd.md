@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Germany |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134405019-senior-sap-cops-consultant-focus-discrete-manufacturing-mfd) |
+| Category | Implementation / Professional Services |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000141642249-senior-sap-cops-consultant-focus-discrete-manufacturing-mfd) |
 
 ## About This Role
 
-This technology / it consulting position at Nagarro was posted on 2026-06-26.
+This implementation / professional services position at Nagarro was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

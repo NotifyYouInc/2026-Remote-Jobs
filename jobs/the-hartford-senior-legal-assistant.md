@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Hartford](https://scoutify.ai/companies/the-hartford?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Brea, California, United States |
 | Category | Legal |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Washington-Remote/Senior-Legal-Assistant_R2625362) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Brea-CA/Senior-Legal-Assistant_R2626308) |
 
 ## About This Role
 
-This legal position at The Hartford was posted on 2026-05-15.
+This legal position at The Hartford was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

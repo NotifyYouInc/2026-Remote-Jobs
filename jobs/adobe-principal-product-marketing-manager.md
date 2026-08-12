@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Marketing |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Principal-Product-Marketing-Manager_R166905) |
+| Location | 2 locations |
+| Category | Product Marketing |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Principal-Product-Marketing-Manager_R170775) |
 
 ## About This Role
 
-This marketing position at Adobe was posted on 2026-03-26.
+This product marketing position at Adobe was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

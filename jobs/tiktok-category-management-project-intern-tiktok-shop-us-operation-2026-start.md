@@ -1,4 +1,4 @@
-# Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start at TikTok
+# Category Management Project Intern (TikTok Shop - US Operation）- 2026 Start at TikTok
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Seattle, Washington, United States |
 | Category | Program Manager |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7669294579375769909/detail) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7670035937425983797/detail) |
 
 ## About This Role
 

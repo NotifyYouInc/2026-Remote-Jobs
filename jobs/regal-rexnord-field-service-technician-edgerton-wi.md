@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/United-States/Field-Service-Engineer--Eau-Claire-Black-River-Falls-_R26_00320) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Union-Grove-Wisconsin-United-States/Field-Service-Technician--Edgerton--WI-_R26_03938) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Regal Rexnord was posted on 2026-03-24.
+This electrical / hardware engineer position at Regal Rexnord was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

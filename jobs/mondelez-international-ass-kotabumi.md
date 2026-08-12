@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Indonesia |
-| Category | Account Executive |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Indonesia-Remote/ASS-Kotabumi_R-171571) |
+| Category | Sales |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Indonesia-Remote/ASS-Kotabumi_R-174230) |
 
 ## About This Role
 
-This account executive position at Mondelez International was posted on 2026-07-20.
+This sales position at Mondelez International was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

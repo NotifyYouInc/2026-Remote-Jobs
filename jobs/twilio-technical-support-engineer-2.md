@@ -5,12 +5,12 @@
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
 | Category | Customer Success |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8079708) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8104436) |
 
 ## About This Role
 
-This customer success position at Twilio was posted on 2026-07-30.
+This customer success position at Twilio was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

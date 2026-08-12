@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Vermont, US |
-| Category | Account Executive |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Vermont-United-States/XMLNAME--Remote--Sr-Account-Executive_R0043558-2) |
+| Location | Alberta, CA |
+| Category | Sales |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Vermont-United-States/XMLNAME--Remote--Sr-Account-Executive_R0045622-9) |
 
 ## About This Role
 
-This account executive position at Harris Computer was posted on 2026-04-24.
+This sales position at Harris Computer was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

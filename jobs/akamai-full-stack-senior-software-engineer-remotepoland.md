@@ -5,12 +5,12 @@
 | Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Poland |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3215) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3213) |
 
 ## About This Role
 
-This software engineer position at Akamai was posted on 2026-06-11.
+This software engineer position at Akamai was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

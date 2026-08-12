@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Data-Engineer_R0061332) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Data-Engineer_R0061353) |
 
 ## About This Role
 
-This data engineer position at Empower was posted on 2026-07-31.
+This data engineer position at Empower was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

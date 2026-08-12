@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Minneapolis, Minnesota, United States |
-| Category | Account Executive |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000133709155-clinical-sales-representative) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Sales |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000141662229-clinical-sales-representative) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-06-23.
+This sales position at Intuitive Surgical was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

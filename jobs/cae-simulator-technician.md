@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sanford, Florida, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Sanford-Orlando/Simulator-Technician_122223-1) |
+| Location | Eagan, Minnesota, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Eagan/Simulator-Technician_122751) |
 
 ## About This Role
 
-This it & systems administration position at CAE was posted on 2026-07-01.
+This electrical / hardware engineer position at CAE was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

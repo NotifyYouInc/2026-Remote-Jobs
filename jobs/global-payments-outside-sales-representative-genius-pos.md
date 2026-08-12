@@ -5,12 +5,12 @@
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 7 locations |
 | Category | Sales |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/LOS-ANGELES-CALIFORNIA/Outside-Sales-Representative---Genius-POS_R0074089) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/NEW-YORK-CITY-NEW-YORK/Outside-Sales-Representative---Genius-POS_R0074133) |
 
 ## About This Role
 
-This sales position at Global Payments was posted on 2026-08-03.
+This sales position at Global Payments was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

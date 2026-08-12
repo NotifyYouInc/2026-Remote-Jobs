@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sitemate](https://scoutify.ai/companies/sitemate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/56b3e899-ff80-4c67-99d0-a8f6a8420bdd) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Product Designer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/44f3d8cd-8305-49f6-a658-ff2b08780493) |
 
 ## About This Role
 
-This product manager position at Sitemate was posted on 2026-02-18.
+This product designer position at Sitemate was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000130281069-senior-ai-program-manager-marketing-technology) |
+| Category | Marketing Operations |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000141630489-senior-ai-program-manager-marketing-technology) |
 
 ## About This Role
 
-This marketing position at Flywire was posted on 2026-06-04.
+This marketing operations position at Flywire was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

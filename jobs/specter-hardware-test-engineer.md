@@ -1,16 +1,16 @@
-# Hardware Test Engineer" at Specter
+# Hardware Test Engineer at Specter
 
 | Field | Details |
 |-------|---------|
 | Company | [Specter](https://scoutify.ai/companies/specter?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
-| Category | QA Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/specter/24167a41-fb92-4a8e-9cc9-4fccdb0c7a47) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/specter/dab4adfc-971b-4f8e-b0c8-f36ed9df75f9) |
 
 ## About This Role
 
-This qa engineer position at Specter was posted on 2026-07-10.
+This electrical / hardware engineer position at Specter was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

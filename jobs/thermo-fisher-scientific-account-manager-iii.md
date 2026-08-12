@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | China |
-| Category | Account Manager |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/Account-Manager-III_R-01362327-1) |
+| Location | Canada |
+| Category | Sales |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Canada/Account-Manager-III_R-01363089) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-07-25.
+This sales position at Thermo Fisher Scientific was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | University, Florida, United States |
 | Category | Business Analyst |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://wisconsin.wd1.myworkdayjobs.com/uw_comprehensives/job/Menomonie-WI/Business-Analyst_JR10012946-1) |
+| Apply | [View on company site](https://wisconsin.wd1.myworkdayjobs.com/uw_comprehensives/job/Menomonie-WI/Business-Analyst_JR10013694) |
 
 ## About This Role
 

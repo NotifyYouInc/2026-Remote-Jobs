@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Palm Beach Gardens, Florida, United States |
-| Category | Account Executive |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Remote-US-California/Strategic-Account-Executive_JR114964) |
+| Location | United States |
+| Category | Sales |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Remote---US/Strategic-Account-Executive_JR116919-1) |
 
 ## About This Role
 
-This account executive position at Copeland was posted on 2026-06-02.
+This sales position at Copeland was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

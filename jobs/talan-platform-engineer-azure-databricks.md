@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Málaga, Andalusia, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000139526919-platform-engineer-azure-databricks) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000141639874-platform-engineer-azure-databricks) |
 
 ## About This Role
 
-This devops engineer position at Talan was posted on 2026-07-24.
+This devops engineer position at Talan was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
