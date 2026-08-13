@@ -5,12 +5,12 @@
 | Company | [Dematic](https://scoutify.ai/companies/kiongroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Grand Rapids, Michigan, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Electrical-Pre-Commissioning-Technician-1_JR-0087199-2) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Electrical-Pre-Commissioning-Technician-1_JR-0092205-1) |
 
 ## About This Role
 
-This industrial automation position at Dematic was posted on 2026-04-06.
+This industrial automation position at Dematic was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exactcare](https://scoutify.ai/companies/exactcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Jersey, US |
+| Location | United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://exactcare.wd1.myworkdayjobs.com/anewhealth_career_site/job/NJ---Moorestown/Human-Resources-Business-Partner_R-108278) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://exactcare.wd1.myworkdayjobs.com/anewhealth_career_site/job/US---Remote/Senior-HR-Business-Partner_R-108874) |
 
 ## About This Role
 
-This human resources / people ops position at Exactcare was posted on 2026-04-23.
+This human resources / people ops position at Exactcare was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

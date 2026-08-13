@@ -5,12 +5,12 @@
 | Company | [Jonas Software](https://scoutify.ai/companies/talentmanagementsolution?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Sales Leadership |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Regional-Sales-Director_R52854-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Regional-Sales-Director_R53088) |
 
 ## About This Role
 
-This sales leadership position at Jonas Software was posted on 2026-07-18.
+This sales leadership position at Jonas Software was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

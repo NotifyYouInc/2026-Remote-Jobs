@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 34 locations |
+| Location | Columbus, Ohio, United States |
 | Category | Project Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Flexible-Location-USA/Construction-Project-Manager_R314789) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---USA---OH---Columbus---445-Hutchinson-Ave/Construction-Project-Manager_R331514-1) |
 
 ## About This Role
 
-This project manager position at Cushman & Wakefield was posted on 2026-04-09.
+This project manager position at Cushman & Wakefield was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

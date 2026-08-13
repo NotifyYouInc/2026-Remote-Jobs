@@ -5,12 +5,12 @@
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Detroit, Michigan, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Detroit-Michigan-USA---Remote/HR-Generalist_R_2607_9830) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Detroit-Michigan-USA---Remote/HR-Generalist_R_2608_10000) |
 
 ## About This Role
 
-This human resources / people ops position at TaskUs was posted on 2026-07-30.
+This human resources / people ops position at TaskUs was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

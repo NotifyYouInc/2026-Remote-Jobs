@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TELUS](https://scoutify.ai/companies/telus?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 16 locations |
-| Category | Deployment Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Atlanta-Georgia-USA/Deployment-Specialist---Application-Delivery_R-22654) |
+| Location | 2 locations |
+| Category | Implementation / Professional Services |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Toronto-Ontario-Canada/Deployment-Specialist---Application-Delivery_R-22665) |
 
 ## About This Role
 
-This deployment engineer position at TELUS was posted on 2026-07-17.
+This implementation / professional services position at TELUS was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

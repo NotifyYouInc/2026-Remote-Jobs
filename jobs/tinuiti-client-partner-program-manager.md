@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tinuiti](https://scoutify.ai/companies/tinuiti?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Strategic Partnerships |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Client-Partner-Program-Manager_R26_272) |
+| Category | Project Manager |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Client-Partner-Program-Manager_R26_595) |
 
 ## About This Role
 
-This strategic partnerships position at Tinuiti was posted on 2026-03-30.
+This project manager position at Tinuiti was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

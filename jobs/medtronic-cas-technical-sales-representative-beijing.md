@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | Account Executive |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Beijing-Beijing-China/CAS-Technical-Sales-Representative-Beijing_R68231-2) |
+| Category | Sales |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Beijing-Beijing-China/CAS-Technical-Sales-Representative-Beijing_R73347-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-05-29.
+This sales position at Medtronic was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

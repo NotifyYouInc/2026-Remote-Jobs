@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jonas Software](https://scoutify.ai/companies/talentmanagementsolution?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Account Executive |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Account-Executive_R52370) |
+| Category | Sales |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Account-Executive_R53138) |
 
 ## About This Role
 
-This account executive position at Jonas Software was posted on 2026-06-01.
+This sales position at Jonas Software was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

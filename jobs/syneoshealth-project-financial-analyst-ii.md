@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United Kingdom |
+| Location | Washington, US |
 | Category | Corporate Finance |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/GBR-Remote/Project-Financial-Analyst-II_25110290) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-WA-Remote/Project-Financial-Analyst-II_25108420) |
 
 ## About This Role
 
-This corporate finance position at Syneoshealth was posted on 2026-08-01.
+This corporate finance position at Syneoshealth was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

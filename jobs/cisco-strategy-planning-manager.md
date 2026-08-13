@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 4 locations |
-| Category | Strategy & Operations |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Strategy---Planning-Manager_2017126) |
+| Location | 2 locations |
+| Category | Operations |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Atlanta-Georgia-US/Strategy---Planning-Manager_2018227-1) |
 
 ## About This Role
 
-This strategy & operations position at Cisco was posted on 2026-07-01.
+This operations position at Cisco was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

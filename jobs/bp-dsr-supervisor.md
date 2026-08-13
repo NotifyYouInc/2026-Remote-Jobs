@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | China |
 | Category | Sales Leadership |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/China---Remote/DSR-Supervisor_RQ109951) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/China---Remote/DSR-Supervisor_RQ114376) |
 
 ## About This Role
 
-This sales leadership position at BP was posted on 2026-04-30.
+This sales leadership position at BP was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

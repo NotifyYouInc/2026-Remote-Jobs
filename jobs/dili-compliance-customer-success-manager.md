@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [dili](https://scoutify.ai/companies/dili?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/dili/jobs/JihtpfK-compliance-customer-success-manager) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/dili/jobs/AouxfSH-compliance-customer-success-manager) |
 
 ## About This Role
 
-This customer success position at dili was posted on 2026-05-13.
+This customer success position at dili was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

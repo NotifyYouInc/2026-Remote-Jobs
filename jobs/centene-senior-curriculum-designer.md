@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arkansas, US |
+| Location | Missouri, US |
 | Category | Learning & Development |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Curriculum-Designer_1627782-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Curriculum-Designer_1646271) |
 
 ## About This Role
 
-This learning & development position at Centene was posted on 2026-03-06.
+This learning & development position at Centene was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Jose, California, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Product-Manager_R170627) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-New-York/Principal-Product-Manager_R171078) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-07-22.
+This product manager position at Adobe was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

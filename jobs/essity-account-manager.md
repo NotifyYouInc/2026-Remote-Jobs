@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 5 locations |
+| Location | 3 locations |
 | Category | Sales |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Scranton/Account-Manager_Essity264068) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Boston-MA/Account-Manager_Essity264070) |
 
 ## About This Role
 
-This sales position at Essity was posted on 2026-07-31.
+This sales position at Essity was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

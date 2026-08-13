@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Industrial Automation |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000140418422-leader-technique-informatique-industrielle-hf) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000141858609-leader-technique-informatique-industrielle-hf) |
 
 ## About This Role
 
-This industrial automation position at Assystem was posted on 2026-07-29.
+This industrial automation position at Assystem was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

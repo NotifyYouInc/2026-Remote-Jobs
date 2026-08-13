@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09510---Washington-Remote/Revenue-Specialist-I--ROPS-_R0470195) |
+| Category | Operations |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09527---Wisconsin-Remote/Revenue-Specialist-I--ROPS-_R0472037) |
 
 ## About This Role
 
-This revenue / sales operations position at DaVita was posted on 2026-07-24.
+This operations position at DaVita was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

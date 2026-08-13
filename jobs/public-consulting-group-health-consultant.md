@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Public Consulting Group](https://scoutify.ai/companies/pcg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://pcg.wd1.myworkdayjobs.com/PCG_External_Careers/job/US/Health-Consultant_JR101884) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://pcg.wd1.myworkdayjobs.com/PCG_External_Careers/job/US/Health-Consultant_JR102072) |
 
 ## About This Role
 
-This business analyst position at Public Consulting Group was posted on 2026-06-04.
+This strategy / management consulting position at Public Consulting Group was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

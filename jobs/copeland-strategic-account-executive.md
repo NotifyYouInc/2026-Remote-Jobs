@@ -5,12 +5,12 @@
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Sales |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Remote---US/Strategic-Account-Executive_JR116919-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Remote---US/Strategic-Account-Executive_JR117152) |
 
 ## About This Role
 
-This sales position at Copeland was posted on 2026-08-05.
+This sales position at Copeland was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

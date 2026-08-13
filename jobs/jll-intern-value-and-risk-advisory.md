@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 6 locations |
+| Location | 7 locations |
 | Category | Financial Advisory & Consulting |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Intern--Value-and-Risk-Advisory_REQ505903) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charleston-SC/Intern--Value-and-Risk-Advisory_REQ525638) |
 
 ## About This Role
 
-This financial advisory & consulting position at JLL was posted on 2026-05-11.
+This financial advisory & consulting position at JLL was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

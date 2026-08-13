@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [dili](https://scoutify.ai/companies/dili?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Business Development |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/dili/jobs/PkNc0a5-founding-business-development-representative) |
+| Location | United States |
+| Category | Sales |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/dili/jobs/ihjsbcJ-founding-business-development-representative) |
 
 ## About This Role
 
-This business development position at dili was posted on 2026-05-13.
+This sales position at dili was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

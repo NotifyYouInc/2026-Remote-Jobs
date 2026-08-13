@@ -5,12 +5,12 @@
 | Company | [dili](https://scoutify.ai/companies/dili?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/dili/jobs/C4KB131-senior-full-stack-engineer) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/dili/jobs/8bQP9BT-senior-full-stack-engineer) |
 
 ## About This Role
 
-This software engineer position at dili was posted on 2026-05-13.
+This software engineer position at dili was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

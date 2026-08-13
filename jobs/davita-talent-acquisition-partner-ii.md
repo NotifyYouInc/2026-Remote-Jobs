@@ -5,12 +5,12 @@
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01548---Texas-Remote/Talent-Acquisition-Partner-II_R0470093) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09567---Denver-HQ-Non-CA-or-CO-Remote/Talent-Acquisition-Partner-II_R0472150) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at DaVita was posted on 2026-07-24.
+This talent acquisition / recruiting position at DaVita was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

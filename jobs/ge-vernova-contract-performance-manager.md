@@ -5,12 +5,12 @@
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Program Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Contract-Performance-Manager_R5048744-3) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Contract-Performance-Manager_R5049172-1) |
 
 ## About This Role
 
-This program manager position at GE Vernova was posted on 2026-08-04.
+This program manager position at GE Vernova was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
