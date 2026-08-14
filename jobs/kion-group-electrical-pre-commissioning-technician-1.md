@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KION Group](https://scoutify.ai/companies/kion-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Grand Rapids, Michigan, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Electrical-Pre-Commissioning-Technician-1_JR-0087199) |
+| Category | Industrial Automation |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Electrical-Pre-Commissioning-Technician-1_JR-0092205-2) |
 
 ## About This Role
 
-This electrical / hardware engineer position at KION Group was posted on 2026-04-06.
+This industrial automation position at KION Group was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

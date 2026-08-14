@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brale](https://scoutify.ai/companies/brale?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Account Executive |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/brale/109c49fc-fa3d-46ef-bbee-3bf6ea12438e) |
+| Category | Sales |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/brale/3d49c592-c722-4d84-a3a3-0567e433dc84) |
 
 ## About This Role
 
-This account executive position at Brale was posted on 2026-05-06.
+This sales position at Brale was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

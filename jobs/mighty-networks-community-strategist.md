@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mighty Networks](https://scoutify.ai/companies/mighty-networks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mightynetworks/jobs/8523950002?gh_jid=8523950002) |
+| Category | Social Media / Community |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mightynetworks/jobs/8687573002?gh_jid=8687573002) |
 
 ## About This Role
 
-This customer success position at Mighty Networks was posted on 2026-04-28.
+This social media / community position at Mighty Networks was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

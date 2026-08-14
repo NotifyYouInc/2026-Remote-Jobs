@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Dallas-TX/Strategic-Account-Executive_Essity260115-1) |
+| Location | San Luis Potosí, San Luis Potosí, Mexico |
+| Category | Sales |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/San-Luis-Potosi--Mexico/Strategic-Account-Executive_Essity264020) |
 
 ## About This Role
 
-This account executive position at Essity was posted on 2026-03-03.
+This sales position at Essity was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Operations |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09527---Wisconsin-Remote/Revenue-Specialist-I--ROPS-_R0472037) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01548---Texas-Remote/Revenue-Specialist-I--ROPS-_R0466957) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-08-05.
+This operations position at DaVita was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

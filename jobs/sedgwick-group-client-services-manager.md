@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
-| Category | Account Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-IA/Client-Services-Manager_R72000-1) |
+| Location | Iowa, US |
+| Category | Sales |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-IA/Client-Services-Manager_R76509) |
 
 ## About This Role
 
-This account manager position at Sedgwick Group was posted on 2026-05-08.
+This sales position at Sedgwick Group was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

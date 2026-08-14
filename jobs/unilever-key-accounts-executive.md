@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Delhi, Delhi, India |
-| Category | Account Executive |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Delhi-Regional-Office/Key-Accounts-Executive_R-1179600-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Sales |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Mumbai-Regional-Office/Key-Accounts-Executive_R-1186547-1) |
 
 ## About This Role
 
-This account executive position at Unilever was posted on 2026-04-13.
+This sales position at Unilever was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

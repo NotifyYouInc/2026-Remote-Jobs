@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chainguard](https://scoutify.ai/companies/chainguard?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4678715006) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chainguard/jobs/4696743006) |
 
 ## About This Role
 
-This security engineer position at Chainguard was posted on 2026-05-06.
+This cybersecurity engineer position at Chainguard was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

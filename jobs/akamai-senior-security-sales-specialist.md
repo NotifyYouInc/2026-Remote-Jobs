@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | South Korea |
-| Category | Sales |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3602) |
+| Location | Japan |
+| Category | Account Executive |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3439) |
 
 ## About This Role
 
-This sales position at Akamai was posted on 2026-07-29.
+This account executive position at Akamai was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

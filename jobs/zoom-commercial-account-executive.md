@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Quebec, CA |
+| Location | United States |
 | Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--CAN-QC/Commercial-Account-Executive_R18456) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Commercial-Account-Executive_R19464-2) |
 
 ## About This Role
 
-This sales position at Zoom was posted on 2026-02-09.
+This sales position at Zoom was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

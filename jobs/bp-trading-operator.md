@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Illinois---Chicago/Trading-Operator_RQ112061) |
+| Category | Sales & Trading |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Illinois---Chicago/Trading-Operator_RQ114268) |
 
 ## About This Role
 
-This corporate finance position at BP was posted on 2026-06-12.
+This sales & trading position at BP was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

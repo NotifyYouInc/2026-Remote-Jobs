@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Legal |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/San-Francisco-CA/Legal-Transformation-Solutions-Director_R0034341) |
+| Location | Houston, Texas, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Houston-TX/Legal-Transformation-Solutions-Director_R0034965) |
 
 ## About This Role
 
-This legal position at Epiqsystems was posted on 2026-05-13.
+This strategy & operations position at Epiqsystems was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

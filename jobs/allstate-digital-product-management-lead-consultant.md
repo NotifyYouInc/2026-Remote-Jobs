@@ -5,12 +5,12 @@
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Illinois, US |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Digital-Product-Management--Lead-Consultant_R26934) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Digital-Product-Management--Lead-Consultant_R32003) |
 
 ## About This Role
 
-This product manager position at Allstate was posted on 2026-02-26.
+This product manager position at Allstate was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Bothell, Washington, United States |
 | Category | Sales |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Santa-Clara-California/Business-Sales-Representative---Territory-Accounts_R-118710) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bothell-Washington/Business-Sales-Representative---Territory-Accounts_R-118821) |
 
 ## About This Role
 
-This sales position at AT&T was posted on 2026-08-05.
+This sales position at AT&T was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

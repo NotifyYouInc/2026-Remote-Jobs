@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Red Cross](https://scoutify.ai/companies/americanredcross?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Account Manager |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Austin-TX/Donor-Recruitment-Account-Manager_RC90003) |
+| Location | Laguna Hills, California, United States |
+| Category | Sales |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Laguna-Hills-CA/Donor-Recruitment-Account-Manager_RC90424-1) |
 
 ## About This Role
 
-This account manager position at American Red Cross was posted on 2026-07-17.
+This sales position at American Red Cross was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

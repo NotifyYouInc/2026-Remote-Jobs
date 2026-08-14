@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [White Cap Supply Holdings](https://scoutify.ai/companies/whitecap?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Portland, Oregon, United States |
-| Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://whitecap.wd1.myworkdayjobs.com/careers/job/Portland_97202/Account-Manager_WCJR-030896) |
+| Location | Thompson, British Columbia, Canada |
+| Category | Sales |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://whitecap.wd1.myworkdayjobs.com/careers/job/Account-Manager_WCJR-034984-1) |
 
 ## About This Role
 
-This account executive position at White Cap Supply Holdings was posted on 2026-02-26.
+This sales position at White Cap Supply Holdings was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

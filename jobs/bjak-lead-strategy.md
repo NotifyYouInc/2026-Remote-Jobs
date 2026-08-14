@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | China |
 | Category | Operations |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/467d21ae-7d00-46b4-b37e-ef86a6eb21b9) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/b3ddf3f3-83dd-44b9-aca3-346363e2ac16) |
 
 ## About This Role
 
-This operations position at Bjak was posted on 2026-07-28.
+This operations position at Bjak was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

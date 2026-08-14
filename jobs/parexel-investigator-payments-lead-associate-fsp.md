@@ -1,16 +1,16 @@
-# Investigator Payments Lead – Associate - FSP at Parexel
+# Investigator Payments Lead,  Associate - FSP at Parexel
 
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Argentina |
 | Category | Program Manager |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Investigator-Payments-Lead---Associate---FSP_R0000044382) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Argentina-Remote/Investigator-Payments-Lead---Associate---FSP_R0000044443) |
 
 ## About This Role
 
-This program manager position at Parexel was posted on 2026-08-06.
+This program manager position at Parexel was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# EverHealth - Digital Customer Success Manager (remote, US) at EverCommerce
+# EverHealth -Digital Customer Success Manager (Remote, US) at EverCommerce
 
 | Field | Details |
 |-------|---------|
 | Company | [EverCommerce](https://scoutify.ai/companies/evercommerce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-US/EverHealth---Digital-Customer-Success-Manager--remote--US-_R-106189) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-US/EverHealth--Digital-Customer-Success-Manager--Remote--US-_R-106390) |
 
 ## About This Role
 
-This customer success position at EverCommerce was posted on 2026-05-01.
+This customer success position at EverCommerce was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

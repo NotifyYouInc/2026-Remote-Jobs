@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Riverside, California, United States |
+| Location | San Ramon, California, United States |
 | Category | Sales |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Riverside-California/Senior-Business-Sales-Executive---Platinum-Accounts_R-118639) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Ramon-California/Senior-Business-Sales-Executive---Platinum-Accounts_R-118707-1) |
 
 ## About This Role
 
-This sales position at AT&T was posted on 2026-08-05.
+This sales position at AT&T was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

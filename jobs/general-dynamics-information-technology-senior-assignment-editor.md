@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Content Marketing |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Assignment-Editor_RQ225261-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Assignment-Editor_RQ225263-2) |
 
 ## About This Role
 
-This content marketing position at General Dynamics Information Technology was posted on 2026-08-01.
+This content marketing position at General Dynamics Information Technology was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

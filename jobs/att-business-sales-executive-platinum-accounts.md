@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Reno, Nevada, United States |
 | Category | Sales |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Portland-Oregon/Business-Sales-Executive---Platinum-Accounts_R-118581) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USANVReno--S-Virginia-St---Adm-rm-2005250-S-Virginia-St/Business-Sales-Executive---Platinum-Accounts_R-118712) |
 
 ## About This Role
 
-This sales position at AT&T was posted on 2026-08-05.
+This sales position at AT&T was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

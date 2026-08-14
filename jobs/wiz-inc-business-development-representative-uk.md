@@ -5,12 +5,12 @@
 | Company | [Wiz, Inc.](https://scoutify.ai/companies/wiz-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United Kingdom |
 | Category | Sales |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://www.wiz.io/careers/job/4701949006/:title?gh_jid=4701949006) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.wiz.io/careers/job/4703232006/:title?gh_jid=4703232006) |
 
 ## About This Role
 
-This sales position at Wiz, Inc. was posted on 2026-08-06.
+This sales position at Wiz, Inc. was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

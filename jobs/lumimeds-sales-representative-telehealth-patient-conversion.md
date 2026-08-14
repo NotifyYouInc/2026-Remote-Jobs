@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lumimeds](https://scoutify.ai/companies/lumimeds?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Account Executive |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lumimeds/jobs/4286528009) |
+| Location | India |
+| Category | Sales |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lumimeds/jobs/4358209009) |
 
 ## About This Role
 
-This account executive position at Lumimeds was posted on 2026-06-15.
+This sales position at Lumimeds was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

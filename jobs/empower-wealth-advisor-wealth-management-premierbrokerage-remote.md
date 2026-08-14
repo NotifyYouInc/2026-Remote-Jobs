@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Wealth-Advisor--Wealth-Management----Premier-Brokerage----Remote_R0058843) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Wealth-Advisor--Wealth-Management----Premier-Brokerage----Remote_R0061510) |
 
 ## About This Role
 
-This corporate finance position at Empower was posted on 2026-05-13.
+This corporate finance position at Empower was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 
