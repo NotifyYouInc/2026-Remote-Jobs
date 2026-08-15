@@ -5,12 +5,12 @@
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Melville, New York, United States |
 | Category | Legal |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Melville-NY/Associate-Counsel---Bronx--NY--Remote-_R0064779-1) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Melville-NY/Associate-Counsel---Bronx--NY--Remote-_R0065202) |
 
 ## About This Role
 
-This legal position at Geico was posted on 2026-07-06.
+This legal position at Geico was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

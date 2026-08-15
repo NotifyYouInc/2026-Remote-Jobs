@@ -5,12 +5,12 @@
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Tier-1-Application-Support_R243569) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Tier-1-Application-Support_R252459) |
 
 ## About This Role
 
-This customer success position at Uhaul was posted on 2026-04-28.
+This customer success position at Uhaul was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

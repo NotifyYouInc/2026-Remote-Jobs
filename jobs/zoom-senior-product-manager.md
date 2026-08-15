@@ -5,12 +5,12 @@
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Senior-Product-Manager_R19247-1) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Senior-Product-Manager_R19526-1) |
 
 ## About This Role
 
-This product manager position at Zoom was posted on 2026-06-10.
+This product manager position at Zoom was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

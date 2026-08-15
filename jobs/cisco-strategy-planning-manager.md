@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | North Carolina, US |
 | Category | Operations |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Atlanta-Georgia-US/Strategy---Planning-Manager_2018227-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Strategy---Planning-Manager_2021250) |
 
 ## About This Role
 
-This operations position at Cisco was posted on 2026-08-06.
+This operations position at Cisco was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Red Cross](https://scoutify.ai/companies/americanredcross?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Laguna Hills, California, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Sales |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Laguna-Hills-CA/Donor-Recruitment-Account-Manager_RC90424-1) |
+| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Indianapolis-IN/Donor-Recruitment-Account-Manager_RC90295) |
 
 ## About This Role
 

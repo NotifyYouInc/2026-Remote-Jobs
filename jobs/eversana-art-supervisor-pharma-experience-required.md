@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Graphic / Brand Design |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000135604519-art-supervisor-pharma-experience-required) |
+| Category | Marketing |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000142226919-art-supervisor-pharma-experience-required) |
 
 ## About This Role
 
-This graphic / brand design position at EVERSANA was posted on 2026-07-02.
+This marketing position at EVERSANA was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

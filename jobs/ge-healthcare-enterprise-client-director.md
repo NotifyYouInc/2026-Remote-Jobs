@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Illinois, US |
-| Category | Account Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Enterprise-Client-Director_R4041558-1) |
+| Location | Iowa, US |
+| Category | Sales |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Enterprise-Client-Director_R4044830-1) |
 
 ## About This Role
 
-This account manager position at GE HealthCare was posted on 2026-05-22.
+This sales position at GE HealthCare was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

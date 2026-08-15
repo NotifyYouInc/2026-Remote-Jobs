@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Falls Church, Virginia, United States |
+| Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/Senior-Data-Engineer_RQ220098-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Data-Engineer_RQ226019) |
 
 ## About This Role
 
-This data engineer position at General Dynamics Information Technology was posted on 2026-05-18.
+This data engineer position at General Dynamics Information Technology was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

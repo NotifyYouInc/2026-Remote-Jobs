@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Enterprise-Technology-Engineer_RQ112489) |
+| Location | Chicago, Illinois, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Illinois---Chicago/Enterprise-Technology-Engineer_RQ114130) |
 
 ## About This Role
 
-This software engineer position at BP was posted on 2026-07-03.
+This it & systems administration position at BP was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

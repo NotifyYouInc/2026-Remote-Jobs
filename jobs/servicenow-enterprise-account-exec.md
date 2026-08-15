@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Milan, Lombardy, Italy |
-| Category | Account Executive |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000140843399-enterprise-account-exec) |
+| Location | New York City, New York, United States |
+| Category | Sales |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000142218329-enterprise-account-exec) |
 
 ## About This Role
 
-This account executive position at ServiceNow was posted on 2026-07-31.
+This sales position at ServiceNow was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

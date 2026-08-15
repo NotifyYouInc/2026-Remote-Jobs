@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer_P748378-2) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1) |
 
 ## About This Role
 
-This software engineer position at Zillow was posted on 2026-06-06.
+This software engineer position at Zillow was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

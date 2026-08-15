@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Public Consulting Group](https://scoutify.ai/companies/pcg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://pcg.wd1.myworkdayjobs.com/PCG_External_Careers/job/Charlotte-NC/Consultant_JR101866) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://pcg.wd1.myworkdayjobs.com/PCG_External_Careers/job/US/Consultant_JR102068) |
 
 ## About This Role
 
-This strategy / management consulting position at Public Consulting Group was posted on 2026-05-27.
+This strategy / management consulting position at Public Consulting Group was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 
