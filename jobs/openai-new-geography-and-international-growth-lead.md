@@ -1,16 +1,16 @@
-# Revenue Specialist I (ROPS) at DaVita
+# New Geography and International Growth Lead at OpenAI
 
 | Field | Details |
 |-------|---------|
-| Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Operations |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Revenue-Specialist-I--ROPS-_R0470305) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/86c04f38-1938-4e95-a43c-502fc79ff60c) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-08-07.
+This operations position at OpenAI was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

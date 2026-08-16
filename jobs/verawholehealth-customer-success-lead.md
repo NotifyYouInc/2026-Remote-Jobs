@@ -1,16 +1,16 @@
-# Customer Success Manager, Enterprise at ServiceTitan
+# Customer Success Lead at Verawholehealth
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Verawholehealth](https://scoutify.ai/companies/verawholehealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Customer-Success-Manager--Enterprise_JR115259) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://verawholehealth.wd1.myworkdayjobs.com/mpg/job/US---Remote/Customer-Success-Lead_M104525) |
 
 ## About This Role
 
-This customer success position at ServiceTitan was posted on 2026-08-07.
+This customer success position at Verawholehealth was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

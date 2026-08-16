@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgia, US |
-| Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Cybersecurity-Analyst-II---Secure-Solutions-Enablement--Remote-_Req166913) |
+| Location | Texas, US |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/TEXAS---VIRTUAL---TX01/Cybersecurity-Analyst-II---Secure-Solutions-Enablement--Remote-_Req186483-1) |
 
 ## About This Role
 
-This operations position at The Home Depot was posted on 2026-02-12.
+This cybersecurity engineer position at The Home Depot was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

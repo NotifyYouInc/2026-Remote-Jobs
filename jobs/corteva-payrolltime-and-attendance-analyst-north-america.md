@@ -1,16 +1,16 @@
-# Business Analyst at CAI
+# Payroll/Time and Attendance Analyst - North America at Corteva
 
 | Field | Details |
 |-------|---------|
-| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Corteva](https://scoutify.ai/companies/corteva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Canada |
 | Category | Business Analyst |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Business-Analyst_R8297) |
+| Apply | [View on company site](https://corteva.wd5.myworkdayjobs.com/ctp/job/United-States/Payroll-Time-and-Attendance-Analyst---North-America_247870W-1) |
 
 ## About This Role
 
-This business analyst position at CAI was posted on 2026-08-07.
+This business analyst position at Corteva was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

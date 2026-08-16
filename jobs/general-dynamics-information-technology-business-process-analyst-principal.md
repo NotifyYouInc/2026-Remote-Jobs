@@ -1,16 +1,16 @@
-# ServiceNow Developer Senior at General Dynamics Information Technology
+# Business Process Analyst Principal at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
-| Category | Software Engineer |
+| Category | Business Analyst |
 | Posted | 2026-08-09 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/ServiceNow-Developer-Senior_RQ225666-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Business-Process-Analyst-Principal_RQ225944-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-08-09.
+This business analyst position at General Dynamics Information Technology was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

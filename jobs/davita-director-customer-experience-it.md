@@ -1,16 +1,16 @@
-# Revenue Specialist I (ROPS) at DaVita
+# Director, Customer Experience (IT) at DaVita
 
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Operations |
+| Category | Customer Success |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Revenue-Specialist-I--ROPS-_R0470305) |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09538---North-Carolina-Remote/Director--Customer-Experience--IT-_R0472356) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-08-07.
+This customer success position at DaVita was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

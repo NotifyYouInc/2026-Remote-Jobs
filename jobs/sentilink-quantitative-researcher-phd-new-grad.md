@@ -1,16 +1,16 @@
-# Revenue Specialist I (ROPS) at DaVita
+# Quantitative Researcher, PhD New Grad at Sentilink
 
 | Field | Details |
 |-------|---------|
-| Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Sentilink](https://scoutify.ai/companies/sentilink?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Operations |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Revenue-Specialist-I--ROPS-_R0470305) |
+| Category | Quant Research |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sentilink/4e28d1a3-75a8-4031-85eb-82b7847d365a) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-08-07.
+This quant research position at Sentilink was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Virginia, US |
+| Location | Texas, US |
 | Category | Engineering Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Virginia/Manager--Online-Banking---Technical-Delivery_R-10399848) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Texas/Manager--Online-Banking---Technical-Delivery_R-10399847) |
 
 ## About This Role
 
-This engineering manager position at Fiserv was posted on 2026-08-04.
+This engineering manager position at Fiserv was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

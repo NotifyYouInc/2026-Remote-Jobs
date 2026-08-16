@@ -1,16 +1,16 @@
-# Revenue Specialist I (ROPS) at DaVita
+# Principal ServiceNow Consultant - CSM, ITSM at CDW
 
 | Field | Details |
 |-------|---------|
-| Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Operations |
+| Category | Customer Success Manager |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Revenue-Specialist-I--ROPS-_R0470305) |
+| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/Remote--USA/Principal-ServiceNow-Consultant---CSM--ITSM_R26_00002159) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-08-07.
+This customer success manager position at CDW was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

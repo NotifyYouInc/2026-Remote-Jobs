@@ -1,16 +1,16 @@
-# Revenue Specialist I (ROPS) at DaVita
+# Sr. Director, Embedded Payment Products at Wex
 
 | Field | Details |
 |-------|---------|
-| Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Operations |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Revenue-Specialist-I--ROPS-_R0470305) |
+| Category | Product Manager |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Sr-Director--Embedded-Payment-Products_R22505) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-08-07.
+This product manager position at Wex was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

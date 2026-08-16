@@ -1,16 +1,16 @@
-# Revenue Specialist I (ROPS) at DaVita
+# Corporate Counsel at FiscalNote
 
 | Field | Details |
 |-------|---------|
-| Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [FiscalNote](https://scoutify.ai/companies/fiscalnote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Operations |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Revenue-Specialist-I--ROPS-_R0470305) |
+| Category | Legal |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://jobs.lever.co/fiscalnote/3c78c996-27eb-4606-b5d7-79a27bfcde0f) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-08-07.
+This legal position at FiscalNote was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

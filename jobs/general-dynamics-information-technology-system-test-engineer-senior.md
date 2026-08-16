@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/System-Test-Engineer-Senior_RQ217625-1) |
+| Location | United States |
+| Category | QA Engineer |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/System-Test-Engineer-Senior_RQ225910-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-04-04.
+This qa engineer position at General Dynamics Information Technology was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

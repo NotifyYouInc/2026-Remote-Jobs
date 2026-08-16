@@ -1,16 +1,16 @@
-# Revenue Specialist I (ROPS) at DaVita
+# Digital Experience Manager at Limble
 
 | Field | Details |
 |-------|---------|
-| Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Limble](https://scoutify.ai/companies/limble?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Operations |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Revenue-Specialist-I--ROPS-_R0470305) |
+| Category | Marketing |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/limble/eaa421fc-c2a2-40a0-99fa-b0479ba90b80) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-08-07.
+This marketing position at Limble was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

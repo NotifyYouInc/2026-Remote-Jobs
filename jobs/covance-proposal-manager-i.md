@@ -1,16 +1,16 @@
-# Business Analyst at CAI
+# Proposal Manager I at Covance
 
 | Field | Details |
 |-------|---------|
-| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pennsylvania, US |
-| Category | Business Analyst |
+| Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Bulgaria |
+| Category | Program Manager |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Business-Analyst_R8297) |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Remote-Bulgaria/Proposal-Manager-I_264470-1) |
 
 ## About This Role
 
-This business analyst position at CAI was posted on 2026-08-07.
+This program manager position at Covance was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
