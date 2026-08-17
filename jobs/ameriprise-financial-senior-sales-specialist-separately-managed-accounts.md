@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Account Executive |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Senior-Sales-Specialist--Separately-Managed-Accounts_R26_3158) |
 
 ## About This Role
 
-This asset management / portfolio management position at Ameriprise Financial was posted on 2026-08-07.
+This account executive position at Ameriprise Financial was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

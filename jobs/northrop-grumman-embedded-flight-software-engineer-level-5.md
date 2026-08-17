@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Linthicum, Maryland, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Embedded-Flight-Software-Engineer---Level-5_R10241527) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Embedded-Flight-Software-Engineer---Level-5_R10244649) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-07-21.
+This embedded / firmware engineer position at Northrop Grumman was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

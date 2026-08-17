@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equus Compute Solutions](https://scoutify.ai/companies/recruiting2-ultipro-com-oj37950?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://recruiting2.ultipro.com/equ1007equus/JobBoard/c8691565-b98c-4a8f-84ff-8511f3119a2b/OpportunityDetail?opportunityId=1f16534c-8325-4283-b9e7-403450a8b1bf) |
 
 ## About This Role
 
-This sales position at Equus Compute Solutions was posted on 2026-08-07.
+This sales development (sdr / bdr) position at Equus Compute Solutions was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

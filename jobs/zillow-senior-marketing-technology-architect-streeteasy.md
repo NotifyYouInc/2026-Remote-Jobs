@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
+| Category | Marketing Operations |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Marketing-Technology-Architect--StreetEasy_P751029-1) |
 
 ## About This Role
 
-This marketing position at Zillow was posted on 2026-08-07.
+This marketing operations position at Zillow was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

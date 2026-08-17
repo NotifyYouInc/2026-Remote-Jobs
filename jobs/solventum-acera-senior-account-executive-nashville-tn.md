@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Nashville, Tennessee, United States |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/US-Tennessee-Nashville/Acera-Senior-Account-Executive---Nashville--TN_R01132095-1) |
 
 ## About This Role
 
-This sales position at Solventum was posted on 2026-08-08.
+This account executive position at Solventum was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

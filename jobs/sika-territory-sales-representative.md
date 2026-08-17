@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Lyndhurst, New Jersey, United States |
+| Location | Cincinnati, Ohio, United States |
 | Category | Account Executive |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000118951828-territory-sales-representative) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000142522799-territory-sales-representative) |
 
 ## About This Role
 
-This account executive position at Sika was posted on 2026-04-06.
+This account executive position at Sika was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

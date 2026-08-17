@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Wuhan, Hubei, China |
 | Category | Account Executive |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Wuhan-Hubei-China/CRM-CIED-Technical-Sales-Representative-Wuhan_R71660-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Wuhan-Hubei-China/CRM-CIED-Technical-Sales-Representative-Wuhan_R73747-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-07-13.
+This account executive position at Medtronic was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

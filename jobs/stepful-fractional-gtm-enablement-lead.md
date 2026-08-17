@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stepful](https://scoutify.ai/companies/stepful?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Learning & Development |
+| Category | Operations |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/stepful/71d8731a-5f25-426f-be5c-b349996ae35e) |
 
 ## About This Role
 
-This learning & development position at Stepful was posted on 2026-08-07.
+This operations position at Stepful was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

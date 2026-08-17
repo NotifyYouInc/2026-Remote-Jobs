@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CareSource](https://scoutify.ai/companies/caresource?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/AVP--Actuarial-Science_R12519) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/AVP--Actuarial-Science_R13429) |
 
 ## About This Role
 
-This corporate finance position at CareSource was posted on 2026-04-15.
+This actuary / insurance analytics position at CareSource was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

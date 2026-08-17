@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equus Compute Solutions](https://scoutify.ai/companies/recruiting2-ultipro-com-oj37950?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://recruiting2.ultipro.com/equ1007equus/JobBoard/c8691565-b98c-4a8f-84ff-8511f3119a2b/OpportunityDetail?opportunityId=c42c6d10-ff52-4390-8331-4dc575360570) |
 
 ## About This Role
 
-This sales position at Equus Compute Solutions was posted on 2026-08-07.
+This account executive position at Equus Compute Solutions was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

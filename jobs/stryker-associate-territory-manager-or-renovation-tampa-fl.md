@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tampa, Florida, United States |
-| Category | Project Manager |
+| Category | Account Executive |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tampa-Florida/Associate-Territory-Manager--OR-Renovation---Tampa--FL_R570032) |
 
 ## About This Role
 
-This project manager position at Stryker was posted on 2026-08-07.
+This account executive position at Stryker was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

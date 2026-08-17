@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Arkansas, US |
-| Category | Sales |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---Remote---Texas---Central-Time/LES-Specialty-Development--Sales--Executive_2628026) |
 
 ## About This Role
 
-This sales position at Labcorp was posted on 2026-08-08.
+This sales development (sdr / bdr) position at Labcorp was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, US |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-California-United-States-of-America/Sales-Specialist_JR00030006) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Sales-Specialist_JR00043092) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-03-27.
+This account executive position at ABB was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

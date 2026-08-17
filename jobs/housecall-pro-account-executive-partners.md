@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Housecall Pro](https://scoutify.ai/companies/housecall-pro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://www.housecallpro.com/careers/open-positions/?gh_jid=6139378004) |
 
 ## About This Role
 
-This sales position at Housecall Pro was posted on 2026-08-08.
+This account executive position at Housecall Pro was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

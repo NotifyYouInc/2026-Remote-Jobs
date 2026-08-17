@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 3 locations |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Dallas-Texas-US/Account-Executive---Service-Provider_2021194) |
 
 ## About This Role
 
-This sales position at Cisco was posted on 2026-08-07.
+This account executive position at Cisco was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

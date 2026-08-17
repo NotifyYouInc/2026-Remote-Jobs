@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Diego, California, United States |
-| Category | IT & Systems Administration |
+| Category | Business Analyst |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Associate-Pathways-Computer-Systems-Analyst---Secret---San-Diego-CA_R10244527) |
 
 ## About This Role
 
-This it & systems administration position at Northrop Grumman was posted on 2026-08-08.
+This business analyst position at Northrop Grumman was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Frisco, Texas, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Sr-Engineers--Data_REQ345444) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Sr-Engineers--Data_REQ368430) |
 
 ## About This Role
 
-This data engineer position at T-Mobile was posted on 2026-06-18.
+This data engineer position at T-Mobile was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

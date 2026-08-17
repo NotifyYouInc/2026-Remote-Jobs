@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Partly](https://scoutify.ai/companies/partly-com?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/partly.com/c15000bf-5ee1-494f-8f0c-8b98fcad7604) |
 
 ## About This Role
 
-This sales position at Partly was posted on 2026-08-07.
+This account executive position at Partly was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

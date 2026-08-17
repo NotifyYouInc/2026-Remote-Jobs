@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | California, US |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Remote/Digital-Account-Executive---Public-Sector_JR354990) |
 
 ## About This Role
 
-This sales position at Salesforce was posted on 2026-08-08.
+This account executive position at Salesforce was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

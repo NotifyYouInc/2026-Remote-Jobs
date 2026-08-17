@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tennessee, US |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Tennessee/Dental-Practice-Specialist---Memphis--TN-into-Arkansas_R01132645) |
 
 ## About This Role
 
-This sales position at Solventum was posted on 2026-08-08.
+This account executive position at Solventum was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

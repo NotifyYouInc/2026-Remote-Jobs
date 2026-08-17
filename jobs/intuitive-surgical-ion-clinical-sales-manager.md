@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
-| Category | Sales Leadership |
+| Category | Sales |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000142219499-ion-clinical-sales-manager) |
 
 ## About This Role
 
-This sales leadership position at Intuitive Surgical was posted on 2026-08-07.
+This sales position at Intuitive Surgical was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

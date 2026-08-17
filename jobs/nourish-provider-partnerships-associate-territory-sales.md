@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nourish](https://scoutify.ai/companies/nourish-usenourish?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Sales |
+| Category | Strategic Partnerships |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/usenourish/jobs/5383500008) |
 
 ## About This Role
 
-This sales position at Nourish was posted on 2026-08-07.
+This strategic partnerships position at Nourish was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

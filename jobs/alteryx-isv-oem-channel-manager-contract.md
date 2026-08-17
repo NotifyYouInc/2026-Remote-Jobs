@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alteryx](https://scoutify.ai/companies/alteryx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales |
+| Category | Channel / Partner Sales |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/US---Remote/ISV-OEM-Channel-Manager--Contract-_R12362-1) |
 
 ## About This Role
 
-This sales position at Alteryx was posted on 2026-08-08.
+This channel / partner sales position at Alteryx was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

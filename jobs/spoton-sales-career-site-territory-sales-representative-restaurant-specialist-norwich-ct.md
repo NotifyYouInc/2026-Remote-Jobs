@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpotOn: Sales (Career Site)](https://scoutify.ai/companies/spoton-sales-career-site?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Norwich, Connecticut, United States |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/spoton/2f58daab-4e55-480a-9b21-db9fdbbcffe6) |
 
 ## About This Role
 
-This sales position at SpotOn: Sales (Career Site) was posted on 2026-08-07.
+This account executive position at SpotOn: Sales (Career Site) was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

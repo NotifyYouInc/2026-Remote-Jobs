@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Diego, California, United States |
+| Location | Baltimore, Maryland, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Computer-Systems-Analyst---Windows_R10238752) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Computer-Systems-Analyst---Windows_R10244016) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-07-10.
+This business analyst position at Northrop Grumman was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

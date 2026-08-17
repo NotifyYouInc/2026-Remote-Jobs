@@ -5,12 +5,12 @@
 | Company | [TELUS](https://scoutify.ai/companies/telus?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Customer Success |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Brisbane-Queensland-Australia/Associate-Customer-Success-Manager_R-22248) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Brisbane-Queensland-Australia/Associate-Customer-Success-Manager_R-22895) |
 
 ## About This Role
 
-This customer success position at TELUS was posted on 2026-06-15.
+This customer success position at TELUS was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

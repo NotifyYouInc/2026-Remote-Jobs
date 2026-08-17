@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Defense Unicorns](https://scoutify.ai/companies/defense-unicorns?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales Leadership |
+| Category | Sales |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/defenseunicorns/jobs/5207313007) |
 
 ## About This Role
 
-This sales leadership position at Defense Unicorns was posted on 2026-08-07.
+This sales position at Defense Unicorns was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

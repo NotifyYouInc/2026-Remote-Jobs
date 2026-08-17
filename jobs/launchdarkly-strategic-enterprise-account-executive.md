@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LaunchDarkly](https://scoutify.ai/companies/launchdarkly?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | West, Texas, United States |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/launchdarkly/jobs/7836337003) |
 
 ## About This Role
 
-This sales position at LaunchDarkly was posted on 2026-08-07.
+This account executive position at LaunchDarkly was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

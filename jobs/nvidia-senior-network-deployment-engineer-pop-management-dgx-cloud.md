@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | 4 locations |
 | Category | Deployment Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Deployment-Engineer--PoP-Management---DGX-Cloud_JR2021543) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Network-Deployment-Engineer--PoP-Management---DGX-Cloud_JR2022835) |
 
 ## About This Role
 
-This deployment engineer position at Nvidia was posted on 2026-07-17.
+This deployment engineer position at Nvidia was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

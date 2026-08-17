@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ACI Learning](https://scoutify.ai/companies/aci-learning?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/acilearning/jobs/4357223009) |
 
 ## About This Role
 
-This sales position at ACI Learning was posted on 2026-08-07.
+This account executive position at ACI Learning was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

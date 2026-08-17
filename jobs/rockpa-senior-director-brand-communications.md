@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rockpa](https://scoutify.ai/companies/rockpa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York, US |
-| Category | PR & External Communications |
+| Category | Marketing |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://rockpa.wd5.myworkdayjobs.com/rpa-careers/job/Remote---New-York/Senior-Director--Brand---Communications_JR1558) |
 
 ## About This Role
 
-This pr & external communications position at Rockpa was posted on 2026-08-08.
+This marketing position at Rockpa was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

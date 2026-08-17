@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Colorado, US |
-| Category | Sales Leadership |
+| Category | Sales |
 | Posted | 2026-08-09 |
 | Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Utah---Remote/Director-of-Sales---Southwest_113389-JOB) |
 
 ## About This Role
 
-This sales leadership position at Sprinklr was posted on 2026-08-09.
+This sales position at Sprinklr was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [College Board](https://scoutify.ai/companies/college-board?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://collegeboard.wd1.myworkdayjobs.com/careers/job/Remote---USA/Associate-Director--K-12_REQ002837) |
 
 ## About This Role
 
-This sales position at College Board was posted on 2026-08-08.
+This account executive position at College Board was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

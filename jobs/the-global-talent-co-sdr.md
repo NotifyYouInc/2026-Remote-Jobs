@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Global Talent Co.](https://scoutify.ai/companies/the-global-talent-co?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | South Africa |
-| Category | Sales |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/the-global-talent-co/daa2e21f-0c06-4584-8ac6-500f2b750558) |
 
 ## About This Role
 
-This sales position at The Global Talent Co. was posted on 2026-08-07.
+This sales development (sdr / bdr) position at The Global Talent Co. was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

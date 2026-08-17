@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Solution-Development-Consultant_R11822) |
+| Category | Forward Deployed Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Solution-Development-Consultant_R12178) |
 
 ## About This Role
 
-This technical & solutions architect position at Workiva was posted on 2026-06-05.
+This forward deployed engineer position at Workiva was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

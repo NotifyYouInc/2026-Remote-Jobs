@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 7 locations |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/San-Francisco-California-United-States/Flow-Cytometry-Sales-Representative_R1316659-1) |
 
 ## About This Role
 
-This sales position at Danaher was posted on 2026-08-07.
+This account executive position at Danaher was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

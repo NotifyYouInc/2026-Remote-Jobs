@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | District of Columbia, US |
-| Category | Sales Leadership |
+| Category | Sales |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/GA-Georgia-FIELD/Senior-Consultant--Lab-Diagnostic-Instrumentation_20185051) |
 
 ## About This Role
 
-This sales leadership position at Cardinal Health was posted on 2026-08-08.
+This sales position at Cardinal Health was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

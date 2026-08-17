@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ESW](https://scoutify.ai/companies/esw?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/esw/jobs/8690613002) |
 
 ## About This Role
 
-This sales position at ESW was posted on 2026-08-07.
+This account executive position at ESW was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

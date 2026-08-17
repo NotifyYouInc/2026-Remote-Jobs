@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Craniometrix](https://scoutify.ai/companies/craniometrix?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 3 locations |
-| Category | Sales |
+| Category | Strategic Partnerships |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/craniometrix/jobs/cRs6f9o-partnerships-manager-northeast) |
 
 ## About This Role
 
-This sales position at Craniometrix was posted on 2026-08-08.
+This strategic partnerships position at Craniometrix was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

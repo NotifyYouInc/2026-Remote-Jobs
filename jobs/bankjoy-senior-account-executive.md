@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bankjoy](https://scoutify.ai/companies/bankjoy?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/bankjoy/ad341633-a304-4412-970f-7da919e31ae0) |
 
 ## About This Role
 
-This sales position at Bankjoy was posted on 2026-08-07.
+This account executive position at Bankjoy was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

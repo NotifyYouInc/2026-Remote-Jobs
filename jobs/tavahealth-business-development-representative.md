@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tavahealth](https://scoutify.ai/companies/tavahealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/tavahealth/4670edde-eb91-4dbb-8c92-58662bf4e3c0) |
 
 ## About This Role
 
-This sales position at Tavahealth was posted on 2026-08-07.
+This sales development (sdr / bdr) position at Tavahealth was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

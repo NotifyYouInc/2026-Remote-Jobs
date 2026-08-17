@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales Leadership |
+| Category | Sales |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Remote-United-States-of-America/Senior-Director--Product-Sales_JREQ136204-1) |
 
 ## About This Role
 
-This sales leadership position at Clarivate was posted on 2026-08-08.
+This sales position at Clarivate was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 
