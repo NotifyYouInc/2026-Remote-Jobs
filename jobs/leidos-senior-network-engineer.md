@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Senior-Network-Engineer_R-00185119-1) |
+| Location | United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Network-Engineer_R-00189237) |
 
 ## About This Role
 
-This it & systems administration position at Leidos was posted on 2026-06-11.
+This devops engineer position at Leidos was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

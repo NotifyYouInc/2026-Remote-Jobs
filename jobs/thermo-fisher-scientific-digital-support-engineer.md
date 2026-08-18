@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | District of Columbia, US |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-District-of-Columbia-USA/Digital-Support-Engineer_R-01359207) |
+| Location | Shanghai, Shanghai, China |
+| Category | Customer Success |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Shanghai-China/Digital-Support-Engineer_R-01364294) |
 
 ## About This Role
 
-This technical support engineer position at Thermo Fisher Scientific was posted on 2026-07-15.
+This customer success position at Thermo Fisher Scientific was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

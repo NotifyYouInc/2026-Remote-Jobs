@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | United States |
 | Category | Project Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Project-Manager_R-00178115) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Project-Manager_R-00189231) |
 
 ## About This Role
 
-This project manager position at Leidos was posted on 2026-03-12.
+This project manager position at Leidos was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

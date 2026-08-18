@@ -5,12 +5,12 @@
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Florida, US |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Texas/Contract-Recruiter_R0017064) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Texas/Contract-Recruiter_R0018000) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at CLEAResult was posted on 2026-02-25.
+This talent acquisition / recruiting position at CLEAResult was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

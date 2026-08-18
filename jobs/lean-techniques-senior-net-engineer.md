@@ -1,16 +1,16 @@
-# Senior .NET Engineer at Lean TECHniques
+# Senior .NET Engineer  at Lean TECHniques
 
 | Field | Details |
 |-------|---------|
 | Company | [Lean TECHniques](https://scoutify.ai/companies/lean-techniques?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/leantechniques/a524351f-3cd7-4e73-9c7d-ed66873a1ec1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/leantechniques/32098313-5e9d-40c4-95b0-0c195dd29a02) |
 
 ## About This Role
 
-This software engineer position at Lean TECHniques was posted on 2026-07-20.
+This software engineer position at Lean TECHniques was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

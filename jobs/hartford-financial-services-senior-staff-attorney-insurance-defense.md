@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wayne, New Jersey, United States |
+| Location | Houston, Texas, United States |
 | Category | Legal |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Philadelphia-PA/Senior-Staff-Attorney-Insurance-Defense_R2624369-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Houston-TX/Senior-Staff-Attorney-Insurance-Defense_R2626355) |
 
 ## About This Role
 
-This legal position at Hartford Financial Services was posted on 2026-03-09.
+This legal position at Hartford Financial Services was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

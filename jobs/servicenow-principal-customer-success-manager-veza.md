@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | Washington, US |
 | Category | Customer Success |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123806174-principal-customer-success-manager-veza) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000142735300-principal-customer-success-manager-veza) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-04-29.
+This customer success position at ServiceNow was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

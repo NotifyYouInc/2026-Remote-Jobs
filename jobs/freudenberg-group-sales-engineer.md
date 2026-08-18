@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | China |
-| Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/China---Remote/Sales-Engineer_R_00098992) |
+| Location | Mexico |
+| Category | Sales Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Mexico---Remote/Sales-Engineer_R_00100913) |
 
 ## About This Role
 
-This account executive position at Freudenberg Group was posted on 2026-03-10.
+This sales engineer position at Freudenberg Group was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

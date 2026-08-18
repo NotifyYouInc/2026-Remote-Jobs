@@ -1,16 +1,16 @@
-# Sr Project Specialist at Syneoshealth
+# Sr. Project Specialist at Syneoshealth
 
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | China |
+| Location | South Korea |
 | Category | Project Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/CHN-Client/Sr-Project-Specialist_25108608) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/KOR-Remote/Sr-Project-Specialist_25111462) |
 
 ## About This Role
 
-This project manager position at Syneoshealth was posted on 2026-05-08.
+This project manager position at Syneoshealth was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

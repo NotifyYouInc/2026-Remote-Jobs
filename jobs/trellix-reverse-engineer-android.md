@@ -1,16 +1,16 @@
-# Reverse Engineer Android at Trellix
+# Reverse Engineer (Android) at Trellix
 
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Reverse-Engineer-Android_JR0037171) |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-United-States/Reverse-Engineer--Android-_JR0037778) |
 
 ## About This Role
 
-This offensive security & pentesting position at Trellix was posted on 2026-06-04.
+This soc & incident response position at Trellix was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

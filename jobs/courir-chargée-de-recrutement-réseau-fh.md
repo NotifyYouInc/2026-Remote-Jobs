@@ -5,12 +5,12 @@
 | Company | [Courir](https://scoutify.ai/companies/courir?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Courir/744000139531204-chargee-de-recrutement-reseau-fh) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Courir/744000142666019-chargee-de-recrutement-reseau-fh) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Courir was posted on 2026-07-24.
+This talent acquisition / recruiting position at Courir was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

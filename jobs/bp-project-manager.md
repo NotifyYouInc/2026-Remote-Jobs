@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Washington, US |
 | Category | Project Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/New-Zealand---Auckland/Project-Manager_RQ103967) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/US-Cherry-Point-Refinery/Project-Manager_RQ113023) |
 
 ## About This Role
 
-This project manager position at BP was posted on 2026-03-09.
+This project manager position at BP was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

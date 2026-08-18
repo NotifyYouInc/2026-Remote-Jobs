@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Employee-Relations-Consultant_R0059576) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Employee-Relations-Consultant_R0061560) |
 
 ## About This Role
 
-This human resources / people ops position at Empower was posted on 2026-06-19.
+This human resources / people ops position at Empower was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

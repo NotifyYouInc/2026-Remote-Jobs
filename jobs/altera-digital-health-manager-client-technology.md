@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altera Digital Health](https://scoutify.ai/companies/alteradigitalhealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Remote-Pune-Baroda-India/Manager-Client-Technology_R0045372) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Remote-Pune-Baroda-India/Manager-Client-Technology_R0045637) |
 
 ## About This Role
 
-This engineering manager position at Altera Digital Health was posted on 2026-07-30.
+This it & systems administration position at Altera Digital Health was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

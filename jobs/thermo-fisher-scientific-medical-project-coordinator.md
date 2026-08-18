@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Mexico |
 | Category | Project Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Sofia-Bulgaria/Medical-Project-Coordinator_R-01358521-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Medical-Project-Coordinator_R-01362778) |
 
 ## About This Role
 
-This project manager position at Thermo Fisher Scientific was posted on 2026-07-14.
+This project manager position at Thermo Fisher Scientific was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

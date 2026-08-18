@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Sales |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Boston-MA/Account-Manager_Essity264070) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Vilnius-Lithuania/Account-Manager_Essity263632) |
 
 ## About This Role
 
-This sales position at Essity was posted on 2026-08-05.
+This sales position at Essity was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

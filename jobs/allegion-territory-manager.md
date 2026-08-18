@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allegion](https://scoutify.ai/companies/allegion?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Arizona, US |
+| Location | 3 locations |
 | Category | Account Executive |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://allegion.wd5.myworkdayjobs.com/careers/job/Remote-Arizona/Territory-Manager_JR36730-2) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://allegion.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Territory-Manager_JR37065-2) |
 
 ## About This Role
 
-This account executive position at Allegion was posted on 2026-07-11.
+This account executive position at Allegion was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

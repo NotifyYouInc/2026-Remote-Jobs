@@ -5,12 +5,12 @@
 | Company | [Backblaze External Website](https://scoutify.ai/companies/backblaze-external-website?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/backblaze/jobs/5223296008) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/backblaze/jobs/5372264008) |
 
 ## About This Role
 
-This devops engineer position at Backblaze External Website was posted on 2026-05-27.
+This devops engineer position at Backblaze External Website was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

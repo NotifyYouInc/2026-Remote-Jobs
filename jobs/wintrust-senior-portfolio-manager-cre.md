@@ -1,16 +1,16 @@
-# Senior Portfolio Manager - CRE at Wintrust
+# Senior Portfolio Manager, CRE at Wintrust
 
 | Field | Details |
 |-------|---------|
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Lake Forest, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Lake-Forest-IL/Portfolio-Manager-II--CRE_26799) |
+| Location | Hartland, Wisconsin, United States |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Hartland-WI/Senior-Portfolio-Manager--CRE_261527) |
 
 ## About This Role
 
-This corporate finance position at Wintrust was posted on 2026-04-21.
+This asset management / portfolio management position at Wintrust was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Orleans, Louisiana, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-Orleans/Wealth-Management-Client-Associate_26022892) |
+| Location | Ridgeland, Mississippi, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Ridgeland/Wealth-Management-Client-Associate_26028039) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of America was posted on 2026-07-06.
+This corporate finance position at Bank of America was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

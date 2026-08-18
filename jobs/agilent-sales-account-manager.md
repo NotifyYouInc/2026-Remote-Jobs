@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Thailand |
-| Category | Account Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/Thailand-Remote-Location/Sales-Account-Manager_4038942-1) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Sales |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/Malaysia-Kuala-Lumpur/Sales-Account-Manager_4039211-1) |
 
 ## About This Role
 
-This account manager position at Agilent was posted on 2026-07-29.
+This sales position at Agilent was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

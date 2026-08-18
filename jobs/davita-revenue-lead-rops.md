@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Farmington, New Mexico, United States |
+| Location | United States |
 | Category | Operations |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09529---New-Mexico-Remote/Revenue-Lead--ROPS_R0453339) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09596---Tennessee-Remote/Revenue-Lead--ROPS_R0471619) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-04-10.
+This operations position at DaVita was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

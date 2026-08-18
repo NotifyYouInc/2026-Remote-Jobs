@@ -5,12 +5,12 @@
 | Company | [Grafana Labs](https://scoutify.ai/companies/grafana-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Japan |
 | Category | Sales Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/grafanalabs/jobs/5662098004) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/grafanalabs/jobs/6104605004) |
 
 ## About This Role
 
-This sales engineer position at Grafana Labs was posted on 2026-02-09.
+This sales engineer position at Grafana Labs was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

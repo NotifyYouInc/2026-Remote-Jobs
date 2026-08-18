@@ -1,16 +1,16 @@
-# Account Executive - Customer Base LE at Workday
+# Account Executive Customer Base - LE at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Sales |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-FL-Remote/Account-Executive---Customer-Base-LE_JR-0104326-1) |
+| Location | Georgia, US |
+| Category | Account Executive |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Remote/Account-Executive-Customer-Base---LE_JR-0108944) |
 
 ## About This Role
 
-This sales position at Workday was posted on 2026-02-12.
+This account executive position at Workday was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
