@@ -5,12 +5,12 @@
 | Company | [Peregrine Technologies](https://scoutify.ai/companies/peregrine-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4720951005) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4720952005) |
 
 ## About This Role
 
-This customer success position at Peregrine Technologies was posted on 2026-08-03.
+This customer success position at Peregrine Technologies was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

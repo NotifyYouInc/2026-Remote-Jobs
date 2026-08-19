@@ -5,12 +5,12 @@
 | Company | [Santen Pharmaceutical Co.](https://scoutify.ai/companies/santenpharmaceuticalco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Osaka, Osaka, Japan |
 | Category | Technology / IT Consulting |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000136735537-japan-specialist-digital-it-business-partner) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000142987269-japan-specialist-digital-it-business-partner) |
 
 ## About This Role
 
-This technology / it consulting position at Santen Pharmaceutical Co. was posted on 2026-07-09.
+This technology / it consulting position at Santen Pharmaceutical Co. was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

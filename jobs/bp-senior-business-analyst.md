@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---London/Senior-Business-Analyst_RQ105261-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---London/Senior-Business-Analyst_RQ114123-1) |
 
 ## About This Role
 
-This business analyst position at BP was posted on 2026-02-05.
+This business analyst position at BP was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

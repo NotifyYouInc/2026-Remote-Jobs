@@ -5,12 +5,12 @@
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Brasília, Federal District, Brazil |
 | Category | Technical Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000128817128-technical-product-manager) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000142982648-technical-product-manager) |
 
 ## About This Role
 
-This technical product manager position at Applaudo Studios was posted on 2026-05-27.
+This technical product manager position at Applaudo Studios was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

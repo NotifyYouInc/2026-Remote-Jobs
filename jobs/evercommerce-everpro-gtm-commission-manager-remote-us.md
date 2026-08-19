@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EverCommerce](https://scoutify.ai/companies/evercommerce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Operations |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverPro---GTM-Commission-Manager--Remote--US-_R-106011) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverPro---GTM-Commission-Manager--Remote--US-_R-106443) |
 
 ## About This Role
 
-This operations position at EverCommerce was posted on 2026-03-10.
+This operations position at EverCommerce was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

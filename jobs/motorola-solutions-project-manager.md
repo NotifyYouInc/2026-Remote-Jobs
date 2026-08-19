@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Massachusetts, US |
 | Category | Project Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Project-Manager_R63474) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Project-Manager_R67165-1) |
 
 ## About This Role
 
-This project manager position at Motorola Solutions was posted on 2026-04-16.
+This project manager position at Motorola Solutions was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

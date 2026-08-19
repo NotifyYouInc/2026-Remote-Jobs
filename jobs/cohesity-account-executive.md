@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Switzerland |
+| Location | Germany |
 | Category | Account Executive |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Switzerland---Remote/Account-Executive_R03716) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Germany---Remote/Account-Executive_R03886) |
 
 ## About This Role
 
-This account executive position at Cohesity was posted on 2026-06-09.
+This account executive position at Cohesity was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

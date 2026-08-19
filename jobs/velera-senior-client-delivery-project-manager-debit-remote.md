@@ -5,12 +5,12 @@
 | Company | [Velera](https://scoutify.ai/companies/velera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Project Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Senior-Client-Delivery-Project-Manager--Debit-_9038) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Senior-Client-Delivery-Project-Manager--Debit----Remote_9570) |
 
 ## About This Role
 
-This project manager position at Velera was posted on 2026-02-19.
+This project manager position at Velera was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

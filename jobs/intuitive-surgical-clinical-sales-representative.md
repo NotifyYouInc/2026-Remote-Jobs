@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Sales |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000141662229-clinical-sales-representative) |
+| Location | San Antonio, Texas, United States |
+| Category | Account Executive |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000142974691-clinical-sales-representative) |
 
 ## About This Role
 
-This sales position at Intuitive Surgical was posted on 2026-08-05.
+This account executive position at Intuitive Surgical was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

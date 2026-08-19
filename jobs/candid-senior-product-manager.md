@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Candid](https://scoutify.ai/companies/recruiting-ultipro-com-oj18279?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://recruiting.ultipro.com/fou1009fccn/JobBoard/7f7b3de0-a56b-44ee-a561-34aaf535549c/OpportunityDetail?opportunityId=048f3b22-6148-4c35-9065-22a6521b85c9) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://recruiting.ultipro.com/fou1009fccn/JobBoard/7f7b3de0-a56b-44ee-a561-34aaf535549c/OpportunityDetail?opportunityId=8a5ea185-3559-4b8f-a297-67ed1d7449b1) |
 
 ## About This Role
 
-This product manager position at Candid was posted on 2026-05-12.
+This product manager position at Candid was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Lucile Packard Children's Hospital Stanford](https://scoutify.ai/companies/lucilepackardchildrenshospitalstanford?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Menlo Park, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990013340566-financial-analyst-iii) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990014552726-financial-analyst-iii) |
 
 ## About This Role
 
-This corporate finance position at Lucile Packard Children's Hospital Stanford was posted on 2026-05-27.
+This corporate finance position at Lucile Packard Children's Hospital Stanford was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Solutions-Engineer--Pro-Products_JR114658) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Solutions-Engineer--Pro-Products_JR115692) |
 
 ## About This Role
 
-This sales engineer position at ServiceTitan was posted on 2026-04-23.
+This sales engineer position at ServiceTitan was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bothell, Washington, United States |
-| Category | Sales |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bothell-Washington/Business-Sales-Representative---Territory-Accounts_R-118821) |
+| Location | 4 locations |
+| Category | Account Executive |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Casper-Wyoming/Business-Sales-Representative---Territory-Accounts_R-119237-1) |
 
 ## About This Role
 
-This sales position at AT&T was posted on 2026-08-06.
+This account executive position at AT&T was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

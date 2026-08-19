@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gcu](https://scoutify.ai/companies/gcu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Shreveport, Louisiana, United States |
-| Category | Sales |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/Shreveport-LA/Account-Executive---Online-Division_R000067819) |
+| Location | 2 locations |
+| Category | Account Executive |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/Bergen-County-NJ/Account-Executive---Online-Division_R000068135) |
 
 ## About This Role
 
-This sales position at Gcu was posted on 2026-08-06.
+This account executive position at Gcu was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

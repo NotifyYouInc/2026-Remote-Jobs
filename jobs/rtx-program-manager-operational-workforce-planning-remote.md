@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | McKinney, Texas, United States |
-| Category | Human Resources / People Ops |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Program-Manager--Operational-Workforce-Planning--Remote-_01824237) |
+| Location | Texas, US |
+| Category | Program Manager |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-REMOTE/Program-Manager--Operational-Workforce-Planning--Remote-_01865186) |
 
 ## About This Role
 
-This human resources / people ops position at RTX was posted on 2026-02-17.
+This program manager position at RTX was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

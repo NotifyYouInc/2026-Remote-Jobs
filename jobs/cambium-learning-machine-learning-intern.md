@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cambium Learning](https://scoutify.ai/companies/cambiumlearning?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Machine-Learning-Intern_REQ-4432) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Machine-Learning-Intern_REQ-4561) |
 
 ## About This Role
 
-This ai / ml research position at Cambium Learning was posted on 2026-04-03.
+This machine learning engineer position at Cambium Learning was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

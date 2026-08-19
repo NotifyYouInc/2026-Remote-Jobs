@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tenable](https://scoutify.ai/companies/tenable?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tenableinc/jobs/5133179008) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Sales |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tenableinc/jobs/5386230008) |
 
 ## About This Role
 
-This account executive position at Tenable was posted on 2026-02-25.
+This sales position at Tenable was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

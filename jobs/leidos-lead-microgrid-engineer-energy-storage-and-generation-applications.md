@@ -1,16 +1,16 @@
-# Lead Microgrid Engineer – Energy Storage and Generation Applications at Leidos
+# Lead Microgrid Engineer - Energy Storage and Generation Applications at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Lead-Microgrid-Engineer---Energy-Storage-and-Generation-Applications_R-00178046) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Lead-Microgrid-Engineer---Energy-Storage-and-Generation-Applications_R-00189062) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Leidos was posted on 2026-03-11.
+This electrical / hardware engineer position at Leidos was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Partsbase](https://scoutify.ai/companies/partsbase?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/partsbase/1a5ce173-4d5f-4ada-9473-15ca6cb0e437) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/partsbase/508b3327-d6af-4568-8d5e-28d50ba43f1e) |
 
 ## About This Role
 
-This account executive position at Partsbase was posted on 2026-07-23.
+This account executive position at Partsbase was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

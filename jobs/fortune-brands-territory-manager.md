@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fortune Brands](https://scoutify.ai/companies/fortune-brands?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | West Palm Beach, Florida, United States |
-| Category | Account Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/fortunebrands/744000140786549-territory-manager) |
+| Location | Portland, Oregon, United States |
+| Category | Account Executive |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/fortunebrands/744000142975114-territory-manager) |
 
 ## About This Role
 
-This account manager position at Fortune Brands was posted on 2026-07-30.
+This account executive position at Fortune Brands was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

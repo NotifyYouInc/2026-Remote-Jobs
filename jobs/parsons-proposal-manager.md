@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Project Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Proposal-Manager_R167221-1) |
+| Category | Program Manager |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Proposal-Manager_R183231-1) |
 
 ## About This Role
 
-This project manager position at Parsons was posted on 2026-02-17.
+This program manager position at Parsons was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

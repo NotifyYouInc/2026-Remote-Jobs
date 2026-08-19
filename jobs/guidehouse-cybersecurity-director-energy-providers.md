@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 2 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Cybersecurity-Director---Energy-Providers_38065-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Cybersecurity-Director---Energy-Providers_42767) |
 
 ## About This Role
 
-This technology / it consulting position at Guidehouse was posted on 2026-05-11.
+This technology / it consulting position at Guidehouse was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

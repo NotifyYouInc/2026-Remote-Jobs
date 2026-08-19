@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [2020 Companies](https://scoutify.ai/companies/2020-companies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Program Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Saint-Louis-MO/Field-Operations-Manager_REQ_109431) |
+| Location | Chicago, Illinois, United States |
+| Category | Marketing |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Chicago-IL/Field-Operations-Manager_REQ_110288-1) |
 
 ## About This Role
 
-This program manager position at 2020 Companies was posted on 2026-07-31.
+This marketing position at 2020 Companies was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

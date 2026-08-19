@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axalta](https://scoutify.ai/companies/axalta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 5 locations |
-| Category | Account Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://axalta.wd1.myworkdayjobs.com/axalta/job/Remote-USA/Account-Specialist_2026-17962-1) |
+| Location | United States |
+| Category | Account Executive |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://axalta.wd1.myworkdayjobs.com/axalta/job/Remote-USA/Account-Specialist_2026-19071-1) |
 
 ## About This Role
 
-This account manager position at Axalta was posted on 2026-07-01.
+This account executive position at Axalta was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

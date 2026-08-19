@@ -1,16 +1,16 @@
-# Supply and Logistics Project Manager at Parexel
+# Supply and logistics Project Manager at Parexel
 
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Argentina |
 | Category | Project Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Argentina-Remote/Supply-and-Logistics-Project-Manager_R0000038977) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Argentina-Remote/Supply-and-logistics-Project-Manager_R0000043749) |
 
 ## About This Role
 
-This project manager position at Parexel was posted on 2026-02-27.
+This project manager position at Parexel was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

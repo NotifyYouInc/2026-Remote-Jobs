@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accela](https://scoutify.ai/companies/accela-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/accela/jobs/7733620) |
+| Category | Business Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/accela/jobs/8112646) |
 
 ## About This Role
 
-This technology / it consulting position at Accela was posted on 2026-03-18.
+This business analyst position at Accela was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 
