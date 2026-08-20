@@ -5,12 +5,12 @@
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Accounting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Payroll-Analyst_R047971) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Payroll-Analyst_R049166-1) |
 
 ## About This Role
 
-This accounting position at Ensemble Health Partners was posted on 2026-07-15.
+This accounting position at Ensemble Health Partners was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

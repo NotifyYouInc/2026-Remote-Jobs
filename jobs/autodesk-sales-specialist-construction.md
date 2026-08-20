@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Alberta, CA |
+| Location | Texas, US |
 | Category | Account Executive |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Alberta-CAN---Remote/Sales-Specialist--Construction_26WD96461-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Texas-USA---Remote/Sales-Specialist--Construction_26WD100549-2) |
 
 ## About This Role
 
-This account executive position at Autodesk was posted on 2026-03-11.
+This account executive position at Autodesk was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

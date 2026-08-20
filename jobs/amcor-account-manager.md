@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amcor](https://scoutify.ai/companies/amcor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgia, US |
+| Location | Indiana, US |
 | Category | Sales |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RemoteHome-Georgia/Account-Manager_REQ_94383) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RemoteHome-Indiana/Account-Manager_REQ_94861) |
 
 ## About This Role
 
-This sales position at Amcor was posted on 2026-08-07.
+This sales position at Amcor was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

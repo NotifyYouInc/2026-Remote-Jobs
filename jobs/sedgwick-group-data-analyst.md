@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | Florida, US |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-TX/Data-Analyst_R74267) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-FL/Data-Analyst_R76832) |
 
 ## About This Role
 
-This data analyst position at Sedgwick Group was posted on 2026-05-29.
+This data analyst position at Sedgwick Group was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

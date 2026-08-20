@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Precision for Medicine](https://scoutify.ai/companies/pfm-oj86627?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
+| Location | Singapore, Singapore |
 | Category | Project Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pfm/jobs/5903274004) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pfm/jobs/6142702004) |
 
 ## About This Role
 
-This project manager position at Precision for Medicine was posted on 2026-07-02.
+This project manager position at Precision for Medicine was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gcu](https://scoutify.ai/companies/gcu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Account Executive |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/Bergen-County-NJ/Account-Executive---Online-Division_R000068135) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/Pensacola-FL/Account-Executive---Online-Division_R000068157) |
 
 ## About This Role
 
-This account executive position at Gcu was posted on 2026-08-12.
+This account executive position at Gcu was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

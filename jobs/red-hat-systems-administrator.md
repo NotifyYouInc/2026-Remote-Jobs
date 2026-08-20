@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | Brazil |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-Czech-Republic/Systems-Administrator_R-057660-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-Brazil/Systems-Administrator_R-058589-2) |
 
 ## About This Role
 
-This it & systems administration position at Red Hat was posted on 2026-06-16.
+This it & systems administration position at Red Hat was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10491268/gss-tech-sourcing-recruiter-aws-wwas-ta-c-sourcing) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10500513/gss-tech-sourcing-recruiter-aws-wwas-ta-c-sourcing) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Amazon was posted on 2026-08-04.
+This talent acquisition / recruiting position at Amazon was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

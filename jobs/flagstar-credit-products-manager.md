@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flagstar](https://scoutify.ai/companies/flagstar?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Texas, US |
 | Category | Compliance & Risk Management |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-United-States/Credit-Products-Manager_20442) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-TX/Credit-Products-Manager_20983) |
 
 ## About This Role
 
-This compliance & risk management position at Flagstar was posted on 2026-07-17.
+This compliance & risk management position at Flagstar was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

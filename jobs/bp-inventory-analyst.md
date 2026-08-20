@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Inventory-Analyst_RQ111479) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Inventory-Analyst_RQ114357) |
 
 ## About This Role
 
-This corporate finance position at BP was posted on 2026-06-01.
+This corporate finance position at BP was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

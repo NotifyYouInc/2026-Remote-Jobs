@@ -1,0 +1,22 @@
+# Delivery Director NOAM-BP at Valiantys
+
+| Field | Details |
+|-------|---------|
+| Company | [Valiantys](https://scoutify.ai/companies/valiantys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Canada |
+| Category | Program Manager |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.lever.co/valiantys/ffb044c8-90d7-422b-bfde-49f32cf92743) |
+
+## About This Role
+
+This program manager position at Valiantys was posted on 2026-08-13.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

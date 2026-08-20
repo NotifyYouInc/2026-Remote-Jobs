@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Account Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014277816-local-gastro-account-manager-houston-tx) |
+| Category | Sales |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014575316-local-gastro-account-manager-houston-tx) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-07-24.
+This sales position at AbbVie was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 5 locations |
+| Location | 6 locations |
 | Category | Customer Success |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Overland-Park-KS/Customer-Success-Manager_R0033347) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Chicago-IL/Customer-Success-Manager_R0034985) |
 
 ## About This Role
 
-This customer success position at Epiqsystems was posted on 2026-02-24.
+This customer success position at Epiqsystems was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Indiana, US |
+| Location | Portland, Oregon, United States |
 | Category | Account Executive |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Remote---Indiana-USA/Account-Executive---Splunk_2012257) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Portland-Oregon-US/Account-Executive---Splunk_2013222) |
 
 ## About This Role
 
-This account executive position at Cisco was posted on 2026-05-14.
+This account executive position at Cisco was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

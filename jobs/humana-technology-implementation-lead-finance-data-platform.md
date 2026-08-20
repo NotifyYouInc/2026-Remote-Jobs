@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Louisville, Kentucky, United States |
-| Category | Customer Success |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Technology-Implementation-Lead---Finance-Data-Platform_R-407747) |
+| Category | Data Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Technology-Implementation-Lead---Finance-Data-Platform_R-426277) |
 
 ## About This Role
 
-This customer success position at Humana was posted on 2026-05-05.
+This data engineer position at Humana was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

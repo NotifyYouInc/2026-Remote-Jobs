@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Transformingage](https://scoutify.ai/companies/transformingage?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bellevue, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://transformingage.wd108.myworkdayjobs.com/joinus/job/Remote-US/Corporate---Senior-Accountant_JR101246) |
+| Location | United States |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://transformingage.wd108.myworkdayjobs.com/joinus/job/Remote---US/Corporate---Senior-Accountant_JR102085) |
 
 ## About This Role
 
-This corporate finance position at Transformingage was posted on 2026-04-20.
+This accounting position at Transformingage was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

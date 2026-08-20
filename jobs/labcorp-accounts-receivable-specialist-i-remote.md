@@ -5,12 +5,12 @@
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Burlington, North Carolina, United States |
 | Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Burlington-NC/Accounts-Receivable-Specialist-I---Remote_2622464) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---NC---Burlington---338-S-Main-Street/Accounts-Receivable-Specialist-I---Remote_2627230) |
 
 ## About This Role
 
-This accounting position at Labcorp was posted on 2026-07-31.
+This accounting position at Labcorp was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

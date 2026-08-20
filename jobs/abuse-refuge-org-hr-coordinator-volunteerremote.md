@@ -5,12 +5,12 @@
 | Company | [Abuse Refuge Org](https://scoutify.ai/companies/abuse-refuge-org?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Westerville, Ohio, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/abuserefugeorg/744000127316229-hr-coordinator-volunteerremote) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/abuserefugeorg/744000143185420-hr-coordinator-volunteerremote) |
 
 ## About This Role
 
-This human resources / people ops position at Abuse Refuge Org was posted on 2026-05-19.
+This human resources / people ops position at Abuse Refuge Org was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

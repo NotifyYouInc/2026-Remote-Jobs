@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gcu](https://scoutify.ai/companies/gcu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/Stillwater-OK/Account-Executive---Online-Division---Grand-Canyon-University_R000068127) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/Houston-TX/Account-Executive---Online-Division---Grand-Canyon-University_R000068173) |
 
 ## About This Role
 
-This account executive position at Gcu was posted on 2026-08-12.
+This account executive position at Gcu was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

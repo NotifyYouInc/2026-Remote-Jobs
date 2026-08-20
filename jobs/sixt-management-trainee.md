@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Honolulu, Hawaii, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000131534439-management-trainee) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000143221709-management-trainee) |
 
 ## About This Role
 
-This leadership development program position at Sixt was posted on 2026-06-10.
+This leadership development program position at Sixt was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
