@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Compliance-Lead_R-411172) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Compliance-Lead_R-426592) |
 
 ## About This Role
 
-This compliance & risk management position at Humana was posted on 2026-03-31.
+This compliance & risk management position at Humana was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

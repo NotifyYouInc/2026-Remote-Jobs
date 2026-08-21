@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cart](https://scoutify.ai/companies/cart?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Texas, US |
-| Category | Human Resources / People Ops |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://cart.wd1.myworkdayjobs.com/cart/job/Remote---Texas-Central-Standard-Time/Payroll---Tax-Specialist_R-102427) |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://cart.wd1.myworkdayjobs.com/cart/job/Remote---Texas-Central-Standard-Time/Payroll---Tax-Specialist_R-102503) |
 
 ## About This Role
 
-This human resources / people ops position at Cart was posted on 2026-06-16.
+This accounting position at Cart was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

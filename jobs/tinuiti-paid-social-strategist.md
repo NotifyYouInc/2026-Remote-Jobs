@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tinuiti](https://scoutify.ai/companies/tinuiti?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Paid-Social-Strategist_R26_260) |
+| Category | Marketing |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Paid-Social-Strategist_R26_609) |
 
 ## About This Role
 
-This digital / performance marketing position at Tinuiti was posted on 2026-03-31.
+This marketing position at Tinuiti was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | AI / ML Research |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Applied-Scientist--Agentic-AI_P747465) |
+| Category | Data Scientist |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Applied-Scientist--Agentic-AI_P751035-1) |
 
 ## About This Role
 
-This ai / ml research position at Zillow was posted on 2026-03-23.
+This data scientist position at Zillow was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

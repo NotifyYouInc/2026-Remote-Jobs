@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [First American](https://scoutify.ai/companies/firstam?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tennessee, US |
+| Location | Pennsylvania, US |
 | Category | Legal |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-Tennessee-Remote/Underwriting-Counsel_R057505-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-Pennsylvania-Remote/Underwriting-Counsel_R058268) |
 
 ## About This Role
 
-This legal position at First American was posted on 2026-08-13.
+This legal position at First American was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

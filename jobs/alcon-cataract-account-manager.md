@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
-| Category | Account Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Remote-Florida/Cataract-Account-Manager_R-2026-47102-1) |
+| Location | Oklahoma, US |
+| Category | Sales |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Remote-Oklahoma/Account-Manager-CAT_R-2026-48953-1) |
 
 ## About This Role
 
-This account manager position at Alcon was posted on 2026-05-25.
+This sales position at Alcon was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

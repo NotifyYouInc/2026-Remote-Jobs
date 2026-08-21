@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Lysaker, Akershus, Norway |
+| Location | Montréal, Quebec, Canada |
 | Category | Account Executive |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000140843964-sr-enterprise-account-exec) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143403219-sr-enterprise-account-exec) |
 
 ## About This Role
 
-This account executive position at ServiceNow was posted on 2026-07-31.
+This account executive position at ServiceNow was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

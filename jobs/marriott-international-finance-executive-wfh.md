@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26075778) |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26102844) |
 
 ## About This Role
 
-This corporate finance position at Marriott International was posted on 2026-06-22.
+This accounting position at Marriott International was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

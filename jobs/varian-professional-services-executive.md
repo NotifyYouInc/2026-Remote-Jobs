@@ -5,12 +5,12 @@
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 4 locations |
 | Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/APH-N/Professional-Services-Executive_R-27951-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ALA-KM/Professional-Services-Executive_R-30012-1) |
 
 ## About This Role
 
-This customer success position at Varian was posted on 2026-04-21.
+This customer success position at Varian was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

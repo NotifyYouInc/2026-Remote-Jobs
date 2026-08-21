@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jumio](https://scoutify.ai/companies/jumio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Business Development |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/jumio/jobs/4680598005) |
+| Category | Sales |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/jumio/jobs/4724172005) |
 
 ## About This Role
 
-This business development position at Jumio was posted on 2026-04-14.
+This sales position at Jumio was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

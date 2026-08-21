@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hemel Hempstead, England, United Kingdom |
-| Category | Account Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hemel-Hempstead-United-Kingdom/Account-Manager_R-01356231-1) |
+| Location | China |
+| Category | Sales |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/Account-Manager_R-01364938) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-06-11.
+This sales position at Thermo Fisher Scientific was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

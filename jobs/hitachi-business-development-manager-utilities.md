@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 5 locations |
-| Category | Engineering Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---North-Carolina-United-States/Business-Development-Manager---Utilities_R0123919) |
+| Category | Account Executive |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---North-Carolina-United-States/Business-Development-Manager---Utilities_R0141469) |
 
 ## About This Role
 
-This engineering manager position at Hitachi was posted on 2026-03-24.
+This account executive position at Hitachi was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

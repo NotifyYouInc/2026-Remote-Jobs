@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-02 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Cost-Manager--Remote-_R184136) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Cost-Manager--Remote-_R184734) |
 
 ## About This Role
 
-This corporate finance position at Parsons was posted on 2026-08-02.
+This corporate finance position at Parsons was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

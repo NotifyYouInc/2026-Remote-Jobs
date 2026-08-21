@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/US-Remote/Lead-Software-Engineer--Full-Stack---Shopping--Remote-_R239756-2) |
+| Category | Software Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack---Shopping--Remote-_R248817-1) |
 
 ## About This Role
 
-This frontend engineer position at Capital One was posted on 2026-04-03.
+This software engineer position at Capital One was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

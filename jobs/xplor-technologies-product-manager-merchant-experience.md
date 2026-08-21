@@ -5,12 +5,12 @@
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000142564214-product-manager-merchant-experience) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000143440619-product-manager-merchant-experience) |
 
 ## About This Role
 
-This product manager position at Xplor Technologies was posted on 2026-08-10.
+This product manager position at Xplor Technologies was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

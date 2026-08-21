@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | Georgia, US |
 | Category | Account Executive |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/Remote---MA/Strategic-Account-Executive---Financial-Services_R12037) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/Remote---IL/Strategic-Account-Executive---Financial-Services_R12198) |
 
 ## About This Role
 
-This account executive position at Workiva was posted on 2026-07-06.
+This account executive position at Workiva was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

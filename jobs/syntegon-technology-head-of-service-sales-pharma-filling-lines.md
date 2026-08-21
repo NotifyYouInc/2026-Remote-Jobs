@@ -5,12 +5,12 @@
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Sales |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000140838469-head-of-service-sales-pharma-filling-lines) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000143455346-head-of-service-sales-pharma-filling-lines) |
 
 ## About This Role
 
-This sales position at Syntegon Technology was posted on 2026-07-31.
+This sales position at Syntegon Technology was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

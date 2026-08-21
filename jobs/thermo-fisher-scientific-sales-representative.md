@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Tennessee, US |
 | Category | Account Executive |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Nashville-Tennessee-USA/Sales-Representative_R-01355553-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Tennessee-USA/Sales-Representative_R-01364744) |
 
 ## About This Role
 
-This account executive position at Thermo Fisher Scientific was posted on 2026-06-12.
+This account executive position at Thermo Fisher Scientific was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
