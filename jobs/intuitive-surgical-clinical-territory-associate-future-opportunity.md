@@ -1,16 +1,16 @@
-# Clinical Territory Associate - Future Opportunity  at Intuitive Surgical
+# Clinical Territory Associate- Future Opportunity  at Intuitive Surgical
 
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Account Executive |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000137555509-clinical-territory-associate-future-opportunity) |
+| Location | Chicago, Illinois, United States |
+| Category | Sales |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000143604119-clinical-territory-associate-future-opportunity) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-07-14.
+This sales position at Intuitive Surgical was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

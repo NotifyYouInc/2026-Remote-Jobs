@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gcu](https://scoutify.ai/companies/gcu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 5 locations |
+| Location | Buffalo, New York, United States |
 | Category | Account Executive |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/Bradenton-FL/Account-Executive---Online-Division_R000068190) |
+| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/Buffalo-NY/Account-Executive---Online-Division_R000068197) |
 
 ## About This Role
 

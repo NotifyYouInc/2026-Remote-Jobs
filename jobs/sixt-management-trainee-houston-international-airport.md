@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000142735614-management-trainee-houston-international-airport) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000143607909-management-trainee-houston-international-airport) |
 
 ## About This Role
 
-This leadership development program position at Sixt was posted on 2026-08-10.
+This leadership development program position at Sixt was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

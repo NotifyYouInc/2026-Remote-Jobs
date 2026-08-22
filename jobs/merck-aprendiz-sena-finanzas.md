@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/COL---Cundinamarca---Bogot-Colpatria/Aprendiz-SENA-Finanzas_R410972) |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/COL---Cundinamarca---Bogot-Colpatria/Aprendiz-SENA-Finanzas_R413135) |
 
 ## About This Role
 
-This corporate finance position at Merck was posted on 2026-08-05.
+This accounting position at Merck was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

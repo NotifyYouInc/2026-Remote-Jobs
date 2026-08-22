@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000131536364-management-trainee-seattle-tacoma-international-airport) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000143609370-management-trainee-seattle-tacoma-international-airport) |
 
 ## About This Role
 
-This leadership development program position at Sixt was posted on 2026-06-10.
+This leadership development program position at Sixt was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

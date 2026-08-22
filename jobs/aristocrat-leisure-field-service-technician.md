@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Tulsa, Oklahoma, United States |
 | Category | Customer Success |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Las-Vegas-NV-US/Field-Service-Technician_R0022189) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Tulsa-OK-US/Field-Service-Technician_R0022162-1) |
 
 ## About This Role
 
-This customer success position at Aristocrat Leisure was posted on 2026-07-30.
+This customer success position at Aristocrat Leisure was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

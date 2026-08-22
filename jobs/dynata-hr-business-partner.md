@@ -5,12 +5,12 @@
 | Company | [Dynata](https://scoutify.ai/companies/dynata?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-26 |
+| Posted | 2026-08-15 |
 | Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Philippines-Cebu/HR-Business-Partner_REQ13099) |
 
 ## About This Role
 
-This human resources / people ops position at Dynata was posted on 2026-02-26.
+This human resources / people ops position at Dynata was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

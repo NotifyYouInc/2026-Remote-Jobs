@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 4 locations |
+| Location | Framingham, Massachusetts, United States |
 | Category | Account Executive |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Casper-Wyoming/Business-Sales-Representative---Territory-Accounts_R-119237-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Framingham-Massachusetts/Business-Sales-Representative---Territory-Accounts_R-118592) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-08-12.
+This account executive position at AT&T was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

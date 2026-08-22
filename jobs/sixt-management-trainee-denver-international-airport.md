@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000142737419-management-trainee-denver-international-airport) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000143608659-management-trainee-denver-international-airport) |
 
 ## About This Role
 
-This leadership development program position at Sixt was posted on 2026-08-10.
+This leadership development program position at Sixt was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

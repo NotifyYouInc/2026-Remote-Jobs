@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brenntag](https://scoutify.ai/companies/brenntag?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Miami, Florida, United States |
-| Category | Account Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/Miami-Florida-USA/Account-Manager_JR111452) |
+| Location | Toledo, Ohio, United States |
+| Category | Sales |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/Toledo-Ohio-USA/Account-Manager_JR112008) |
 
 ## About This Role
 
-This account manager position at Brenntag was posted on 2026-07-28.
+This sales position at Brenntag was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Reno, Nevada, United States |
-| Category | Sales |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USANVReno--S-Virginia-St---Adm-rm-2005250-S-Virginia-St/Business-Sales-Executive---Platinum-Accounts_R-118712) |
+| Location | Indianapolis, Indiana, United States |
+| Category | Account Executive |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Indianapolis-Indiana/Specialist-Sales-Exec-S1-Platinum-Fib_R-119398) |
 
 ## About This Role
 
-This sales position at AT&T was posted on 2026-08-06.
+This account executive position at AT&T was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

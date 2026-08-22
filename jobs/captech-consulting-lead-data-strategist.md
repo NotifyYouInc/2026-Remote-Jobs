@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Richmond, Virginia, United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115319059-lead-data-strategist) |
+| Location | Chicago, Illinois, United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000143600686-lead-data-strategist) |
 
 ## About This Role
 
-This strategy / management consulting position at CapTech Consulting was posted on 2026-03-17.
+This technology / it consulting position at CapTech Consulting was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

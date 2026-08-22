@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Legal |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Contracts-and-Compliance-Administrator_R313281) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Contracts-and-Compliance-Administrator_R331797) |
 
 ## About This Role
 
-This legal position at Cushman & Wakefield was posted on 2026-04-03.
+This compliance & risk management position at Cushman & Wakefield was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Program Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Senior-Global-Clinical-Study-Manager_R36068) |
+| Category | Project Manager |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Senior-Global-Clinical-Study-Manager_R36389) |
 
 ## About This Role
 
-This program manager position at BeOne was posted on 2026-07-30.
+This project manager position at BeOne was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

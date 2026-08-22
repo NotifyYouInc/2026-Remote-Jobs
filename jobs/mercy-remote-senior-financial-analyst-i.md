@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mercy](https://scoutify.ai/companies/mercy?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://mercy.wd1.myworkdayjobs.com/mercycareers/job/Remote/Remote---Senior-Financial-Analyst-I_JR239725-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://mercy.wd1.myworkdayjobs.com/mercycareers/job/Remote/Remote---Senior-Financial-Analyst-I_JR258127) |
 
 ## About This Role
 
-This corporate finance position at Mercy was posted on 2026-02-10.
+This corporate finance position at Mercy was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

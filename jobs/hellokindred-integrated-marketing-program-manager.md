@@ -5,12 +5,12 @@
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Brand Marketing |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990014574796-integrated-marketing-program-manager) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990014609626-integrated-marketing-program-manager) |
 
 ## About This Role
 
-This brand marketing position at HelloKindred was posted on 2026-08-12.
+This brand marketing position at HelloKindred was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

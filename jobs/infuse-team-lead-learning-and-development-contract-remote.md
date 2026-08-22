@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | South Africa |
+| Location | Armenia, Quindío Department, Colombia |
 | Category | Learning & Development |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4707210005) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4724505005) |
 
 ## About This Role
 
-This learning & development position at INFUSE was posted on 2026-06-17.
+This learning & development position at INFUSE was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Portland, Oregon, United States |
-| Category | Sales Leadership |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAORPortland--Sw-Greenburg-Rd10260-Sw-Greenburg-Rd/Associate-Director-In-Home-Sales_R-113360) |
+| Location | Canton, Michigan, United States |
+| Category | Sales |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAMICanton--Haggerty-Rd---Warehouse7171-Haggerty-Rd/Associate-Director-In-Home-Sales_R-119710) |
 
 ## About This Role
 
-This sales leadership position at AT&T was posted on 2026-06-19.
+This sales position at AT&T was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

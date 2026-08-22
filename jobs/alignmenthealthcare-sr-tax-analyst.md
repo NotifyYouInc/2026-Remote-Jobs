@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alignmenthealthcare](https://scoutify.ai/companies/alignmenthealthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, US |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://alignmenthealthcare.wd12.myworkdayjobs.com/ahc_external/job/Remote-CA-Outside-Bay-Area/Sr-Tax-Analyst_R2135-1) |
+| Location | Orange, California, United States |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://alignmenthealthcare.wd12.myworkdayjobs.com/ahc_external/job/Orange-CA/Sr-Tax-Analyst_R2454-1) |
 
 ## About This Role
 
-This corporate finance position at Alignmenthealthcare was posted on 2026-06-01.
+This accounting position at Alignmenthealthcare was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

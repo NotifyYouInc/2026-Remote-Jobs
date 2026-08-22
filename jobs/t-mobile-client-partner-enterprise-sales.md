@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Downers Grove, Illinois, United States |
+| Location | Pennsylvania, US |
 | Category | Account Executive |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Downers-Grove-Illinois/Client-Partner--Enterprise-Sales_REQ353421) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Pennsylvania/Client-Partner--Enterprise-Sales_REQ369665) |
 
 ## About This Role
 
-This account executive position at T-Mobile was posted on 2026-05-27.
+This account executive position at T-Mobile was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

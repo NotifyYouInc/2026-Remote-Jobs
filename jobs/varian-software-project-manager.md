@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | Not specified |
 | Category | Project Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/MLV-LB/Software-Project-Manager_R-28816) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/LAS-O/Software-Project-Manager_R-28859) |
 
 ## About This Role
 
-This project manager position at Varian was posted on 2026-06-19.
+This project manager position at Varian was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

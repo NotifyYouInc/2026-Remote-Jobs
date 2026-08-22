@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | AI / ML Research |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108043-1) |
+| Category | Data Scientist |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108058-1) |
 
 ## About This Role
 
-This ai / ml research position at Centific was posted on 2026-08-14.
+This data scientist position at Centific was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 
