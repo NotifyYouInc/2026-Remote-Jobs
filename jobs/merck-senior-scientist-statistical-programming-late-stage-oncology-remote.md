@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Senior-Scientist--Statistical-Programming--Late-Stage-Oncology--Remote-_R412092-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-08-14.
+This bioinformatics / computational biology position at Merck was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

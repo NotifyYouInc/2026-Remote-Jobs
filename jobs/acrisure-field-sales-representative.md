@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acrisure](https://scoutify.ai/companies/acrisure?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ocean City, New Jersey, United States |
+| Location | Oregon, US |
 | Category | Account Executive |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/OCEAN-CITY-NJ/Field-Sales-Representative_JR110957) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/OREGON/Field-Sales-Representative_JR114096) |
 
 ## About This Role
 
-This account executive position at Acrisure was posted on 2026-06-04.
+This account executive position at Acrisure was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

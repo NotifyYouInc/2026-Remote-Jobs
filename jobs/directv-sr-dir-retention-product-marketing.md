@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DIRECTV](https://scoutify.ai/companies/directv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Marketing |
+| Category | Product Marketing |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Sr-Dir--Retention-Product-Marketing_R260239-1) |
 
 ## About This Role
 
-This marketing position at DIRECTV was posted on 2026-08-15.
+This product marketing position at DIRECTV was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

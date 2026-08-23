@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://careers.airbnb.com/positions/8130355?gh_jid=8130355) |
 
 ## About This Role
 
-This ai / llm engineer position at Airbnb was posted on 2026-08-14.
+This machine learning engineer position at Airbnb was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

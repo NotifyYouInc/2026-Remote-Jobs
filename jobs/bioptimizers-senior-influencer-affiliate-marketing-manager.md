@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bioptimizers](https://scoutify.ai/companies/bioptimizers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
+| Category | Social Media / Community |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/bioptimizers/a72003c4-640b-4e0d-aaf2-6b29b9b47775) |
 
 ## About This Role
 
-This marketing position at Bioptimizers was posted on 2026-08-14.
+This social media / community position at Bioptimizers was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

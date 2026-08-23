@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Latvia |
-| Category | Marketing |
+| Category | Content Marketing |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4724589005) |
 
 ## About This Role
 
-This marketing position at INFUSE was posted on 2026-08-14.
+This content marketing position at INFUSE was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

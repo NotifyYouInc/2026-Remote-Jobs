@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Marketing |
+| Category | Product Marketing |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Product-Marketing---NVIDIA-Retail-AI_JR2021824) |
 
 ## About This Role
 
-This marketing position at Nvidia was posted on 2026-08-15.
+This product marketing position at Nvidia was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

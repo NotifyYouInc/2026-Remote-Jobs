@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
+| Category | Marketing Operations |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000143637489-ai-marketing-program-manager) |
 
 ## About This Role
 
-This marketing position at Flywire was posted on 2026-08-15.
+This marketing operations position at Flywire was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

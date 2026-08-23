@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scorpion Enterprises, LLC](https://scoutify.ai/companies/scorpion-enterprises-llc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
+| Category | Motion / Video Production |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/scorpionenterprisesllc/jobs/5387542008) |
 
 ## About This Role
 
-This marketing position at Scorpion Enterprises, LLC was posted on 2026-08-14.
+This motion / video production position at Scorpion Enterprises, LLC was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

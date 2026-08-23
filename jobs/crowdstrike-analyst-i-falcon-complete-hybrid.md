@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete--Hybrid-_R29651) |
 
 ## About This Role
 
-This cybersecurity engineer position at CrowdStrike was posted on 2026-08-14.
+This soc & incident response position at CrowdStrike was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

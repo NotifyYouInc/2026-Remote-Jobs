@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EverCommerce](https://scoutify.ai/companies/evercommerce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
+| Category | Growth Marketing |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverPro---Growth-Marketing-Manager--US--Remote-_R-106459) |
 
 ## About This Role
 
-This marketing position at EverCommerce was posted on 2026-08-14.
+This growth marketing position at EverCommerce was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

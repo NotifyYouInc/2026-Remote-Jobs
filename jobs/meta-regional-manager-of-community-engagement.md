@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
+| Category | Social Media / Community |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://www.metacareers.com/profile/job_details/2017230985569626) |
 
 ## About This Role
 
-This marketing position at Meta was posted on 2026-08-14.
+This social media / community position at Meta was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

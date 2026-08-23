@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DriveCam](https://scoutify.ai/companies/drivecam?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
+| Category | Content Marketing |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://lytx.wd1.myworkdayjobs.com/lytx/job/Remote---USA/Content-Senior-Specialist_R-4267) |
 
 ## About This Role
 
-This marketing position at DriveCam was posted on 2026-08-14.
+This content marketing position at DriveCam was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

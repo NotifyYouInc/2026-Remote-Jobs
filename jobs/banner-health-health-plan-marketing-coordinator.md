@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Arizona, US |
-| Category | Marketing |
+| Category | Content Marketing |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Health-Plan-Marketing-Coordinator_R4449721) |
 
 ## About This Role
 
-This marketing position at Banner Health was posted on 2026-08-15.
+This content marketing position at Banner Health was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

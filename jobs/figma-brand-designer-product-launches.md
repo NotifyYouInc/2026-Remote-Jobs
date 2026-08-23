@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Figma](https://scoutify.ai/companies/figma?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Marketing |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://boards.greenhouse.io/figma/jobs/6131079004?gh_jid=6131079004) |
 
 ## About This Role
 
-This marketing position at Figma was posted on 2026-08-15.
+This graphic / brand design position at Figma was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

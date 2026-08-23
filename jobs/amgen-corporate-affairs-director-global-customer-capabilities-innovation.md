@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
+| Category | PR & External Communications |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Corporate-Affairs--Director---Global-Customer-Capabilities---Innovation_R-252658) |
 
 ## About This Role
 
-This marketing position at Amgen was posted on 2026-08-14.
+This pr & external communications position at Amgen was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [evoila](https://scoutify.ai/companies/evoila?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mainz, Rheinland-Pfalz, Germany |
-| Category | Marketing |
+| Category | Field & Event Marketing |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://evoila.wd3.myworkdayjobs.com/evoilajobs/job/Mainz-Remote/Event-Marketing-Manager--m-w-d-_JR100355-1) |
 
 ## About This Role
 
-This marketing position at evoila was posted on 2026-08-14.
+This field & event marketing position at evoila was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
