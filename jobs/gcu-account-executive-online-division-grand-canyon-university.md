@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gcu](https://scoutify.ai/companies/gcu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Baltimore, Maryland, United States |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/Baltimore-MD/Account-Executive---Online-Division--Grand-Canyon-University_R000068207) |
 
 ## About This Role
 
-This account executive position at Gcu was posted on 2026-08-14.
+This sales position at Gcu was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

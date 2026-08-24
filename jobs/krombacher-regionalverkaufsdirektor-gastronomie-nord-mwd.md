@@ -5,12 +5,12 @@
 | Company | [Krombacher](https://scoutify.ai/companies/krombacher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Sales |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Krombacher/744000143439889-regionalverkaufsdirektor-gastronomie-nord-mwd) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Krombacher/744000143743065-regionalverkaufsdirektor-gastronomie-nord-mwd) |
 
 ## About This Role
 
-This sales position at Krombacher was posted on 2026-08-14.
+This sales position at Krombacher was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

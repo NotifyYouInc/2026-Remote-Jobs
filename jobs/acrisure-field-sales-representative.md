@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Acrisure](https://scoutify.ai/companies/acrisure?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Oregon, US |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/OREGON/Field-Sales-Representative_JR114096) |
 
 ## About This Role
 
-This account executive position at Acrisure was posted on 2026-08-14.
+This sales position at Acrisure was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

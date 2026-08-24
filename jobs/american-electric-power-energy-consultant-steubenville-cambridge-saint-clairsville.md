@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Energy-Consultant--Steubenville---Cambridge---Saint-Clairsville_R17668) |
 
 ## About This Role
 
-This account executive position at American Electric Power was posted on 2026-08-14.
+This sales position at American Electric Power was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

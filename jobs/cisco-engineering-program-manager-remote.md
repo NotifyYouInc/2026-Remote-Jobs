@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Program Manager |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Engineering-Program-Manager--Remote-_2011524) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Engineering-Program-Manager--Remote-_2020977) |
 
 ## About This Role
 
-This program manager position at Cisco was posted on 2026-04-19.
+This program manager position at Cisco was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Content Group](https://scoutify.ai/companies/ingramcontentgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sacramento, California, United States |
-| Category | Account Executive |
+| Location | Los Angeles, California, United States |
+| Category | Sales |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IngramContentGroup1/744000143611739-senior-sales-representative-remote) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IngramContentGroup1/744000143613039-senior-sales-representative-remote) |
 
 ## About This Role
 
-This account executive position at Ingram Content Group was posted on 2026-08-14.
+This sales position at Ingram Content Group was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

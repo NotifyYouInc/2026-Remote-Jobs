@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Germany |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000141642189-senior-consultant-sap-digital-adoption-enablement-mwd) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000143748170-senior-consultant-sap-digital-adoption-enablement-mwd) |
 
 ## About This Role
 
-This strategy / management consulting position at Nagarro was posted on 2026-08-05.
+This strategy / management consulting position at Nagarro was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

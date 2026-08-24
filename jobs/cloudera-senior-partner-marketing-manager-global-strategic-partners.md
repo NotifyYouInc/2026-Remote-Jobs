@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Strategy & Operations |
+| Category | Sales |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/USA--Colorado--Denver/Senior-Partner-Marketing-Manager---Global-Strategic-Partners_261182-1) |
 
 ## About This Role
 
-This strategy & operations position at Cloudera was posted on 2026-08-14.
+This sales position at Cloudera was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

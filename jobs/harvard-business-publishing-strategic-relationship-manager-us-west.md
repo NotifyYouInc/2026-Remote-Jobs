@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvard Business Publishing](https://scoutify.ai/companies/hbpublishing?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Strategy & Operations |
+| Category | Sales |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://hbpublishing.wd1.myworkdayjobs.com/Careers/job/Remote-US/Strategic-Relationship-Manager---US-West_JR260306) |
 
 ## About This Role
 
-This strategy & operations position at Harvard Business Publishing was posted on 2026-08-14.
+This sales position at Harvard Business Publishing was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

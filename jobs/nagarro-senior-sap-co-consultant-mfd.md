@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Germany |
 | Category | Technology / IT Consulting |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000143037389-senior-sap-co-consultant-mfd) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000143748639-senior-sap-co-consultant-mfd) |
 
 ## About This Role
 
-This technology / it consulting position at Nagarro was posted on 2026-08-12.
+This technology / it consulting position at Nagarro was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

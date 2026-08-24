@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Missouri, US |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Sr-Account-Executive_32947R) |
 
 ## About This Role
 
-This account executive position at Vizient was posted on 2026-08-14.
+This sales position at Vizient was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

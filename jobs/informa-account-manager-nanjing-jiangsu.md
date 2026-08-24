@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Nanjing, Jiangsu, China |
-| Category | Account Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000138790209-account-manager-nanjing-jiangsu) |
+| Category | Sales |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000143733799-account-manager-nanjing-jiangsu) |
 
 ## About This Role
 
-This account manager position at Informa was posted on 2026-07-21.
+This sales position at Informa was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

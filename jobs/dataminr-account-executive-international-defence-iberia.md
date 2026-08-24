@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dataminr](https://scoutify.ai/companies/dataminr?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Denmark |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/UK---Remote/Account-Executive--International-Defence--Iberia-_JR2079) |
 
 ## About This Role
 
-This account executive position at Dataminr was posted on 2026-08-14.
+This sales position at Dataminr was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ClickHouse](https://scoutify.ai/companies/clickhouse?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United Kingdom |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/clickhouse/jobs/6113761004) |
 
 ## About This Role
 
-This account executive position at ClickHouse was posted on 2026-08-15.
+This sales position at ClickHouse was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

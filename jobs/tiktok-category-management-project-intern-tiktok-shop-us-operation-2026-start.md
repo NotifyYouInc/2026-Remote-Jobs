@@ -1,16 +1,16 @@
-# Category Management Project Intern (TikTok Shop - US Operation）- 2026 Start at TikTok
+# Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start at TikTok
 
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Los Angeles, California, United States |
 | Category | Program Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7670035937425983797/detail) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7672243737704155445/detail) |
 
 ## About This Role
 
-This program manager position at TikTok was posted on 2026-08-04.
+This program manager position at TikTok was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

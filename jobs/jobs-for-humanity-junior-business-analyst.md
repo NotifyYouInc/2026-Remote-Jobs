@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000141654897-junior-business-analyst) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000143697739-junior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Jobs for Humanity was posted on 2026-08-05.
+This business analyst position at Jobs for Humanity was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Texas, US |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Texas/Territory-Manager---Personal-Lines--Texas---Austin-_099747) |
 
 ## About This Role
 
-This account executive position at Nationwide was posted on 2026-08-15.
+This sales position at Nationwide was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 
