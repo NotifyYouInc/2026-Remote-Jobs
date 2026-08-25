@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Lindau, Bavaria, Germany |
 | Category | Project Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000135927099-praktikum-projektmanagement-vertrieb-im-bereich-autonomous-mobility) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000143986491-praktikum-projektmanagement-vertrieb-im-bereich-autonomous-mobility) |
 
 ## About This Role
 
-This project manager position at Aumovio was posted on 2026-07-06.
+This project manager position at Aumovio was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

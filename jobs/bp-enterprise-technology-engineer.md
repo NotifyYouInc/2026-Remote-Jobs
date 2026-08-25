@@ -1,16 +1,16 @@
-# Enterprise Technology Engineer at BP
+# Enterprise technology engineer at BP
 
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Illinois---Chicago/Enterprise-Technology-Engineer_RQ114130) |
+| Location | Pune, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Enterprise-technology-engineer_RQ114675) |
 
 ## About This Role
 
-This it & systems administration position at BP was posted on 2026-08-07.
+This devops engineer position at BP was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

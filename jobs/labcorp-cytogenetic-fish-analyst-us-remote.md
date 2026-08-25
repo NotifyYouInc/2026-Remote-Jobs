@@ -5,12 +5,12 @@
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Brentwood, New York, United States |
 | Category | Bioinformatics / Computational Biology |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---TN---Brentwood---201-Summit-View-Drive/Cytogenetic--FISH--Analyst---US-Remote_2626118) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---TN---Brentwood---201-Summit-View-Drive/Cytogenetic-Analyst---US-Remote_2619148) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Labcorp was posted on 2026-08-15.
+This bioinformatics / computational biology position at Labcorp was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

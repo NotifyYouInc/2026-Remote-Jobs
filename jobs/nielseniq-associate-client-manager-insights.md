@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | East Hanover, New Jersey, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Account Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125223179-associate-client-manager-insights) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143931949-associate-client-manager-insights) |
 
 ## About This Role
 
-This account manager position at NielsenIQ was posted on 2026-05-07.
+This account manager position at NielsenIQ was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

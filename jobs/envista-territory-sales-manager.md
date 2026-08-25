@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Envista](https://scoutify.ai/companies/envista?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
-| Category | Account Executive |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/AUS---Remote/Territory-Sales-Manager_R5027012) |
+| Location | San Antonio, Texas, United States |
+| Category | Account Manager |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--Texas--San-Antonio/Territory-Sales-Manager_R5025838) |
 
 ## About This Role
 
-This account executive position at Envista was posted on 2026-08-13.
+This account manager position at Envista was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

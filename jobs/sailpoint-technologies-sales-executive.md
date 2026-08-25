@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | France |
 | Category | Account Executive |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Michigan-USA/Sales-Executive_R013858-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-France/Sales-Executive_R013589) |
 
 ## About This Role
 
-This account executive position at SailPoint Technologies was posted on 2026-07-24.
+This account executive position at SailPoint Technologies was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

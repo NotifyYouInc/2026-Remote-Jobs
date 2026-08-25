@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Account Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000112273347-major-account-manager) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000143933451-major-account-manager) |
 
 ## About This Role
 
-This account manager position at Arista Networks was posted on 2026-03-02.
+This account manager position at Arista Networks was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

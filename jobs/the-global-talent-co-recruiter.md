@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Global Talent Co.](https://scoutify.ai/companies/the-global-talent-co?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | South Africa |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/the-global-talent-co/6becf48f-73b6-449a-95ee-2f6bd7da7802) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/the-global-talent-co/142502b7-8420-4194-a381-4410223e4a85) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at The Global Talent Co. was posted on 2026-06-09.
+This talent acquisition / recruiting position at The Global Talent Co. was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

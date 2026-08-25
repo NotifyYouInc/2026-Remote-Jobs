@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pennsylvania, US |
-| Category | Security Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Workday-Security---Integration-Developer_R7825) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Workday-Security---Integration-Developer_R8320) |
 
 ## About This Role
 
-This security engineer position at CAI was posted on 2026-06-02.
+This technology / it consulting position at CAI was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

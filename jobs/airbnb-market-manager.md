@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Indiana, Pennsylvania, United States |
-| Category | Sales |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://careers.airbnb.com/positions/8129503?gh_jid=8129503) |
+| Location | San Diego, California, United States |
+| Category | Account Manager |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/8134685?gh_jid=8134685) |
 
 ## About This Role
 
-This sales position at Airbnb was posted on 2026-08-14.
+This account manager position at Airbnb was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

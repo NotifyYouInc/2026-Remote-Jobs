@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 11 locations |
-| Category | Engineering Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Dallas-TX/Director--Engineering---AI-First-Healthcare-Transformation_R-424054) |
+| Category | Strategy & Operations |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Dallas-TX/Director--Engineering---AI-First-Healthcare-Transformation_R-427122) |
 
 ## About This Role
 
-This engineering manager position at Humana was posted on 2026-07-24.
+This strategy & operations position at Humana was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

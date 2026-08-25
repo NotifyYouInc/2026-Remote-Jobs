@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales Leadership |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Remote/Regional-Vice-President--New-Client-Development_R-102620) |
+| Category | Corporate Finance |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Remote/Regional-Vice-President--New-Client-Development_R-102679) |
 
 ## About This Role
 
-This sales leadership position at Wealth Enhancement Group was posted on 2026-07-22.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

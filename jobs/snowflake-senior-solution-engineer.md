@@ -5,12 +5,12 @@
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Georgia, US |
 | Category | Sales Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/ef881134-59a9-42f4-ba77-f5e7a9ddaf89) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/dcc149d0-abe1-4dd8-858e-01cad43e61d5) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-08-14.
+This sales engineer position at Snowflake was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

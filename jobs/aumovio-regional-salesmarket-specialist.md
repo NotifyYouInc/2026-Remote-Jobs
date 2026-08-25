@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Allentown, Pennsylvania, United States |
-| Category | Sales |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000143642929-regional-salesmarket-specialist) |
+| Location | Washington, US |
+| Category | Account Manager |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000143924359-regional-salesmarket-specialist) |
 
 ## About This Role
 
-This sales position at Aumovio was posted on 2026-08-15.
+This account manager position at Aumovio was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

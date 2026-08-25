@@ -1,16 +1,16 @@
-# Infection Prevention Specialist, Vascular at Solventum
+# Infection Prevention Specialist Vascular at Solventum
 
 | Field | Details |
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Minnesota, US |
-| Category | Business Development |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Minnesota/Infection-Prevention-Specialist--Vascular_R01130740-1) |
+| Location | South Carolina, US |
+| Category | Account Executive |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---South-Carolina/Infection-Prevention-Specialist-Vascular_R01132932-1) |
 
 ## About This Role
 
-This business development position at Solventum was posted on 2026-05-28.
+This account executive position at Solventum was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
+| Location | Belgrade, Central Serbia, Serbia |
 | Category | Project Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Brazil/Senior-ICF-Medical-Writing-Project-Manager_R-01356094) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Belgrade-Serbia/Senior-ICF-Medical-Writing-Project-Manager_R-01360795) |
 
 ## About This Role
 
-This project manager position at Thermo Fisher Scientific was posted on 2026-06-11.
+This project manager position at Thermo Fisher Scientific was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ukraine |
+| Location | Lviv, Lviv, Ukraine |
 | Category | QA Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000135463669-qa-engineer) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000143998119-qa-engineer) |
 
 ## About This Role
 
-This qa engineer position at Lions Candle-Dispatch Solution was posted on 2026-07-02.
+This qa engineer position at Lions Candle-Dispatch Solution was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

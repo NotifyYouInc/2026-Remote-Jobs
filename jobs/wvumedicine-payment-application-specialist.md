@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WVUMedicine](https://scoutify.ai/companies/wvumedicine?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Accounting |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Remote/Payment-Application-Specialist_JR26-40221) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Remote/Payment-Application-Specialist_JR26-43061-1) |
 
 ## About This Role
 
-This accounting position at WVUMedicine was posted on 2026-07-14.
+This accounting position at WVUMedicine was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

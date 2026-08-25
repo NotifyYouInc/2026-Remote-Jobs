@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | United States |
 | Category | Learning & Development |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000141343867-technical-readiness-communities-director) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143934539-technical-readiness-communities-director) |
 
 ## About This Role
 
-This learning & development position at ServiceNow was posted on 2026-08-03.
+This learning & development position at ServiceNow was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

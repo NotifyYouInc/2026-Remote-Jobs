@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tangerang, Banten, Indonesia |
+| Location | 4 locations |
 | Category | Account Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Tangerang-Indonesia/Key-Account-Manager_Essity261593-1) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Dunstable-UK/Key-Account-Manager_Essity264669-1) |
 
 ## About This Role
 
-This account manager position at Essity was posted on 2026-04-24.
+This account manager position at Essity was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

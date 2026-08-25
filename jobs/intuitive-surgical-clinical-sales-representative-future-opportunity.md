@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Buffalo, New York, United States |
+| Location | Idaho Falls, Idaho, United States |
 | Category | Account Executive |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000133460269-clinical-sales-representative-future-opportunity) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000143934129-clinical-sales-representative-future-opportunity) |
 
 ## About This Role
 
-This account executive position at Intuitive Surgical was posted on 2026-06-22.
+This account executive position at Intuitive Surgical was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

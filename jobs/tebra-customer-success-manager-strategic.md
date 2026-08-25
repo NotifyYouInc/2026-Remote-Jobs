@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tebra](https://scoutify.ai/companies/tebra?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tebra/jobs/4682522005) |
+| Category | Strategy & Operations |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tebra/jobs/4722131005) |
 
 ## About This Role
 
-This customer success position at Tebra was posted on 2026-04-21.
+This strategy & operations position at Tebra was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Presuit Secretary at Morgan & Morgan, P.A.
+#  PreSuit Secretary at Morgan & Morgan, P.A.
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Memphis, Tennessee, United States |
+| Location | Charleston, South Carolina, United States |
 | Category | Legal |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6119122004) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6145874004) |
 
 ## About This Role
 
-This legal position at Morgan & Morgan, P.A. was posted on 2026-07-17.
+This legal position at Morgan & Morgan, P.A. was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
