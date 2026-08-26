@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pennsylvania, US |
+| Location | Florida, US |
 | Category | Account Executive |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Work-at-Home---Pennsylvania-USA-WPAA/Enterprise-Account-Executive_JR0149215) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-GA-Remote/Enterprise-Account-Executive_JR0152346) |
 
 ## About This Role
 
-This account executive position at McKesson was posted on 2026-06-19.
+This account executive position at McKesson was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

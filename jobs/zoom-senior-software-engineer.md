@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Jose, California, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Senior-Software-Engineer_R19169) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Senior-Software-Engineer_R19558) |
 
 ## About This Role
 
-This software engineer position at Zoom was posted on 2026-05-15.
+This software engineer position at Zoom was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

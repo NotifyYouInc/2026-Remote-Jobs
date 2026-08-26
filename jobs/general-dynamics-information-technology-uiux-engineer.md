@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/UI-UX-Engineer_RQ225016) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/UI-UX-Engineer_RQ226741) |
 
 ## About This Role
 
-This product designer position at General Dynamics Information Technology was posted on 2026-07-24.
+This product designer position at General Dynamics Information Technology was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

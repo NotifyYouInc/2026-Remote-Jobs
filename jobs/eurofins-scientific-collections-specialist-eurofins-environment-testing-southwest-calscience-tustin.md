@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tustin, California, United States |
 | Category | Accounting |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000141361489-collections-specialist-eurofins-environment-testing-southwest-calscience-tustin-ca) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000144178063-collections-specialist-eurofins-environment-testing-southwest-calscience-tustin-ca) |
 
 ## About This Role
 
-This accounting position at Eurofins Scientific was posted on 2026-08-04.
+This accounting position at Eurofins Scientific was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

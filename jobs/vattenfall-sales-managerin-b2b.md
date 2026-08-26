@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Account Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000127357009-sales-managerin-b2b) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000144247884-sales-managerin-b2b) |
 
 ## About This Role
 
-This account manager position at Vattenfall was posted on 2026-05-20.
+This account manager position at Vattenfall was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

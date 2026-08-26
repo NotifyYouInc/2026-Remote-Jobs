@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boyd Group](https://scoutify.ai/companies/boyd-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Winnipeg, Manitoba, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/Winnipeg-Manitoba/AR-Analyst---6-Month-Term_R057837) |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/Winnipeg-Manitoba/AR-Analyst---6-Month-Term_R064123) |
 
 ## About This Role
 
-This corporate finance position at Boyd Group was posted on 2026-03-13.
+This accounting position at Boyd Group was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

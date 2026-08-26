@@ -1,0 +1,22 @@
+# Research Scientist I at Health Research
+
+| Field | Details |
+|-------|---------|
+| Company | [Health Research](https://scoutify.ai/companies/healthresearch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Albany, New York, United States |
+| Category | Bioinformatics / Computational Biology |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Research-Scientist-I_JR-0002282-1) |
+
+## About This Role
+
+This bioinformatics / computational biology position at Health Research was posted on 2026-08-18.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

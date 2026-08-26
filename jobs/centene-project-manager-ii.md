@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, US |
+| Location | Missouri, US |
 | Category | Project Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/Project-Manager-II_1647158) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Project-Manager-II_1651989) |
 
 ## About This Role
 
-This project manager position at Centene was posted on 2026-07-29.
+This project manager position at Centene was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

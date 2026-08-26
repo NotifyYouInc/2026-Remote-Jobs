@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | Colorado, US |
 | Category | Customer Success |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Alabama/VinSolutions-Performance-Manager_R202680871) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Colorado/VinSolutions-Performance-Manager_R202681400) |
 
 ## About This Role
 
-This customer success position at Cox was posted on 2026-08-05.
+This customer success position at Cox was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

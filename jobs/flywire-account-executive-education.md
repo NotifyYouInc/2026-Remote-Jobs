@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000113032641-account-executive-education) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000144223426-account-executive-education) |
 
 ## About This Role
 
-This account executive position at Flywire was posted on 2026-03-05.
+This account executive position at Flywire was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

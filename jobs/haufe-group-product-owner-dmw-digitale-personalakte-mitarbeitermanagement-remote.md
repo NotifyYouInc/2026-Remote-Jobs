@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haufe Group](https://scoutify.ai/companies/haufegroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Germany |
+| Location | Baden-Wurttemberg, DE |
 | Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HaufeGroup/744000137397089-product-owner-dmw-digitale-personalakte-mitarbeitermanagement-remote) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HaufeGroup/744000144247359-product-owner-dmw-digitale-personalakte-mitarbeitermanagement-remote) |
 
 ## About This Role
 
-This product manager position at Haufe Group was posted on 2026-07-13.
+This product manager position at Haufe Group was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

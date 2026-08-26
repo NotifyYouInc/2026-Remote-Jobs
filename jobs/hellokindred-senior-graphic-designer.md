@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Marketing |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990013102726-senior-graphic-designer) |
+| Category | Graphic / Brand Design |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990014664766-senior-graphic-designer) |
 
 ## About This Role
 
-This marketing position at HelloKindred was posted on 2026-05-13.
+This graphic / brand design position at HelloKindred was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

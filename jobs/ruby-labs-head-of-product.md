@@ -5,12 +5,12 @@
 | Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ukraine |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/ed3bf6b2-bf07-472c-aca6-fc37f82eea90) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/425aa85f-b49a-415d-86dc-e3fce2465e4e) |
 
 ## About This Role
 
-This product manager position at Ruby Labs was posted on 2026-03-19.
+This product manager position at Ruby Labs was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

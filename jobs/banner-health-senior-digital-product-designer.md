@@ -5,12 +5,12 @@
 | Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | California, US |
 | Category | Product Designer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-California/Senior-Digital-Product-Designer_R4448701) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-California/Senior-Digital-Product-Designer_R4450567) |
 
 ## About This Role
 
-This product designer position at Banner Health was posted on 2026-07-21.
+This product designer position at Banner Health was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

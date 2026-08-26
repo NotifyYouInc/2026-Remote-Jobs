@@ -5,12 +5,12 @@
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Growth Marketing |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000140775990-lead-generation-manager) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000144224929-lead-generation-manager) |
 
 ## About This Role
 
-This growth marketing position at Xplor Technologies was posted on 2026-07-30.
+This growth marketing position at Xplor Technologies was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

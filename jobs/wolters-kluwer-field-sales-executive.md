@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Florida, US |
 | Category | Account Executive |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/CHN-Shanghai-Remote/Field-Sales-Executive_R0059274) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-SC-Remote/Field-Sales-Executive_R0059364) |
 
 ## About This Role
 
-This account executive position at Wolters Kluwer was posted on 2026-08-13.
+This account executive position at Wolters Kluwer was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

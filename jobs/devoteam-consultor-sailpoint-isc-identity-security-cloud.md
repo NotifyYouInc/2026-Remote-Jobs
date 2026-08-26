@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135649439-consultor-sailpoint-isc-identity-security-cloud) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000144247699-consultor-sailpoint-isc-identity-security-cloud) |
 
 ## About This Role
 
-This technology / it consulting position at Devoteam was posted on 2026-07-03.
+This cybersecurity engineer position at Devoteam was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

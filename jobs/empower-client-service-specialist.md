@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Client-Service-Specialist_R0058910-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Client-Service-Specialist_R0061231-1) |
 
 ## About This Role
 
-This customer success position at Empower was posted on 2026-06-03.
+This customer success position at Empower was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

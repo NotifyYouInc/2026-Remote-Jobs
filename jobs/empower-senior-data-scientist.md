@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Data-Scientist_R0061076) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Scientist_R0061193) |
 
 ## About This Role
 
-This data scientist position at Empower was posted on 2026-07-28.
+This data scientist position at Empower was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

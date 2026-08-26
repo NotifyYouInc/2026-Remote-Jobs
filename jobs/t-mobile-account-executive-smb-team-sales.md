@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Maryland, US |
+| Location | Pennsylvania, US |
 | Category | Account Executive |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Maryland/Account-Executive--SMB-Team-Sales_REQ365203-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Pennsylvania/Account-Executive--SMB-Team-Sales_REQ370195-1) |
 
 ## About This Role
 
-This account executive position at T-Mobile was posted on 2026-07-17.
+This account executive position at T-Mobile was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

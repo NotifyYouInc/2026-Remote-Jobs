@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Developer Relations |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager---Security-and-AI-Software_JR2019228) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager---Security-and-AI-Software_JR2023189-1) |
 
 ## About This Role
 
-This developer relations position at Nvidia was posted on 2026-06-12.
+This developer relations position at Nvidia was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

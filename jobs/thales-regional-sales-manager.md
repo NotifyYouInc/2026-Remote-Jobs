@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
-| Category | Sales Leadership |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Florida/Regional-Sales-Manager_R0331001-1) |
+| Location | California, US |
+| Category | Account Executive |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/California-Remote/Regional-Sales-Manager_R0336904-1) |
 
 ## About This Role
 
-This sales leadership position at Thales was posted on 2026-07-13.
+This account executive position at Thales was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
