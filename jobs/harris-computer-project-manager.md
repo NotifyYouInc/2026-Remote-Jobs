@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Kansas, US |
 | Category | Project Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Project-Manager_R0044144-2) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Kansas-United-States/Project-Manager_R0046200) |
 
 ## About This Role
 
-This project manager position at Harris Computer was posted on 2026-07-01.
+This project manager position at Harris Computer was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

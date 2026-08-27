@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wellington, Wellington Region, New Zealand |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Wellington/Solution-Architect_14474039) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Solution-Architect_14620248) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-07-07.
+This technical & solutions architect position at Accenture was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

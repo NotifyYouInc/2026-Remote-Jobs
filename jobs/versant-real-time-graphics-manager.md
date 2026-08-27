@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Marketing |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131963416-real-time-graphics-manager) |
+| Location | North Hollywood, California, United States |
+| Category | Motion / Video Production |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000144598079-real-time-graphics-manager) |
 
 ## About This Role
 
-This marketing position at Versant was posted on 2026-06-12.
+This motion / video production position at Versant was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

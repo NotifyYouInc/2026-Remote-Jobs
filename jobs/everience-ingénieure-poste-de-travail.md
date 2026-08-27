@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Montreuil, Île-de-France, France |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000136401220-ingenieure-poste-de-travail) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000144587079-ingenieure-poste-de-travail) |
 
 ## About This Role
 
-This it & systems administration position at Everience was posted on 2026-07-08.
+This it & systems administration position at Everience was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

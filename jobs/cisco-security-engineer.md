@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Security-Engineer_2016259-1) |
+| Location | Miami, Florida, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Miami-Florida-US/Security-Engineer_2020991-1) |
 
 ## About This Role
 
-This security engineer position at Cisco was posted on 2026-06-18.
+This cybersecurity engineer position at Cisco was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

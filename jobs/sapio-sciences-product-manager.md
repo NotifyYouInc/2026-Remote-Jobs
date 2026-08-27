@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sapio Sciences](https://scoutify.ai/companies/sapiosciences?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United Kingdom |
-| Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.lever.co/sapiosciences/4f539ed0-952c-47f0-9035-9d9de7719da0) |
+| Location | United States |
+| Category | Marketing |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.lever.co/sapiosciences/b3d3cccf-866f-4f57-8035-a07c7285a68a) |
 
 ## About This Role
 
-This product manager position at Sapio Sciences was posted on 2026-05-06.
+This marketing position at Sapio Sciences was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

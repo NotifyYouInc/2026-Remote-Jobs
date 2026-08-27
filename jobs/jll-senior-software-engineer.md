@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Ostrava, Moravskoslezský, Czechia |
 | Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Software-Engineer_REQ460189) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Ostrava-CZE/Senior-Software-Engineer_REQ530002-1) |
 
 ## About This Role
 
-This software engineer position at JLL was posted on 2026-02-10.
+This software engineer position at JLL was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

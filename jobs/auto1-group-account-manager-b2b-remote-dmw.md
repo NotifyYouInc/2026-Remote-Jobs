@@ -5,12 +5,12 @@
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Account Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000134431009-account-manager-b2b-remote-dmw) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000144564126-account-manager-b2b-remote-dmw) |
 
 ## About This Role
 
-This account manager position at AUTO1 Group was posted on 2026-06-26.
+This account manager position at AUTO1 Group was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stannah](https://scoutify.ai/companies/stannah?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Leicester, England, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000128875429-lift-engineer) |
+| Location | Bristol, England, United Kingdom |
+| Category | Industrial Automation |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000144518129-lift-engineer) |
 
 ## About This Role
 
-This engineering manager position at Stannah was posted on 2026-05-28.
+This industrial automation position at Stannah was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

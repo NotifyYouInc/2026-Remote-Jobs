@@ -5,12 +5,12 @@
 | Company | [Koalafi](https://scoutify.ai/companies/koalafi?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Richmond, Virginia, United States |
 | Category | Trust & Safety |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://boards.greenhouse.io/koalafi/jobs/5922006004?gh_jid=5922006004) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/koalafi/jobs/6148218004?gh_jid=6148218004) |
 
 ## About This Role
 
-This trust & safety position at Koalafi was posted on 2026-04-10.
+This trust & safety position at Koalafi was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

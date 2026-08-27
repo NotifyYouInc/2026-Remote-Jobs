@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Account Executive |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143403219-sr-enterprise-account-exec) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144570289-sr-enterprise-account-exec) |
 
 ## About This Role
 
-This account executive position at ServiceNow was posted on 2026-08-13.
+This account executive position at ServiceNow was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

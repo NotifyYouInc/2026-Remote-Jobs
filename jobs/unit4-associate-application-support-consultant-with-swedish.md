@@ -5,12 +5,12 @@
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
 | Category | Customer Success |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000141853899-associate-application-support-consultant-with-swedish) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000144545779-associate-application-support-consultant-with-swedish) |
 
 ## About This Role
 
-This customer success position at Unit4 was posted on 2026-08-06.
+This customer success position at Unit4 was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Memphis, Tennessee, United States |
+| Location | Houston, Texas, United States |
 | Category | Industrial Automation |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137754979-field-service-technician) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000144598039-field-service-technician) |
 
 ## About This Role
 
-This industrial automation position at Veolia was posted on 2026-07-14.
+This industrial automation position at Veolia was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

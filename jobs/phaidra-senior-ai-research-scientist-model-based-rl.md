@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Phaidra](https://scoutify.ai/companies/phaidra?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/phaidra/jobs/4719324005) |
+| Location | United Kingdom |
+| Category | AI / ML Research |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/phaidra/jobs/4725937005) |
 
 ## About This Role
 
-This machine learning engineer position at Phaidra was posted on 2026-07-28.
+This ai / ml research position at Phaidra was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

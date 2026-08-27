@@ -5,12 +5,12 @@
 | Company | [Navan](https://scoutify.ai/companies/navan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=7774072) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=8141793) |
 
 ## About This Role
 
-This customer success position at Navan was posted on 2026-04-30.
+This customer success position at Navan was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

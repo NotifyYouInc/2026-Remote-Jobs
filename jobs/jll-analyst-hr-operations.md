@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Analyst--HR-Operations_REQ511743) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Analyst--HR-Operations_REQ511735) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-07-10.
+This data analyst position at JLL was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

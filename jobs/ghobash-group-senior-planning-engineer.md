@@ -5,12 +5,12 @@
 | Company | [Ghobash Group](https://scoutify.ai/companies/ghobashgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Project Manager |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GhobashGroup/744000143744429-senior-planning-engineer) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GhobashGroup/744000144533009-senior-planning-engineer) |
 
 ## About This Role
 
-This project manager position at Ghobash Group was posted on 2026-08-17.
+This project manager position at Ghobash Group was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

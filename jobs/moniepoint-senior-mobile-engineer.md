@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moniepoint](https://scoutify.ai/companies/moniepoint?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Poland |
+| Location | Bengaluru, Karnataka, India |
 | Category | Mobile Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4945861101) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4644187101) |
 
 ## About This Role
 
-This mobile engineer position at Moniepoint was posted on 2026-08-05.
+This mobile engineer position at Moniepoint was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

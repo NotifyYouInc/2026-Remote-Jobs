@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ohio, US |
-| Category | Strategy & Operations |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Senior-Denials-Prevention-Process-Improvement-Advisor_R048189) |
+| Category | Business Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Senior-Denials-Prevention-Process-Improvement-Advisor_R049498) |
 
 ## About This Role
 
-This strategy & operations position at Ensemble Health Partners was posted on 2026-07-21.
+This business analyst position at Ensemble Health Partners was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
