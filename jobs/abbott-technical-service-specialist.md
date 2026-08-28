@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Customer Success |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Australia---Remote/Technical-Service-Specialist_31157224) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia--Bogota--Remote/Technical-Service-Specialist_31158575) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-07-28.
+This customer success position at Abbott was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

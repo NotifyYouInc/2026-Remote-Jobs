@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Illinois, US |
-| Category | Business Development |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Illinois/Business-Development-Representative_R0321987-1) |
+| Location | Florida, US |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Texas/Business-Development-Representative_R0337951-1) |
 
 ## About This Role
 
-This business development position at Thales was posted on 2026-03-20.
+This sales development (sdr / bdr) position at Thales was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

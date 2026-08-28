@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Austin, Texas, United States |
 | Category | Project Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Tampa-Florida-USA/Project-Manager_R326535-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Austin-Texas-USA/Project-Manager_R332798) |
 
 ## About This Role
 
-This project manager position at Cushman & Wakefield was posted on 2026-07-01.
+This project manager position at Cushman & Wakefield was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

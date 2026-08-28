@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/United-States/Senior-Staff-DevOps-Engineer_R013916) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Pune-India/Senior-Staff-DevOps-Engineer_R013642) |
 
 ## About This Role
 
-This devops engineer position at SailPoint Technologies was posted on 2026-08-05.
+This devops engineer position at SailPoint Technologies was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

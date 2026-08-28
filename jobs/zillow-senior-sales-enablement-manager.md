@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales Leadership |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Sales-Enablement-Manager_P750218) |
+| Category | Operations |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Sales-Enablement-Manager_P751130-1) |
 
 ## About This Role
 
-This sales leadership position at Zillow was posted on 2026-04-30.
+This operations position at Zillow was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

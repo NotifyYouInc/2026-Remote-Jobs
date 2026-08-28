@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Maryland, US |
+| Location | United Kingdom |
 | Category | Program Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Maryland-USA/FSP-Functional-Lead-for-Medical-Writing_R-01364280-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-United-Kingdom/FSP-Functional-Lead-for-Medical-Writing_R-01365853) |
 
 ## About This Role
 
-This program manager position at Thermo Fisher Scientific was posted on 2026-08-07.
+This program manager position at Thermo Fisher Scientific was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

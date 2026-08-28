@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Product Marketing |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000135356730-director-industry-marketing-life-sciences) |
+| Location | Austin, Texas, United States |
+| Category | Marketing |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144802369-director-industry-marketing-life-sciences) |
 
 ## About This Role
 
-This product marketing position at ServiceNow was posted on 2026-07-01.
+This marketing position at ServiceNow was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

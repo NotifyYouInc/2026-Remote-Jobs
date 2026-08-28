@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Marketing |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/McLean-Virginia-US/Content-Marketing-Manager_2019931-1) |
+| Location | 9 locations |
+| Category | Content Marketing |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Denver-Colorado-US/Content-Marketing-Manager_2023507-1) |
 
 ## About This Role
 
-This marketing position at Cisco was posted on 2026-08-11.
+This content marketing position at Cisco was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

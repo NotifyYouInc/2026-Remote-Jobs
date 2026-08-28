@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Power Digital](https://scoutify.ai/companies/power-digital?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Growth Marketing |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5118057007) |
+| Location | Chile |
+| Category | Account Manager |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5118072007) |
 
 ## About This Role
 
-This growth marketing position at Power Digital was posted on 2026-05-05.
+This account manager position at Power Digital was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

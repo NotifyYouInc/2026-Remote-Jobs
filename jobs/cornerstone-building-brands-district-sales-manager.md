@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cornerstone Building Brands](https://scoutify.ai/companies/cornerstonebuildingbrands?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Los Angeles, California, United States |
 | Category | Sales Leadership |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990014160456-district-sales-manager) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990014761286-district-sales-manager) |
 
 ## About This Role
 
-This sales leadership position at Cornerstone Building Brands was posted on 2026-07-17.
+This sales leadership position at Cornerstone Building Brands was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

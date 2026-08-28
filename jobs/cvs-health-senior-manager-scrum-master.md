@@ -1,16 +1,16 @@
-# Senior Manager - Scrum Master at CVS Health
+# Senior Manager, Scrum Master at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Scrum Master & Agile Coach |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Senior-Manager---Scrum-Master_R0876146) |
+| Location | Virginia, US |
+| Category | Program Manager |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Work-from-home/Senior-Manager--Scrum-Master_R1004326-1) |
 
 ## About This Role
 
-This scrum master & agile coach position at CVS Health was posted on 2026-04-07.
+This program manager position at CVS Health was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

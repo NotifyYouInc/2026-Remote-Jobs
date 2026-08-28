@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canton, Michigan, United States |
-| Category | Sales |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAMICanton--Haggerty-Rd---Warehouse7171-Haggerty-Rd/Associate-Director-In-Home-Sales_R-119710) |
+| Location | Spokane, Washington, United States |
+| Category | Sales Leadership |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAWASpokane15319-E-Indiana-AveRETRET/Associate-Director-In-Home-Sales_R-120379) |
 
 ## About This Role
 
-This sales position at AT&T was posted on 2026-08-14.
+This sales leadership position at AT&T was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

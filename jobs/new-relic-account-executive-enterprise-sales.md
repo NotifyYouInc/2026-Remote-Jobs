@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [New Relic](https://scoutify.ai/companies/new-relic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5224395008) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5121001008) |
 
 ## About This Role
 
-This account executive position at New Relic was posted on 2026-05-18.
+This account executive position at New Relic was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

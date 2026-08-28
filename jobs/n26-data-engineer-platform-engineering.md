@@ -1,16 +1,16 @@
-# Data Engineer - Platform Engineering  at N26
+# Data Engineer - Platform Engineering at N26
 
 | Field | Details |
 |-------|---------|
 | Company | [N26](https://scoutify.ai/companies/n26?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://n26.com/en-eu/careers/positions/7857802?gh_jid=7857802) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://n26.com/en-eu/careers/positions/8147446?gh_jid=8147446) |
 
 ## About This Role
 
-This data engineer position at N26 was posted on 2026-06-09.
+This data engineer position at N26 was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | Marlton, New Jersey, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Ft-Lauderdale-Florida/Registered-Client-Service-Associate_R26_2892) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Marlton-New-Jersey/Registered-Client-Service-Associate_R26_3342) |
 
 ## About This Role
 
-This wealth management / private banking position at Ameriprise Financial was posted on 2026-07-29.
+This wealth management / private banking position at Ameriprise Financial was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

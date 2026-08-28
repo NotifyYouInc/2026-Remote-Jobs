@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bremen, City state Bremen, Germany |
-| Category | Sales Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000133889139-da-vinci-clinical-territory-associate-mwd) |
+| Location | Düsseldorf, North Rhine-Westphalia, Germany |
+| Category | Account Executive |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000144780319-da-vinci-clinical-territory-associate-mwd) |
 
 ## About This Role
 
-This sales engineer position at Intuitive Surgical was posted on 2026-06-24.
+This account executive position at Intuitive Surgical was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/d920952d-d157-448b-bfd0-2adeea4d4dbf) |
+| Location | New York City, New York, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/13beb0b3-695a-48f3-bd35-34191097903e) |
 
 ## About This Role
 
-This software engineer position at Clera was posted on 2026-08-01.
+This machine learning engineer position at Clera was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

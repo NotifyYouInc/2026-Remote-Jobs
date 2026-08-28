@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alterea](https://scoutify.ai/companies/alterea?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Nancy, Grand Est, France |
-| Category | Sales |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEREA/744000140172849-ingenieure-commerciale-fh) |
+| Category | Account Executive |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEREA/744000144801480-ingenieure-commerciale-fh) |
 
 ## About This Role
 
-This sales position at Alterea was posted on 2026-07-28.
+This account executive position at Alterea was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

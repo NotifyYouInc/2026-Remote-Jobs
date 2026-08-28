@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bristol, Connecticut, United States |
-| Category | Product Designer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Designer-II_10152447) |
+| Category | Graphic / Brand Design |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Designer-II_10157164) |
 
 ## About This Role
 
-This product designer position at Disney was posted on 2026-06-09.
+This graphic / brand design position at Disney was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

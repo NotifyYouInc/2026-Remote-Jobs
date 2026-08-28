@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Project Manager |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000134601030-project-manager-non-technical) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000144791714-project-manager-non-technical) |
 
 ## About This Role
 
-This project manager position at Inetum was posted on 2026-06-27.
+This project manager position at Inetum was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

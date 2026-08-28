@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | California, US |
 | Category | Account Executive |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/New-York---New-York---1166-Ave-of-Americas/Account-Executive_JR26-5125-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Remote---California/Account-Executive_JR26-5167-1) |
 
 ## About This Role
 
-This account executive position at Ryan Specialty was posted on 2026-08-14.
+This account executive position at Ryan Specialty was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

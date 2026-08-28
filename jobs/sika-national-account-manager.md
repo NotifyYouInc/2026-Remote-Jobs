@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Account Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000140776599-national-account-manager) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000144810752-national-account-manager) |
 
 ## About This Role
 
-This account manager position at Sika was posted on 2026-07-30.
+This account manager position at Sika was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
