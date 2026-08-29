@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Jaipur, Rajasthan, India |
-| Category | Engineering Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000139488936-learning-development-manager) |
+| Category | Learning & Development |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000144881749-learning-development-manager) |
 
 ## About This Role
 
-This engineering manager position at ACCOR was posted on 2026-07-24.
+This learning & development position at ACCOR was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Analyst-FP-A_R0874659) |
+| Location | Texas, US |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Analyst-FP-A_R1008470) |
 
 ## About This Role
 
-This corporate finance position at CVS Health was posted on 2026-04-06.
+This fp&a / strategic finance position at CVS Health was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

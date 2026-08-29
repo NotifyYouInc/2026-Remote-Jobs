@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wiser Solutions](https://scoutify.ai/companies/wiser-solutions?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
-| Category | Growth Marketing |
+| Category | Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/wisersolutions/744000144736099-marketing-generalist) |
 
 ## About This Role
 
-This growth marketing position at Wiser Solutions was posted on 2026-08-21.
+This marketing position at Wiser Solutions was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

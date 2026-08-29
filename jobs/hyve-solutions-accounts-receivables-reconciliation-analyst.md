@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hyve Solutions](https://scoutify.ai/companies/hyve-solutions?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Greenville, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Greenville-SC/Accounts-Receivables-Reconciliation-Analyst_R50670) |
+| Category | Accounting |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Greenville-SC/Accounts-Receivables-Reconciliation-Analyst_R55284) |
 
 ## About This Role
 
-This corporate finance position at Hyve Solutions was posted on 2026-05-05.
+This accounting position at Hyve Solutions was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

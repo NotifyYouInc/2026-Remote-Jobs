@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Texas/Portfolio-Manager-III---NextGear-Capital_R202673946) |
+| Category | Account Manager |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---California/Portfolio-Manager-III---NextGear-Capital_R202681535) |
 
 ## About This Role
 
-This corporate finance position at Cox was posted on 2026-03-03.
+This account manager position at Cox was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

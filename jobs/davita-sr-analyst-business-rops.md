@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Irvine, California, United States |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/02896---The-Grove-Irvine-Corp-West-Admin/Sr-Analyst--Business--ROPS-_R0453596) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01548---Texas-Remote/Sr-Analyst--Business--ROPS-_R0474269) |
 
 ## About This Role
 
-This business analyst position at DaVita was posted on 2026-04-09.
+This business analyst position at DaVita was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

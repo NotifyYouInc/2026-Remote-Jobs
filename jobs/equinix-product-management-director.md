@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Remote-Location---United-States-of-America/Product-Management-Director_JR-161217) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Remote-Location---United-States-of-America/Product-Management-Director_JR-163035) |
 
 ## About This Role
 
-This product manager position at Equinix was posted on 2026-06-08.
+This product manager position at Equinix was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

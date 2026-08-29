@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cresta](https://scoutify.ai/companies/cresta?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | India |
 | Category | Strategy & Operations |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/5398116008) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/5398815008) |
 
 ## About This Role
 
-This strategy & operations position at Cresta was posted on 2026-08-21.
+This strategy & operations position at Cresta was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

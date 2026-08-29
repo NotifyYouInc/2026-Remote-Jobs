@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LIGHTFEATHER IO LLC](https://scoutify.ai/companies/lightfeather-io-llc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5386777008) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5398607008) |
 
 ## About This Role
 
-This software engineer position at LIGHTFEATHER IO LLC was posted on 2026-08-11.
+This technology / it consulting position at LIGHTFEATHER IO LLC was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

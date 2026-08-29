@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Longwood, Florida, United States |
+| Location | Las Vegas, Nevada, United States |
 | Category | Legal |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6150043004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6150430004) |
 
 ## About This Role
 

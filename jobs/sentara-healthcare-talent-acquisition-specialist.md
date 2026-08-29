@@ -5,12 +5,12 @@
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Norfolk, Virginia, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Talent-Acquisition-Specialist_JR-96638) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Norfolk-VA/Talent-Acquisition-Specialist_JR-105174) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Sentara Healthcare was posted on 2026-03-25.
+This talent acquisition / recruiting position at Sentara Healthcare was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

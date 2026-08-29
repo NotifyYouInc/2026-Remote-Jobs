@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nordstrom](https://scoutify.ai/companies/nordstrom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Motion / Video Production |
+| Category | Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/United-States/Flex-Image-Production-Tech---Video-Editor---Remote_R-868367) |
 
 ## About This Role
 
-This motion / video production position at Nordstrom was posted on 2026-08-21.
+This marketing position at Nordstrom was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oregon, US |
+| Location | Kansas, US |
 | Category | Account Executive |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-OR-Oregon-Remote-Employees/Field-Sales-Representative_R244038-1) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-KS-Kansas-Remote-Employees/Field-Sales-Representative_R247016) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-07-10.
+This account executive position at Arrow Electronics was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

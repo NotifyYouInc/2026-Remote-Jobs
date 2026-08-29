@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144821164-staff-security-incident-commander) |
 
 ## About This Role
 
-This soc & incident response position at ServiceNow was posted on 2026-08-21.
+This cybersecurity engineer position at ServiceNow was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

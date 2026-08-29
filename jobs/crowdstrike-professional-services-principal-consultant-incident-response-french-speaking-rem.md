@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Spain |
-| Category | SOC & Incident Response |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/France---Remote/Professional-Services-Principal-Consultant---Incident-Response--French-Speaking--Remote-_R29886) |
 
 ## About This Role
 
-This soc & incident response position at CrowdStrike was posted on 2026-08-21.
+This cybersecurity engineer position at CrowdStrike was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Location | United States |
 | Category | Operations |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/00760---Team-Liberty-Malvern-Business-Office/Revenue-Specialist-I--ROPS-_R0471947) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09514---California-Remote/Revenue-Specialist-I--ROPS-_R0470366) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-08-12.
+This operations position at DaVita was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

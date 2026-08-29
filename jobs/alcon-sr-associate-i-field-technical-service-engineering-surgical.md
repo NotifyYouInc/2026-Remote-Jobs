@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Georgia, US |
 | Category | Customer Success |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Remote-Massachusetts/Sr-Associate-I--Field-Technical-Service-Engineering---Surgical_R-2026-45087-1) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Remote-Georgia/Sr-Associate-I--Field-Technical-Service-Engineering---Surgical_R-2026-49101-1) |
 
 ## About This Role
 
-This customer success position at Alcon was posted on 2026-02-24.
+This customer success position at Alcon was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

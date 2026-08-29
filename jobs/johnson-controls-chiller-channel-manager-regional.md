@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 4 locations |
-| Category | Channel / Partner Sales |
+| Category | Product Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Chiller-Channel-Manager---Regional_WD30276749) |
 
 ## About This Role
 
-This channel / partner sales position at Johnson Controls was posted on 2026-08-21.
+This product marketing position at Johnson Controls was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

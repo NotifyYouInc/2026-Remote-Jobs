@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Best Buy Express](https://scoutify.ai/companies/best-buy-express?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ontario, CA |
-| Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://bestbuycanada.wd3.myworkdayjobs.com/bestbuyca_career/job/50003-Ontario-Regional-Office/Strategic-Account-Manager_R-49283) |
+| Location | British Columbia, CA |
+| Category | Account Manager |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://bestbuycanada.wd3.myworkdayjobs.com/bestbuyca_career/job/00000-Canadian-Headquarters/Strategic-Account-Manager_R-52542) |
 
 ## About This Role
 
-This customer success position at Best Buy Express was posted on 2026-02-09.
+This account manager position at Best Buy Express was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

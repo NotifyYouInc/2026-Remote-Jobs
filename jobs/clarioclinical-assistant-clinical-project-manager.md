@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarioclinical](https://scoutify.ai/companies/clarioclinical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
+| Location | Budapest, Budapest, Hungary |
 | Category | Project Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/India-Remote/Assistant-Clinical-Project-Manager_R17651-2) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Budapest/Assistant-Clinical-Project-Manager_R16302) |
 
 ## About This Role
 
-This project manager position at Clarioclinical was posted on 2026-06-16.
+This project manager position at Clarioclinical was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

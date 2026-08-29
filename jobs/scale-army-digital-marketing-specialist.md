@@ -1,16 +1,16 @@
-# Digital Marketing Specialist  at Scale Army
+# Digital Marketing Specialist at Scale Army
 
 | Field | Details |
 |-------|---------|
 | Company | [Scale Army](https://scoutify.ai/companies/scale-army?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Egypt |
-| Category | Growth Marketing |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/ab315a6d-4606-4b48-b83c-16c4bf0a2db0) |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/70a7f6f5-397b-418f-82ee-434933967eff) |
 
 ## About This Role
 
-This growth marketing position at Scale Army was posted on 2026-05-01.
+This digital / performance marketing position at Scale Army was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

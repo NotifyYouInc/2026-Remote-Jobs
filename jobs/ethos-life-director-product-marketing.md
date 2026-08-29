@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
+| Category | Product Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8737775002) |
 
 ## About This Role
 
-This marketing position at Ethos Life was posted on 2026-08-21.
+This product marketing position at Ethos Life was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

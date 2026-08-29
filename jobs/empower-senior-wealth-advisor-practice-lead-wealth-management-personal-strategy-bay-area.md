@@ -1,16 +1,16 @@
-# Senior Wealth Advisor & Practice Lead - Wealth Management / Personal Strategy - Bay area region at Empower
+# Senior Wealth Advisor & Practice Lead - Wealth Management/ Personal Strategy - Bay area at Empower
 
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/CA-San-Francisco---Remote/Senior-Wealth-Advisor---Practice-Lead---Wealth-Management---Personal-Strategy---Bay-area-region_R0057075) |
+| Location | California, US |
+| Category | Strategy & Operations |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Wealth-Advisor---Practice-Lead---Wealth-Management--Personal-Strategy---Bay-area_R0061869) |
 
 ## About This Role
 
-This corporate finance position at Empower was posted on 2026-03-05.
+This strategy & operations position at Empower was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Senior-Consultant---Spend-Insights---Services_33034R) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Senior-Consultant---Spend-Insights---Services_34711R) |
 
 ## About This Role
 
-This strategy / management consulting position at Vizient was posted on 2026-04-14.
+This strategy / management consulting position at Vizient was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

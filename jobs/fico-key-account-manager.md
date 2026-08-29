@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FICO](https://scoutify.ai/companies/fico?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Germany |
-| Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-Germany/Key-Account-Manager_31562-1) |
+| Location | United Arab Emirates |
+| Category | Account Manager |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-United-Arab-Emirates/Key-Account-Manager_32189) |
 
 ## About This Role
 
-This customer success position at FICO was posted on 2026-02-06.
+This account manager position at FICO was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

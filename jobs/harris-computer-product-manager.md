@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Vermont, US |
+| Location | Texas, US |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Vermont-United-States/Product-Manager_R0043496-1) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Texas/Product-Manager_R0045564) |
 
 ## About This Role
 
-This product manager position at Harris Computer was posted on 2026-05-05.
+This product manager position at Harris Computer was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

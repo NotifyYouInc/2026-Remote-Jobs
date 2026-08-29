@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Business Development |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117708817-partner-manager) |
+| Location | San Diego, California, United States |
+| Category | Channel / Partner Sales |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144844939-partner-manager) |
 
 ## About This Role
 
-This business development position at ServiceNow was posted on 2026-03-30.
+This channel / partner sales position at ServiceNow was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

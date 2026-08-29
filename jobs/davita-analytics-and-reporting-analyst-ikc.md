@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, US |
-| Category | Business Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09514---California-Remote/Analytics-and-Reporting-Analyst--IKC-_R0444662) |
+| Location | United States |
+| Category | Data Analyst |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09567---Denver-HQ-Non-CA-or-CO-Remote/Analytics-and-Reporting-Analyst--IKC-_R0472634) |
 
 ## About This Role
 
-This business analyst position at DaVita was posted on 2026-02-06.
+This data analyst position at DaVita was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

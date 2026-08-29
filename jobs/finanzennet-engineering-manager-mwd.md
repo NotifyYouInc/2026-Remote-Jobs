@@ -5,12 +5,12 @@
 | Company | [Finanzen.net](https://scoutify.ai/companies/finanzennetgmbh?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 3 locations |
 | Category | Engineering Manager |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FinanzennetGmbH/744000144796389-engineering-manager-mwd) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FinanzennetGmbH/744000144874989-engineering-manager-mwd) |
 
 ## About This Role
 
-This engineering manager position at Finanzen.net was posted on 2026-08-21.
+This engineering manager position at Finanzen.net was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

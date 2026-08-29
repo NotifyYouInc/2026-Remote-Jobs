@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scale Army](https://scoutify.ai/companies/scale-army?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Egypt |
-| Category | Sales |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/47a127c1-7a42-4ade-9c56-93e2e31c35b8) |
+| Category | Account Executive |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/fd498cc1-713f-4f2b-b91c-0c225e881779) |
 
 ## About This Role
 
-This sales position at Scale Army was posted on 2026-08-07.
+This account executive position at Scale Army was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

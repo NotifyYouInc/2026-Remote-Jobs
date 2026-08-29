@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | China |
+| Location | Hong Kong, Hong Kong |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/3ff0ce31-28cd-44f2-9e12-01a6fc125f38) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f4acb7c2-f0a2-4c5f-a1a0-499a4a715c10) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Bjak was posted on 2026-08-18.
+This talent acquisition / recruiting position at Bjak was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

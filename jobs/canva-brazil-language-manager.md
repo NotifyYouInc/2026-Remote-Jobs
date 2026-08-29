@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | UX Writer & Content Designer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001267809-brazil-language-manager) |
+| Category | Marketing |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001340026-brazil-language-manager) |
 
 ## About This Role
 
-This ux writer & content designer position at Canva was posted on 2026-07-29.
+This marketing position at Canva was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

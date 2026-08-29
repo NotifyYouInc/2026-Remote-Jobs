@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fresh Prints](https://scoutify.ai/companies/fresh-prints?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
-| Category | Content Marketing |
+| Category | Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/freshprints/jobs/6150007004) |
 
 ## About This Role
 
-This content marketing position at Fresh Prints was posted on 2026-08-21.
+This marketing position at Fresh Prints was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
