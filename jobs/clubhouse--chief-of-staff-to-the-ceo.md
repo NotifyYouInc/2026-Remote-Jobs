@@ -1,16 +1,16 @@
-# Venture Fellow at Aegis Ventures
+# ⚡️ Chief of Staff (to the CEO) at Clubhouse
 
 | Field | Details |
 |-------|---------|
-| Company | [Aegis Ventures](https://scoutify.ai/companies/aegis-ventures?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Clubhouse](https://scoutify.ai/companies/clubhouse?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Venture Capital |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/aegisventures/jobs/4704367006) |
+| Category | Strategy & Operations |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clubhouse/37145c0d-bf4b-4301-8d5b-10c22da7c944) |
 
 ## About This Role
 
-This venture capital position at Aegis Ventures was posted on 2026-08-21.
+This strategy & operations position at Clubhouse was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

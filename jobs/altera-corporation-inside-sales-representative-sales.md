@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Account Manager |
+| Category | Account Executive |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Austin-Texas-United-States-Remote/Inside-Sales-Representative--Sales-_R02886) |
 
 ## About This Role
 
-This account manager position at Altera Corporation was posted on 2026-08-21.
+This account executive position at Altera Corporation was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

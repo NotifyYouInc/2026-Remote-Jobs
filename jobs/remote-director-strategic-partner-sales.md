@@ -1,16 +1,16 @@
-# Strategic Account Manager (Remote - US) at ChoicePoint
+# Director, Strategic Partner Sales at Remote
 
 | Field | Details |
 |-------|---------|
-| Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United Kingdom |
 | Category | Strategy & Operations |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Remote---USA---Nationwide/Strategic-Account-Manager--Remote---US-_R117566) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7941965003) |
 
 ## About This Role
 
-This strategy & operations position at ChoicePoint was posted on 2026-08-22.
+This strategy & operations position at Remote was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Program Analyst at General Dynamics Information Technology
+# Support Assistant at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Program Manager |
+| Location | Washington, District of Columbia, United States |
+| Category | Customer Success |
 | Posted | 2026-08-23 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Program-Analyst_RQ226661-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Support-Assistant_RQ226564-1) |
 
 ## About This Role
 
-This program manager position at General Dynamics Information Technology was posted on 2026-08-23.
+This customer success position at General Dynamics Information Technology was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Oregon, US |
-| Category | Account Manager |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-08-22 |
 | Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/United-States-of-America-Washington-Remote/Business-Development-Manager---West-Coast_R0032080) |
 
 ## About This Role
 
-This account manager position at Solenis was posted on 2026-08-22.
+This sales development (sdr / bdr) position at Solenis was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

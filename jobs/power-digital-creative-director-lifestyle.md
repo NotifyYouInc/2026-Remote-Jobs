@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Power Digital](https://scoutify.ai/companies/power-digital?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Argentina |
-| Category | Graphic / Brand Design |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5218868007) |
 
 ## About This Role
 
-This graphic / brand design position at Power Digital was posted on 2026-08-21.
+This digital / performance marketing position at Power Digital was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

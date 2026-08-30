@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Panama |
-| Category | Account Manager |
+| Category | Account Executive |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Panama-Off-Site/Enterprise-Regional--Account-Manager_R0010122) |
 
 ## About This Role
 
-This account manager position at Trend Micro was posted on 2026-08-21.
+This account executive position at Trend Micro was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

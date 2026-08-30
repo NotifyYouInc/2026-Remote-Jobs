@@ -1,16 +1,16 @@
-# Senior Product Designer - Design System at Moniepoint
+# User Growth Senior Manager at Wellhub
 
 | Field | Details |
 |-------|---------|
-| Company | [Moniepoint](https://scoutify.ai/companies/moniepoint?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Nigeria |
-| Category | Product Designer |
+| Company | [Wellhub](https://scoutify.ai/companies/wellhub?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Mexico |
+| Category | Marketing |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4955355101) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gympass/jobs/8733968002) |
 
 ## About This Role
 
-This product designer position at Moniepoint was posted on 2026-08-22.
+This marketing position at Wellhub was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

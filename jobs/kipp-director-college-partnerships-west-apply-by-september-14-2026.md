@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KIPP](https://scoutify.ai/companies/kipp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Business Development |
+| Category | Strategic Partnerships |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000144837639-director-college-partnerships-west-apply-by-september-14-2026) |
 
 ## About This Role
 
-This business development position at KIPP was posted on 2026-08-21.
+This strategic partnerships position at KIPP was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

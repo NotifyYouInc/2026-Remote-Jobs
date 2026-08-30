@@ -5,12 +5,12 @@
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Arkansas, US |
 | Category | Learning & Development |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---TX-Remote/Instructional-Designers---Allstate-Claims-University_R32696) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---TX-Remote/Instructional-Designers---Allstate-Claims-University_R34331) |
 
 ## About This Role
 
-This learning & development position at Allstate was posted on 2026-07-21.
+This learning & development position at Allstate was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

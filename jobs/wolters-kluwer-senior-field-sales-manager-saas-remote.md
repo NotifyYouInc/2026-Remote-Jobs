@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Florida, US |
-| Category | Account Manager |
+| Category | Sales Leadership |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-MI-Remote/Senior-Field-Sales-Manager--SaaS--Remote-_R0059458) |
 
 ## About This Role
 
-This account manager position at Wolters Kluwer was posted on 2026-08-21.
+This sales leadership position at Wolters Kluwer was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

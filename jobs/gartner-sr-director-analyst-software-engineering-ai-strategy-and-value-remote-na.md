@@ -1,16 +1,16 @@
-# Strategic Account Manager (Remote - US) at ChoicePoint
+# Sr Director Analyst -  Software Engineering AI Strategy and Value (Remote - N.A.) at Gartner
 
 | Field | Details |
 |-------|---------|
-| Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Strategy & Operations |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Remote---USA---Nationwide/Strategic-Account-Manager--Remote---US-_R117566) |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---United-States/Sr-Director-Analyst----Software-Engineering-AI-Strategy-and-Value--Remote---NA-_111762) |
 
 ## About This Role
 
-This strategy & operations position at ChoicePoint was posted on 2026-08-22.
+This strategy & operations position at Gartner was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

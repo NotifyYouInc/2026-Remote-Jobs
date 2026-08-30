@@ -1,16 +1,16 @@
-# Program Analyst at General Dynamics Information Technology
+# MII Training Program Support Specialist at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
-| Category | Program Manager |
+| Category | Customer Success |
 | Posted | 2026-08-23 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Program-Analyst_RQ226661-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/MII-Training-Program-Support-Specialist_RQ226460) |
 
 ## About This Role
 
-This program manager position at General Dynamics Information Technology was posted on 2026-08-23.
+This customer success position at General Dynamics Information Technology was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

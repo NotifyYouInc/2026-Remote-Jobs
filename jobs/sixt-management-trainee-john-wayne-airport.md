@@ -1,12 +1,12 @@
-# Management Trainee (Phoenix International Airport) at Sixt
+# Management Trainee (John Wayne Airport) at Sixt
 
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Santa Ana, California, United States |
 | Category | Leadership Development Program |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000144887709-management-trainee-phoenix-international-airport) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000144891719-management-trainee-john-wayne-airport) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 6 locations |
+| Location | San Jose, California, United States |
 | Category | Sales Leadership |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Director--Financial-Regional-Sales_2006450-1) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Director--Financial-Regional-Sales_2022000) |
 
 ## About This Role
 
-This sales leadership position at Cisco was posted on 2026-02-23.
+This sales leadership position at Cisco was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

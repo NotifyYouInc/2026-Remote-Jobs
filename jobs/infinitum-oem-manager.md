@@ -1,16 +1,16 @@
-# Venture Fellow at Aegis Ventures
+# OEM Manager at Infinitum
 
 | Field | Details |
 |-------|---------|
-| Company | [Aegis Ventures](https://scoutify.ai/companies/aegis-ventures?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Infinitum](https://scoutify.ai/companies/infinitumelectric?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Venture Capital |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/aegisventures/jobs/4704367006) |
+| Category | Channel / Partner Sales |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infinitumelectric/jobs/4990677007) |
 
 ## About This Role
 
-This venture capital position at Aegis Ventures was posted on 2026-08-21.
+This channel / partner sales position at Infinitum was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

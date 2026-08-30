@@ -1,16 +1,16 @@
-# Senior Product Designer - Design System at Moniepoint
+# Senior Manager, Pricing & Yield at Doximity
 
 | Field | Details |
 |-------|---------|
-| Company | [Moniepoint](https://scoutify.ai/companies/moniepoint?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Nigeria |
-| Category | Product Designer |
+| Company | [Doximity](https://scoutify.ai/companies/doximity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | San Francisco, California, United States |
+| Category | Operations |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4955355101) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doximity/jobs/8149237) |
 
 ## About This Role
 
-This product designer position at Moniepoint was posted on 2026-08-22.
+This operations position at Doximity was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

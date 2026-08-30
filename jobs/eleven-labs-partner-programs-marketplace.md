@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eleven Labs](https://scoutify.ai/companies/eleven-labs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
-| Category | Business Development |
+| Category | Strategic Partnerships |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/elevenlabs/3b88528a-b59e-4d43-b510-2fb675fbabab) |
 
 ## About This Role
 
-This business development position at Eleven Labs was posted on 2026-08-21.
+This strategic partnerships position at Eleven Labs was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

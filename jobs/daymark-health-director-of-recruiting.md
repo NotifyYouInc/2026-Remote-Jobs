@@ -1,16 +1,16 @@
-# Senior Director of Provider Growth at Daymark Health
+# Director of Recruiting at Daymark Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Daymark Health](https://scoutify.ai/companies/daymark-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Strategic Partnerships |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/daymarkhealth/jobs/5397732008) |
+| Category | Talent Acquisition / Recruiting |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/daymarkhealth/jobs/5398042008) |
 
 ## About This Role
 
-This strategic partnerships position at Daymark Health was posted on 2026-08-21.
+This talent acquisition / recruiting position at Daymark Health was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

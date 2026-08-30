@@ -1,16 +1,16 @@
-# Venture Fellow at Aegis Ventures
+# Senior Staff Deployment Strategist at Alation
 
 | Field | Details |
 |-------|---------|
-| Company | [Aegis Ventures](https://scoutify.ai/companies/aegis-ventures?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Alation](https://scoutify.ai/companies/alation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Venture Capital |
+| Category | Customer Success |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/aegisventures/jobs/4704367006) |
+| Apply | [View on company site](https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-REMOTE/Senior-Staff-Deployment-Strategist_R10000775) |
 
 ## About This Role
 
-This venture capital position at Aegis Ventures was posted on 2026-08-21.
+This customer success position at Alation was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

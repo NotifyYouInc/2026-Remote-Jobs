@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Richardson, Texas, United States |
-| Category | Business Analyst |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Systems-Analyst-Salesforce_R0055299-1) |
 
 ## About This Role
 
-This business analyst position at HCSC was posted on 2026-08-21.
+This it & systems administration position at HCSC was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

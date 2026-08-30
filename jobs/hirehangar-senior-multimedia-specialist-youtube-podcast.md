@@ -1,16 +1,16 @@
-# Customer Onboarding & Training Specialist at Hirehangar
+# Senior Multimedia Specialist (YouTube & Podcast) at Hirehangar
 
 | Field | Details |
 |-------|---------|
 | Company | [Hirehangar](https://scoutify.ai/companies/hirehangar?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
-| Category | Customer Success |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/hirehangar/f60b0b25-3c06-4ef0-8357-0d4333d47442) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Marketing |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hirehangar/782400ae-7f15-4d80-ae43-87950496849b) |
 
 ## About This Role
 
-This customer success position at Hirehangar was posted on 2026-08-21.
+This marketing position at Hirehangar was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

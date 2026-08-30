@@ -5,12 +5,12 @@
 | Company | [btranzsoftware](https://scoutify.ai/companies/btranzsoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000141858389-oracle-erp-integration-oic-consultant) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000145030229-oracle-erp-integration-oic-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at btranzsoftware was posted on 2026-08-06.
+This technology / it consulting position at btranzsoftware was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

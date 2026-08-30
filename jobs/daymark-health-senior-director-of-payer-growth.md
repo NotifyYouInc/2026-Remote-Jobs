@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Daymark Health](https://scoutify.ai/companies/daymark-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Growth Marketing |
+| Category | Strategic Partnerships |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/daymarkhealth/jobs/5397736008) |
 
 ## About This Role
 
-This growth marketing position at Daymark Health was posted on 2026-08-21.
+This strategic partnerships position at Daymark Health was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

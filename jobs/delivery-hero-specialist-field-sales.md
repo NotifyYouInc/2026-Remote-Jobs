@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Taiwan |
+| Location | Dhaka, Dhaka Division, Bangladesh |
 | Category | Account Executive |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000123601739-specialist-field-sales) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000145033409-specialist-field-sales) |
 
 ## About This Role
 
-This account executive position at Delivery Hero was posted on 2026-04-29.
+This account executive position at Delivery Hero was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 
