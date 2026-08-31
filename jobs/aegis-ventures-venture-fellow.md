@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aegis Ventures](https://scoutify.ai/companies/aegis-ventures?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Venture Capital |
+| Category | Venture Capital / Private Equity |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/aegisventures/jobs/4704367006) |
 
 ## About This Role
 
-This venture capital position at Aegis Ventures was posted on 2026-08-21.
+This venture capital / private equity position at Aegis Ventures was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

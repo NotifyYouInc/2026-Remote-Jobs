@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000135930379-technicien-support-informatique-hf) |
+| Location | Nantes, Pays de la Loire, France |
+| Category | Customer Success |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000145239709-technicien-support-informatique-hf) |
 
 ## About This Role
 
-This technical support engineer position at Everience was posted on 2026-07-06.
+This customer success position at Everience was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

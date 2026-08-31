@@ -5,12 +5,12 @@
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tennessee, US |
 | Category | Account Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TN-Remote/Director-of-National-Accounts--Health-Systems_JR0144908) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TN-Remote/Director-of-National-Accounts--Health-Systems_JR0152743) |
 
 ## About This Role
 
-This account manager position at McKesson was posted on 2026-03-27.
+This account manager position at McKesson was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

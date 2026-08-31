@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
+| Location | Turkey |
 | Category | Database Administration |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7725284003) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7725285003) |
 
 ## About This Role
 
-This database administration position at Sezzle was posted on 2026-05-05.
+This database administration position at Sezzle was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Manager--Workforce-Planning-Strategy---Analytics_JR115806) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Canada-Remote/Senior-Manager--Workforce-Planning-Strategy---Analytics_JR115829) |
 
 ## About This Role
 
-This fp&a / strategic finance position at ServiceTitan was posted on 2026-08-22.
+This fp&a / strategic finance position at ServiceTitan was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

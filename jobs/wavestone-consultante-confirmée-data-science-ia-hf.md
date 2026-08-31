@@ -5,12 +5,12 @@
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Puteaux, Île-de-France, France |
 | Category | Data Scientist |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000140394160-consultante-confirmee-data-science-ia-hf) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000145225935-consultante-confirmee-data-science-ia-hf) |
 
 ## About This Role
 
-This data scientist position at Wavestone was posted on 2026-07-29.
+This data scientist position at Wavestone was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

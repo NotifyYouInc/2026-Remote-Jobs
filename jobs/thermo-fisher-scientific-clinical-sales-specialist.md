@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 4 locations |
 | Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Miami-Florida-USA/Clinical-Sales-Specialist_R-01344451) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Seattle-Washington-USA/Clinical-Sales-Specialist_R-01365100) |
 
 ## About This Role
 
-This account executive position at Thermo Fisher Scientific was posted on 2026-03-09.
+This account executive position at Thermo Fisher Scientific was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

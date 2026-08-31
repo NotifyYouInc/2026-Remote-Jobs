@@ -5,12 +5,12 @@
 | Company | [Adler & Allan](https://scoutify.ai/companies/adlerallan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Birmingham, England, United Kingdom |
 | Category | Account Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AdlerAllan1/744000134425799-sector-manager-constructiontier-1-contractor) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AdlerAllan1/744000145228382-sector-manager-constructiontier-1-contractor) |
 
 ## About This Role
 
-This account manager position at Adler & Allan was posted on 2026-06-26.
+This account manager position at Adler & Allan was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

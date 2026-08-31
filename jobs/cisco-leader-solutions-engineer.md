@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 5 locations |
 | Category | Sales Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Leader--Solutions-Engineer_2016618) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Leader--Solutions-Engineer_2022598) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-07-03.
+This sales engineer position at Cisco was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

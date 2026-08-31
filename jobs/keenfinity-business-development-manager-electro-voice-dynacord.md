@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Keenfinity](https://scoutify.ai/companies/keenfinity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Sales |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000141852489-business-development-manager-electro-voice-dynacord) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000145249212-business-development-manager-electro-voice-dynacord) |
 
 ## About This Role
 
-This sales position at Keenfinity was posted on 2026-08-06.
+This sales development (sdr / bdr) position at Keenfinity was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

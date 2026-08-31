@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000134639209-invoice-entry-clerk-data-entry) |
+| Location | Corpus Christi, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000145235789-invoice-entry-clerk-data-entry) |
 
 ## About This Role
 
-This corporate finance position at Jobs for Humanity was posted on 2026-06-28.
+This accounting position at Jobs for Humanity was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

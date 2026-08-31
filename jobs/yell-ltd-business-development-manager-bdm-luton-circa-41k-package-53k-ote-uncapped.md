@@ -5,12 +5,12 @@
 | Company | [Yell Ltd](https://scoutify.ai/companies/yellltd?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Luton, England, United Kingdom |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/YellLtd/744000140191829-business-development-manager-bdm-luton-circa-41k-package-53k-ote-uncapped) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/YellLtd/744000145252849-business-development-manager-bdm-luton-circa-41k-package-53k-ote-uncapped) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Yell Ltd was posted on 2026-07-28.
+This sales development (sdr / bdr) position at Yell Ltd was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

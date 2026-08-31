@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000118653780-key-account-manager) |
+| Location | Boston, Massachusetts, United States |
+| Category | Account Manager |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000145300180-key-account-manager) |
 
 ## About This Role
 
-This account executive position at Veolia was posted on 2026-04-03.
+This account manager position at Veolia was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

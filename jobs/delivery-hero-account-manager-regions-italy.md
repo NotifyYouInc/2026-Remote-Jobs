@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Italy |
 | Category | Account Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000126004849-account-manager-regions-italy) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000145283575-account-manager-regions-italy) |
 
 ## About This Role
 
-This account manager position at Delivery Hero was posted on 2026-05-12.
+This account manager position at Delivery Hero was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

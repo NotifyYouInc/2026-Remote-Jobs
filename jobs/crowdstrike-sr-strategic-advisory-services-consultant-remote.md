@@ -5,12 +5,12 @@
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Implementation / Professional Services |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Strategic-Advisory-Services-Consultant--Remote-_R29938) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Strategic-Advisory-Services-Consultant--Remote-_R29939) |
 
 ## About This Role
 
-This implementation / professional services position at CrowdStrike was posted on 2026-08-21.
+This implementation / professional services position at CrowdStrike was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

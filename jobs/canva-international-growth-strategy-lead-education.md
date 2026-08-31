@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Operations |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001329699-international-growth-strategy-lead-education) |
+| Location | Singapore, Singapore |
+| Category | Strategy & Operations |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001341676-international-growth-strategy-lead-education) |
 
 ## About This Role
 
-This operations position at Canva was posted on 2026-08-19.
+This strategy & operations position at Canva was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

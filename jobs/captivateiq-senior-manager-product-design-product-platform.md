@@ -5,12 +5,12 @@
 | Company | [CaptivateIQ](https://scoutify.ai/companies/captivateiq?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Product Designer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.lever.co/captivateiq/f03f2649-4b85-4cbd-a55e-c0794fb0767e) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.lever.co/captivateiq/2bdc7e45-0445-4b89-9ed5-ae23eb9746ad) |
 
 ## About This Role
 
-This product designer position at CaptivateIQ was posted on 2026-08-21.
+This product designer position at CaptivateIQ was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

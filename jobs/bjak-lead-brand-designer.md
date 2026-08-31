@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Spain |
+| Location | United States |
 | Category | Graphic / Brand Design |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/7d03507d-5e68-4c9e-b92f-d5bc91ec6254) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/cc1dee5e-62a5-4058-a3fd-832c0e9bb7e0) |
 
 ## About This Role
 
-This graphic / brand design position at Bjak was posted on 2026-08-04.
+This graphic / brand design position at Bjak was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

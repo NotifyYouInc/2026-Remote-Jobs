@@ -1,0 +1,22 @@
+# Data Engineering Manager at OpenSesame
+
+| Field | Details |
+|-------|---------|
+| Company | [OpenSesame](https://scoutify.ai/companies/opensesame?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Data Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://boards.greenhouse.io/opensesame/jobs/8152723?gh_jid=8152723) |
+
+## About This Role
+
+This data engineer position at OpenSesame was posted on 2026-08-24.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

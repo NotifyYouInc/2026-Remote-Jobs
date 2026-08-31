@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Swedish Orphan Biovitrum AB (Sobi)](https://scoutify.ai/companies/swedishorphanbiovitrumabsobi?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Prague, Prague, Czechia |
 | Category | Compliance & Risk Management |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sobi/744000135923955-junior-compliance-specialist-cee) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sobi/744000145199190-junior-compliance-specialist-cee) |
 
 ## About This Role
 
-This compliance & risk management position at Swedish Orphan Biovitrum AB (Sobi) was posted on 2026-07-06.
+This compliance & risk management position at Swedish Orphan Biovitrum AB (Sobi) was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# IT System Administrator at REPA GROUP
+
+| Field | Details |
+|-------|---------|
+| Company | [REPA GROUP](https://scoutify.ai/companies/repa-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Cesena, Emilia-Romagna, Italy |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/repagroup/744000145279839-it-system-administrator) |
+
+## About This Role
+
+This it & systems administration position at REPA GROUP was posted on 2026-08-24.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

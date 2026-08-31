@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [G-P](https://scoutify.ai/companies/g-p?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ireland |
+| Location | China |
 | Category | Account Executive |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7653122003) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7917334003) |
 
 ## About This Role
 
-This account executive position at G-P was posted on 2026-06-01.
+This account executive position at G-P was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

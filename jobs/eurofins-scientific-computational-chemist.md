@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Saint Charles, Missouri, United States |
-| Category | Data Scientist |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000131535564-computational-chemist) |
+| Category | Bioinformatics / Computational Biology |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000145043919-computational-chemist) |
 
 ## About This Role
 
-This data scientist position at Eurofins Scientific was posted on 2026-06-10.
+This bioinformatics / computational biology position at Eurofins Scientific was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

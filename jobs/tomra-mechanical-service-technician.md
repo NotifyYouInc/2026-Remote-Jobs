@@ -5,12 +5,12 @@
 | Company | [TOMRA](https://scoutify.ai/companies/tomra?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Industrial Automation |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000140372679-mechanical-service-technician) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000145184354-mechanical-service-technician) |
 
 ## About This Role
 
-This industrial automation position at TOMRA was posted on 2026-07-29.
+This industrial automation position at TOMRA was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Lehi, Utah, United States |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Customer Success |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Technical-Support-Engineer_R166054) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Technical-Support-Engineer_R171388) |
 
 ## About This Role
 
-This customer success position at Adobe was posted on 2026-02-27.
+This customer success position at Adobe was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

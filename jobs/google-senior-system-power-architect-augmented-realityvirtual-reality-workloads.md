@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Diego, California, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQkM8hTxZGfS51dqDAu0cHJdWCPryZa3l7zV9A9nDKyzEjsA1Ny_i0aCaEO0nydetLWLLUeUsZl7cDq_kvj393U0xkYd0ke8w690acJeyxejN_Wt-C0JWfZs5DpIaA%3D%3D_V2&loc=US&title=Senior+System+Power+Architect) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXos9XopuR1ths6N79Y0mv3hxc8k1HR8_Dp7jKchXOxuEjsA1Ny_ixudz9zwmNuQBThCOZ7MeYP_fmr0ZFIsZDNCwMgt-h7yAWivhqt2Mjnm4TRJwS58AfAK7jjvYA%3D%3D_V2&loc=US&title=Senior+System+Power+Architect) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Google was posted on 2026-06-17.
+This semiconductor / chip design position at Google was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

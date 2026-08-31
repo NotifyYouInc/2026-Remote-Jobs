@@ -1,16 +1,16 @@
-# Technicien Support de Proximité (H/F) at Everience
+# Technicien Support de Proximité - H/F at Everience
 
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Perpignan, Occitanie, France |
-| Category | IT & Systems Administration |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000137833949-technicien-support-de-proximite-hf) |
+| Location | Aramon, Occitanie, France |
+| Category | Customer Success |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000145295634-technicien-support-de-proximite-hf) |
 
 ## About This Role
 
-This it & systems administration position at Everience was posted on 2026-07-15.
+This customer success position at Everience was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
