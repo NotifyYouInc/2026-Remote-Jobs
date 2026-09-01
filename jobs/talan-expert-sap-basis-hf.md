@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000133000469-expert-sap-basis-hf) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000145457319-expert-sap-basis-hf) |
 
 ## About This Role
 
-This it & systems administration position at Talan was posted on 2026-06-19.
+This technology / it consulting position at Talan was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

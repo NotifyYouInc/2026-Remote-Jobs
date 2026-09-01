@@ -5,12 +5,12 @@
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Technology / IT Consulting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000138058239-consultante-junior-en-transformation-digitale-future-of-work-workplace-souverain-quelles-solutions-souveraines-pour-remplacer-office-365-stage-de-fin-detudes) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000145451635-consultante-junior-en-transformation-digitale-future-of-work-workplace-souverain-quelles-solutions-souveraines-pour-remplacer-office-365-stage-de-fin-detudes) |
 
 ## About This Role
 
-This technology / it consulting position at Wavestone was posted on 2026-07-16.
+This technology / it consulting position at Wavestone was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

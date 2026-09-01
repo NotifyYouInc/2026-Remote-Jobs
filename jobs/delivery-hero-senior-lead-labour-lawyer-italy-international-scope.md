@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Italy |
 | Category | Legal |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000144248439-senior-lead-labour-lawyer-italy-international-scope) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000145470949-senior-lead-labour-lawyer-italy-international-scope) |
 
 ## About This Role
 
-This legal position at Delivery Hero was posted on 2026-08-19.
+This legal position at Delivery Hero was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Newsela](https://scoutify.ai/companies/newsela?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Business Development |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newsela/jobs/8093345) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newsela/jobs/8148676) |
 
 ## About This Role
 
-This business development position at Newsela was posted on 2026-07-31.
+This business development position at Newsela was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

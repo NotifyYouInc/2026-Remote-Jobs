@@ -5,12 +5,12 @@
 | Company | [Velera](https://scoutify.ai/companies/velera?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Product-Manager---Shared-Branch_9205) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Product-Manager---Shared-Branch_9522) |
 
 ## About This Role
 
-This product manager position at Velera was posted on 2026-05-01.
+This product manager position at Velera was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

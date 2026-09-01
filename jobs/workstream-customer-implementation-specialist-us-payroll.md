@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workstream](https://scoutify.ai/companies/workstream?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Customer Success |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workstream/jobs/6135961004) |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workstream/jobs/6160942004) |
 
 ## About This Role
 
-This customer success position at Workstream was posted on 2026-08-06.
+This accounting position at Workstream was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

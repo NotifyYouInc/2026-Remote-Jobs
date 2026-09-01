@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Montu](https://scoutify.ai/companies/montu-uk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Winnersh, England, United Kingdom |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/montu-uk/1d97b870-4033-46e6-b38e-f3f35f9da83f) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/montu-uk/870e4307-e2b9-4fd1-bedd-c4eeb59cb64e) |
 
 ## About This Role
 
-This human resources / people ops position at Montu was posted on 2026-07-21.
+This human resources / people ops position at Montu was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

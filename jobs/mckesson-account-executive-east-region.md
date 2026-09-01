@@ -1,16 +1,16 @@
-# Account Executive, East Region at McKesson
+# Account Executive - East Region at McKesson
 
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Jersey, US |
+| Location | Maryland, US |
 | Category | Account Executive |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-NJ-Remote/Account-Executive--East-Region_JR0150667) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-MD-Remote/Account-Executive---East-Region_JR0152831) |
 
 ## About This Role
 
-This account executive position at McKesson was posted on 2026-07-15.
+This account executive position at McKesson was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

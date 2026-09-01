@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/PACS/Reimbursement-Manager_JR171839) |
+| Location | Utah, US |
+| Category | Accounting |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/PACS/Reimbursement-Manager_JR179705-1) |
 
 ## About This Role
 
-This corporate finance position at Pacs was posted on 2026-06-06.
+This accounting position at Pacs was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

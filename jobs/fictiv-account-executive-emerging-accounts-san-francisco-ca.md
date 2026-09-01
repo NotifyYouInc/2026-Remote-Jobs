@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Sales |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8650908002) |
+| Location | San Francisco, California, United States |
+| Category | Account Executive |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8744932002) |
 
 ## About This Role
 
-This sales position at Fictiv was posted on 2026-07-29.
+This account executive position at Fictiv was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

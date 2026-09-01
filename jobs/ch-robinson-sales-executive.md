@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [C.H. Robinson](https://scoutify.ai/companies/chrobinson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Belgium |
+| Location | Colnbrook, England, United Kingdom |
 | Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Antwerp-Belgium/Sales-Executive_R47695) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Colnbrook-United-Kingdom/Sales-Executive_R49194) |
 
 ## About This Role
 
-This account executive position at C.H. Robinson was posted on 2026-04-03.
+This account executive position at C.H. Robinson was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

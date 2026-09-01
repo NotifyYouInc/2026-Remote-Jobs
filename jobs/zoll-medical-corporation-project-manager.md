@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ZOLL Medical Corporation](https://scoutify.ai/companies/zoll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Broomfield, Colorado, United States |
 | Category | Project Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Broomfield-CO/Project-Manager_R17986) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/US-CO-Broomfield/Project-Manager_R20053) |
 
 ## About This Role
 
-This project manager position at ZOLL Medical Corporation was posted on 2026-02-09.
+This project manager position at ZOLL Medical Corporation was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

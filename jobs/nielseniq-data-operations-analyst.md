@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Riga, Riga, Latvia |
 | Category | Data Analyst |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000134757254-data-operations-analyst) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000145496190-data-operations-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-06-29.
+This data analyst position at NielsenIQ was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

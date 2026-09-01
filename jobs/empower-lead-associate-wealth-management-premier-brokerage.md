@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Associate---Wealth-Management---Premier-Brokerage_R0056848) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Associate---Wealth-Management---Premier-Brokerage_R0061511-1) |
 
 ## About This Role
 
-This corporate finance position at Empower was posted on 2026-03-19.
+This wealth management / private banking position at Empower was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tinuiti](https://scoutify.ai/companies/tinuiti?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/TV--Video--Audio---Display-Strategist_R26_547) |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/TV--Video--Audio---Display-Strategist_R26_638) |
 
 ## About This Role
 
-This marketing position at Tinuiti was posted on 2026-08-11.
+This digital / performance marketing position at Tinuiti was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgia, US |
+| Location | Austria |
 | Category | Account Executive |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4819899101) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4958273101) |
 
 ## About This Role
 
-This account executive position at Veeam Software was posted on 2026-03-23.
+This account executive position at Veeam Software was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

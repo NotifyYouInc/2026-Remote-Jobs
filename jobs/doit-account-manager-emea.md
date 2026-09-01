@@ -1,16 +1,16 @@
-# Account Manager, EMEA at DoiT
+# Account Manager - EMEA at DoiT
 
 | Field | Details |
 |-------|---------|
 | Company | [DoiT](https://scoutify.ai/companies/doit?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ireland |
+| Location | Not specified |
 | Category | Account Manager |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7900057003) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7972887003) |
 
 ## About This Role
 
-This account manager position at DoiT was posted on 2026-08-20.
+This account manager position at DoiT was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

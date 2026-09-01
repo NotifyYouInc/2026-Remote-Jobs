@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jbtm](https://scoutify.ai/companies/jbtm?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Florida, US |
-| Category | Engineering Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jbtm.wd108.myworkdayjobs.com/jbt_marel_career_site/job/Remote-Florida/Business-Development-Manager_20821-1) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jbtm.wd108.myworkdayjobs.com/jbt_marel_career_site/job/Remote-Florida/Business-Development-Manager_23898-1) |
 
 ## About This Role
 
-This engineering manager position at Jbtm was posted on 2026-05-20.
+This sales development (sdr / bdr) position at Jbtm was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

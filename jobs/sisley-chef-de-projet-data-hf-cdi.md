@@ -5,12 +5,12 @@
 | Company | [Sisley](https://scoutify.ai/companies/sisley?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Saint-Ouen-l'Aumône, Île-de-France, France |
 | Category | Project Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SISLEY/744000140194074-chef-de-projet-data-hf-cdi) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SISLEY/744000145478729-chef-de-projet-data-hf-cdi) |
 
 ## About This Role
 
-This project manager position at Sisley was posted on 2026-07-28.
+This project manager position at Sisley was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

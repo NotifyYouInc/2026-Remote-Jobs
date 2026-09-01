@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iRhythm Technologies](https://scoutify.ai/companies/irhythmtech?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Greensboro, North Carolina, United States |
+| Location | 3 locations |
 | Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Territory-Manager---Raleigh--North-Carolina--West-_JR1195) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Territory-Manager---Raleigh--North-Carolina--West-_JR1727) |
 
 ## About This Role
 
-This account executive position at iRhythm Technologies was posted on 2026-03-02.
+This account executive position at iRhythm Technologies was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

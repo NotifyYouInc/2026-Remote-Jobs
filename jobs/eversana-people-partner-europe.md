@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Madrid, Madrid, Spain |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000135281510-people-partner-europe) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000145454869-people-partner-europe) |
 
 ## About This Role
 
-This human resources / people ops position at EVERSANA was posted on 2026-07-01.
+This human resources / people ops position at EVERSANA was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

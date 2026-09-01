@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Power Digital](https://scoutify.ai/companies/power-digital?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Nicaragua |
+| Location | Costa Rica |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5219824007) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5221066007) |
 
 ## About This Role
 
-This it & systems administration position at Power Digital was posted on 2026-08-24.
+This it & systems administration position at Power Digital was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

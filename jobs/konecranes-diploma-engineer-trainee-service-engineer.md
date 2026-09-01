@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Industrial Automation |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000145220110-diploma-engineer-trainee-service-engineer) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000145421559-diploma-engineer-trainee-service-engineer) |
 
 ## About This Role
 
-This industrial automation position at Konecranes was posted on 2026-08-24.
+This industrial automation position at Konecranes was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
