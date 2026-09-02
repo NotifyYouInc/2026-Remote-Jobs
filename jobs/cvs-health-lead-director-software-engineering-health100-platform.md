@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
-| Category | Engineering Manager |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Texas/Lead-Director---Software-Engineering--Health100-Platform-_R0971708) |
+| Location | 6 locations |
+| Category | Software Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Lead-Director---Software-Engineering--Health100-Platform-_R1007344) |
 
 ## About This Role
 
-This engineering manager position at CVS Health was posted on 2026-08-03.
+This software engineer position at CVS Health was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

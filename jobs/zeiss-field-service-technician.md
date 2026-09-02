@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cornelius, North Carolina, United States |
+| Location | Arizona, US |
 | Category | Marketing |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-MI/Field-Service-Technician_JR_1048429-2) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-AZ/Field-Service-Technician_JR_1051983-2) |
 
 ## About This Role
 
-This marketing position at Zeiss was posted on 2026-04-10.
+This marketing position at Zeiss was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

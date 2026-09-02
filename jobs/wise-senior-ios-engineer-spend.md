@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Singapore, Singapore |
 | Category | Mobile Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000133865919-senior-ios-engineer-spend) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000145649809-senior-ios-engineer-spend) |
 
 ## About This Role
 
-This mobile engineer position at WISE was posted on 2026-06-24.
+This mobile engineer position at WISE was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

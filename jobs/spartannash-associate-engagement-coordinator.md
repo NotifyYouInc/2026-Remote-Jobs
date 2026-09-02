@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpartanNash](https://scoutify.ai/companies/spartannash?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dickinson, North Dakota, United States |
+| Location | Holdrege, Nebraska, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Dickinson-North-Dakota/Associate-Engagement-Coordinator_R87871) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Holdrege-Nebraska/Associate-Engagement-Coordinator_R88827) |
 
 ## About This Role
 
-This human resources / people ops position at SpartanNash was posted on 2026-07-26.
+This human resources / people ops position at SpartanNash was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Account Manager |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000145300180-key-account-manager) |
+| Location | Oakbrook Terrace, Illinois, United States |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000145625684-key-account-manager) |
 
 ## About This Role
 
-This account manager position at Veolia was posted on 2026-08-24.
+This sales position at Veolia was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

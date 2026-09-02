@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Project Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Program-Delivery-Lead_R-422706) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Program-Delivery-Lead_R-426597) |
 
 ## About This Role
 
-This project manager position at Humana was posted on 2026-07-30.
+This project manager position at Humana was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

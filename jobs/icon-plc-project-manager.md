@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Blue Bell, Pennsylvania, United States |
+| Location | 2 locations |
 | Category | Project Manager |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Project-Manager_JR158578) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Turkey-Ankara/Project-Manager_JR158160) |
 
 ## About This Role
 
-This project manager position at ICON plc was posted on 2026-08-22.
+This project manager position at ICON plc was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

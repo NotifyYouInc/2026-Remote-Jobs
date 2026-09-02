@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Fork](https://scoutify.ai/companies/the-fork?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | Account Executive |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thefork/jobs/7728566) |
+| Location | Valencia, Valencia, Spain |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thefork/jobs/8158631) |
 
 ## About This Role
 
-This account executive position at The Fork was posted on 2026-04-24.
+This sales position at The Fork was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

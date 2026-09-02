@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Akasaka, Tokyo, Japan |
 | Category | Data Scientist |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Japan---Tokyo---Akasaka/Research-Analysis_440619) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Japan---Tokyo---Akasaka/Principal-Statistician_446919) |
 
 ## About This Role
 
-This data scientist position at GSK was posted on 2026-06-02.
+This data scientist position at GSK was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

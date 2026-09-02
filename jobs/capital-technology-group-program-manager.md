@@ -5,12 +5,12 @@
 | Company | [Capital Technology Group](https://scoutify.ai/companies/capitaltg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Program Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://boards.greenhouse.io/capitaltg/jobs/5187819007?gh_jid=5187819007) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://boards.greenhouse.io/capitaltg/jobs/5221887007?gh_jid=5221887007) |
 
 ## About This Role
 
-This program manager position at Capital Technology Group was posted on 2026-07-15.
+This program manager position at Capital Technology Group was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

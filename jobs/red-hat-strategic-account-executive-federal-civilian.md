@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Virginia, US |
-| Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-VA/Strategic-Account-Executive---Federal-Civilian_R-055721-1) |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-VA/Strategic-Account-Executive---Federal-Civilian_R-058210-2) |
 
 ## About This Role
 
-This account executive position at Red Hat was posted on 2026-04-03.
+This sales position at Red Hat was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

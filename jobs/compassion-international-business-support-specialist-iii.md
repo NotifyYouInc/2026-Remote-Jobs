@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Compassion International](https://scoutify.ai/companies/compassion?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Project Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/Remote---USA/Business-Support-Specialist-III_R7906-1) |
+| Category | Program Manager |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/Remote---USA/Business-Support-Specialist-III_R8502-1) |
 
 ## About This Role
 
-This project manager position at Compassion International was posted on 2026-03-17.
+This program manager position at Compassion International was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

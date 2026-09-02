@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Account-Development-Representative_R12076) |
+| Location | London, England, United Kingdom |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/London/Account-Development-Representative_R12345) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Workiva was posted on 2026-07-10.
+This sales position at Workiva was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

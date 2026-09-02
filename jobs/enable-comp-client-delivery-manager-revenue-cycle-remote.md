@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Enable Comp](https://scoutify.ai/companies/enable-comp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Franklin, Tennessee, United States |
-| Category | Customer Success |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.lever.co/enablecomp/390eac59-9d44-41b7-8cda-16c2caf3c9fe) |
+| Category | Project Manager |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.lever.co/enablecomp/b252b551-63fc-4add-8dfb-aa036ec7919a) |
 
 ## About This Role
 
-This customer success position at Enable Comp was posted on 2026-06-19.
+This project manager position at Enable Comp was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

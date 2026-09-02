@@ -1,0 +1,22 @@
+# Ingénieur groupe électrogène de secours H/F at Assystem
+
+| Field | Details |
+|-------|---------|
+| Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Lyon, Rhône-Alpes, France |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000145693379-ingenieur-groupe-electrogene-de-secours-hf) |
+
+## About This Role
+
+This electrical / hardware engineer position at Assystem was posted on 2026-08-26.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

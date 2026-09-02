@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Residential-Real-Estate-Specialist_26030779) |
+| Location | Newport Beach, California, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Newport-Beach/Residential-Real-Estate-Specialist_26031225) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of America was posted on 2026-08-24.
+This corporate finance position at Bank of America was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

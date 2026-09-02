@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
+| Location | Japan |
 | Category | Customer Success |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3699) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3704) |
 
 ## About This Role
 
-This customer success position at Akamai was posted on 2026-08-25.
+This customer success position at Akamai was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

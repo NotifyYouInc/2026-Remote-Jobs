@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Massachusetts, US |
-| Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-MA/Sales-Account-Manager-3_R-054499-1) |
+| Location | New Jersey, US |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-NJ/Sales-Account-Manager-3_R-058501) |
 
 ## About This Role
 
-This account executive position at Red Hat was posted on 2026-02-24.
+This sales position at Red Hat was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

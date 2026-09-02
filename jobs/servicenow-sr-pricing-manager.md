@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Product Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143193099-sr-pricing-manager) |
+| Category | Operations |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000145608209-sr-pricing-manager) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-08-12.
+This operations position at ServiceNow was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hong Kong, Hong Kong |
-| Category | Account Executive |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Hong-Kong/Inside-Sales-Representative_R169836) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seoul/Inside-Sales-Representative_R171378) |
 
 ## About This Role
 
-This account executive position at Adobe was posted on 2026-06-16.
+This sales position at Adobe was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

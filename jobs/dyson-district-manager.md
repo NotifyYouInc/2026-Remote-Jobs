@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Account Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/China---Shanghai-Remote/District-Manager_JR37753) |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/China---Shanghai-Remote/District-Manager_JR38084) |
 
 ## About This Role
 
-This account manager position at Dyson was posted on 2026-07-28.
+This sales position at Dyson was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

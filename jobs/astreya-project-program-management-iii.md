@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico |
-| Category | Project Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Mexico/Project---Program-Management-III_R0016054) |
+| Location | Delaware, US |
+| Category | Program Manager |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-VA/Project---Program-Management-III_R0016911) |
 
 ## About This Role
 
-This project manager position at Astreya was posted on 2026-06-26.
+This program manager position at Astreya was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

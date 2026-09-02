@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | 5 locations |
 | Category | Sales |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Fresno-CA/Territory-Sales-Manager--Autotrader-_R202681194) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Fremont-CA/Territory-Sales-Manager--Autotrader-_R202681693-1) |
 
 ## About This Role
 
-This sales position at Cox was posted on 2026-08-14.
+This sales position at Cox was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

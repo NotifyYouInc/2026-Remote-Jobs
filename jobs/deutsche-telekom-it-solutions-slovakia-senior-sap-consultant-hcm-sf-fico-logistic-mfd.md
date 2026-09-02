@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Košice, Košice Region, Slovakia |
+| Location | Slovakia |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000129918819-senior-sap-consultant-hcm-sf-fico-logistic-mfd) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000145673649-senior-sap-consultant-hcm-sf-fico-logistic-mfd) |
 
 ## About This Role
 
-This technology / it consulting position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-06-03.
+This technology / it consulting position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

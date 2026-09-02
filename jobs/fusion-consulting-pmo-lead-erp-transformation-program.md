@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fusion Consulting](https://scoutify.ai/companies/fusionconsulting?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Project Manager |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000145302779-pmo-lead-erp-transformation-program) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000145694160-pmo-lead-erp-transformation-program) |
 
 ## About This Role
 
-This project manager position at Fusion Consulting was posted on 2026-08-24.
+This project manager position at Fusion Consulting was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

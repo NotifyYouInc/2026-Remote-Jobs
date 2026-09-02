@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Project Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Las-Colinas-TX/Senior-Project-Manager_REQ516143) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Phoenix-AZ/Senior-Project-Manager_REQ530863) |
 
 ## About This Role
 
-This project manager position at JLL was posted on 2026-06-17.
+This project manager position at JLL was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Banbury, England, United Kingdom |
-| Category | Account Manager |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000145212047-crane-sales-manager) |
+| Location | Bristol, England, United Kingdom |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000145672351-crane-sales-manager) |
 
 ## About This Role
 
-This account manager position at Konecranes was posted on 2026-08-24.
+This sales position at Konecranes was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

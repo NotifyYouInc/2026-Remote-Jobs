@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
-| Category | Customer Success |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Work-from-home/Senior-Coordinator--Complaint---Appeals---Remote_R0873019) |
+| Location | Georgia, US |
+| Category | Compliance & Risk Management |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/GA---Work-from-home/Senior-Coordinator--Complaint---Appeals---Remote_R1000775) |
 
 ## About This Role
 
-This customer success position at CVS Health was posted on 2026-04-26.
+This compliance & risk management position at CVS Health was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

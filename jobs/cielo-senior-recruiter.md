@@ -1,16 +1,16 @@
-# Senior Recruiter  at Cielo
+# Senior Recruiter at Cielo
 
 | Field | Details |
 |-------|---------|
 | Company | [Cielo](https://scoutify.ai/companies/cielo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Houston, Texas, United States |
+| Location | London, England, United Kingdom |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cielo2/744000130087859-senior-recruiter) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cielo2/744000145706319-senior-recruiter) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Cielo was posted on 2026-06-03.
+This talent acquisition / recruiting position at Cielo was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
