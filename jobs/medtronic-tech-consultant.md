@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bern, Bern, Switzerland |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bern-Canton-de-Berne-Switzerland/Technical-Consultant-Cardiac-Rhythm-management--m-w-d-_R65639-1) |
+| Location | Italy |
+| Category | Sales Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Milano-Lombardia-Italy/Tech-Consultant_R73326-1) |
 
 ## About This Role
 
-This technology / it consulting position at Medtronic was posted on 2026-05-27.
+This sales engineer position at Medtronic was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | China |
+| Location | South Korea |
 | Category | Project Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/CHN-Client/Project-Manager-II_25109893) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/KOR-Remote/Project-Manager-II_25111843) |
 
 ## About This Role
 
-This project manager position at Syneoshealth was posted on 2026-06-23.
+This project manager position at Syneoshealth was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

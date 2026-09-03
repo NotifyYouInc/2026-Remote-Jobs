@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Artelia](https://scoutify.ai/companies/artelia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Le Havre, Normandy, France |
+| Location | Grenoble, Rhône-Alpes, France |
 | Category | Industrial Automation |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000138566711-process-leader-industriel) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000145905610-process-leader-industriel) |
 
 ## About This Role
 
-This industrial automation position at Artelia was posted on 2026-07-20.
+This industrial automation position at Artelia was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

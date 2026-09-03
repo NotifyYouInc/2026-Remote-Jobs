@@ -5,12 +5,12 @@
 | Company | [Conveo](https://scoutify.ai/companies/conveo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/conveo/jobs/mLITilr-finance-strategy-associate) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/conveo/jobs/fTA3U5R-finance-strategy-associate) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Conveo was posted on 2026-07-15.
+This fp&a / strategic finance position at Conveo was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

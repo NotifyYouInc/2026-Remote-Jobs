@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Renningen, Baden-Wurttemberg, Germany |
-| Category | Software Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145434049-pflichtpraktikum-data-engineering-cad-visualisierung) |
+| Category | Data Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145898759-pflichtpraktikum-data-engineering-cad-visualisierung) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-08-25.
+This data engineer position at Robert Bosch was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

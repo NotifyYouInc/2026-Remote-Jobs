@@ -5,12 +5,12 @@
 | Company | [Coalition, Inc.](https://scoutify.ai/companies/coalition-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Germany |
 | Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.coalitioninc.com/job-posting?gh_jid=4705492005) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.coalitioninc.com/job-posting?gh_jid=4705588005) |
 
 ## About This Role
 
-This customer success position at Coalition, Inc. was posted on 2026-06-12.
+This customer success position at Coalition, Inc. was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

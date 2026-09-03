@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Portugal |
+| Location | China |
 | Category | Technical Product Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/2a7e2317-5bb0-4cef-a221-9b3b0d35ea38) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/6a49a8c7-45c1-4281-a3f2-c4d57e5e745a) |
 
 ## About This Role
 
-This technical product manager position at Bjak was posted on 2026-08-04.
+This technical product manager position at Bjak was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Extreme Networks](https://scoutify.ai/companies/extreme-networks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Sales |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.lever.co/extremenetworks/26c9f29c-d75b-4dd4-b96e-cfbc887a865a) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.lever.co/extremenetworks/1480bcbc-e71c-4d0f-b007-e43850f1431a) |
 
 ## About This Role
 
-This sales position at Extreme Networks was posted on 2026-08-26.
+This sales position at Extreme Networks was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

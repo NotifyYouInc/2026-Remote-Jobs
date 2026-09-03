@@ -5,12 +5,12 @@
 | Company | [Cerfrance Brocéliande](https://scoutify.ai/companies/cerfrancebrocliande?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | France |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CerfranceBroceliande/744000138559799-conseiller-en-gestion-de-patrimoine-fh) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CerfranceBroceliande/744000145922879-conseiller-en-gestion-de-patrimoine-fh) |
 
 ## About This Role
 
-This wealth management / private banking position at Cerfrance Brocéliande was posted on 2026-07-20.
+This wealth management / private banking position at Cerfrance Brocéliande was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

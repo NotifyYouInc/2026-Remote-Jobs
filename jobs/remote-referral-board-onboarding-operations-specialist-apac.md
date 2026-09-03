@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remote - Referral Board](https://scoutify.ai/companies/remote-22738?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | Philippines |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7747900003) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7978966003) |
 
 ## About This Role
 
-This human resources / people ops position at Remote - Referral Board was posted on 2026-05-26.
+This human resources / people ops position at Remote - Referral Board was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

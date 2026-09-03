@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 3 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-Solutions-Architect--Infiniband-and-Networking-Ethernet---NVIS_JR2019584) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Mumbai/Senior-Solutions-Architect--Infiniband-and-Networking-Ethernet---NVIS_JR2023983) |
 
 ## About This Role
 
-This technical & solutions architect position at Nvidia was posted on 2026-06-12.
+This technical & solutions architect position at Nvidia was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

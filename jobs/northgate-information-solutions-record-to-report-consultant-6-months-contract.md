@@ -1,0 +1,22 @@
+# Record To Report Consultant (6 months contract) at Northgate Information Solutions
+
+| Field | Details |
+|-------|---------|
+| Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000145894019-record-to-report-consultant-6-months-contract) |
+
+## About This Role
+
+This accounting position at Northgate Information Solutions was posted on 2026-08-27.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

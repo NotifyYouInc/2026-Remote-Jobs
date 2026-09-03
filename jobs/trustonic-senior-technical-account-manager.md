@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trustonic](https://scoutify.ai/companies/trustonic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Customer Success |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000132497829-senior-technical-account-manager) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Sales |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000145913390-senior-technical-account-manager) |
 
 ## About This Role
 
-This customer success position at Trustonic was posted on 2026-06-16.
+This sales position at Trustonic was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

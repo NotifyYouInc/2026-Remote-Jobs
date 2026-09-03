@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Software-engineer_RQ114239-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Software-engineer_RQ115270) |
 
 ## About This Role
 
-This ai / llm engineer position at BP was posted on 2026-08-24.
+This ai / llm engineer position at BP was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

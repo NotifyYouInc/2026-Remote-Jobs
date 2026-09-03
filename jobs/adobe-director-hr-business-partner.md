@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Director--HR-Business-Partner_R171140) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Director--HR-Business-Partner_R171509) |
 
 ## About This Role
 
-This human resources / people ops position at Adobe was posted on 2026-08-08.
+This human resources / people ops position at Adobe was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

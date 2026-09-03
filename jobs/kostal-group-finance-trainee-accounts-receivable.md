@@ -5,12 +5,12 @@
 | Company | [KOSTAL Group](https://scoutify.ai/companies/kostalgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Accounting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KOSTALGroup/744000138042499-finance-trainee-accounts-receivable) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KOSTALGroup/744000145962549-finance-trainee-accounts-receivable) |
 
 ## About This Role
 
-This accounting position at KOSTAL Group was posted on 2026-07-16.
+This accounting position at KOSTAL Group was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

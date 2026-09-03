@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgia, US |
+| Location | Spain |
 | Category | Sales Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-North-Carolina-USA/Advisory-Solutions-Consultant_R013939) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Spain/Advisory-Solutions-Consultant_R013178) |
 
 ## About This Role
 
-This sales engineer position at SailPoint Technologies was posted on 2026-08-25.
+This sales engineer position at SailPoint Technologies was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

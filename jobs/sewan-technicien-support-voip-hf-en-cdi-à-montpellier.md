@@ -5,12 +5,12 @@
 | Company | [Sewan](https://scoutify.ai/companies/sewan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pérols, Occitanie, France |
 | Category | Customer Success |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEWAN/744000145502359-technicien-support-voip-hf-en-cdi-a-montpellier) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEWAN/744000145939455-technicien-support-voip-hf-en-cdi-a-montpellier) |
 
 ## About This Role
 
-This customer success position at Sewan was posted on 2026-08-25.
+This customer success position at Sewan was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

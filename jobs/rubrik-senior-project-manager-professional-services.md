@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | London, England, United Kingdom |
 | Category | Project Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.8147081?gh_jid=8147081) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.8147626?gh_jid=8147626) |
 
 ## About This Role
 
-This project manager position at Rubrik was posted on 2026-08-25.
+This project manager position at Rubrik was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
