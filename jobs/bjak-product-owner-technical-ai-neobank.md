@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Vietnam |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/57dcb43c-c7b7-4b99-89c2-9317c6eb19fc) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/ae6357ef-e3be-42f6-9505-20ad654420dc) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-08-27.
+This product manager position at Bjak was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

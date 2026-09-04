@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Japan |
-| Category | Customer Success |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Japan/Engagement-Manager_R013565) |
+| Location | 2 locations |
+| Category | Project Manager |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-New-Zealand/Engagement-Manager_R014044) |
 
 ## About This Role
 
-This customer success position at SailPoint Technologies was posted on 2026-06-23.
+This project manager position at SailPoint Technologies was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

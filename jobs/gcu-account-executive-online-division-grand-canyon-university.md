@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gcu](https://scoutify.ai/companies/gcu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Richmond, Virginia, United States |
-| Category | Account Executive |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/Richmond-VA/Account-Executive---Online-Division---Grand-Canyon-University_R000068256-1) |
+| Location | New Richmond, Wisconsin, United States |
+| Category | Sales |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/New-Richmond-WI/Account-Executive---Online-Division---Grand-Canyon-University_R000068419) |
 
 ## About This Role
 
-This account executive position at Gcu was posted on 2026-08-19.
+This sales position at Gcu was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

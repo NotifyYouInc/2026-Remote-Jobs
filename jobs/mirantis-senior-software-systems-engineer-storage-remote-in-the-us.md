@@ -5,12 +5,12 @@
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000145689059-senior-software-systems-engineer-storage-remote-in-the-us) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000146154499-senior-software-systems-engineer-storage-remote-in-the-us) |
 
 ## About This Role
 
-This devops engineer position at Mirantis was posted on 2026-08-26.
+This devops engineer position at Mirantis was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

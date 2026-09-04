@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Argentina |
+| Location | Serbia |
 | Category | Legal |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Argentina/Associate-Contract-Manager_R-01364704) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Serbia/Associate-Contract-Manager_R-01364705) |
 
 ## About This Role
 
-This legal position at Thermo Fisher Scientific was posted on 2026-08-22.
+This legal position at Thermo Fisher Scientific was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

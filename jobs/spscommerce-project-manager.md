@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spscommerce](https://scoutify.ai/companies/spscommerce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Germany |
 | Category | Project Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/United-States-Remote/Project-Manager_R-000584) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/Germany-Remote/Project-Manager_R-001194-1) |
 
 ## About This Role
 
-This project manager position at Spscommerce was posted on 2026-04-22.
+This project manager position at Spscommerce was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

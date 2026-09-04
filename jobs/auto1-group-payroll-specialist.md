@@ -5,12 +5,12 @@
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Antwerpen, Flanders, Belgium |
 | Category | Accounting |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000145680679-payroll-specialist) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000146130229-payroll-specialist) |
 
 ## About This Role
 
-This accounting position at AUTO1 Group was posted on 2026-08-26.
+This accounting position at AUTO1 Group was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

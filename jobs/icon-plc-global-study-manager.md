@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 5 locations |
-| Category | Program Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Hungary-Budapest/Global-Study-Manager_JR151151) |
+| Location | Budapest, Budapest, Hungary |
+| Category | Project Manager |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Hungary-Budapest/Global-Study-Manager_JR158846) |
 
 ## About This Role
 
-This program manager position at ICON plc was posted on 2026-07-14.
+This project manager position at ICON plc was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

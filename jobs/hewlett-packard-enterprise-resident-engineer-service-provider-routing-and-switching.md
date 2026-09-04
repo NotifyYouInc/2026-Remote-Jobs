@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Deployment Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Dallas-Texas-United-States-of-America/Resident-Engineer---Service-Provider-Routing-and-Switching_1208367) |
+| Location | Colorado, US |
+| Category | Customer Success |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Colorado-United-States-of-America/Resident-Engineer---Service-Provider-Routing-and-Switching_1204124) |
 
 ## About This Role
 
-This deployment engineer position at Hewlett Packard Enterprise was posted on 2026-08-14.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

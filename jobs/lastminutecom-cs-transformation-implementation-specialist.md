@@ -5,12 +5,12 @@
 | Company | [lastminute.com](https://scoutify.ai/companies/lastminutecom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Customer Success |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/lastminutecom/744000145197449-cs-transformation-implementation-specialist) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/lastminutecom/744000146146794-cs-transformation-implementation-specialist) |
 
 ## About This Role
 
-This customer success position at lastminute.com was posted on 2026-08-24.
+This customer success position at lastminute.com was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

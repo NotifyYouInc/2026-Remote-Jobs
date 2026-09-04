@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Belkin](https://scoutify.ai/companies/belkin?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Account Manager |
-| Posted | 2026-05-28 |
+| Location | Connecticut, US |
+| Category | Sales |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://belkin.wd5.myworkdayjobs.com/belkin_careers/job/US-Remote-NY/National-Account-Manager_10013056) |
 
 ## About This Role
 
-This account manager position at Belkin was posted on 2026-05-28.
+This sales position at Belkin was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

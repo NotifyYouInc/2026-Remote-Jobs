@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Findex](https://scoutify.ai/companies/ap1-cx-oj37128?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New Zealand |
-| Category | Corporate Finance |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5467) |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://egvc.fa.ap1.oraclecloud.com/jobs/#5519) |
 
 ## About This Role
 
-This corporate finance position at Findex was posted on 2026-08-10.
+This accounting position at Findex was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

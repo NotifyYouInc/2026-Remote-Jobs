@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000135598039-pricing-director) |
+| Location | San Diego, California, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000146082984-pricing-director) |
 
 ## About This Role
 
-This strategy & operations position at ServiceNow was posted on 2026-07-02.
+This fp&a / strategic finance position at ServiceNow was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

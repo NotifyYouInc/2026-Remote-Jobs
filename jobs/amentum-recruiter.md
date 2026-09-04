@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Poland |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CO-Denver/Recruiter_R0162003) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OCONUS-Poland/Recruiter_R0169276) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Amentum was posted on 2026-05-22.
+This talent acquisition / recruiting position at Amentum was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

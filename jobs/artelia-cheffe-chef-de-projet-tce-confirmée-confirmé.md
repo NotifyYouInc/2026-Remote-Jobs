@@ -5,12 +5,12 @@
 | Company | [Artelia](https://scoutify.ai/companies/artelia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Le Havre, Normandy, France |
 | Category | Project Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000139945499-cheffe-chef-de-projet-tce-confirmee-confirme) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000146142969-cheffe-chef-de-projet-tce-confirmee-confirme) |
 
 ## About This Role
 
-This project manager position at Artelia was posted on 2026-07-27.
+This project manager position at Artelia was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York, US |
-| Category | Operations |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7670222143331895557/detail) |
+| Location | Seattle, Washington, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7678187926582577461/detail) |
 
 ## About This Role
 
-This operations position at TikTok was posted on 2026-08-04.
+This strategy & operations position at TikTok was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
