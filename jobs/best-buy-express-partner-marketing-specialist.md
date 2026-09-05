@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Best Buy Express](https://scoutify.ai/companies/best-buy-express?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Vancouver, British Columbia, Canada |
-| Category | Business Development |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://bestbuycanada.wd3.myworkdayjobs.com/bestbuyca_career/job/00000-Canadian-Headquarters/Partner-Marketing-Specialist_R-49288) |
+| Category | Marketing |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://bestbuycanada.wd3.myworkdayjobs.com/bestbuyca_career/job/00000-Canadian-Headquarters/Partner-Marketing-Specialist_R-52732) |
 
 ## About This Role
 
-This business development position at Best Buy Express was posted on 2026-02-10.
+This marketing position at Best Buy Express was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

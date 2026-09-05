@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Business Development |
-| Posted | 2026-04-22 |
+| Location | Florida, US |
+| Category | Sales |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/Work-From-Home---USA--NY/North-America-Strategic-Business-Development-Director_JR0130165-1) |
 
 ## About This Role
 
-This business development position at Western Union was posted on 2026-04-22.
+This sales position at Western Union was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

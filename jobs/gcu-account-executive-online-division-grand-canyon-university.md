@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gcu](https://scoutify.ai/companies/gcu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New Richmond, Wisconsin, United States |
+| Location | Knoxville, Tennessee, United States |
 | Category | Sales |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/New-Richmond-WI/Account-Executive---Online-Division---Grand-Canyon-University_R000068419) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/Knoxville-TN/Account-Executive---Online-Division---Grand-Canyon-University_R000068449) |
 
 ## About This Role
 
-This sales position at Gcu was posted on 2026-08-27.
+This sales position at Gcu was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

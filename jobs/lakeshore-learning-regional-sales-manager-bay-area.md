@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lakeshore Learning](https://scoutify.ai/companies/lakeshorelearning?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Account Executive |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000134561729-regional-sales-manager-bay-area) |
+| Location | Vallejo, California, United States |
+| Category | Sales |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000146267399-regional-sales-manager-bay-area) |
 
 ## About This Role
 
-This account executive position at Lakeshore Learning was posted on 2026-06-26.
+This sales position at Lakeshore Learning was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

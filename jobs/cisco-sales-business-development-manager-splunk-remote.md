@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 24 locations |
-| Category | Sales |
-| Posted | 2026-08-02 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Denver-Colorado-US/Sales-Business-Development-Manager---Splunk--Remote-_2020405-1) |
+| Location | Denver, Colorado, United States |
+| Category | Operations |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Denver-Colorado-US/Sales-Business-Development-Manager---Splunk--Remote-_2020424) |
 
 ## About This Role
 
-This sales position at Cisco was posted on 2026-08-02.
+This operations position at Cisco was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

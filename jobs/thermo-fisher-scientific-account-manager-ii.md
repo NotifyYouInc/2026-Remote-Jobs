@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Zhengzhou, Henan, China |
+| Location | South San Francisco, California, United States |
 | Category | Sales |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Zhengzhou-China/Account-Manager-II_R-01363180) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/South-San-Francisco-California-USA/Account-Manager-II_R-01365900) |
 
 ## About This Role
 
-This sales position at Thermo Fisher Scientific was posted on 2026-08-04.
+This sales position at Thermo Fisher Scientific was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

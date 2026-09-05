@@ -1,16 +1,16 @@
-# National Accounts Manager (Non-Commercial) at Smithfield Foods
+# National Accounts Manager (Non-commercial) at Smithfield Foods
 
 | Field | Details |
 |-------|---------|
 | Company | [Smithfield Foods](https://scoutify.ai/companies/smithfield-foods?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
-| Category | Sales Leadership |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Remote-FL/National-Accounts-Manager_R-2026-4294) |
+| Location | Georgia, US |
+| Category | Sales |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Remote-GA/National-Accounts-Manager--Non-commercial-_R-2026-11557) |
 
 ## About This Role
 
-This sales leadership position at Smithfield Foods was posted on 2026-05-22.
+This sales position at Smithfield Foods was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

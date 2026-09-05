@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | North Carolina, US |
 | Category | Corporate Finance |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Remote-Florida---United-States/Sr-Reg-Admin-Extension-Assoc_R-0009782) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Remote---North-Carolina/Senior-Registered-Virtual-Client-Service-Associate_R-0012813) |
 
 ## About This Role
 
-This corporate finance position at Raymond James Financial was posted on 2026-06-26.
+This corporate finance position at Raymond James Financial was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

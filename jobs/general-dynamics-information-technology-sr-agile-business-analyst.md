@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Sr-Agile-Business-Analyst_RQ207490-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Sr-Agile-Business-Analyst_RQ203363-2) |
 
 ## About This Role
 
-This business analyst position at General Dynamics Information Technology was posted on 2026-08-07.
+This business analyst position at General Dynamics Information Technology was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

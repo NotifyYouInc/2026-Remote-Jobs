@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
 | Category | Legal |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014863318-assistant-corporation-counsel-tort-division) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014937161-assistant-corporation-counsel-tort-division) |
 
 ## About This Role
 
-This legal position at City of New York was posted on 2026-08-26.
+This legal position at City of New York was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

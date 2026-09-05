@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Account Executive |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/ES-Key-Account-Executive_R-180106) |
+| Category | Sales |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/ES-Key-Account-Executive_R-183324) |
 
 ## About This Role
 
-This account executive position at Republic Services was posted on 2026-07-22.
+This sales position at Republic Services was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

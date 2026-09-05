@@ -5,12 +5,12 @@
 | Company | [KION Group](https://scoutify.ai/companies/kion-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Grand Rapids, Michigan, United States |
 | Category | Industrial Automation |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Mechanical-Pre-Commissioning-Technician-1_JR-0092244) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Mechanical-Pre-Commissioning-Technician-1_JR-0095610) |
 
 ## About This Role
 
-This industrial automation position at KION Group was posted on 2026-07-20.
+This industrial automation position at KION Group was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

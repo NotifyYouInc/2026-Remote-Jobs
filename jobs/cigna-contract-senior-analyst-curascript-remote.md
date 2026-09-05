@@ -1,16 +1,16 @@
-# Contract Senior Analyst - CuraScript - Remote at Cigna
+# Contract Senior Analyst- CuraScript- Remote at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Florida-Work-at-Home/Contract-Senior-Analyst---CuraScript---Remote_26003473-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Contract-Senior-Analyst--CuraScript--Remote_26010414-1) |
 
 ## About This Role
 
-This business analyst position at Cigna was posted on 2026-04-09.
+This business analyst position at Cigna was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

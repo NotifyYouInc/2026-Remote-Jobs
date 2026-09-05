@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Peoria, Arizona, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Software-Test-Engineer_R0000360444) |
+| Location | Chicago, Illinois, United States |
+| Category | QA Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Test-Engineer_R0000391444) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-03-28.
+This qa engineer position at Caterpillar was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

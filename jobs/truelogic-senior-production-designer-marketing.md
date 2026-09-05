@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
-| Category | Graphic / Brand Design |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/958f810b-7de9-423f-9127-77a2fabdeea0) |
+| Category | Marketing |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/50f71905-f6bb-45f8-bdb9-f51f7f8dad3a) |
 
 ## About This Role
 
-This graphic / brand design position at Truelogic was posted on 2026-07-15.
+This marketing position at Truelogic was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

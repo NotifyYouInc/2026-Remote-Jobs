@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Spokane, Washington, United States |
-| Category | Sales Leadership |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---Washington/District-Sales-Manager---Chevrolet--Spokane--WA-_JR-202613187) |
+| Location | Washington, US |
+| Category | Sales |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---Washington/District-Sales-Manager---Chevrolet--Spokane--WA-_JR-202618861) |
 
 ## About This Role
 
-This sales leadership position at General Motors was posted on 2026-06-27.
+This sales position at General Motors was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

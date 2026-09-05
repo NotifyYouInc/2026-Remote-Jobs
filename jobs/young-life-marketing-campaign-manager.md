@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Young Life](https://scoutify.ai/companies/young-life?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Georgia, US |
-| Category | Growth Marketing |
-| Posted | 2026-04-23 |
+| Category | Content Marketing |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://younglife.wd5.myworkdayjobs.com/younglife_careers/job/Remote-GA/Marketing-Campaign-Manager_JR104912) |
 
 ## About This Role
 
-This growth marketing position at Young Life was posted on 2026-04-23.
+This content marketing position at Young Life was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Project Manager - Retail Construction at Turner & Townsend
+# Project Manager-Retail Construction at Turner & Townsend
 
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Columbus, Ohio, United States |
 | Category | Project Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000116282638-project-manager-retail-construction) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000146266079-project-manager-retail-construction) |
 
 ## About This Role
 
-This project manager position at Turner & Townsend was posted on 2026-03-23.
+This project manager position at Turner & Townsend was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
