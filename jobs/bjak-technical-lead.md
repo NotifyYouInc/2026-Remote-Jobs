@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sweden |
+| Location | Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8bb5ee21-d13c-47dd-bca4-65a9487e7337) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c563c98f-ddc3-4462-bd9b-effed01448df) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-28.
+This software engineer position at Bjak was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

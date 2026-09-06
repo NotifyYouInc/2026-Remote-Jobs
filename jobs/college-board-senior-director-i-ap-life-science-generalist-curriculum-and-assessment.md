@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [College Board](https://scoutify.ai/companies/college-board?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Accounting |
+| Category | Program Manager |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://collegeboard.wd1.myworkdayjobs.com/careers/job/Remote---USA/Senior-Director-I--AP-Life-Science-Generalist--Curriculum-and-Assessment_REQ002879) |
 
 ## About This Role
 
-This accounting position at College Board was posted on 2026-08-28.
+This program manager position at College Board was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

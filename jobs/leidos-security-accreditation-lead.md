@@ -1,16 +1,16 @@
-# Site Lead at Leidos
+# Security Accreditation Lead at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Project Manager |
+| Location | The Hague, South Holland, The Netherlands |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Site-Lead_R-00190945) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Security-Accreditation-Lead_R-00190944) |
 
 ## About This Role
 
-This project manager position at Leidos was posted on 2026-08-28.
+This cybersecurity engineer position at Leidos was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

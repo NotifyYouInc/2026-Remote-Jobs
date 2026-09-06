@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Poland |
-| Category | Engineering Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/POL---Poland-Remote-Office/Product-Development-Manager_R0033494-1) |
+| Category | Product Manager |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/POL---Poland-Remote-Office/Product-Development-Manager_R0034930) |
 
 ## About This Role
 
-This engineering manager position at Epiqsystems was posted on 2026-05-29.
+This product manager position at Epiqsystems was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

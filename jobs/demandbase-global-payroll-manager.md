@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Demandbase](https://scoutify.ai/companies/demandbase?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Accounting |
+| Category | Human Resources / People Ops |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/demandbase/7310052e-8945-4379-ba6f-948884b0e987) |
 
 ## About This Role
 
-This accounting position at Demandbase was posted on 2026-08-28.
+This human resources / people ops position at Demandbase was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

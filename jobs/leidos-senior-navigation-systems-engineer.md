@@ -1,16 +1,16 @@
-# Site Lead at Leidos
+# Senior Navigation Systems Engineer at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Project Manager |
+| Location | Huntsville, Alabama, United States |
+| Category | Software Engineer |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Site-Lead_R-00190945) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Navigation-Systems-Engineer_R-00190948) |
 
 ## About This Role
 
-This project manager position at Leidos was posted on 2026-08-28.
+This software engineer position at Leidos was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

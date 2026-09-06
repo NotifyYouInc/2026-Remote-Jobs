@@ -1,16 +1,16 @@
-# Lead Software Engineer at Bjak
+# Accounts Payable, Spend Management Coordinator at Labelbox
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austria |
-| Category | Software Engineer |
+| Company | [Labelbox](https://scoutify.ai/companies/labelbox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | India |
+| Category | Accounting |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/ff1d50e2-766c-4954-a281-b5ce49c4d7e9) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/labelbox/jobs/5225688007) |
 
 ## About This Role
 
-This software engineer position at Bjak was posted on 2026-08-29.
+This accounting position at Labelbox was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

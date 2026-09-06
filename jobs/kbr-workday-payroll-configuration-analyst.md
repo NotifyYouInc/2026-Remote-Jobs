@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Accounting |
+| Category | Human Resources / People Ops |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Workday-Payroll-Configuration-Analyst_R2129092) |
 
 ## About This Role
 
-This accounting position at KBR was posted on 2026-08-28.
+This human resources / people ops position at KBR was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

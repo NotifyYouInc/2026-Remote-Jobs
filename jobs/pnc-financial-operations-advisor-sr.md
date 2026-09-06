@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Project Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Operations-Advisor-Sr_R215620-1) |
+| Location | New Mexico, US |
+| Category | Business Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-NM-NMH68/Operations-Advisor-Sr_R234196-1) |
 
 ## About This Role
 
-This project manager position at PNC Financial was posted on 2026-03-23.
+This business analyst position at PNC Financial was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

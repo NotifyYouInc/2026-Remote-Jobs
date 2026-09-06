@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Account Executive |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Sales-Representative-I--Spine---Boston--mA_R53667-1) |
+| Category | Sales |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Sales-Representative-I--Spine---Boston--MA_R76297-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-02-23.
+This sales position at Medtronic was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

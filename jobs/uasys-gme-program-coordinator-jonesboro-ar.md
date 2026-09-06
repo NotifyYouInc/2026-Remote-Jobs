@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uasys](https://scoutify.ai/companies/uasys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Jonesboro, Arkansas, United States |
-| Category | Accounting |
+| Category | Program Manager |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://uasys.wd5.myworkdayjobs.com/uams_all_careers/job/UAMS/GME-Program-Coordinator--Jonesboro--AR-_R0090737) |
 
 ## About This Role
 
-This accounting position at Uasys was posted on 2026-08-28.
+This program manager position at Uasys was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
