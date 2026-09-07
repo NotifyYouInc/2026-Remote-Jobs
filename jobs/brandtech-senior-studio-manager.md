@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brandtech+](https://scoutify.ai/companies/brandtech?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Talent Acquisition / Recruiting |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brandtechplus/jobs/8165521) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brandtechplus/jobs/8165849) |
 
 ## About This Role
 

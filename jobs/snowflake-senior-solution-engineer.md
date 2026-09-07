@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Georgia, US |
+| Location | Malaysia |
 | Category | Sales Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/dcc149d0-abe1-4dd8-858e-01cad43e61d5) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/e4078469-b527-4886-8fdc-7727efc90d8d) |
 
 ## About This Role
 
-This sales engineer position at Snowflake was posted on 2026-08-17.
+This sales engineer position at Snowflake was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

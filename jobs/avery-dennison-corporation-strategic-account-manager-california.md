@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Santa Monica, California, United States |
+| Location | Little Rock, Arkansas, United States |
 | Category | Sales |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000146250986-strategic-account-manager-california) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000146454005-strategic-account-manager-california) |
 
 ## About This Role
 
-This sales position at Avery Dennison Corporation was posted on 2026-08-28.
+This sales position at Avery Dennison Corporation was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

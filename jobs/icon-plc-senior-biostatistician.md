@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Blue Bell, Pennsylvania, United States |
+| Location | 4 locations |
 | Category | Bioinformatics / Computational Biology |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Senior-Biostatistician_JR154320) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Poland-Warsaw/Senior-Biostatistician_JR159099) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at ICON plc was posted on 2026-06-23.
+This bioinformatics / computational biology position at ICON plc was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

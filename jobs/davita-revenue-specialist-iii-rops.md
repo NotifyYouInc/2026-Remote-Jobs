@@ -1,16 +1,16 @@
-# Revenue Specialist III (ROPS) at DaVita
+# Revenue Specialist III, ROPS at DaVita
 
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | United States |
 | Category | Operations |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Revenue-Specialist-III--ROPS-_R0463599) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09598---Oregon-Remote/Revenue-Specialist-III--ROPS_R0474378) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-06-16.
+This operations position at DaVita was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

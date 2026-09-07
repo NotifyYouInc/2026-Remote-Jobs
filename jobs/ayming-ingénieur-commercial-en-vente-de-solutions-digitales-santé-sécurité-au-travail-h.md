@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ayming](https://scoutify.ai/companies/ayming?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bruges, Nouvelle-Aquitaine, France |
-| Category | Account Executive |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ayming/744000144601289-ingenieur-commercial-en-vente-de-solutions-digitales-sante-securite-au-travail-hf) |
+| Category | Sales |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ayming/744000146411169-ingenieur-commercial-en-vente-de-solutions-digitales-sante-securite-au-travail-hf) |
 
 ## About This Role
 
-This account executive position at Ayming was posted on 2026-08-20.
+This sales position at Ayming was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

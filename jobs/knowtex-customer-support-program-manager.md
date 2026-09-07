@@ -1,16 +1,16 @@
-# Customer Support Program Manager  at Knowtex
+# Customer Support Program Manager at Knowtex
 
 | Field | Details |
 |-------|---------|
 | Company | [Knowtex](https://scoutify.ai/companies/knowtex?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/knowtex/2f49ecf5-234b-491a-b086-2de01cfa8d48) |
+| Category | Program Manager |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/knowtex/169dec97-4309-43c1-b1a8-adcfaca96098) |
 
 ## About This Role
 
-This customer success position at Knowtex was posted on 2026-02-11.
+This program manager position at Knowtex was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

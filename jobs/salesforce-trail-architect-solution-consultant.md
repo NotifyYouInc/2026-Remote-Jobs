@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-17 |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo---Remote/Trail-Architect--Solution-Consultant-_JR298882) |
 
 ## About This Role
 
-This technology / it consulting position at Salesforce was posted on 2026-02-17.
+This technical & solutions architect position at Salesforce was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | 3 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Incident-Response-Senior-Consultant--Remote-_R29909) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Japan---Remote-Tokyo/Incident-Response-Senior-Consultant--Remote-_R29920) |
 
 ## About This Role
 
-This cybersecurity engineer position at CrowdStrike was posted on 2026-08-21.
+This cybersecurity engineer position at CrowdStrike was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

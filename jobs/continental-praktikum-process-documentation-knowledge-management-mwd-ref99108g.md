@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
 | Category | Technical Writer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000145698434-praktikum-process-documentation-knowledge-management-mwd-ref99108g) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000146445769-praktikum-process-documentation-knowledge-management-mwd-ref99108g) |
 
 ## About This Role
 
-This technical writer position at Continental was posted on 2026-08-26.
+This technical writer position at Continental was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

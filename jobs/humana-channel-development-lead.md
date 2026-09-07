@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Program Manager |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Channel-Development-Lead_R-419155) |
+| Category | Sales |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Channel-Development-Lead_R-428453) |
 
 ## About This Role
 
-This program manager position at Humana was posted on 2026-06-18.
+This sales position at Humana was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

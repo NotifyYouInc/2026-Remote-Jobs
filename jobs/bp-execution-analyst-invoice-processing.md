@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-07-12 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Execution-Analyst--Invoice-Processing_RQ113170) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Execution-Analyst--Invoice-Processing_RQ114978) |
 
 ## About This Role
 
-This accounting position at BP was posted on 2026-07-12.
+This accounting position at BP was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

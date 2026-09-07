@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TensorOps](https://scoutify.ai/companies/tensorops?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Portugal |
+| Location | United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/tensorops/jobs/4871914101) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/tensorops/jobs/4963900101) |
 
 ## About This Role
 
-This ai / llm engineer position at TensorOps was posted on 2026-05-20.
+This ai / llm engineer position at TensorOps was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

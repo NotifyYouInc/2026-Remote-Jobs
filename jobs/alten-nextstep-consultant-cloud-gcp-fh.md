@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Technology / IT Consulting |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000136412615-nextstep-consultant-cloud-gcp-fh) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000146419159-nextstep-consultant-cloud-gcp-fh) |
 
 ## About This Role
 
-This technology / it consulting position at ALTEN was posted on 2026-07-08.
+This technology / it consulting position at ALTEN was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

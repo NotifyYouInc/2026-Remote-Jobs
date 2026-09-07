@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Riga, Riga, Latvia |
 | Category | DevOps Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000144765830-observability-platform-engineer-neocloud) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000146435479-observability-platform-engineer-neocloud) |
 
 ## About This Role
 
-This devops engineer position at Mirantis was posted on 2026-08-21.
+This devops engineer position at Mirantis was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

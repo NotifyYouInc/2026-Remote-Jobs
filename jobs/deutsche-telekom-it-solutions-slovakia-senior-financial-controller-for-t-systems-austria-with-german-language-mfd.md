@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Košice, Košice Region, Slovakia |
 | Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000137377599-senior-financial-controller-for-t-systems-austria-with-german-language-mfd) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000146436819-senior-financial-controller-for-t-systems-austria-with-german-language-mfd) |
 
 ## About This Role
 
-This accounting position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-07-13.
+This accounting position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

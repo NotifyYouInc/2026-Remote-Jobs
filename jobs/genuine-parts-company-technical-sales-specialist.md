@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Account Executive |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Los-Angeles-CA-USA/Technical-Sales-Specialist_R26_0000026602) |
+| Location | Austin, Texas, United States |
+| Category | Sales |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Austin-TX-USA/Technical-Sales-Specialist_R26_0000028618) |
 
 ## About This Role
 
-This account executive position at Genuine Parts Company was posted on 2026-08-21.
+This sales position at Genuine Parts Company was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

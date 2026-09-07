@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Japan |
+| Location | United Kingdom |
 | Category | Sales |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8088055) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7785025) |
 
 ## About This Role
 
-This sales position at Twilio was posted on 2026-07-29.
+This sales position at Twilio was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

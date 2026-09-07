@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Bengaluru-Remote/Senior-Health-Economics-Associate_R0000042494) |
+| Location | Hyderabad, Telangana, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Senior-Health-Economics-Associate_R0000044811) |
 
 ## About This Role
 
-This business analyst position at Parexel was posted on 2026-08-25.
+This technology / it consulting position at Parexel was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
