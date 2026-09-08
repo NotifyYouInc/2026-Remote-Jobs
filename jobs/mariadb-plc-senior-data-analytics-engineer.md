@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MariaDB plc](https://scoutify.ai/companies/mariadb-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Romania |
 | Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4806337101) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4960498101) |
 
 ## About This Role
 
-This data engineer position at MariaDB plc was posted on 2026-06-09.
+This data engineer position at MariaDB plc was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

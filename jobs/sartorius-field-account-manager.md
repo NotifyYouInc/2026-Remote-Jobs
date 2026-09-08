@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sartorius](https://scoutify.ai/companies/sartorius?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Vietnam |
-| Category | Account Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Home-Office-Vietnam/Field-Account-Manager_R39319) |
+| Location | Missouri, US |
+| Category | Sales |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Home-Office-Ohio/Field-Account-Manager_R41087-1) |
 
 ## About This Role
 
-This account manager position at Sartorius was posted on 2026-05-18.
+This sales position at Sartorius was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

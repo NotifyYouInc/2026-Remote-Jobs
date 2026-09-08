@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
-| Category | Business Development |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000129923420-sales-development-representative) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Sales |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000146636340-sales-development-representative) |
 
 ## About This Role
 
-This business development position at Xplor Technologies was posted on 2026-06-03.
+This sales position at Xplor Technologies was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

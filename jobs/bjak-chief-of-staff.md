@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | China |
-| Category | Operations |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/af07ce4c-49a8-4e78-8143-e67977799e6b) |
+| Location | Hong Kong, Hong Kong |
+| Category | Strategy & Operations |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/67d13b0f-10fd-4275-97fa-6a2eb21142bc) |
 
 ## About This Role
 
-This operations position at Bjak was posted on 2026-08-06.
+This strategy & operations position at Bjak was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Gloucester, England, United Kingdom |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000134606720-service-engineer) |
+| Category | Customer Success |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000146641119-service-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Veolia was posted on 2026-06-27.
+This customer success position at Veolia was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

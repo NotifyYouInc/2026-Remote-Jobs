@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TOMRA](https://scoutify.ai/companies/tomra?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bremen, City state Bremen, Germany |
+| Location | Zeven, Lower Saxony, Germany |
 | Category | Industrial Automation |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000146415314-auendiensttechniker) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000146692159-auendiensttechniker) |
 
 ## About This Role
 
-This industrial automation position at TOMRA was posted on 2026-08-31.
+This industrial automation position at TOMRA was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

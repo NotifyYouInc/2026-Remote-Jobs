@@ -5,12 +5,12 @@
 | Company | [Duvo](https://scoutify.ai/companies/duvo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/duvo/2c2eb9f8-d9ab-44c1-ad3a-40b18e0182ab) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/duvo/91517ad9-8236-4cfa-912b-86b4e3b7c06a) |
 
 ## About This Role
 
-This strategy / management consulting position at Duvo was posted on 2026-08-21.
+This strategy / management consulting position at Duvo was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bonn, North Rhine-Westphalia, Germany |
 | Category | Project Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Bonn/Projektmanager-in---Specialist-Service-Transition--m-w-d-_JR108674) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Bonn/Projektmanager-in---Specialist-Service-Transition--m-w-d-_JR108872) |
 
 ## About This Role
 
-This project manager position at Dedalus CandG was posted on 2026-07-16.
+This project manager position at Dedalus CandG was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

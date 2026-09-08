@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Artelia](https://scoutify.ai/companies/artelia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Marseille, Provence-Alpes-Côte d'Azur, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Project Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000140846805-chef-cheffe-de-projet-infrastructures-ferroviaires-et-ouvrages-complexes) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000146670907-chef-cheffe-de-projet-infrastructures-ferroviaires-et-ouvrages-complexes) |
 
 ## About This Role
 
-This project manager position at Artelia was posted on 2026-07-31.
+This project manager position at Artelia was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

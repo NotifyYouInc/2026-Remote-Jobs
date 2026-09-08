@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kokomo, Indiana, United States |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Kokomo-IN/Auto-Damage-Adjuster--Field-_R0065316) |
+| Location | San Diego, California, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Auto-Damage-Adjuster--Field-_R0065557) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Geico was posted on 2026-08-20.
+This corporate finance position at Geico was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

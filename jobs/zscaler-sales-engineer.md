@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Indonesia |
+| Location | Sweden |
 | Category | Sales Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5168429007) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5211684007) |
 
 ## About This Role
 
-This sales engineer position at Zscaler was posted on 2026-06-19.
+This sales engineer position at Zscaler was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

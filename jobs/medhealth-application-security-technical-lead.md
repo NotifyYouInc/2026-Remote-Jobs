@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medhealth](https://scoutify.ai/companies/medhealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Security Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MedHealth3/744000133711080-application-security-technical-lead) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MedHealth3/744000146646690-application-security-technical-lead) |
 
 ## About This Role
 
-This security engineer position at Medhealth was posted on 2026-06-24.
+This cybersecurity engineer position at Medhealth was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

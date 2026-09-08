@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | Florida, US |
 | Category | Data Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-TX/Data-Engineer_R75957) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-FL/Data-Engineer_R71134-1) |
 
 ## About This Role
 
-This data engineer position at Sedgwick Group was posted on 2026-07-22.
+This data engineer position at Sedgwick Group was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

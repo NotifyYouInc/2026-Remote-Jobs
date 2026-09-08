@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ludia Consulting](https://scoutify.ai/companies/ludia-consulting?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ludiaconsulting/jobs/6004556004) |
+| Category | Business Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ludiaconsulting/jobs/4558608004) |
 
 ## About This Role
 
-This customer success position at Ludia Consulting was posted on 2026-05-22.
+This business analyst position at Ludia Consulting was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

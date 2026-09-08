@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Account Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Chennai-Regional-Office/Modern-Trade-Account-Specialist_R-1175884-1) |
+| Category | Sales |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Chennai-Regional-Office/Modern-Trade-Account-Specialist_R-1187616-1) |
 
 ## About This Role
 
-This account manager position at Unilever was posted on 2026-02-23.
+This sales position at Unilever was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

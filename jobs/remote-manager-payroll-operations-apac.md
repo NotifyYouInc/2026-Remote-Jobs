@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
+| Location | Malaysia |
 | Category | Accounting |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7886137003) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7983160003) |
 
 ## About This Role
 
-This accounting position at Remote was posted on 2026-08-18.
+This accounting position at Remote was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
