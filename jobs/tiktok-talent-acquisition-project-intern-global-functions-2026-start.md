@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | New York, US |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7677828709466605877/detail) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7677828221800401157/detail) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at TikTok was posted on 2026-08-27.
+This talent acquisition / recruiting position at TikTok was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

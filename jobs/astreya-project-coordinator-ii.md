@@ -5,12 +5,12 @@
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ohio, US |
 | Category | Project Manager |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-OH/Project-Coordinator-II_R0017132) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-OH/Project-Coordinator-II_R0017127) |
 
 ## About This Role
 
-This project manager position at Astreya was posted on 2026-08-28.
+This project manager position at Astreya was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

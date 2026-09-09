@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Johor Bahru, Johor, Malaysia |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Johor-Bahru-Malaysia/Shift-Remote-Hands-Engineer_REQ526010) |
+| Category | Customer Success |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Johor-Bahru-Malaysia/Shift-Remote-Hands-Engineer_REQ533101) |
 
 ## About This Role
 
-This it & systems administration position at JLL was posted on 2026-08-07.
+This customer success position at JLL was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

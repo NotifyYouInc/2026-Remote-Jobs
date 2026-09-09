@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Sales |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/China---Shanghai-Remote/District-Manager_JR38084) |
+| Category | Learning & Development |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/China---Shanghai-Remote/District-Manager_JR38288) |
 
 ## About This Role
 
-This sales position at Dyson was posted on 2026-08-26.
+This learning & development position at Dyson was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | IT & Systems Administration |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Systems-Engineer_R-423353) |
+| Location | 13 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-Systems-Engineer_R-427702) |
 
 ## About This Role
 
-This it & systems administration position at Humana was posted on 2026-07-31.
+This devops engineer position at Humana was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

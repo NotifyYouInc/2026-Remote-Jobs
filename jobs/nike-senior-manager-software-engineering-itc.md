@@ -1,16 +1,16 @@
-# Senior Manager, Software Engineering, ITC at Nike
+# Senior Manager, Software Engineering , ITC at Nike
 
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Karnataka, IN |
 | Category | Engineering Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Senior-Manager--Software-Engineering--ITC_R-86694-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Senior-Manager--Software-Engineering---ITC_R-85521) |
 
 ## About This Role
 
-This engineering manager position at Nike was posted on 2026-06-26.
+This engineering manager position at Nike was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

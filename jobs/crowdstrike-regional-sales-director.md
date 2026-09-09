@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Singapore, Singapore |
-| Category | Sales Leadership |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Singapore/Regional-Sales-Director_R29471) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Sales |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Australia---Sydney/Regional-Sales-Director_R29999-1) |
 
 ## About This Role
 
-This sales leadership position at CrowdStrike was posted on 2026-07-24.
+This sales position at CrowdStrike was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

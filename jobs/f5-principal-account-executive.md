@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [F5](https://scoutify.ai/companies/f5?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Account Executive |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Mexico-City/Principal-Account-Executive_RP1038371) |
+| Category | Sales |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Mexico-City/Principal-Account-Executive_RP1038585) |
 
 ## About This Role
 
-This account executive position at F5 was posted on 2026-08-14.
+This sales position at F5 was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

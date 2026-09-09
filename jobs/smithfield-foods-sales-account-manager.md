@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smithfield Foods](https://scoutify.ai/companies/smithfield-foods?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Minnesota, US |
+| Location | Iowa, US |
 | Category | Sales |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Remote-MN/Sales-Account-Manager_R-2026-10536) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Remote-IA/Sales-Account-Manager_R-2026-11812) |
 
 ## About This Role
 
-This sales position at Smithfield Foods was posted on 2026-08-12.
+This sales position at Smithfield Foods was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

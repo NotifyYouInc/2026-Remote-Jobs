@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TeamWork](https://scoutify.ai/companies/teamwork?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Saint-Priest, Rhône-Alpes, France |
 | Category | Technology / IT Consulting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TeamworkCorporate/744000137402231-consultant-expert-sap-s4hana-controlling-hf) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TeamworkCorporate/744000146914269-consultant-expert-sap-s4hana-controlling-hf) |
 
 ## About This Role
 
-This technology / it consulting position at TeamWork was posted on 2026-07-13.
+This technology / it consulting position at TeamWork was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

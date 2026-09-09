@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gcu](https://scoutify.ai/companies/gcu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Knoxville, Tennessee, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Sales |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/Knoxville-TN/Account-Executive---Online-Division---Grand-Canyon-University_R000068449) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/IL-Jacksonville/Account-Executive---Online-Division---Grand-Canyon-University_R000068499) |
 
 ## About This Role
 
-This sales position at Gcu was posted on 2026-08-28.
+This sales position at Gcu was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Anglo American](https://scoutify.ai/companies/angloamerican?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Middlemount, Queensland, Australia |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000144229034-human-resources-officer) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000146908929-human-resources-officer) |
 
 ## About This Role
 
-This human resources / people ops position at Anglo American was posted on 2026-08-19.
+This human resources / people ops position at Anglo American was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

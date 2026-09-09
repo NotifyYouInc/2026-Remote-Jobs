@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Marketing |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144573740-senior-staff-outbound-product-manager) |
+| Location | San Diego, California, United States |
+| Category | Program Manager |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000146836419-senior-staff-outbound-product-manager) |
 
 ## About This Role
 
-This marketing position at ServiceNow was posted on 2026-08-20.
+This program manager position at ServiceNow was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

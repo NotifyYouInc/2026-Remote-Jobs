@@ -5,12 +5,12 @@
 | Company | [TELUS Health](https://scoutify.ai/companies/telus-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Customer Success |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/External/job/Brisbane-Queensland-Australia/Associate-Customer-Success-Manager_R-22248) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/External/job/Brisbane-Queensland-Australia/Associate-Customer-Success-Manager_R-23101-1) |
 
 ## About This Role
 
-This customer success position at TELUS Health was posted on 2026-06-15.
+This customer success position at TELUS Health was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

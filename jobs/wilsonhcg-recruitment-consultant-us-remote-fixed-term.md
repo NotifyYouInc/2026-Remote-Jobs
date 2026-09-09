@@ -1,16 +1,16 @@
-# Recruitment Consultant - US (Remote) | Fixed-Term at Wilsonhcg
+# Recruitment Consultant, US (Remote) | Fixed-Term at Wilsonhcg
 
 | Field | Details |
 |-------|---------|
 | Company | [Wilsonhcg](https://scoutify.ai/companies/wilsonhcg?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Arkansas, US |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://wilsonhcg.wd5.myworkdayjobs.com/wilson_careers/job/US-Remote/Recruitment-Consultant---US--Remote----Fixed-Term_R672) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://wilsonhcg.wd5.myworkdayjobs.com/wilson_careers/job/US-Remote/Recruitment-Consultant--US--Remote----Fixed-Term_R779) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Wilsonhcg was posted on 2026-07-01.
+This talent acquisition / recruiting position at Wilsonhcg was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

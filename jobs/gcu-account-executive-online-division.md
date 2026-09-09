@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gcu](https://scoutify.ai/companies/gcu?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Buffalo, New York, United States |
+| Location | 2 locations |
 | Category | Sales |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/Buffalo-NY/Account-Executive---Online-Division_R000068197) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://gcu.wd1.myworkdayjobs.com/gce/job/Pittsburgh-PA/Account-Executive---Online-Division_R000068495) |
 
 ## About This Role
 
-This sales position at Gcu was posted on 2026-08-14.
+This sales position at Gcu was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Spécialiste Support Pilotage et Comptabilité (Télétravail complet possible depuis Bordeaux) at Pennylane
+# Spécialiste Support Pilotage et Comptabilité (Télétravail complet possible depuis Lannion) at Pennylane
 
 | Field | Details |
 |-------|---------|
 | Company | [Pennylane](https://scoutify.ai/companies/pennylane?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Location | Lannion, Brittany, France |
 | Category | Customer Success |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/pennylane/e711255b-1470-4a23-a01f-8f4125a7cc5e) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pennylane/eb9856a2-055a-4661-80a0-7786ed5ffb43) |
 
 ## About This Role
 
-This customer success position at Pennylane was posted on 2026-09-01.
+This customer success position at Pennylane was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

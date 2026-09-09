@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Diego, California, United States |
-| Category | Account Executive |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Diego-California-US/Account-Executive---Portfolio_2020188) |
+| Location | Dallas, Texas, United States |
+| Category | Sales |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Dallas-Texas-US/Account-Executive---Portfolio_2023666) |
 
 ## About This Role
 
-This account executive position at Cisco was posted on 2026-07-29.
+This sales position at Cisco was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

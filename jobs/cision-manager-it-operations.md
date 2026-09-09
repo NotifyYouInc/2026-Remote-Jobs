@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cision](https://scoutify.ai/companies/cision?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
-| Category | Engineering Manager |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/cision/jobs/4879832101) |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/cision/jobs/4964881101) |
 
 ## About This Role
 
-This engineering manager position at Cision was posted on 2026-06-27.
+This it & systems administration position at Cision was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

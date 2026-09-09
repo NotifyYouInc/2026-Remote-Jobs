@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Villers-sur-Mer, Normandy, France |
+| Location | Chantilly, Hauts-de-France, France |
 | Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000145453959-comptable-mandant-fh-alternance-bac3) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000146919999-comptable-mandant-fh-alternance-bac3) |
 
 ## About This Role
 
-This accounting position at Evoriel was posted on 2026-08-25.
+This accounting position at Evoriel was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

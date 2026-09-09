@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Account Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Indianapolis-IN/Client-Relationship-Manager-II_R202678339-1) |
+| Location | Atlanta, Georgia, United States |
+| Category | Sales |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Client-Relationship-Manager-II_R202681935) |
 
 ## About This Role
 
-This account manager position at Cox was posted on 2026-06-08.
+This sales position at Cox was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

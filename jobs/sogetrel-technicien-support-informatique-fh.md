@@ -1,16 +1,16 @@
-# Technicien support informatique F/H at Sogetrel
+# Technicien Support Informatique F/H at Sogetrel
 
 | Field | Details |
 |-------|---------|
 | Company | [Sogetrel](https://scoutify.ai/companies/sogetrel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Sélestat, Grand Est, France |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sogetrel/744000139937043-technicien-support-informatique-fh) |
+| Location | Belfort, Bourgogne, France |
+| Category | Customer Success |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sogetrel/744000146966204-technicien-support-informatique-fh) |
 
 ## About This Role
 
-This technical support engineer position at Sogetrel was posted on 2026-07-27.
+This customer success position at Sogetrel was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

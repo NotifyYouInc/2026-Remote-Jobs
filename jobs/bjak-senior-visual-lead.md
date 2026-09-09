@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Singapore, Singapore |
 | Category | Graphic / Brand Design |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e0582ac7-a958-4f26-af6e-0cd310789186) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/2a62d0a0-fbe6-4bbe-ba52-d8f8ed748113) |
 
 ## About This Role
 
-This graphic / brand design position at Bjak was posted on 2026-08-04.
+This graphic / brand design position at Bjak was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 
