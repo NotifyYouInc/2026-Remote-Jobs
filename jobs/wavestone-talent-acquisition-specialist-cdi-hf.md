@@ -5,12 +5,12 @@
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000140607004-talent-acquisition-specialist-cdi-hf) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000147191650-talent-acquisition-specialist-cdi-hf) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Wavestone was posted on 2026-07-30.
+This talent acquisition / recruiting position at Wavestone was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Automation Anywhere](https://scoutify.ai/companies/automation-anywhere?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Sales Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/USA---Remote/Sales-Engineer_JR1397) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/USA---Remote/Sales-Engineer_JR1497) |
 
 ## About This Role
 
-This sales engineer position at Automation Anywhere was posted on 2026-06-11.
+This sales engineer position at Automation Anywhere was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

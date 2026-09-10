@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kansas, US |
-| Category | Account Executive |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Kansas/Account-Executive--SMB-Sales---Wichita--KS_REQ365744) |
+| Category | Sales |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Kansas/Account-Executive--SMB-Sales---Wichita--KS_REQ365745) |
 
 ## About This Role
 
-This account executive position at T-Mobile was posted on 2026-07-25.
+This sales position at T-Mobile was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

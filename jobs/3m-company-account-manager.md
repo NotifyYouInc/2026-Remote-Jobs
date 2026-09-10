@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Guangdong, CN |
+| Location | Chengdu, Sichuan, China |
 | Category | Sales |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-Guangdong-Virtual/Account-Manager_R01168887) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-Sichuan-Chengdu/Account-Manager_R01169452-1) |
 
 ## About This Role
 
-This sales position at 3M Company was posted on 2026-08-01.
+This sales position at 3M Company was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

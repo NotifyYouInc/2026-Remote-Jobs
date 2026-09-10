@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Draper](https://scoutify.ai/companies/draper?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Cambridge, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Principal-Program-Finance-Analyst_JR002192-1) |
+| Location | 5 locations |
+| Category | Financial Analyst |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Principal-Program-Finance-Analyst_JR002887) |
 
 ## About This Role
 
-This corporate finance position at Draper was posted on 2026-02-09.
+This financial analyst position at Draper was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

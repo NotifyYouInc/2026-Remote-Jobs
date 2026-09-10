@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smithfield Foods](https://scoutify.ai/companies/smithfield-foods?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Engineering Manager |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Clinton-NC-Plant/Strategic-Project-Engineering-Manager_R-2025-12936) |
+| Location | Omaha, Nebraska, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Remote-MO/Strategic-Project-Engineering-Manager_R-2025-12936) |
 
 ## About This Role
 
-This engineering manager position at Smithfield Foods was posted on 2026-04-26.
+This strategy & operations position at Smithfield Foods was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

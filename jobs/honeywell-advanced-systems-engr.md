@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kowloon, Hong Kong |
-| Category | IT & Systems Administration |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153397) |
+| Location | Pune, Maharashtra, India |
+| Category | Project Manager |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#156507) |
 
 ## About This Role
 
-This it & systems administration position at Honeywell was posted on 2026-07-16.
+This project manager position at Honeywell was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

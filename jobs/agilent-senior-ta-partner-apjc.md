@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Singapore |
+| Location | Singapore, Singapore |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/Singapore-Yishun/Senior-TA-Partner--APJC_4038335) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/Singapore-Yishun/Senior-TA-Partner--APJC_4039755) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Agilent was posted on 2026-06-17.
+This talent acquisition / recruiting position at Agilent was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

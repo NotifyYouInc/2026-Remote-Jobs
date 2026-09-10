@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Account Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Sweden/Account-Manager---Immunology_R-01357378) |
+| Location | Finland |
+| Category | Sales |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Finland/Account-Manager---Immunology_R-01366428) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-06-19.
+This sales position at Thermo Fisher Scientific was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

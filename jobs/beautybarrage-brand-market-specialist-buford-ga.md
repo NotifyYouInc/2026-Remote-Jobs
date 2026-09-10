@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Beautybarrage](https://scoutify.ai/companies/beautybarrage?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Buford, Georgia, United States |
-| Category | Marketing |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.lever.co/beautybarrage/9d89ac31-a5c8-4777-9016-987075fbb0eb) |
+| Category | Brand Marketing |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.lever.co/beautybarrage/aba8fd9b-bf73-49d6-9ea5-b649a2a93f31) |
 
 ## About This Role
 
-This marketing position at Beautybarrage was posted on 2026-06-11.
+This brand marketing position at Beautybarrage was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

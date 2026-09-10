@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Sales |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000145939193-head-of-regions-romania) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000147164469-head-of-regions-romania) |
 
 ## About This Role
 
-This sales position at Delivery Hero was posted on 2026-08-27.
+This sales position at Delivery Hero was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

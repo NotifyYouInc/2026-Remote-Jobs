@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
-| Category | Sales Leadership |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Florida/Business-Development-Director_R0017623) |
+| Location | Illinois, US |
+| Category | Sales |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Illinois/Business-Development-Director_R0018127) |
 
 ## About This Role
 
-This sales leadership position at CLEAResult was posted on 2026-06-04.
+This sales position at CLEAResult was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Florida, US |
 | Category | Sales |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Remote---US/Strategic-Account-Executive_JR117152) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Remote-US-Florida/Strategic-Account-Executive_JR117617) |
 
 ## About This Role
 
-This sales position at Copeland was posted on 2026-08-06.
+This sales position at Copeland was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

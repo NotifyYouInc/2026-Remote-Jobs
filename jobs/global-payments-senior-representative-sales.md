@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Mexico |
-| Category | Account Executive |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Yucatan-MX---Remote/Senior-Representative--Sales_R0071090-1) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Sales |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/MEXICO-CITY--MEXICO/Senior-Representative--Sales_R0071092) |
 
 ## About This Role
 
-This account executive position at Global Payments was posted on 2026-06-17.
+This sales position at Global Payments was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

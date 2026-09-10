@@ -5,12 +5,12 @@
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director--Finance---Office-of-the-CFO_R042345) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Director--Finance---Office-of-the-CFO_R048652) |
 
 ## About This Role
 
-This corporate finance position at Ensemble Health Partners was posted on 2026-03-04.
+This corporate finance position at Ensemble Health Partners was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

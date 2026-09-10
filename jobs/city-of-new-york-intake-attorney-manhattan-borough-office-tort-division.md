@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
 | Category | Legal |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014914801-intake-attorney-manhattan-borough-office-tort-division) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015041311-intake-attorney-manhattan-borough-office-tort-division) |
 
 ## About This Role
 
-This legal position at City of New York was posted on 2026-08-28.
+This legal position at City of New York was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

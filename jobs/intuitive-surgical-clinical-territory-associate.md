@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Poitiers, Nouvelle-Aquitaine, France |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000142572640-clinical-territory-associate) |
+| Location | Pensacola, Florida, United States |
+| Category | Sales |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000147083170-clinical-territory-associate) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Intuitive Surgical was posted on 2026-08-10.
+This sales position at Intuitive Surgical was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

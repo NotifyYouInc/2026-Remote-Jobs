@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Sales Leadership |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Houston/Medical-Technology-Advanced-Services--Sales-Director_R4039161-1) |
+| Location | United States |
+| Category | Sales |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Medical-Technology-Advanced-Services--Sales-Director_R4044701-2) |
 
 ## About This Role
 
-This sales leadership position at GE HealthCare was posted on 2026-04-10.
+This sales position at GE HealthCare was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

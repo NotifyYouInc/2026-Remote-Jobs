@@ -5,12 +5,12 @@
 | Company | [VSP Vision](https://scoutify.ai/companies/vsp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Senior-Client-Operations-Specialist_R-9207) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Senior-Client-Operations-Specialist_R-9914-1) |
 
 ## About This Role
 
-This customer success position at VSP Vision was posted on 2026-03-06.
+This customer success position at VSP Vision was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

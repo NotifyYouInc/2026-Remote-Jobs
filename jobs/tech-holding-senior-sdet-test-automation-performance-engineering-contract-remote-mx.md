@@ -5,12 +5,12 @@
 | Company | [Tech Holding](https://scoutify.ai/companies/tech-holding?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mexico |
 | Category | QA Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/techholding/jobs/4724476005) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/techholding/jobs/4730457005) |
 
 ## About This Role
 
-This qa engineer position at Tech Holding was posted on 2026-08-14.
+This qa engineer position at Tech Holding was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Re-Leased](https://scoutify.ai/companies/released?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Auckland, Auckland, New Zealand |
-| Category | Account Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/released/jobs/6569061003) |
+| Category | Sales |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/released/jobs/7984079003) |
 
 ## About This Role
 
-This account manager position at Re-Leased was posted on 2026-06-22.
+This sales position at Re-Leased was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

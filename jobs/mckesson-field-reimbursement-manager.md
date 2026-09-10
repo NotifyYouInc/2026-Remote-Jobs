@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
+| Location | Minnesota, US |
 | Category | Customer Success |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-FL-Remote/Field-Reimbursement-Manager_JR0152367) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-MN-Remote/Field-Reimbursement-Manager_JR0153358) |
 
 ## About This Role
 
-This customer success position at McKesson was posted on 2026-08-17.
+This customer success position at McKesson was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

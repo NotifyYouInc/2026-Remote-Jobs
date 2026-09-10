@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Louisiana, US |
-| Category | Account Executive |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Louisiana/Account-Executive--Business-Sales---Baton-Rouge--LA_REQ350048-1) |
+| Category | Sales |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Louisiana/Account-Executive--Business-Sales---Baton-Rouge--LA_REQ369078-1) |
 
 ## About This Role
 
-This account executive position at T-Mobile was posted on 2026-03-28.
+This sales position at T-Mobile was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

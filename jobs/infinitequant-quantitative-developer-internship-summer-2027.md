@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [InfiniteQuant](https://scoutify.ai/companies/infinitequant?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Quant Developer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InfiniteQuant/744000145205458-quantitative-developer-internship-summer-2027) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879-quantitative-developer-internship-summer-2027) |
 
 ## About This Role
 
-This quant developer position at InfiniteQuant was posted on 2026-08-24.
+This quant developer position at InfiniteQuant was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

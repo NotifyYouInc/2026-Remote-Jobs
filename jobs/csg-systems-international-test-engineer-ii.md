@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CSG Systems International](https://scoutify.ai/companies/csg-systems-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Brazil |
-| Category | Software Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/Brazil-Remote/Test-Engineer-II_31537) |
+| Location | Texas, US |
+| Category | QA Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/USTXRemote/Test-Engineer-II_32225) |
 
 ## About This Role
 
-This software engineer position at CSG Systems International was posted on 2026-03-09.
+This qa engineer position at CSG Systems International was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

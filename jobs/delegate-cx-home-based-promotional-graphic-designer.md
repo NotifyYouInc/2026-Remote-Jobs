@@ -5,12 +5,12 @@
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Graphic / Brand Design |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Promotional-Graphic-Designer_JR104564) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Promotional-Graphic-Designer_JR104601) |
 
 ## About This Role
 
-This graphic / brand design position at Delegate CX was posted on 2026-08-25.
+This graphic / brand design position at Delegate CX was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Reddit](https://scoutify.ai/companies/reddit?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Frontend Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/8082867) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/8175520) |
 
 ## About This Role
 
-This frontend engineer position at Reddit was posted on 2026-07-24.
+This frontend engineer position at Reddit was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Ingeniero de Campo (Tijuana) at GE HealthCare
+# Ingeniero De Campo - Tijuana at GE HealthCare
 
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tijuana, Baja California, Mexico |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Ingeniero-de-Campo--Tijuana-_R4043006-1) |
+| Category | Deployment Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Ingeniero-De-Campo_R4045912) |
 
 ## About This Role
 
-This electrical / hardware engineer position at GE HealthCare was posted on 2026-07-01.
+This deployment engineer position at GE HealthCare was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

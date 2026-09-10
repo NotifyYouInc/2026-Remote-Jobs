@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Boardman, Ohio, United States |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Industrial Automation |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Oregon---Boardman/Integrated-Operations-Technician_RQ114753) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Oklahoma---Oklahoma-City/Integrated-Operations-Technician_RQ115528) |
 
 ## About This Role
 
-This industrial automation position at BP was posted on 2026-08-13.
+This industrial automation position at BP was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

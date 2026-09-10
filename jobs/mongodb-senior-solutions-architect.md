@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=6606599) |
+| Location | Germany |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8173801) |
 
 ## About This Role
 
-This customer success position at MongoDB was posted on 2026-02-12.
+This technical & solutions architect position at MongoDB was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

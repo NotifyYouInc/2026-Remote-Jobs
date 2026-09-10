@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kansas, US |
+| Location | California, US |
 | Category | Sales |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Minnesota/VinSolutions-Regional-Sales-Manager_R202680508) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---California/VinSolutions-Regional-Sales-Manager_R202681777) |
 
 ## About This Role
 
-This sales position at Cox was posted on 2026-07-29.
+This sales position at Cox was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Vietnam |
-| Category | Sales Leadership |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Vietnam-Remote/Sales-Supervisor--MT_R-165881-1) |
+| Category | Sales |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Vietnam-Remote/Sales-Supervisor--MT_R-176311) |
 
 ## About This Role
 
-This sales leadership position at Mondelez International was posted on 2026-05-02.
+This sales position at Mondelez International was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

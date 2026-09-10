@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ontario, CA |
+| Location | Alberta, CA |
 | Category | Program Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-ON/Assoc-Program-Manager_R264052) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-AB/Assoc-Program-Manager_R2615032) |
 
 ## About This Role
 
-This program manager position at Cencora was posted on 2026-03-13.
+This program manager position at Cencora was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

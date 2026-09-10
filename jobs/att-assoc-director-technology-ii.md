@@ -1,16 +1,16 @@
-# Assoc Director Technology II at AT&T
+# Assoc Director-Technology II at AT&T
 
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Bothell, Washington, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Assoc-Director-Technology-II_R-108365) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bothell-Washington/Assoc-Director-Technology-II_R-118137) |
 
 ## About This Role
 
-This engineering manager position at AT&T was posted on 2026-05-07.
+This engineering manager position at AT&T was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

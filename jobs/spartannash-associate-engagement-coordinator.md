@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpartanNash](https://scoutify.ai/companies/spartannash?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Marine City, Michigan, United States |
+| Location | Omaha, Nebraska, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Marine-City-Michigan/Associate-Engagement-Coordinator_R88948) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Omaha-Nebraska/Associate-Engagement-Coordinator_R89165) |
 
 ## About This Role
 
-This human resources / people ops position at SpartanNash was posted on 2026-08-27.
+This human resources / people ops position at SpartanNash was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
