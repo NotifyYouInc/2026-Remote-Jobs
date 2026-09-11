@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Channel / Partner Sales |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Chennai-Regional-Office/Territory-Sales-Officer_R-1186306) |
+| Location | Lucknow, Uttar Pradesh, India |
+| Category | Sales |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Lucknow-Regional-Office/Territory-Sales-Officer_R-1187507-1) |
 
 ## About This Role
 
-This channel / partner sales position at Unilever was posted on 2026-07-31.
+This sales position at Unilever was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

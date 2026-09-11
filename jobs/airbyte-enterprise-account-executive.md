@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbyte](https://scoutify.ai/companies/airbyte?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Account Executive |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airbyte/2205560b-649d-489b-89c0-54cb8adafae3) |
+| Location | Canada |
+| Category | Sales |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airbyte/9ffd51ca-f255-4789-9a05-6c8bee33d9dd) |
 
 ## About This Role
 
-This account executive position at Airbyte was posted on 2026-08-17.
+This sales position at Airbyte was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

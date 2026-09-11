@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 25 locations |
-| Category | Learning & Development |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/FRA---Remote/Commercial-Training---Competency-Program-Manager--d-f-m-_R1316444) |
+| Location | Italy |
+| Category | Program Manager |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/ITA---Remote/Commercial-Training---Competency-Program-Manager--d-f-m-_R1318197) |
 
 ## About This Role
 
-This learning & development position at Danaher was posted on 2026-09-01.
+This program manager position at Danaher was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

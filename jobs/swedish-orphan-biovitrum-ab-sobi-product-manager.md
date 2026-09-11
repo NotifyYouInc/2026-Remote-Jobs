@@ -5,12 +5,12 @@
 | Company | [Swedish Orphan Biovitrum AB (Sobi)](https://scoutify.ai/companies/swedishorphanbiovitrumabsobi?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sobi/744000139971209-product-manager) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sobi/744000147452504-product-manager) |
 
 ## About This Role
 
-This product manager position at Swedish Orphan Biovitrum AB (Sobi) was posted on 2026-07-27.
+This product manager position at Swedish Orphan Biovitrum AB (Sobi) was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

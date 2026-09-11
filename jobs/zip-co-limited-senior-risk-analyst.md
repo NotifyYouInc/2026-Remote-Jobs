@@ -1,16 +1,16 @@
-# Senior Risk Analyst at Zip Co Limited
+# Senior Risk Analyst  at Zip Co Limited
 
 | Field | Details |
 |-------|---------|
 | Company | [Zip Co Limited](https://scoutify.ai/companies/zip-co-limited?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Manhattan, New York, United States |
+| Location | United States |
 | Category | Financial Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zipcolimited/jobs/4665906006) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zipcolimited/jobs/4703531006) |
 
 ## About This Role
 
-This financial analyst position at Zip Co Limited was posted on 2026-04-08.
+This financial analyst position at Zip Co Limited was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

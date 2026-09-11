@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UTAC](https://scoutify.ai/companies/utac?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Linas, Île-de-France, France |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/utac/744000134427729-ingenieur-cybersecurite-offensif) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/utac/744000147452082-ingenieur-cybersecurite-offensif) |
 
 ## About This Role
 
-This offensive security & pentesting position at UTAC was posted on 2026-06-26.
+This cybersecurity engineer position at UTAC was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

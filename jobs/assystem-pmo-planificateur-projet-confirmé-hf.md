@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | Project Manager |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000146659679-pmo-planificateur-projet-confirme-hf) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000147461180-pmo-planificateur-projet-confirme-hf) |
 
 ## About This Role
 
-This project manager position at Assystem was posted on 2026-09-01.
+This project manager position at Assystem was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

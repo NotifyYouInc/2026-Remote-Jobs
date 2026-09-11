@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Account Executive |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8593358002) |
+| Category | Sales |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8783528002) |
 
 ## About This Role
 
-This account executive position at Fictiv was posted on 2026-06-16.
+This sales position at Fictiv was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

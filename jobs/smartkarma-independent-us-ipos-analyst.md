@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smartkarma](https://scoutify.ai/companies/smartkarma?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Smartkarma/744000134386215-independent-us-ipos-analyst) |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Smartkarma/744000147410509-independent-us-ipos-analyst) |
 
 ## About This Role
 
-This asset management / portfolio management position at Smartkarma was posted on 2026-06-26.
+This corporate finance position at Smartkarma was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

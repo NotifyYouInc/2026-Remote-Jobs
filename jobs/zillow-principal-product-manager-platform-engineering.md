@@ -5,12 +5,12 @@
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Manager--Platform-Engineering_P749839-2) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Manager--Platform-Engineering_P751187-1) |
 
 ## About This Role
 
-This product manager position at Zillow was posted on 2026-04-03.
+This product manager position at Zillow was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

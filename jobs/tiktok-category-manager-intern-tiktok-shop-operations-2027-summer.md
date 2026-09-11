@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Los Angeles, California, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7678187926582577461/detail) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7681210275361769733/detail) |
 
 ## About This Role
 
-This strategy & operations position at TikTok was posted on 2026-08-27.
+This strategy & operations position at TikTok was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

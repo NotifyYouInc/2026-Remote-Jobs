@@ -5,12 +5,12 @@
 | Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8738709002) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8783535002) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Fictiv was posted on 2026-08-21.
+This talent acquisition / recruiting position at Fictiv was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000146152259-threat-research-analyst) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000147465409-threat-research-analyst) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sigma Software was posted on 2026-08-28.
+This cybersecurity engineer position at Sigma Software was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

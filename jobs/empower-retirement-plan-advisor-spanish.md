@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-05-09 |
+| Location | 3 locations |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/CA-Oakland---Remote/Retirement-Plan-Advisor---Spanish_R0057425) |
 
 ## About This Role
 
-This financial advisory & consulting position at Empower was posted on 2026-05-09.
+This corporate finance position at Empower was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

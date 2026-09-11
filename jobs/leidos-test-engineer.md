@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | United Kingdom |
 | Category | QA Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Test-Engineer_R-00187794) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-United-Kingdom/Test-Engineer_R-00191504) |
 
 ## About This Role
 
-This qa engineer position at Leidos was posted on 2026-07-21.
+This qa engineer position at Leidos was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

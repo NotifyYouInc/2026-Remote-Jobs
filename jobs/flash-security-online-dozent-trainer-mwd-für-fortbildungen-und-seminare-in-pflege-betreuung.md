@@ -5,12 +5,12 @@
 | Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Learning & Development |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000145903729-online-dozent-trainer-mwd-fur-fortbildungen-und-seminare-in-pflege-betreuung) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000147426060-online-dozent-trainer-mwd-fur-fortbildungen-und-seminare-in-pflege-betreuung) |
 
 ## About This Role
 
-This learning & development position at flash-security was posted on 2026-08-27.
+This learning & development position at flash-security was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Smartkarma](https://scoutify.ai/companies/smartkarma?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Quant Research |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Smartkarma/744000134388039-independent-quantitative-analyst) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Smartkarma/744000147410869-independent-quantitative-analyst) |
 
 ## About This Role
 
-This quant research position at Smartkarma was posted on 2026-06-26.
+This quant research position at Smartkarma was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

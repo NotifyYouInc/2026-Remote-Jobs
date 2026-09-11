@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Account Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Rockford-Illinois/Lead-Account-Manager-Channel-3-Mob-VAR_R-104805) |
+| Location | 5 locations |
+| Category | Sales |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bedminster-New-Jersey/Lead-Account-Manager-Channel-3-Mob-VAR_R-121429-1) |
 
 ## About This Role
 
-This account manager position at AT&T was posted on 2026-03-30.
+This sales position at AT&T was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

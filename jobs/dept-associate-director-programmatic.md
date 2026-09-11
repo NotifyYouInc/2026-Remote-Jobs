@@ -5,12 +5,12 @@
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Florida, US |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8003312) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8178598) |
 
 ## About This Role
 
-This digital / performance marketing position at DEPT® was posted on 2026-06-15.
+This digital / performance marketing position at DEPT® was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

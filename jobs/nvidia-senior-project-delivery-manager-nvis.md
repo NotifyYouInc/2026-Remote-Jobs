@@ -1,16 +1,16 @@
-# Senior Project Delivery Manager, NVIS at Nvidia
+# Senior Project Delivery Manager - NVIS at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Australia |
+| Location | Santa Clara, California, United States |
 | Category | Project Manager |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Australia-Remote/Senior-Project-Delivery-Manager--NVIS_JR2023367) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-Project-Delivery-Manager---NVIS_JR2024787) |
 
 ## About This Role
 
-This project manager position at Nvidia was posted on 2026-08-18.
+This project manager position at Nvidia was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

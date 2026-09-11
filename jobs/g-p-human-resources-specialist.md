@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [G-P](https://scoutify.ai/companies/g-p?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Spain |
+| Location | Portugal |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7961492003) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7986213003) |
 
 ## About This Role
 
-This human resources / people ops position at G-P was posted on 2026-08-24.
+This human resources / people ops position at G-P was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

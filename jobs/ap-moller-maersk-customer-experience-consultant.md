@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Customer Success |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Chile-Santiago-7510689/Customer-Experience-Consultant_R180367) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Germany-Hamburg-20095/Customer-Experience-Consultant_R195507-1) |
 
 ## About This Role
 
-This customer success position at A.P. Moller - Maersk was posted on 2026-05-08.
+This customer success position at A.P. Moller - Maersk was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

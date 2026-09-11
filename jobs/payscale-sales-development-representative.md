@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Payscale](https://scoutify.ai/companies/payscale?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Business Development |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/payscale/0dfdc5ac-3469-4d29-b59a-26ce35623923) |
+| Category | Sales |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/payscale/610c1e81-d824-4c39-9bde-4fdb1956e82a) |
 
 ## About This Role
 
-This business development position at Payscale was posted on 2026-05-21.
+This sales position at Payscale was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

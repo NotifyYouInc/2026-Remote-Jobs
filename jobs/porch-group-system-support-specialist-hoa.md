@@ -5,12 +5,12 @@
 | Company | [Porch Group](https://scoutify.ai/companies/porch-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Colorado, US |
 | Category | Customer Success |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/CO-Remote/System-Support-Specialist--HOA_JR101425) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/CO-Remote/System-Support-Specialist--HOA_JR101526) |
 
 ## About This Role
 
-This customer success position at Porch Group was posted on 2026-08-12.
+This customer success position at Porch Group was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

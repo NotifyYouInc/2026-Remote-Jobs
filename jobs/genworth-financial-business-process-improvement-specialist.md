@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genworth Financial](https://scoutify.ai/companies/genworth-financial?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
-| Category | Project Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Business-Process-Improvement-Specialist_REQ-260039-1) |
+| Category | Business Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://gnw.wd1.myworkdayjobs.com/GNW/job/Lynchburg-Virginia/Business-Process-Improvement-Specialist_REQ-260338) |
 
 ## About This Role
 
-This project manager position at Genworth Financial was posted on 2026-02-20.
+This business analyst position at Genworth Financial was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
