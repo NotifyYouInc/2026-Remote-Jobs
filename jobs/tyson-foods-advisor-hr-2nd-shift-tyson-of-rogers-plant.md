@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Springdale, Arkansas, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Off-Site-Employees-Corp-Use---Springdale-Arkansas/Advisor-HR---2nd-Shift---Tyson-of-Rogers-Plant_R0476274) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Off-Site-Employees-Corp-Use---Springdale-Arkansas/Advisor-HR---2nd-Shift---Tyson-of-Rogers-Plant_R0483728) |
 
 ## About This Role
 
-This human resources / people ops position at Tyson Foods was posted on 2026-08-05.
+This human resources / people ops position at Tyson Foods was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

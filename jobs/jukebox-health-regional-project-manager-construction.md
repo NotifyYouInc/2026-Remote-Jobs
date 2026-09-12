@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jukebox Health](https://scoutify.ai/companies/jukebox-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | Project Manager |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/jukeboxhealth/jobs/4370212009) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/jukeboxhealth/jobs/4396783009) |
 
 ## About This Role
 
-This project manager position at Jukebox Health was posted on 2026-08-15.
+This project manager position at Jukebox Health was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

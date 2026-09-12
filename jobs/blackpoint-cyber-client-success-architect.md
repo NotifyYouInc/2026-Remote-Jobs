@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackpoint Cyber](https://scoutify.ai/companies/blackpoint-20cyber?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Customer Success Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/blackpoint%20cyber/7d34caf6-c9e8-4fb0-bc33-041f86182fd5) |
+| Category | Customer Success |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/blackpoint%20cyber/6e44f17b-311c-4058-bca7-cbcbc3629bac) |
 
 ## About This Role
 
-This customer success manager position at Blackpoint Cyber was posted on 2026-07-01.
+This customer success position at Blackpoint Cyber was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

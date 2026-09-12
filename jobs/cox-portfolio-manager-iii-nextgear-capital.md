@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Account Manager |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---California/Portfolio-Manager-III---NextGear-Capital_R202681535) |
+| Location | El Paso, Texas, United States |
+| Category | Sales |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/El-Paso-TX/Portfolio-Manager-III---NextGear-Capital_R202682090) |
 
 ## About This Role
 
-This account manager position at Cox was posted on 2026-08-21.
+This sales position at Cox was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

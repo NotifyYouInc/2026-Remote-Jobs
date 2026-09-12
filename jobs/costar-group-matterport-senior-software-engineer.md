@@ -5,12 +5,12 @@
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Sunnyvale/Matterport---Senior-Software-Engineer_R38964) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Sunnyvale-US/Matterport---Senior-Software-Engineer_R39769) |
 
 ## About This Role
 
-This software engineer position at CoStar Group was posted on 2026-06-11.
+This software engineer position at CoStar Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

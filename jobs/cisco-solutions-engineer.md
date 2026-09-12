@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Birmingham-Alabama-US/Solutions-Engineer_2020537) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Knoxville-Tennessee-US/Solutions-Engineer_2022799) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-08-13.
+This sales engineer position at Cisco was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

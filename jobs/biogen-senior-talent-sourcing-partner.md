@@ -5,12 +5,12 @@
 | Company | [Biogen](https://scoutify.ai/companies/biogen?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Senior-Talent-Sourcing-Partner_REQ22843) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Senior-Talent-Sourcing-Partner_REQ24059) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Biogen was posted on 2026-03-18.
+This talent acquisition / recruiting position at Biogen was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

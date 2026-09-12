@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
 | Category | Program Manager |
-| Posted | 2026-08-23 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Program-Analyst_RQ226661-1) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Program-Analyst_RQ227456-1) |
 
 ## About This Role
 
-This program manager position at General Dynamics Information Technology was posted on 2026-08-23.
+This program manager position at General Dynamics Information Technology was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

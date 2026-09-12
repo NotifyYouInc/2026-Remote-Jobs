@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Firmware-Engineer--NIC-Firmware_JR2015153) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Firmware-Engineer--NIC-Firmware_JR2024895-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Nvidia was posted on 2026-03-30.
+This embedded / firmware engineer position at Nvidia was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

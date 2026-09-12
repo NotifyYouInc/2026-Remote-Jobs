@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Virginia, US |
-| Category | Program Manager |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Work-from-home/Senior-Manager--Scrum-Master_R1004326-1) |
+| Location | Texas, US |
+| Category | Scrum Master & Agile Coach |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Senior-Manager--Scrum-Master_R1016541) |
 
 ## About This Role
 
-This program manager position at CVS Health was posted on 2026-08-21.
+This scrum master & agile coach position at CVS Health was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

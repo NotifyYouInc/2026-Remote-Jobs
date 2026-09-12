@@ -1,0 +1,22 @@
+# Senior Payroll Garnishment Specialist at HHS
+
+| Field | Details |
+|-------|---------|
+| Company | [HHS](https://scoutify.ai/companies/hhs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Texas, US |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://hhs.wd12.myworkdayjobs.com/hhs1jobs/job/VIRTUAL/Senior-Payroll-Garnishment-Specialist_R26_004450) |
+
+## About This Role
+
+This accounting position at HHS was posted on 2026-09-04.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

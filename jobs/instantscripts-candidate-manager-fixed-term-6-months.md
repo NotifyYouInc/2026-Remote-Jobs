@@ -6,7 +6,7 @@
 | Location | Melbourne, Victoria, Australia |
 | Category | Talent Acquisition / Recruiting |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InstantScripts/6000000001376578-candidate-manager-fixed-term-6-months) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InstantScripts/6000000001378280-candidate-manager-fixed-term-6-months) |
 
 ## About This Role
 

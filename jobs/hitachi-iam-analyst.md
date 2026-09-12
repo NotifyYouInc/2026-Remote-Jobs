@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Florida, US |
-| Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Florida-United-States/IAM-Analyst_R0127316) |
+| Location | San Francisco, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/DEAI-HV-US-Remote-CA---San-Francisco-Bay-Area/IAM-Analyst_R0142716) |
 
 ## About This Role
 
-This security engineer position at Hitachi was posted on 2026-04-29.
+This cybersecurity engineer position at Hitachi was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

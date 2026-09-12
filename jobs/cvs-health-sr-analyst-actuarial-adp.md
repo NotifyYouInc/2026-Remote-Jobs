@@ -1,16 +1,16 @@
-# Sr Analyst, Actuarial (ADP) at CVS Health
+# SR ANALYST, ACTUARIAL (ADP) at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Woonsocket, Rhode Island, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Analyst--Actuarial--ADP-_R0942496) |
+| Location | Hartford, Connecticut, United States |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/SR-ANALYST--ACTUARIAL--ADP-_R1022296) |
 
 ## About This Role
 
-This corporate finance position at CVS Health was posted on 2026-06-20.
+This actuary / insurance analytics position at CVS Health was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

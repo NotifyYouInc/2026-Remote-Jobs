@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Senior-Product-Security-Engineer_R170756) |
+| Location | San Jose, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Security-Engineer_R171629) |
 
 ## About This Role
 
-This security engineer position at Adobe was posted on 2026-07-24.
+This cybersecurity engineer position at Adobe was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

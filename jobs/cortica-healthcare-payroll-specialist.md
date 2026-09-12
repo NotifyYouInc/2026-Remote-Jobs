@@ -5,12 +5,12 @@
 | Company | [Cortica](https://scoutify.ai/companies/cortica?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Accounting |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/allcareers/jobs/8723409002) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/allcareers/jobs/8784708002) |
 
 ## About This Role
 
-This accounting position at Cortica was posted on 2026-08-17.
+This accounting position at Cortica was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Account Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Washington-District-of-Columbia-United-States-of-America/Partner-Business-Manager_1203242) |
+| Location | San Jose, California, United States |
+| Category | Sales |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/Partner-Business-Manager_1211149-3) |
 
 ## About This Role
 
-This account manager position at Hewlett Packard Enterprise was posted on 2026-03-10.
+This sales position at Hewlett Packard Enterprise was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

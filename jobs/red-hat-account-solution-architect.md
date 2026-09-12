@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-CO/Account-Solution-Architect_R-057141-2) |
+| Location | Illinois, US |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-IL/Account-Solution-Architect_R-058387-2) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-06-10.
+This technical & solutions architect position at Red Hat was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

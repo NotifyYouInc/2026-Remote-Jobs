@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Account Executive |
-| Posted | 2026-03-05 |
+| Category | Sales |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Sr-Strategic-Sales-Manager-Chicago_R21135-2) |
 
 ## About This Role
 
-This account executive position at Wex was posted on 2026-03-05.
+This sales position at Wex was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Warren, Michigan, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Employee-Relations-Investigator_JR-202616688) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Employee-Relations-Investigator_JR-202619595-1) |
 
 ## About This Role
 
-This human resources / people ops position at General Motors was posted on 2026-08-11.
+This human resources / people ops position at General Motors was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

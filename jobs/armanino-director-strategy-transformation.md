@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Armanino](https://scoutify.ai/companies/armaninollp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | St. Louis, Missouri, United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/St-Louis-Missouri/Director--Strategy---Transformation_JR104046) |
+| Location | 5 locations |
+| Category | Strategy & Operations |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://armaninollp.wd1.myworkdayjobs.com/Armanino/job/Chicago-Illinois/Director--Strategy---Transformation_JR104332) |
 
 ## About This Role
 
-This strategy / management consulting position at Armanino was posted on 2026-07-01.
+This strategy & operations position at Armanino was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

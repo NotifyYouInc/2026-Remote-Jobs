@@ -5,12 +5,12 @@
 | Company | [TabaPay](https://scoutify.ai/companies/tabapay?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://tabapay.com/careers?gh_jid=4687089006) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://tabapay.com/careers?gh_jid=4711348006) |
 
 ## About This Role
 
-This customer success position at TabaPay was posted on 2026-06-04.
+This customer success position at TabaPay was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

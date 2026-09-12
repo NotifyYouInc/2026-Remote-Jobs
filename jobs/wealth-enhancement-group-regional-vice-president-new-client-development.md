@@ -5,12 +5,12 @@
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Remote/Regional-Vice-President--New-Client-Development_R-102679) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Remote/Regional-Vice-President--New-Client-Development_R-102680-1) |
 
 ## About This Role
 
-This corporate finance position at Wealth Enhancement Group was posted on 2026-08-18.
+This corporate finance position at Wealth Enhancement Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

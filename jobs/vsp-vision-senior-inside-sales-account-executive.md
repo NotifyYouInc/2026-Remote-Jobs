@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VSP Vision](https://scoutify.ai/companies/vsp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Account Executive |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Senior-Inside-Sales-Account-Executive_R-9384) |
+| Category | Sales |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Senior-Inside-Sales-Account-Executive_R-9924) |
 
 ## About This Role
 
-This account executive position at VSP Vision was posted on 2026-04-17.
+This sales position at VSP Vision was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
