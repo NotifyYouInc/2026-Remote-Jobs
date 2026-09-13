@@ -1,16 +1,16 @@
-# Senior Director, Paid Social at Wpromote
+# Influencer Marketing Lead, Technology at Wix.com
 
 | Field | Details |
 |-------|---------|
-| Company | [Wpromote](https://scoutify.ai/companies/wpromote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.lever.co/wpromote/9206a90d-d44b-48b0-85dc-f2aec3304900) |
+| Category | Growth Marketing |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000147650629-influencer-marketing-lead-technology) |
 
 ## About This Role
 
-This marketing position at Wpromote was posted on 2026-09-04.
+This growth marketing position at Wix.com was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

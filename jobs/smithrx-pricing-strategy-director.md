@@ -1,16 +1,16 @@
-# Senior Director, Paid Social at Wpromote
+# Pricing Strategy Director  at SmithRx
 
 | Field | Details |
 |-------|---------|
-| Company | [Wpromote](https://scoutify.ai/companies/wpromote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [SmithRx](https://scoutify.ai/companies/smithrx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.lever.co/wpromote/9206a90d-d44b-48b0-85dc-f2aec3304900) |
+| Category | Strategy & Operations |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smithrx/jobs/8784939002) |
 
 ## About This Role
 
-This marketing position at Wpromote was posted on 2026-09-04.
+This strategy & operations position at SmithRx was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

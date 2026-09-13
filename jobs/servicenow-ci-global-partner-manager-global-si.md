@@ -6,7 +6,7 @@
 | Location | Waltham, Massachusetts, United States |
 | Category | Sales |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000147579079-ci-global-partner-manager-global-si) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000147582059-ci-global-partner-manager-global-si) |
 
 ## About This Role
 

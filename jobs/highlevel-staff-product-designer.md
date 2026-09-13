@@ -1,16 +1,16 @@
-# Senior Director, Paid Social at Wpromote
+# Staff Product Designer at HighLevel
 
 | Field | Details |
 |-------|---------|
-| Company | [Wpromote](https://scoutify.ai/companies/wpromote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [HighLevel](https://scoutify.ai/companies/highlevel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.lever.co/wpromote/9206a90d-d44b-48b0-85dc-f2aec3304900) |
+| Category | Product Designer |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://jobs.lever.co/gohighlevel/b55a3b6d-e414-40b3-abb2-85dd61fd52e3) |
 
 ## About This Role
 
-This marketing position at Wpromote was posted on 2026-09-04.
+This product designer position at HighLevel was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

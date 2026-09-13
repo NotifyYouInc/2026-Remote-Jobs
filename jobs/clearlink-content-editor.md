@@ -1,16 +1,16 @@
-# Senior Director, Paid Social at Wpromote
+# Content Editor at Clearlink
 
 | Field | Details |
 |-------|---------|
-| Company | [Wpromote](https://scoutify.ai/companies/wpromote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Company | [Clearlink](https://scoutify.ai/companies/clearlinktechnologiesllc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Salt Lake City, Utah, United States |
 | Category | Marketing |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.lever.co/wpromote/9206a90d-d44b-48b0-85dc-f2aec3304900) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clearlinktechnologiesllc/jobs/4710506006) |
 
 ## About This Role
 
-This marketing position at Wpromote was posted on 2026-09-04.
+This marketing position at Clearlink was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

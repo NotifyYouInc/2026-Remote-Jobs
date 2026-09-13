@@ -1,16 +1,16 @@
-# Senior Director, Paid Social at Wpromote
+# Internal Controls Associate- MSI at Baldwin
 
 | Field | Details |
 |-------|---------|
-| Company | [Wpromote](https://scoutify.ai/companies/wpromote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Baldwin](https://scoutify.ai/companies/baldwin?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.lever.co/wpromote/9206a90d-d44b-48b0-85dc-f2aec3304900) |
+| Apply | [View on company site](https://baldwin.wd1.myworkdayjobs.com/msi/job/Remote-US/Internal-Controls-Associate--MSI_JR110174) |
 
 ## About This Role
 
-This marketing position at Wpromote was posted on 2026-09-04.
+This compliance & risk management position at Baldwin was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

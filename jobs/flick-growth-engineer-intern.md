@@ -1,16 +1,16 @@
-# Senior Director, Paid Social at Wpromote
+# Growth Engineer Intern at Flick
 
 | Field | Details |
 |-------|---------|
-| Company | [Wpromote](https://scoutify.ai/companies/wpromote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Flick](https://scoutify.ai/companies/yc-flick?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.lever.co/wpromote/9206a90d-d44b-48b0-85dc-f2aec3304900) |
+| Category | Software Engineer |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/flick/jobs/2fRbygf-growth-engineer-intern) |
 
 ## About This Role
 
-This marketing position at Wpromote was posted on 2026-09-04.
+This software engineer position at Flick was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

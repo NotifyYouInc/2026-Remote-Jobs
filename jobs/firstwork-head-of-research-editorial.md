@@ -1,16 +1,16 @@
-# Senior Director, Paid Social at Wpromote
+# Head of Research & Editorial at FirstWork
 
 | Field | Details |
 |-------|---------|
-| Company | [Wpromote](https://scoutify.ai/companies/wpromote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [FirstWork](https://scoutify.ai/companies/firstwork?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Marketing |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.lever.co/wpromote/9206a90d-d44b-48b0-85dc-f2aec3304900) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/firstwork/jobs/qN5pbyD-head-of-research-editorial) |
 
 ## About This Role
 
-This marketing position at Wpromote was posted on 2026-09-04.
+This marketing position at FirstWork was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

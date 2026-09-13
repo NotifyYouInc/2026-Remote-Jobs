@@ -1,16 +1,16 @@
-# Senior Director, Paid Social at Wpromote
+# Applied AI Evangelism Director at Intapp
 
 | Field | Details |
 |-------|---------|
-| Company | [Wpromote](https://scoutify.ai/companies/wpromote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Company | [Intapp](https://scoutify.ai/companies/intapp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | 2 locations |
 | Category | Marketing |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.lever.co/wpromote/9206a90d-d44b-48b0-85dc-f2aec3304900) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Palo-Alto-CA/Applied-AI-Evangelism-Director_R2025330-2) |
 
 ## About This Role
 
-This marketing position at Wpromote was posted on 2026-09-04.
+This marketing position at Intapp was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 
