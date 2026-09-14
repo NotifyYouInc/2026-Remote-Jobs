@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wpromote](https://scoutify.ai/companies/wpromote?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Marketing |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.lever.co/wpromote/9206a90d-d44b-48b0-85dc-f2aec3304900) |
 
 ## About This Role
 
-This marketing position at Wpromote was posted on 2026-09-04.
+This digital / performance marketing position at Wpromote was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

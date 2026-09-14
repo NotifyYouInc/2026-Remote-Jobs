@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scale Army](https://scoutify.ai/companies/scale-army?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Egypt |
-| Category | Motion / Video Production |
+| Category | Marketing |
 | Posted | 2026-09-05 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/2bf2f6f9-f9b9-435b-af0f-688350dcc767) |
 
 ## About This Role
 
-This motion / video production position at Scale Army was posted on 2026-09-05.
+This marketing position at Scale Army was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

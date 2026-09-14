@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Saint-Ouen, Île-de-France, France |
 | Category | Project Manager |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000147193969-directeur-de-projet-erpcrm-dynamics-hf) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000147948175-directeur-de-projet-erpcrm-dynamics-hf) |
 
 ## About This Role
 
-This project manager position at Inetum was posted on 2026-09-03.
+This project manager position at Inetum was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

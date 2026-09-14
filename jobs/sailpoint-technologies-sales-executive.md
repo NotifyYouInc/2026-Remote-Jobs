@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | France |
-| Category | Account Executive |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-France/Sales-Executive_R013109) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Sales |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Sydney-Australia/Sales-Executive_R013909-1) |
 
 ## About This Role
 
-This account executive position at SailPoint Technologies was posted on 2026-08-18.
+This sales position at SailPoint Technologies was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

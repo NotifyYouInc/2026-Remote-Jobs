@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Execution-Senior-Analyst--Payments_RQ108678) |
+| Category | Accounting |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Execution-Senior-Analyst--Payments_RQ115007-1) |
 
 ## About This Role
 
-This corporate finance position at BP was posted on 2026-04-06.
+This accounting position at BP was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

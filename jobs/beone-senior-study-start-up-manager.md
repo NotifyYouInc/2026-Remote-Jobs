@@ -5,12 +5,12 @@
 | Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Program Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Senior-Study-Start-Up-Manager_R36382-1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Senior-Study-Start-Up-Manager_R35489) |
 
 ## About This Role
 
-This program manager position at BeOne was posted on 2026-08-14.
+This program manager position at BeOne was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

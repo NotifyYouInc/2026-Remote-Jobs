@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Dijon, Bourgogne, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000141859054-technicien-electrotechnique-hf) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000147949519-technicien-electrotechnique-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Assystem was posted on 2026-08-06.
+This electrical / hardware engineer position at Assystem was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

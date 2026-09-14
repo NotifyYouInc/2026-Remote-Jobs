@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000136174789-amazon-connect-support-engineer) |
+| Location | Cambridge, Ontario, Canada |
+| Category | Customer Success |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000147841571-amazon-connect-support-engineer) |
 
 ## About This Role
 
-This technical support engineer position at Lions Candle-Dispatch Solution was posted on 2026-07-07.
+This customer success position at Lions Candle-Dispatch Solution was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

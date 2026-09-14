@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kingston upon Hull, England, United Kingdom |
-| Category | Industrial Automation |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000145931259-port-service-engineer) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000147880025-port-service-engineer) |
 
 ## About This Role
 
-This industrial automation position at Konecranes was posted on 2026-08-27.
+This electrical / hardware engineer position at Konecranes was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

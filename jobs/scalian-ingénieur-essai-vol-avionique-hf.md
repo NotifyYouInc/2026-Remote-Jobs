@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Istres, Provence-Alpes-Côte d'Azur, France |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000140626130-ingenieur-essai-vol-avionique-hf) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000147888599-ingenieur-essai-vol-avionique-hf) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Scalian was posted on 2026-07-30.
+This electrical / hardware engineer position at Scalian was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

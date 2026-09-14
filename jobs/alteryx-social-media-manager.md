@@ -5,12 +5,12 @@
 | Company | [Alteryx](https://scoutify.ai/companies/alteryx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Florida, US |
 | Category | Marketing |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/North-Carolina-USA---Remote/Social-Media-Manager_R12365) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/North-Carolina-USA---Remote/Social-Media-Manager_R12366) |
 
 ## About This Role
 
-This marketing position at Alteryx was posted on 2026-08-08.
+This marketing position at Alteryx was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

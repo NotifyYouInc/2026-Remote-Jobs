@@ -5,12 +5,12 @@
 | Company | [Brandtech+](https://scoutify.ai/companies/brandtech?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Project Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brandtechplus/jobs/8050712) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brandtechplus/jobs/8050710) |
 
 ## About This Role
 
-This project manager position at Brandtech+ was posted on 2026-07-28.
+This project manager position at Brandtech+ was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

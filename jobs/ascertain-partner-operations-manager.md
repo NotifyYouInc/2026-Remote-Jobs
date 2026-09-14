@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ascertain](https://scoutify.ai/companies/ascertain?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/ascertain/27f83deb-fc72-4088-b3ad-8d0d232a585f) |
 
 ## About This Role
 
-This strategy & operations position at Ascertain was posted on 2026-09-04.
+This operations position at Ascertain was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Adelaide, South Australia, Australia |
+| Location | Brisbane, Queensland, Australia |
 | Category | Engineering Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001308156-production-engineering-manager) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001378726-production-engineering-manager) |
 
 ## About This Role
 
-This engineering manager position at Canva was posted on 2026-08-12.
+This engineering manager position at Canva was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

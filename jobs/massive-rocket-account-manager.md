@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Massive Rocket](https://scoutify.ai/companies/massive-rocket?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Account Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.lever.co/massive-rocket/599fb36c-3d33-4486-87c3-e023ff4864bf) |
+| Location | United Kingdom |
+| Category | Sales |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.lever.co/massive-rocket/402d5289-6072-4ccf-a51f-4c95d828c351) |
 
 ## About This Role
 
-This account manager position at Massive Rocket was posted on 2026-03-17.
+This sales position at Massive Rocket was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

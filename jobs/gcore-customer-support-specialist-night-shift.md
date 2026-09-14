@@ -1,16 +1,16 @@
-# Customer Support Specialist - Night Shift at Gcore
+# Customer Support Specialist (Night Shift) at Gcore
 
 | Field | Details |
 |-------|---------|
 | Company | [Gcore](https://scoutify.ai/companies/gcore?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Poland |
 | Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000109225533-customer-support-specialist-night-shift) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000147876674-customer-support-specialist-night-shift) |
 
 ## About This Role
 
-This customer success position at Gcore was posted on 2026-02-13.
+This customer success position at Gcore was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

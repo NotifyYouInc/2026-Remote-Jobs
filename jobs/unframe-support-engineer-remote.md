@@ -5,12 +5,12 @@
 | Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
 | Category | Customer Success |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4904353101) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4969673101) |
 
 ## About This Role
 
-This customer success position at Unframe was posted on 2026-06-21.
+This customer success position at Unframe was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

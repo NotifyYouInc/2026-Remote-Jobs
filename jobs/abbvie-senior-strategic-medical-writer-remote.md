@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Technical Writer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014776766-senior-strategic-medical-writer-remote) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015095036-senior-strategic-medical-writer-remote) |
 
 ## About This Role
 
-This technical writer position at AbbVie was posted on 2026-08-21.
+This technical writer position at AbbVie was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

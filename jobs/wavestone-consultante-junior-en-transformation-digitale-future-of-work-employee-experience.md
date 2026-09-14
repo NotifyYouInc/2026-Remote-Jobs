@@ -5,12 +5,12 @@
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000146452889-consultante-junior-en-transformation-digitale-future-of-work-employee-experience-next-gen-support-comment-redefinir-lexperience-collaborateur-et-le-support-utilisateur-de-demain-stage-de-fin-detudes) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000147928859-consultante-junior-en-transformation-digitale-future-of-work-employee-experience-next-gen-support-comment-redefinir-lexperience-collaborateur-et-le-support-utilisateur-de-demain-stage-de-fin-detudes) |
 
 ## About This Role
 
-This human resources / people ops position at Wavestone was posted on 2026-08-31.
+This human resources / people ops position at Wavestone was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

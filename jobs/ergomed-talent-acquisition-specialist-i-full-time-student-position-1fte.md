@@ -5,12 +5,12 @@
 | Company | [ERGOMED](https://scoutify.ai/companies/ergomed?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Zagreb, Zagreb, Croatia |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ergomed/744000147230585-talent-acquisition-specialist-i-full-time-student-position-1fte) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ergomed/744000147900240-talent-acquisition-specialist-i-full-time-student-position-1fte) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at ERGOMED was posted on 2026-09-03.
+This talent acquisition / recruiting position at ERGOMED was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

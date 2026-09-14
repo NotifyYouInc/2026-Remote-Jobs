@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deloitte France](https://scoutify.ai/companies/deloitte-france?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | France |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-06-22 |
+| Location | Paris, Île-de-France, France |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-09-07 |
 | Apply | [View on company site](https://fina.wd103.myworkdayjobs.com/deloitterecrute/job/Paris-La-Dfense/Consultant-Expriment---Capital-Projects--F-H-_R-8292) |
 
 ## About This Role
 
-This financial advisory & consulting position at Deloitte France was posted on 2026-06-22.
+This strategy / management consulting position at Deloitte France was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

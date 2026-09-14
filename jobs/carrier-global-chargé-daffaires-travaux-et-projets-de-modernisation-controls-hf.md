@@ -5,12 +5,12 @@
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Massy, Île-de-France, France |
 | Category | Project Manager |
-| Posted | 2026-02-26 |
+| Posted | 2026-09-07 |
 | Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/1416-Avenue-Carnot-91300-Massy-France/Charg-d-affaires-travaux-et-projets-de-modernisation-Controls-H-F_30200747-1) |
 
 ## About This Role
 
-This project manager position at Carrier Global was posted on 2026-02-26.
+This project manager position at Carrier Global was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

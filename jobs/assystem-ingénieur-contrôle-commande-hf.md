@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Dijon, Bourgogne, France |
 | Category | Industrial Automation |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000141859549-ingenieur-controle-commande-hf) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000147945609-ingenieur-controle-commande-hf) |
 
 ## About This Role
 
-This industrial automation position at Assystem was posted on 2026-08-06.
+This industrial automation position at Assystem was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

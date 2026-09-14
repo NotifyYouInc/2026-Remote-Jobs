@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Newark, New Jersey, United States |
-| Category | Engineering Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000109818086-senior-business-development-manager) |
+| Location | United Kingdom |
+| Category | Sales |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000147878649-senior-business-development-manager) |
 
 ## About This Role
 
-This engineering manager position at Eurofins Scientific was posted on 2026-02-17.
+This sales position at Eurofins Scientific was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000146452010-consultante-junior-en-transformation-digitale-future-of-work-decryptage-des-innovations-du-digital-workplace-et-decouverte-des-tendances-emergentes-stage-de-fin-detudes) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000147928899-consultante-junior-en-transformation-digitale-future-of-work-decryptage-des-innovations-du-digital-workplace-et-decouverte-des-tendances-emergentes-stage-de-fin-detudes) |
 
 ## About This Role
 
-This strategy / management consulting position at Wavestone was posted on 2026-08-31.
+This technology / it consulting position at Wavestone was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

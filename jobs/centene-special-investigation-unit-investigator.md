@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, US |
+| Location | Connecticut, US |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/Special-Investigation-Unit-Investigator_1634299-1) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-NY/Special-Investigation-Unit-Investigator_1656588) |
 
 ## About This Role
 
-This compliance & risk management position at Centene was posted on 2026-04-24.
+This compliance & risk management position at Centene was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

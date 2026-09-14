@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000145300520-ingenieur-systemes-de-surete-hf) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000147930722-ingenieur-systemes-de-surete-hf) |
 
 ## About This Role
 
-This cybersecurity engineer position at Assystem was posted on 2026-08-24.
+This cybersecurity engineer position at Assystem was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

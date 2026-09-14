@@ -5,12 +5,12 @@
 | Company | [Stannah](https://scoutify.ai/companies/stannah?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United Kingdom |
 | Category | Project Manager |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000147208869-lift-project-manager) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000147880929-lift-project-manager) |
 
 ## About This Role
 
-This project manager position at Stannah was posted on 2026-09-03.
+This project manager position at Stannah was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

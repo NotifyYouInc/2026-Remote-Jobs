@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Power Digital](https://scoutify.ai/companies/power-digital?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Argentina |
-| Category | Marketing |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5005205007) |
 
 ## About This Role
 
-This marketing position at Power Digital was posted on 2026-09-04.
+This digital / performance marketing position at Power Digital was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

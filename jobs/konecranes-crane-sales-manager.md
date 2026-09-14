@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bristol, England, United Kingdom |
+| Location | Aylesford, England, United Kingdom |
 | Category | Sales |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000145672351-crane-sales-manager) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000147876684-crane-sales-manager) |
 
 ## About This Role
 
-This sales position at Konecranes was posted on 2026-08-26.
+This sales position at Konecranes was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

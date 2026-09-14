@@ -5,12 +5,12 @@
 | Company | [Pilmico](https://scoutify.ai/companies/pilmico?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Iligan, Northern Mindanao, Philippines |
 | Category | Industrial Automation |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilmicoFoodsCorporation/744000146881309-control-room-operator-pooling) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilmicoFoodsCorporation/744000147836699-control-room-operator-pooling) |
 
 ## About This Role
 
-This industrial automation position at Pilmico was posted on 2026-09-02.
+This industrial automation position at Pilmico was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

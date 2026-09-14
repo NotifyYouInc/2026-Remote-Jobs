@@ -5,12 +5,12 @@
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Customer Success |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000132566559-technical-support-representative-tier-1-mexico-remote) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000147835709-technical-support-representative-tier-1-mexico-remote) |
 
 ## About This Role
 
-This customer success position at Turnitin was posted on 2026-06-17.
+This customer success position at Turnitin was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

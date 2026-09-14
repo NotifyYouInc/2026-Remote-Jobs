@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fieldguide](https://scoutify.ai/companies/fieldguide?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/fieldguide/3a542796-08e5-4f4c-9f3c-bbd1bef2ecff) |
 
 ## About This Role
 
-This strategy & operations position at Fieldguide was posted on 2026-09-04.
+This operations position at Fieldguide was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

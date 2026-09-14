@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York, US |
-| Category | Business Development |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000108571283-business-development-manager) |
+| Location | United Kingdom |
+| Category | Sales |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000147929189-business-development-manager) |
 
 ## About This Role
 
-This business development position at Eurofins Scientific was posted on 2026-02-10.
+This sales position at Eurofins Scientific was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

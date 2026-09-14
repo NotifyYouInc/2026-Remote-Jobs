@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | France |
-| Category | Account Executive |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000116067897-charge-de-clientele-fh-fontenay-le-comte-85) |
+| Location | Fontenay-le-Comte, Pays de la Loire, France |
+| Category | Sales |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000147868587-charge-de-clientele-fh-fontenay-le-comte-85) |
 
 ## About This Role
 
-This account executive position at REXEL was posted on 2026-03-22.
+This sales position at REXEL was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
