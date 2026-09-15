@@ -5,12 +5,12 @@
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Costa Rica |
 | Category | Data Scientist |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Lagunilla-de-Heredia/Analyst--Data-Science-and-Analytics_19041604) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Lagunilla-de-Heredia/Analyst--Data-Science-and-Analytics_19042164) |
 
 ## About This Role
 
-This data scientist position at TransUnion was posted on 2026-08-07.
+This data scientist position at TransUnion was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

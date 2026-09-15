@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTB House](https://scoutify.ai/companies/rtbhouse?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Poland |
-| Category | Digital / Performance Marketing |
+| Category | Marketing |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/rtbhouse/jobs/4967053101) |
 
 ## About This Role
 
-This digital / performance marketing position at RTB House was posted on 2026-09-07.
+This marketing position at RTB House was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

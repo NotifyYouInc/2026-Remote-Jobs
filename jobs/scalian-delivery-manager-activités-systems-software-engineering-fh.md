@@ -1,16 +1,16 @@
-# Delivery Manager - Activités Systems & Software engineering F/H at Scalian
+# Delivery Manager - Activités Systems & Software Engineering F/H at Scalian
 
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Neuilly-sur-Seine, Île-de-France, France |
-| Category | Program Manager |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000147439800-delivery-manager-activites-systems-software-engineering-fh) |
+| Category | Project Manager |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000148215032-delivery-manager-activites-systems-software-engineering-fh) |
 
 ## About This Role
 
-This program manager position at Scalian was posted on 2026-09-04.
+This project manager position at Scalian was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

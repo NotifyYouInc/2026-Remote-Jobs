@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Belgium |
 | Category | Project Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Atlanta/Senior-Project-Manager_R5040426) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Senior-Project-Manager_R5049220-3) |
 
 ## About This Role
 
-This project manager position at GE Vernova was posted on 2026-04-29.
+This project manager position at GE Vernova was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

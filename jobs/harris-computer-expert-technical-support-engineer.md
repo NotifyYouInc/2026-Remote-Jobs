@@ -5,12 +5,12 @@
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Expert-Technical-Support-Engineer_R0045510-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Expert-Technical-Support-Engineer_R0045509-1) |
 
 ## About This Role
 
-This customer success position at Harris Computer was posted on 2026-08-05.
+This customer success position at Harris Computer was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

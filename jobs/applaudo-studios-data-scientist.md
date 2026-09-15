@@ -5,12 +5,12 @@
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Data Scientist |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000142228098-data-scientist) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000147976209-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Applaudo Studios was posted on 2026-08-08.
+This data scientist position at Applaudo Studios was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ideals](https://scoutify.ai/companies/ideals?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United Kingdom |
-| Category | Marketing |
+| Category | Brand Marketing |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/ideals/f649490a-9766-4aa5-a1cc-bf974adb1916) |
 
 ## About This Role
 
-This marketing position at Ideals was posted on 2026-09-07.
+This brand marketing position at Ideals was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

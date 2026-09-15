@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Poland |
-| Category | Sales |
+| Category | Sales Leadership |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Poland---Remote/Total-Trade-Solutions-Team-Leader_REQ-1000051513) |
 
 ## About This Role
 
-This sales position at Stanley Black & Decker was posted on 2026-09-07.
+This sales leadership position at Stanley Black & Decker was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

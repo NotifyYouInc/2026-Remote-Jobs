@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Strategy & Operations |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484129/central-operations-support-executive-in-external-fulfillment) |
+| Location | Karnataka, IN |
+| Category | Operations |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10531383/central-operations-support-executive-in-external-fulfillment) |
 
 ## About This Role
 
-This strategy & operations position at Amazon was posted on 2026-07-26.
+This operations position at Amazon was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

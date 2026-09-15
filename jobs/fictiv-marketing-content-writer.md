@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Content Marketing |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8651105002) |
+| Category | Marketing |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8785593002) |
 
 ## About This Role
 
-This content marketing position at Fictiv was posted on 2026-07-27.
+This marketing position at Fictiv was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

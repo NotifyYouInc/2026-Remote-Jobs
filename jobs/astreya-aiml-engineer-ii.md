@@ -5,12 +5,12 @@
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/AI-ML-Engineer-II_R0016787) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/AI-ML-Engineer-II_R0017033) |
 
 ## About This Role
 
-This machine learning engineer position at Astreya was posted on 2026-08-21.
+This machine learning engineer position at Astreya was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

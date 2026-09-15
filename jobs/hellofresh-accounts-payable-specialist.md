@@ -1,16 +1,16 @@
-# Accounts Payable Specialist  at HelloFresh
+#  Accounts Payable Specialist at HelloFresh
 
 | Field | Details |
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Accounting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8161377?gh_jid=8161377) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8185165?gh_jid=8185165) |
 
 ## About This Role
 
-This accounting position at HelloFresh was posted on 2026-08-27.
+This accounting position at HelloFresh was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

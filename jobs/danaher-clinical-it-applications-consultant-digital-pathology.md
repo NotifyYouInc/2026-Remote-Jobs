@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Saudi Arabia |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/SAU---Remote/Clinical---IT-Applications-Consultant---Digital-Pathology_R1309783) |
+| Category | Sales Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/SAU---Remote/Clinical---IT-Applications-Consultant---Digital-Pathology_R1318663) |
 
 ## About This Role
 
-This technology / it consulting position at Danaher was posted on 2026-05-14.
+This sales engineer position at Danaher was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

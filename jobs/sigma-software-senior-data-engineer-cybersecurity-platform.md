@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000146913829-senior-data-engineer-cybersecurity-platform) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000148152684-senior-data-engineer-cybersecurity-platform) |
 
 ## About This Role
 
-This data engineer position at Sigma Software was posted on 2026-09-02.
+This data engineer position at Sigma Software was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

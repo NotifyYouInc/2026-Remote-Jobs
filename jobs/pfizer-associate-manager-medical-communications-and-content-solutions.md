@@ -5,12 +5,12 @@
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
 | Category | Content Marketing |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Remote/Associate-Manager--Medical-Communications-and-Content-Solutions_4960411) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Remote/Associate-Manager--Medical-Communications-and-Content-Solutions_4962925) |
 
 ## About This Role
 
-This content marketing position at Pfizer was posted on 2026-07-16.
+This content marketing position at Pfizer was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Altera Digital Health](https://scoutify.ai/companies/alteradigitalhealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Remote-Pune-Baroda-India/Expert-Technical-Support-Engineer_R0045510) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Remote-Pune-Baroda-India/Expert-Technical-Support-Engineer_R0045509) |
 
 ## About This Role
 
-This customer success position at Altera Digital Health was posted on 2026-08-04.
+This customer success position at Altera Digital Health was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

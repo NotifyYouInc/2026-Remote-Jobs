@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DoiT](https://scoutify.ai/companies/doit?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/doitintl/jobs/7987957003) |
 
 ## About This Role
 
-This software engineer position at DoiT was posted on 2026-09-07.
+This data engineer position at DoiT was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

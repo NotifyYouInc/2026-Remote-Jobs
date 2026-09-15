@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Diego, California, United States |
-| Category | Sales |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000142979559-ion-clinical-sales-manager) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | Sales Leadership |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000148150789-ion-clinical-sales-manager) |
 
 ## About This Role
 
-This sales position at Intuitive Surgical was posted on 2026-08-11.
+This sales leadership position at Intuitive Surgical was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

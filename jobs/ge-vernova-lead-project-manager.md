@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Project Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Atlanta/Lead-Project-Manager_R5034334-1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Lead-Project-Manager_R5051954-2) |
 
 ## About This Role
 
-This project manager position at GE Vernova was posted on 2026-03-09.
+This project manager position at GE Vernova was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

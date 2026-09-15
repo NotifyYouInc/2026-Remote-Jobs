@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Poland |
-| Category | Digital / Performance Marketing |
+| Category | Marketing |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Poland---Remote/Dewalt-Webmaster_REQ-1000051515) |
 
 ## About This Role
 
-This digital / performance marketing position at Stanley Black & Decker was posted on 2026-09-07.
+This marketing position at Stanley Black & Decker was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

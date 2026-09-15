@@ -5,12 +5,12 @@
 | Company | [Assist World](https://scoutify.ai/companies/assist-world?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Growth Marketing |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.lever.co/assist-world/a0d20efa-b22e-4fcc-8775-225d186fe1e9) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.lever.co/assist-world/ca089102-2e08-44c8-987e-b6ef8509858a) |
 
 ## About This Role
 
-This growth marketing position at Assist World was posted on 2026-09-04.
+This growth marketing position at Assist World was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

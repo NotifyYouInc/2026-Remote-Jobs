@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 5 locations |
+| Location | United Kingdom |
 | Category | Legal |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Spain-Barcelona/Site-Contract-and-Budget-Specialist-4_JR152832) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Regional-Great-Britain-Northern-Ireland/Site-Contract-and-Budget-Specialist-4_JR159465) |
 
 ## About This Role
 
-This legal position at ICON plc was posted on 2026-06-15.
+This legal position at ICON plc was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

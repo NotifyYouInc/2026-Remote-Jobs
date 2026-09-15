@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7608396) |
+| Location | United States |
+| Category | Compliance & Risk Management |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8175832) |
 
 ## About This Role
 
-This operations position at Stripe was posted on 2026-02-13.
+This compliance & risk management position at Stripe was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

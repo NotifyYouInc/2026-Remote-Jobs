@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Corpay](https://scoutify.ai/companies/corpay?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Business Development |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/Melbourne---Cross-Border/Business-Development-Associate_R08676) |
+| Location | Singapore, Singapore |
+| Category | Sales |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/Singapore---Cross-Border/Business-Development-Associate_R09266) |
 
 ## About This Role
 
-This business development position at Corpay was posted on 2026-08-18.
+This sales position at Corpay was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

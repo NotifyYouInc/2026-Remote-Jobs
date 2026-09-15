@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kuala-Lumpur-Malaysia/Finance-Analyst_REQ501761) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Finance-Analyst_REQ532868) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-04-27.
+This corporate finance position at JLL was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

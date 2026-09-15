@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Poland |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3079) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3669) |
 
 ## About This Role
 
-This technical & solutions architect position at Akamai was posted on 2026-06-16.
+This cybersecurity engineer position at Akamai was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

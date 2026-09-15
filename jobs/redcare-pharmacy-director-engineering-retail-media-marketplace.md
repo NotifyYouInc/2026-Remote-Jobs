@@ -6,7 +6,7 @@
 | Location | Berlin, State of Berlin, Germany |
 | Category | Engineering Manager |
 | Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000147891469-director-engineering-retail-media-marketplace) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000147944579-director-engineering-retail-media-marketplace) |
 
 ## About This Role
 

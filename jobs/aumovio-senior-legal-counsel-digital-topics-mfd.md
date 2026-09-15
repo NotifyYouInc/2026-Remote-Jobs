@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Frankfurt am Main, Hesse, Germany |
 | Category | Legal |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000147419515-senior-legal-counsel-digital-topics-mfd) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000148210988-senior-legal-counsel-digital-topics-mfd) |
 
 ## About This Role
 
-This legal position at Aumovio was posted on 2026-09-04.
+This legal position at Aumovio was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

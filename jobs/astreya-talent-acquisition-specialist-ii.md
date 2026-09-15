@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Colombia |
+| Location | India |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Colombia/Talent-Acquisition-Specialist-II_R0016442) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/Talent-Acquisition-Specialist-II_R0017262) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Astreya was posted on 2026-07-29.
+This talent acquisition / recruiting position at Astreya was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

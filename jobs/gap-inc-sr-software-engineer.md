@@ -1,16 +1,16 @@
-# Sr Software Engineer at Gap Inc.
+# Sr. Software Engineer at Gap Inc.
 
 | Field | Details |
 |-------|---------|
 | Company | [Gap Inc.](https://scoutify.ai/companies/gap-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | San Francisco, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://gapinc.wd1.myworkdayjobs.com/gapinc/job/Spoke---Hyderabad/Sr-Software-Engineer_R211949-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://gapinc.wd1.myworkdayjobs.com/gapinc/job/SF-1596-Howard-Street/Sr-Software-Engineer_R217962) |
 
 ## About This Role
 
-This software engineer position at Gap Inc. was posted on 2026-05-26.
+This software engineer position at Gap Inc. was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Germany |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000140168419-sap-successfactors-solution-architect-mfd) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000148202196-sap-successfactors-solution-architect-mfd) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-07-28.
+This human resources / people ops position at Nagarro was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

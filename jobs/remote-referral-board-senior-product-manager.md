@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Remote - Referral Board](https://scoutify.ai/companies/remote---referral-board?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Canada |
+| Company | [Remote - Referral Board](https://scoutify.ai/companies/remote-22738?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7331446003) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7988097003) |
 
 ## About This Role
 
-This product manager position at Remote - Referral Board was posted on 2026-04-03.
+This product manager position at Remote - Referral Board was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

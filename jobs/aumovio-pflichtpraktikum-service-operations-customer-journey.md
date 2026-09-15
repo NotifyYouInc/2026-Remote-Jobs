@@ -1,16 +1,16 @@
-# Pflichtpraktikum - Service Operations & Customer Journey -  at Aumovio
+# Pflichtpraktikum - Service Operations & Customer Journey at Aumovio
 
 | Field | Details |
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Villingen-Schwenningen, Baden-Wurttemberg, Germany |
 | Category | Customer Success |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000144522639-pflichtpraktikum-service-operations-customer-journey) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000148215159-pflichtpraktikum-service-operations-customer-journey) |
 
 ## About This Role
 
-This customer success position at Aumovio was posted on 2026-08-20.
+This customer success position at Aumovio was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

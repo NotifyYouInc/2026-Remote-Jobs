@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [New Relic](https://scoutify.ai/companies/new-relic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5375884008) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5417525008) |
 
 ## About This Role
 
-This sales position at New Relic was posted on 2026-08-04.
+This sales position at New Relic was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

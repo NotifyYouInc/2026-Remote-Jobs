@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Australia |
-| Category | Sales |
+| Category | Sales Leadership |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Australia---Remote/ANZ-Senior-Sales-Manager_26WD100520-1) |
 
 ## About This Role
 
-This sales position at Autodesk was posted on 2026-09-07.
+This sales leadership position at Autodesk was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

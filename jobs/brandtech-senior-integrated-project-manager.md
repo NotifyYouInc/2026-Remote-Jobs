@@ -1,16 +1,16 @@
-# Senior Integrated Project Manager at Brandtech+
+# Senior Integrated Project Manager  at Brandtech+
 
 | Field | Details |
 |-------|---------|
 | Company | [Brandtech+](https://scoutify.ai/companies/brandtech?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Project Manager |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brandtechplus/jobs/8127903) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brandtechplus/jobs/8185111) |
 
 ## About This Role
 
-This project manager position at Brandtech+ was posted on 2026-08-31.
+This project manager position at Brandtech+ was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

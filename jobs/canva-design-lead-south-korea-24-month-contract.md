@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Marketing |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001308527-design-lead-south-korea-24-month-contract) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001386222-design-lead-south-korea-24-month-contract) |
 
 ## About This Role
 
-This marketing position at Canva was posted on 2026-08-12.
+This marketing position at Canva was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 
