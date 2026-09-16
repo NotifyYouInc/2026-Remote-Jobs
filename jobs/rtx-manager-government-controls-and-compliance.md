@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Iowa, US |
 | Category | Compliance & Risk Management |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-REMOTE/Manager--Government-Controls-and-Compliance_01846149) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-REMOTE/Manager--Government-Controls-and-Compliance_01872239-1) |
 
 ## About This Role
 
-This compliance & risk management position at RTX was posted on 2026-05-21.
+This compliance & risk management position at RTX was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

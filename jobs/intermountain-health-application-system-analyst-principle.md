@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Salt Lake City, Utah, United States |
-| Category | Customer Success |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Key-Bank-Tower/Application-System-Analyst---Principle_R172417) |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Key-Bank-Tower/Application-System-Analyst---Principle_R181370) |
 
 ## About This Role
 
-This customer success position at Intermountain Health was posted on 2026-05-29.
+This it & systems administration position at Intermountain Health was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

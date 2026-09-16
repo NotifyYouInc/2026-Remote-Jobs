@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tours, Centre-Val de Loire, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000146451940-ingenieur-installation-instrumentation-hf) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000148425389-ingenieur-installation-instrumentation-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Assystem was posted on 2026-08-31.
+This electrical / hardware engineer position at Assystem was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

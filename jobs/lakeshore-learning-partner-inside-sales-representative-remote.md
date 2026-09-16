@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lakeshore Learning](https://scoutify.ai/companies/lakeshorelearning?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Business Development |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000122128277-partner-inside-sales-representative-remote) |
+| Location | California, US |
+| Category | Channel / Partner Sales |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000148364979-partner-inside-sales-representative-remote) |
 
 ## About This Role
 
-This business development position at Lakeshore Learning was posted on 2026-04-21.
+This channel / partner sales position at Lakeshore Learning was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

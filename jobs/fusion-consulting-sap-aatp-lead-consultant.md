@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fusion Consulting](https://scoutify.ai/companies/fusionconsulting?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Technology / IT Consulting |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000148158733-sap-aatp-lead-consultant) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FusionConsulting/744000148422724-sap-aatp-lead-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Fusion Consulting was posted on 2026-09-08.
+This technology / it consulting position at Fusion Consulting was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

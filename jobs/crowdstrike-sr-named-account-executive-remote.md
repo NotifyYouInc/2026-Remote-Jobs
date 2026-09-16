@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Texas, US |
-| Category | Sales |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Sr-Named-Account-Executive--Remote-_R29919) |
+| Category | Account Executive |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Sr-Named-Account-Executive--Remote-_R29918) |
 
 ## About This Role
 
-This sales position at CrowdStrike was posted on 2026-08-31.
+This account executive position at CrowdStrike was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

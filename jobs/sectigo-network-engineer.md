@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sectigo](https://scoutify.ai/companies/sectigo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Manchester, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990014287646-network-engineer) |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990015130106-network-engineer) |
 
 ## About This Role
 
-This security engineer position at Sectigo was posted on 2026-07-27.
+This it & systems administration position at Sectigo was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

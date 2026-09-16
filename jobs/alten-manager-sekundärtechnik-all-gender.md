@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Nürnberg, Bavaria, Germany |
 | Category | Project Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139925480-manager-sekundartechnik-all-gender) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000148477279-manager-sekundartechnik-all-gender) |
 
 ## About This Role
 
-This project manager position at ALTEN was posted on 2026-07-27.
+This project manager position at ALTEN was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

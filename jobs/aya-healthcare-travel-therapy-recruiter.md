@@ -5,12 +5,12 @@
 | Company | [Aya Healthcare](https://scoutify.ai/companies/aya-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/8073251?gh_jid=8073251) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/8187311?gh_jid=8187311) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Aya Healthcare was posted on 2026-07-17.
+This talent acquisition / recruiting position at Aya Healthcare was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

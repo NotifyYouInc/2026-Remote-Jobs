@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Reading, England, United Kingdom |
+| Location | 3 locations |
 | Category | Project Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Reading/Senior-Project-Manager_JR154364-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Reading/Senior-Project-Manager_JR158617-1) |
 
 ## About This Role
 
-This project manager position at ICON plc was posted on 2026-07-09.
+This project manager position at ICON plc was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

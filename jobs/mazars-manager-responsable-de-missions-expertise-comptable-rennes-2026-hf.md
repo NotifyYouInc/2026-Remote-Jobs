@@ -5,12 +5,12 @@
 | Company | [MAZARS](https://scoutify.ai/companies/mazars?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | Accounting |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mazars/744000147208900-manager-responsable-de-missions-expertise-comptable-rennes-2026-hf) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mazars/744000148458789-manager-responsable-de-missions-expertise-comptable-rennes-2026-hf) |
 
 ## About This Role
 
-This accounting position at MAZARS was posted on 2026-09-03.
+This accounting position at MAZARS was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

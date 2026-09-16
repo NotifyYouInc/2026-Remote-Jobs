@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Philippines |
+| Location | China |
 | Category | Bioinformatics / Computational Biology |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Philippines/Programmer-Analyst-II_R-01364829-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/Programmer-Analyst-II_R-01366119) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Thermo Fisher Scientific was posted on 2026-09-08.
+This bioinformatics / computational biology position at Thermo Fisher Scientific was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

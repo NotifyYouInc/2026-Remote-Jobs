@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cerfrance Brocéliande](https://scoutify.ai/companies/cerfrancebrocliande?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Caudan, Brittany, France |
-| Category | Sales |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CerfranceBroceliande/744000147968569-commerciale-responsable-clientele-fh) |
+| Category | Account Manager |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CerfranceBroceliande/744000148429595-commerciale-responsable-clientele-fh) |
 
 ## About This Role
 
-This sales position at Cerfrance Brocéliande was posted on 2026-09-07.
+This account manager position at Cerfrance Brocéliande was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Program Manager |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000147486729-senior-technical-program-manager) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000148423549-senior-technical-program-manager) |
 
 ## About This Role
 
-This program manager position at INPOST was posted on 2026-09-04.
+This program manager position at INPOST was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

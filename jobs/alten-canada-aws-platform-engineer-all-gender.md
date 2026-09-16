@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Wolfsburg, Lower Saxony, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000147199399-aws-platform-engineer-all-gender) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148461195-aws-platform-engineer-all-gender) |
 
 ## About This Role
 
-This devops engineer position at ALTEN Canada was posted on 2026-09-03.
+This devops engineer position at ALTEN Canada was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

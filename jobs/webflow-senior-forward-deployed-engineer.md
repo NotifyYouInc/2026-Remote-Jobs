@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Webflow](https://scoutify.ai/companies/webflow?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Frontend Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/webflow/jobs/7728896) |
+| Location | San Francisco, California, United States |
+| Category | Forward Deployed Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/webflow/jobs/8186854) |
 
 ## About This Role
 
-This frontend engineer position at Webflow was posted on 2026-03-17.
+This forward deployed engineer position at Webflow was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

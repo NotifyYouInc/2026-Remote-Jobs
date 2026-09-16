@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Tours, Centre-Val de Loire, France |
 | Category | Project Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000139021109-ingenieur-projet-pilotage-daffaires-experimente-hf) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000148457279-ingenieur-projet-pilotage-daffaires-experimente-hf) |
 
 ## About This Role
 
-This project manager position at Assystem was posted on 2026-07-22.
+This project manager position at Assystem was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

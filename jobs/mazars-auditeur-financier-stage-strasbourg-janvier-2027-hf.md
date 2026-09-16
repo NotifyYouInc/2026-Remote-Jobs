@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MAZARS](https://scoutify.ai/companies/mazars?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Strasbourg, Grand Est, France |
-| Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mazars/744000128403929-auditeur-financier-stage-strasbourg-janvier-2027-hf) |
+| Category | Financial Advisory & Consulting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mazars/744000148427629-auditeur-financier-stage-strasbourg-janvier-2027-hf) |
 
 ## About This Role
 
-This corporate finance position at MAZARS was posted on 2026-05-26.
+This financial advisory & consulting position at MAZARS was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

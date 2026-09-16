@@ -5,12 +5,12 @@
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5179256008) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5415091008) |
 
 ## About This Role
 
-This digital / performance marketing position at WPP Media was posted on 2026-04-07.
+This digital / performance marketing position at WPP Media was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

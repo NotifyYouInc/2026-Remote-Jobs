@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10486985/senior-product-manager-tech-selection-monitoring) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10533710/senior-product-manager-tech-selection-monitoring) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-07-29.
+This product manager position at Amazon was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

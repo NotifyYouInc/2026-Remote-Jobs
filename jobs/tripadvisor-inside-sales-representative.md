@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TripAdvisor](https://scoutify.ai/companies/tripadvisor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Account Executive |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tripadvisor/jobs/8078821) |
+| Location | Barcelona, Catalonia, Spain |
+| Category | Business Development |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tripadvisor/jobs/8187976) |
 
 ## About This Role
 
-This account executive position at TripAdvisor was posted on 2026-07-22.
+This business development position at TripAdvisor was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

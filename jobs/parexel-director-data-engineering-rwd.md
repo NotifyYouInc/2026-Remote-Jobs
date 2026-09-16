@@ -1,16 +1,16 @@
-# Director, Data Engineering [RWD] at Parexel
+# Director, Data Engineering (RWD) at Parexel
 
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/United-Kingdom-Sheffield-Remote/Director--Data-Engineering--RWD-_R0000044218) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Director--Data-Engineering--RWD-_R0000045727) |
 
 ## About This Role
 
-This data engineer position at Parexel was posted on 2026-08-26.
+This data engineer position at Parexel was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

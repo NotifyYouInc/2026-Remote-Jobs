@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lonza Group](https://scoutify.ai/companies/lonza-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Program Manager |
-| Posted | 2026-06-29 |
+| Category | Project Manager |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/IN---Hyderabad/AI-Delivery-Lead_R76776-1) |
 
 ## About This Role
 
-This program manager position at Lonza Group was posted on 2026-06-29.
+This project manager position at Lonza Group was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

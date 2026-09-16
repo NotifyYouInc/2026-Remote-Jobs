@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Nürnberg, Bavaria, Germany |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000139935999-ingenieur-substation-automation-system-all-gender) |
+| Category | Industrial Automation |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148471432-ingenieur-substation-automation-system-all-gender) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN Canada was posted on 2026-07-27.
+This industrial automation position at ALTEN Canada was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

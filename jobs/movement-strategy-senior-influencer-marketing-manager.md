@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Movement Strategy](https://scoutify.ai/companies/movement-strategy?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 3 locations |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/movementstrategy/jobs/5842644004) |
+| Location | New York, US |
+| Category | Marketing |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/movementstrategy/jobs/6186141004) |
 
 ## About This Role
 
-This digital / performance marketing position at Movement Strategy was posted on 2026-04-07.
+This marketing position at Movement Strategy was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

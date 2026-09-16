@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trustonic](https://scoutify.ai/companies/trustonic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
-| Category | Project Manager |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000145916839-senior-solution-delivery-manager) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Customer Success |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000148483959-senior-solution-delivery-manager) |
 
 ## About This Role
 
-This project manager position at Trustonic was posted on 2026-08-27.
+This customer success position at Trustonic was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

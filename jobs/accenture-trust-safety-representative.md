@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Trust & Safety |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lisbon-Santos-37/Trust---Safety-Representative_14670224) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lisbon-Santos-37/Trust---Safety-Representative_14730785) |
 
 ## About This Role
 
-This trust & safety position at Accenture was posted on 2026-08-24.
+This trust & safety position at Accenture was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

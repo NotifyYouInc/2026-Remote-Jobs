@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lakeshore Learning](https://scoutify.ai/companies/lakeshorelearning?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Carson, California, United States |
 | Category | Technical Writer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000138419951-proposal-writer-remote) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000148363779-proposal-writer-remote) |
 
 ## About This Role
 
-This technical writer position at Lakeshore Learning was posted on 2026-07-17.
+This technical writer position at Lakeshore Learning was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

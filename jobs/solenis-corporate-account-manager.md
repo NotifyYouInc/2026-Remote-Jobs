@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Texas, US |
 | Category | Account Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Wilmington-Delaware-United-States-of-America/Corporate-Account-Manager_R0028691-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/United-States-of-America-Texas-Remote/Corporate-Account-Manager_R0032715-1) |
 
 ## About This Role
 
-This account manager position at Solenis was posted on 2026-03-17.
+This account manager position at Solenis was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

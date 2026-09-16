@@ -5,12 +5,12 @@
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Japan |
 | Category | Program Manager |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/Japan-Remote-Location/Enterprise-Program-Coordinator_4039566) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/Japan-Remote-Location/Enterprise-Program-Coordinator_4039634) |
 
 ## About This Role
 
-This program manager position at Agilent was posted on 2026-08-17.
+This program manager position at Agilent was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

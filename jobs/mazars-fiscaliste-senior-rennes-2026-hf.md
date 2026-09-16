@@ -5,12 +5,12 @@
 | Company | [MAZARS](https://scoutify.ai/companies/mazars?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | Financial Advisory & Consulting |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mazars/744000147215689-fiscaliste-senior-rennes-2026-hf) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mazars/744000148445739-fiscaliste-senior-rennes-2026-hf) |
 
 ## About This Role
 
-This financial advisory & consulting position at MAZARS was posted on 2026-09-03.
+This financial advisory & consulting position at MAZARS was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

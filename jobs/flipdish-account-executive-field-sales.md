@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flipdish](https://scoutify.ai/companies/flipdish?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Newcastle, Northern Ireland, United Kingdom |
-| Category | Sales |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/flipdish/jobs/4961959101) |
+| Location | United Kingdom |
+| Category | Account Executive |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/flipdish/jobs/4971624101) |
 
 ## About This Role
 
-This sales position at Flipdish was posted on 2026-08-27.
+This account executive position at Flipdish was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

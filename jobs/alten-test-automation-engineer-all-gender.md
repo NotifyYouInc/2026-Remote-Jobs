@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Nürnberg, Bavaria, Germany |
 | Category | QA Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000136403264-test-automation-engineer-all-gender) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000148467039-test-automation-engineer-all-gender) |
 
 ## About This Role
 
-This qa engineer position at ALTEN was posted on 2026-07-08.
+This qa engineer position at ALTEN was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | New York City, New York, United States |
+| Location | United States |
 | Category | Trust & Safety |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000147478289-partnership-protection-specialist-north-america) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000148492230-partnership-protection-specialist-north-america) |
 
 ## About This Role
 
-This trust & safety position at Sportradar was posted on 2026-09-04.
+This trust & safety position at Sportradar was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

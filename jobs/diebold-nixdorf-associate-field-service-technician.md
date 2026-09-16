@@ -5,12 +5,12 @@
 | Company | [Diebold Nixdorf](https://scoutify.ai/companies/us6-cx-oj29826?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://eeug.fa.us6.oraclecloud.com/jobs/#20060) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://eeug.fa.us6.oraclecloud.com/jobs/#20081) |
 
 ## About This Role
 
-This customer success position at Diebold Nixdorf was posted on 2026-09-04.
+This customer success position at Diebold Nixdorf was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

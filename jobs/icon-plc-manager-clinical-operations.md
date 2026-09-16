@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Program Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Turkey-Istanbul/Manager--Clinical-Operations_JR148208) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Taiwan-Taipei/Manager--Clinical-Operations_JR159507) |
 
 ## About This Role
 
-This program manager position at ICON plc was posted on 2026-06-15.
+This program manager position at ICON plc was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
