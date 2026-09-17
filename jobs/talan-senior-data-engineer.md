@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Málaga, Andalusia, Spain |
 | Category | Data Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000145716884-senior-data-engineer) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000148733447-senior-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Talan was posted on 2026-08-26.
+This data engineer position at Talan was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Aya Healthcare](https://scoutify.ai/companies/aya-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/7652617?gh_jid=7652617) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/8189881?gh_jid=8189881) |
 
 ## About This Role
 
-This account manager position at Aya Healthcare was posted on 2026-02-25.
+This account manager position at Aya Healthcare was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ostrava, Moravskoslezský, Czechia |
-| Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000138790669-business-developer) |
+| Category | Account Executive |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000148687679-business-developer) |
 
 ## About This Role
 
-This business analyst position at Drees & Sommer was posted on 2026-07-21.
+This account executive position at Drees & Sommer was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

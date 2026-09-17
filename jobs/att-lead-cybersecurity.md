@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Alpharetta, Georgia, United States |
-| Category | Security Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Alpharetta-Georgia/Lead-Cybersecurity_R-109115) |
+| Location | Plano, Texas, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Lead-Cybersecurity_R-120010) |
 
 ## About This Role
 
-This security engineer position at AT&T was posted on 2026-07-02.
+This cybersecurity engineer position at AT&T was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Atlanta-Georgia/Registered-Client-Service-Associate_R26_3393-2) |
+| Location | Dublin, California, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Dublin-Ohio/Registered-Client-Service-Associate_R26_3626-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Ameriprise Financial was posted on 2026-08-24.
+This corporate finance position at Ameriprise Financial was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lessen](https://scoutify.ai/companies/lessen?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
+| Location | Arizona, US |
 | Category | Account Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.lever.co/lessen/5deaf5d3-53f2-47e5-93aa-9b1c0dbd84c6) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.lever.co/lessen/ec4298ab-f590-465b-915c-edc38b0c31fa) |
 
 ## About This Role
 
-This account manager position at Lessen was posted on 2026-03-05.
+This account manager position at Lessen was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

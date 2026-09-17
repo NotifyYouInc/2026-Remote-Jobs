@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Knoxville, Tennessee, United States |
-| Category | Sales |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014486546-business-development-manager-facial-aesthetics) |
+| Location | Portsmouth, Virginia, United States |
+| Category | Account Executive |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015162346-business-development-manager-facial-aesthetics) |
 
 ## About This Role
 
-This sales position at AbbVie was posted on 2026-08-07.
+This account executive position at AbbVie was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

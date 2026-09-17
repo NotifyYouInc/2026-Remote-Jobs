@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | Legal |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000142063174-senior-it-lawyer) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000148747064-senior-it-lawyer) |
 
 ## About This Role
 
-This legal position at Sigma Software was posted on 2026-08-07.
+This legal position at Sigma Software was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

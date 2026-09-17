@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kansas, US |
-| Category | Account Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Kansas-Central-Timezone/Dealercom-Regional-Sales-Manager_R202678775) |
+| Location | Michigan, US |
+| Category | Account Executive |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Ohio/Dealercom-Regional-Sales-Manager_R202682209) |
 
 ## About This Role
 
-This account manager position at Cox was posted on 2026-06-16.
+This account executive position at Cox was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

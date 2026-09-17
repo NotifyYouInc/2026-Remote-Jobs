@@ -5,12 +5,12 @@
 | Company | [VSP Vision](https://scoutify.ai/companies/vsp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/HR-Business-Partner_R-9560) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/HR-Business-Partner_R-9934-1) |
 
 ## About This Role
 
-This human resources / people ops position at VSP Vision was posted on 2026-06-02.
+This human resources / people ops position at VSP Vision was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

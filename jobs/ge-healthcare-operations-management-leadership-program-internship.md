@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 7 locations |
+| Location | 11 locations |
 | Category | Leadership Development Program |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Operations-Management-Leadership-Program---Internship_R4039160-2) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Operations-Management-Leadership-Program---Internship_R4046211-1) |
 
 ## About This Role
 
-This leadership development program position at GE HealthCare was posted on 2026-04-03.
+This leadership development program position at GE HealthCare was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

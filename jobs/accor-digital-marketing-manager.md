@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | South Sinai, EG |
+| Location | Mumbai, Maharashtra, India |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000137824550-digital-marketing-manager) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000148757269-digital-marketing-manager) |
 
 ## About This Role
 
-This digital / performance marketing position at ACCOR was posted on 2026-07-15.
+This digital / performance marketing position at ACCOR was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

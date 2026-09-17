@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hatvan, Heves County, Hungary |
 | Category | Project Manager |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146633519-npi-projekt-vezeto-npi-project-leader) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000148715919-npi-projekt-vezeto-npi-project-leader) |
 
 ## About This Role
 
-This project manager position at Robert Bosch was posted on 2026-09-01.
+This project manager position at Robert Bosch was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

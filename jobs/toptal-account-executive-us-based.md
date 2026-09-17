@@ -5,12 +5,12 @@
 | Company | [Toptal](https://scoutify.ai/companies/toptal?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.lever.co/toptal/226b2030-d4e1-43df-9a38-2b99877b97eb) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.lever.co/toptal/565c69dd-fb6b-4752-84a1-0f3c9da3975d) |
 
 ## About This Role
 
-This account executive position at Toptal was posted on 2026-04-10.
+This account executive position at Toptal was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

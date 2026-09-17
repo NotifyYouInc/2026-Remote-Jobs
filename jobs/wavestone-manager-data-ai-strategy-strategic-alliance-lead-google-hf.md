@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Puteaux, Île-de-France, France |
-| Category | Sales |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000146953769-manager-data-ai-strategy-strategic-alliance-lead-google-hf) |
+| Category | Strategy & Operations |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000148716275-manager-data-ai-strategy-strategic-alliance-lead-google-hf) |
 
 ## About This Role
 
-This sales position at Wavestone was posted on 2026-09-02.
+This strategy & operations position at Wavestone was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

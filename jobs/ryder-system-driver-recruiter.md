@@ -5,12 +5,12 @@
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Illinois, US |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-06-26 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-IL/Driver-Recruiter_R176432) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Ryder System was posted on 2026-06-26.
+This talent acquisition / recruiting position at Ryder System was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

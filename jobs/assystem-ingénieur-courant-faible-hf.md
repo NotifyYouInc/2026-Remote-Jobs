@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pierrelatte, Rhône-Alpes, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000140644559-ingenieur-courant-faible-hf) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000148704069-ingenieur-courant-faible-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Assystem was posted on 2026-07-30.
+This electrical / hardware engineer position at Assystem was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

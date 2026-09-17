@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Industrial Automation |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000147938141-ingenieur-essaiscontrole-commande-hf) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000148749755-ingenieur-essaiscontrole-commande-hf) |
 
 ## About This Role
 
-This industrial automation position at Assystem was posted on 2026-09-07.
+This industrial automation position at Assystem was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

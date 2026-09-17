@@ -5,12 +5,12 @@
 | Company | [AMC Networks](https://scoutify.ai/companies/amcn?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | New York City, New York, United States |
 | Category | Operations |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://amcn.wd5.myworkdayjobs.com/amcnetworks/job/New-York-NY/Sales-Assistant_R-4971) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://amcn.wd5.myworkdayjobs.com/amcnetworks/job/New-York-NY/Sales-Assistant_R-4992) |
 
 ## About This Role
 
-This operations position at AMC Networks was posted on 2026-08-05.
+This operations position at AMC Networks was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

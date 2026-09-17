@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ahmedabad, Gujarat, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Industrial Automation |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Ahmedabad-Gujarat-India/Diploma-Engineer-Trainee_WD30277914-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Diploma-Engineer-Trainee_WD30277930-2) |
 
 ## About This Role
 
-This industrial automation position at Johnson Controls was posted on 2026-09-09.
+This industrial automation position at Johnson Controls was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

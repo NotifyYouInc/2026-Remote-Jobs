@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Colombia |
-| Category | Marketing |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Colombia---Remote/Content-Specialist_R_2608_10140) |
+| Location | 2 locations |
+| Category | Content Marketing |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Pasig-NCR-Philippines/Content-Specialist_R_2609_11772) |
 
 ## About This Role
 
-This marketing position at TaskUs was posted on 2026-08-06.
+This content marketing position at TaskUs was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Account Executive |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/REMOTE---USA/Inside-Business-Development-Consultant_R202674292-1) |
+| Location | Texas, US |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Texas/Inside-Business-Development-Consultant_R202682235) |
 
 ## About This Role
 
-This account executive position at Cox was posted on 2026-03-11.
+This sales development (sdr / bdr) position at Cox was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

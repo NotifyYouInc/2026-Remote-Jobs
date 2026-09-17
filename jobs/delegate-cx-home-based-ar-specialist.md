@@ -5,12 +5,12 @@
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Philippines |
 | Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-AR-Specialist_JR104476) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-AR-Specialist_JR104621) |
 
 ## About This Role
 
-This accounting position at Delegate CX was posted on 2026-07-29.
+This accounting position at Delegate CX was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

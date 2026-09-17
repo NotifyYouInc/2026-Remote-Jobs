@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | New York, US |
 | Category | Account Executive |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Phoenix-Metro-Area---Arizona---USA-Remote/Enterprise-Account-Executive_R04201) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---New-York---Remote/Enterprise-Account-Executive_R04651) |
 
 ## About This Role
 
-This account executive position at Cohesity was posted on 2026-07-15.
+This account executive position at Cohesity was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

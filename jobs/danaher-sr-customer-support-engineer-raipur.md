@@ -5,12 +5,12 @@
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kolkata, West Bengal, India |
 | Category | Customer Success |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Kolkata-West-Bengal-India/Sr-Customer-Support-Engineer---Raipur_R1313137) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Kolkata-West-Bengal-India/Sr-Customer-Support-Engineer---Raipur_R1318807) |
 
 ## About This Role
 
-This customer success position at Danaher was posted on 2026-06-25.
+This customer success position at Danaher was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Reading, England, United Kingdom |
+| Location | Mannheim, Baden-Wurttemberg, Germany |
 | Category | Project Manager |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Reading/Project-Manager_JR157444-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Germany-Frankfurt/Project-Manager_JR159198) |
 
 ## About This Role
 
-This project manager position at ICON plc was posted on 2026-09-07.
+This project manager position at ICON plc was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

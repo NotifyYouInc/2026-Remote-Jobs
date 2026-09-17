@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | QA Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000140408055-senior-test-automation-engineer-healthcaremedical-industry) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000148711979-senior-test-automation-engineer-healthcaremedical-industry) |
 
 ## About This Role
 
-This qa engineer position at Sigma Software was posted on 2026-07-29.
+This qa engineer position at Sigma Software was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

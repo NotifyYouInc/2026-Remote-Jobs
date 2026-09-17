@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | India |
 | Category | QA Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Associate-Validator-II_263570) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Associate-Validator-II_265222) |
 
 ## About This Role
 
-This qa engineer position at Covance was posted on 2026-07-03.
+This qa engineer position at Covance was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

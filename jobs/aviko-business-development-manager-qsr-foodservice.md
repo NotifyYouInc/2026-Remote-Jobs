@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aviko](https://scoutify.ai/companies/aviko?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Steenderen, Gelderland, The Netherlands |
-| Category | Business Development |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aviko/744000148428109-business-development-manager-qsr-foodservice) |
+| Category | Strategic Partnerships |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aviko/744000148715661-business-development-manager-qsr-foodservice) |
 
 ## About This Role
 
-This business development position at Aviko was posted on 2026-09-09.
+This strategic partnerships position at Aviko was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

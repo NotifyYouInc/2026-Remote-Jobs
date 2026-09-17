@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Project Manager |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000147200809-senior-product-delivery-manager-remote-bulgaria-availability-to-work-usa-est-or-cst-working-hours) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000148682819-senior-product-delivery-manager-remote-bulgaria-availability-to-work-usa-est-or-cst-working-hours) |
 
 ## About This Role
 
-This project manager position at Sutherland was posted on 2026-09-03.
+This technical product manager position at Sutherland was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

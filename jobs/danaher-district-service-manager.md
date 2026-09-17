@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
-| Category | Operations |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Chicago-Illinois-United-States/District-Service-Manager_R1305174) |
+| Category | Engineering Manager |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Toronto-Ontario-Canada/District-Service-Manager_R1318162) |
 
 ## About This Role
 
-This operations position at Danaher was posted on 2026-03-20.
+This engineering manager position at Danaher was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

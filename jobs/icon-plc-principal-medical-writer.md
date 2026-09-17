@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | 6 locations |
 | Category | Technical Writer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Principal-Medical-Writer_JR155557) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Reading/Principal-Medical-Writer_JR159182) |
 
 ## About This Role
 
-This technical writer position at ICON plc was posted on 2026-07-14.
+This technical writer position at ICON plc was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
