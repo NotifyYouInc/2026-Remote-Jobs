@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Lancaster, California, United States |
-| Category | Human Resources / People Ops |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000129597399-oracle-cloud-hcm-assessment-consultant-temporary-3-months) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000149119749-oracle-cloud-hcm-assessment-consultant-temporary-3-months) |
 
 ## About This Role
 
-This human resources / people ops position at Eurofins Scientific was posted on 2026-06-01.
+This technology / it consulting position at Eurofins Scientific was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

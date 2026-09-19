@@ -5,12 +5,12 @@
 | Company | [Ulteig Engineers](https://scoutify.ai/companies/ulteig-engineers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/ult1008ulte/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=61c67ba2-14e0-4ba6-8aaa-5efd4f6085fa) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/ult1008ulte/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=9c522f6e-676d-4eab-97d9-097353c500d6) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Ulteig Engineers was posted on 2026-06-01.
+This electrical / hardware engineer position at Ulteig Engineers was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

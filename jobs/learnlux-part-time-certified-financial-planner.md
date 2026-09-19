@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LearnLux](https://scoutify.ai/companies/learnlux?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-04-18 |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/learnlux/jobs/5193114008) |
 
 ## About This Role
 
-This financial advisory & consulting position at LearnLux was posted on 2026-04-18.
+This corporate finance position at LearnLux was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

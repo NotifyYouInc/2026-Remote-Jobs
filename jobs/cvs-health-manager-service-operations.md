@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Operations |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MN---Work-from-home/Manager--Service-Operations_R0793359-1) |
+| Location | Arkansas, US |
+| Category | Program Manager |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MN---Work-from-home/Manager--Service-Operations_R1016550-1) |
 
 ## About This Role
 
-This operations position at CVS Health was posted on 2026-04-07.
+This program manager position at CVS Health was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Sales |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000141070369-on-demand-account-manager) |
+| Category | Account Manager |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000149151959-on-demand-account-manager) |
 
 ## About This Role
 
-This sales position at Delivery Hero was posted on 2026-08-01.
+This account manager position at Delivery Hero was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Massachusetts, US |
+| Location | Texas, US |
 | Category | Compliance & Risk Management |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-REMOTE/Manager--Global-Trade--Remote-_01860059-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-REMOTE/Manager--Global-Trade--Remote-_01874043) |
 
 ## About This Role
 
-This compliance & risk management position at RTX was posted on 2026-07-18.
+This compliance & risk management position at RTX was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

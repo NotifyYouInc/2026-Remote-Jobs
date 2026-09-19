@@ -1,16 +1,16 @@
-# Strategic Account Executive - Northeast at GitLab
+# Strategic Account Executive, Northeast at GitLab
 
 | Field | Details |
 |-------|---------|
 | Company | [GitLab](https://scoutify.ai/companies/gitlab?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8429692002) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8786425002) |
 
 ## About This Role
 
-This account executive position at GitLab was posted on 2026-02-26.
+This account executive position at GitLab was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

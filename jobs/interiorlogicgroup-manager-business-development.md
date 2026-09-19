@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Interiorlogicgroup](https://scoutify.ai/companies/interiorlogicgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Sales Leadership |
-| Posted | 2026-04-11 |
+| Category | Account Executive |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://interiorlogicgroup.wd5.myworkdayjobs.com/careersatilg/job/Houston-TX/Manager--Business-Development_R-7776) |
 
 ## About This Role
 
-This sales leadership position at Interiorlogicgroup was posted on 2026-04-11.
+This account executive position at Interiorlogicgroup was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

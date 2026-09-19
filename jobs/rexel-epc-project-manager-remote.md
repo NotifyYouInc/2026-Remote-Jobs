@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Augusta, Georgia, United States |
 | Category | Project Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000110024705-epc-project-manager-remote) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000149107009-epc-project-manager-remote) |
 
 ## About This Role
 
-This project manager position at REXEL was posted on 2026-02-18.
+This project manager position at REXEL was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

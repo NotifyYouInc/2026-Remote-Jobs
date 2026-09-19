@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Illinois, US |
-| Category | Sales |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-IL-Remote/Account---Relationship-Management-Executive_R0059567) |
+| Location | Minnesota, US |
+| Category | Account Executive |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA-MN-Remote/Account---Relationship-Management-Executive_R0059780-1) |
 
 ## About This Role
 
-This sales position at Wolters Kluwer was posted on 2026-09-03.
+This account executive position at Wolters Kluwer was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

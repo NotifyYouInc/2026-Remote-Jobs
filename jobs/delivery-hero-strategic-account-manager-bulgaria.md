@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Strategy & Operations |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000141070409-strategic-account-manager-bulgaria) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000149150809-strategic-account-manager-bulgaria) |
 
 ## About This Role
 
-This strategy & operations position at Delivery Hero was posted on 2026-08-01.
+This strategy & operations position at Delivery Hero was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

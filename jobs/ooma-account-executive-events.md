@@ -5,12 +5,12 @@
 | Company | [Ooma](https://scoutify.ai/companies/ooma?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ooma/jobs/5097114007) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ooma/jobs/5231047007) |
 
 ## About This Role
 
-This account executive position at Ooma was posted on 2026-04-07.
+This account executive position at Ooma was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

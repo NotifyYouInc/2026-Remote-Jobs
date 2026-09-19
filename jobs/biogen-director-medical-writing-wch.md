@@ -1,16 +1,16 @@
-# Director, Medical Writing - WCH at Biogen
+# Director, Medical Writing WCH at Biogen
 
 | Field | Details |
 |-------|---------|
 | Company | [Biogen](https://scoutify.ai/companies/biogen?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Technical Writer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Director--Medical-Writing---WCH_REQ23918) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Director--Medical-Writing-WCH_REQ24103) |
 
 ## About This Role
 
-This technical writer position at Biogen was posted on 2026-08-13.
+This technical writer position at Biogen was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

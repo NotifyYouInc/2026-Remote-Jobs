@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Pittsburgh-PA/Transaction-Manager_REQ492071) |
+| Location | 2 locations |
+| Category | Program Manager |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Transaction-Manager_REQ535391) |
 
 ## About This Role
 
-This financial advisory & consulting position at JLL was posted on 2026-03-13.
+This program manager position at JLL was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fetch](https://scoutify.ai/companies/fetch?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-26 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/fetch/jobs/4299553009) |
 
 ## About This Role
 
-This corporate finance position at Fetch was posted on 2026-06-26.
+This corporate finance position at Fetch was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

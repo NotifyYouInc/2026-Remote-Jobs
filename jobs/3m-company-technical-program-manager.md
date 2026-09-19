@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 7 locations |
-| Category | Technical Product Manager |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-Xiamen-Remote/Technical-Program-Manager_R01170361) |
+| Location | 2 locations |
+| Category | Program Manager |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Technical-Program-Manager_R01170172) |
 
 ## About This Role
 
-This technical product manager position at 3M Company was posted on 2026-09-10.
+This program manager position at 3M Company was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

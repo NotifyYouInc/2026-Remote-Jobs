@@ -5,12 +5,12 @@
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Florida, US |
 | Category | Project Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Project-Manager-IV_1629072) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Project-Manager-IV_1655744) |
 
 ## About This Role
 
-This project manager position at Centene was posted on 2026-02-10.
+This project manager position at Centene was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

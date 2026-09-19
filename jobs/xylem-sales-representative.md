@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | San Diego, California, United States |
 | Category | Account Executive |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Tampa-Florida/Sales-Representative_R50242) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Mira-Loma-California/Sales-Representative_R50669) |
 
 ## About This Role
 
-This account executive position at Xylem was posted on 2026-08-21.
+This account executive position at Xylem was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

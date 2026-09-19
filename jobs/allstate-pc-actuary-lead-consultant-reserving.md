@@ -1,16 +1,16 @@
-# P&C Actuary Lead Consultant - Reserving at Allstate
+# P&C Actuary Lead Consultant (Reserving) at Allstate
 
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/P-C-Actuary-Lead-Consultant---Reserving_R33044) |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/P-C-Actuary-Lead-Consultant--Reserving-_R35041) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Allstate was posted on 2026-07-24.
+This corporate finance position at Allstate was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

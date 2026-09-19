@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ONE Finance](https://scoutify.ai/companies/oneapp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/oneapp/65ff8e30-c361-488e-8395-61cbc1b1e336) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/oneapp/39659b3e-4a94-4b17-98e9-fdc94460f8ee) |
 
 ## About This Role
 
-This security engineer position at ONE Finance was posted on 2026-04-10.
+This cybersecurity engineer position at ONE Finance was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

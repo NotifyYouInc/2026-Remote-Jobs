@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 5 locations |
 | Category | Compliance & Risk Management |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Product-Compliance-Manager--Remote-_2023896) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Product-Compliance-Manager--Remote-_2025600) |
 
 ## About This Role
 
-This compliance & risk management position at Cisco was posted on 2026-09-04.
+This compliance & risk management position at Cisco was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

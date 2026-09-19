@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Urbandale, Iowa, United States |
+| Location | 4 locations |
 | Category | Account Executive |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Urbandale-Iowa/Business-Sales-Representative---Territory-Accounts_R-122203) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Pasadena-California/Business-Sales-Representative---Territory-Accounts_R-122411) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-09-10.
+This account executive position at AT&T was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

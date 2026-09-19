@@ -5,12 +5,12 @@
 | Company | [2020 Companies](https://scoutify.ai/companies/2020-companies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Learning & Development |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Southlake-TX/Shared-Services-Technical-Training-Lead_REQ_108138) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Southlake-TX/Shared-Services-Technical-Training-Lead_REQ_112720) |
 
 ## About This Role
 
-This learning & development position at 2020 Companies was posted on 2026-07-10.
+This learning & development position at 2020 Companies was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
