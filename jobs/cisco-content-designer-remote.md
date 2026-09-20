@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 6 locations |
 | Category | UX Writer & Content Designer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Durham-North-Carolina-US/Content-Designer--Remote-_2023716) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Durham-North-Carolina-US/Content-Designer--Remote-_2025596) |
 
 ## About This Role
 
-This ux writer & content designer position at Cisco was posted on 2026-09-04.
+This ux writer & content designer position at Cisco was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

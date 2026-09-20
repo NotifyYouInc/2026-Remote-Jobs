@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Italy |
-| Category | Operations |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000140395285-head-of-sm-cities-italy) |
+| Category | Strategy & Operations |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000149154939-head-of-sm-cities-italy) |
 
 ## About This Role
 
-This operations position at Delivery Hero was posted on 2026-07-29.
+This strategy & operations position at Delivery Hero was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 5 locations |
+| Location | 4 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Denver-Colorado-US/Security-Engineer--Remote-_2023046) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Denver-Colorado-US/Security-Engineer--Remote-_2025594) |
 
 ## About This Role
 
-This cybersecurity engineer position at Cisco was posted on 2026-09-04.
+This cybersecurity engineer position at Cisco was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

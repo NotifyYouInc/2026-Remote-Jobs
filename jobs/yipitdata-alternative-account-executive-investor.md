@@ -1,16 +1,16 @@
-# Accounts Payable Analyst at Sysco
+# Account Executive - Investor at YipitData (Alternative)
 
 | Field | Details |
 |-------|---------|
-| Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [YipitData (Alternative)](https://scoutify.ai/companies/yipitdata-alternative?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
+| Category | Account Executive |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Work-From-Home/Accounts-Payable-Analyst_R264473) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/yipitdatajobs/jobs/8198969) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-09-12.
+This account executive position at YipitData (Alternative) was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

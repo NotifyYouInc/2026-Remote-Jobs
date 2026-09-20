@@ -1,16 +1,16 @@
-# Senior Specialist, Billing  at Moxie
+# Data Scientist at McKesson
 
 | Field | Details |
 |-------|---------|
-| Company | [Moxie](https://scoutify.ai/companies/moxie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/moxie/f469385a-15f5-4d2d-8823-8501f9e7845e) |
+| Category | Data Scientist |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-Remote/Data-Scientist_JR0152158) |
 
 ## About This Role
 
-This corporate finance position at Moxie was posted on 2026-09-11.
+This data scientist position at McKesson was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

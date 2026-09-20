@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Assurant](https://scoutify.ai/companies/assurant?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/United-States-Virtual/SOX-Audit-Intern_R-115402-1) |
 
 ## About This Role
 
-This accounting position at Assurant was posted on 2026-09-11.
+This corporate finance position at Assurant was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

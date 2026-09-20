@@ -1,16 +1,16 @@
-# Senior Site Reliability Engineer (SRE) – Technical Leader, Kubernetes Platform (IRAP) at Cisco
+# Business Operations Manager, Strategic Program Management at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 7 locations |
-| Category | DevOps Engineer |
+| Location | San Jose, California, United States |
+| Category | Strategy & Operations |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Senior-Site-Reliability-Engineer--SRE----Technical-Leader--Kubernetes-Platform--IRAP-_2016283-1) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Business-Operations-Manager--Strategic-Program-Management_2024907) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-09-12.
+This strategy & operations position at Cisco was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

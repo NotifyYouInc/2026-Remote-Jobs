@@ -1,16 +1,16 @@
-# Senior Specialist, Billing  at Moxie
+# Marketing Design Lead at FirstWork
 
 | Field | Details |
 |-------|---------|
-| Company | [Moxie](https://scoutify.ai/companies/moxie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [FirstWork](https://scoutify.ai/companies/firstwork?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/moxie/f469385a-15f5-4d2d-8823-8501f9e7845e) |
+| Category | Marketing |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/firstwork/jobs/lgyvomJ-marketing-design-lead) |
 
 ## About This Role
 
-This corporate finance position at Moxie was posted on 2026-09-11.
+This marketing position at FirstWork was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

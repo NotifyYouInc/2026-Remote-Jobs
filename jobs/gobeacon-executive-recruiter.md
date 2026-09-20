@@ -1,16 +1,16 @@
-# Accounts Payable Analyst at Sysco
+# Executive Recruiter at Gobeacon
 
 | Field | Details |
 |-------|---------|
-| Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [Gobeacon](https://scoutify.ai/companies/gobeacon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
+| Category | Talent Acquisition / Recruiting |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Work-From-Home/Accounts-Payable-Analyst_R264473) |
+| Apply | [View on company site](https://gobeacon.wd1.myworkdayjobs.com/beaconmobilitycareers/job/Corporate/Executive-Recruiter_REQ-2026-4428) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-09-12.
+This talent acquisition / recruiting position at Gobeacon was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

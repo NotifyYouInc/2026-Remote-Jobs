@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Calistacorp](https://scoutify.ai/companies/calistacorp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://calistacorp.wd1.myworkdayjobs.com/calista/job/Remote/Senior-Accountant---Construction_JR109832) |
 
 ## About This Role
 
-This accounting position at Calistacorp was posted on 2026-09-12.
+This corporate finance position at Calistacorp was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

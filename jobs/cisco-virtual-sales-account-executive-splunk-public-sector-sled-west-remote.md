@@ -1,16 +1,16 @@
-# Senior Site Reliability Engineer (SRE) – Technical Leader, Kubernetes Platform (IRAP) at Cisco
+# Virtual Sales Account Executive - Splunk Public Sector SLED West (Remote) at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 7 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-09-12 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Senior-Site-Reliability-Engineer--SRE----Technical-Leader--Kubernetes-Platform--IRAP-_2016283-1) |
+| Location | McLean, Virginia, United States |
+| Category | Account Executive |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/McLean-Virginia-US/Virtual-Sales-Account-Executive---Splunk-Public-Sector-SLED-West--Remote-_2022332) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-09-12.
+This account executive position at Cisco was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

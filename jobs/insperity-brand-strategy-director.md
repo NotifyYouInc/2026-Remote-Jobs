@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Insperity](https://scoutify.ai/companies/insperity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Kingwood, West Virginia, United States |
-| Category | Strategy & Operations |
+| Category | Brand Marketing |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Brand-Marketing-Director_JR103306) |
 
 ## About This Role
 
-This strategy & operations position at Insperity was posted on 2026-09-11.
+This brand marketing position at Insperity was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

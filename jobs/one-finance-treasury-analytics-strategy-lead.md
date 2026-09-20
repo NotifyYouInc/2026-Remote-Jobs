@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ONE Finance](https://scoutify.ai/companies/oneapp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Strategy & Operations |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/oneapp/82817fcb-d148-4931-9b73-b763a27103b2) |
 
 ## About This Role
 
-This strategy & operations position at ONE Finance was posted on 2026-09-11.
+This corporate finance position at ONE Finance was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

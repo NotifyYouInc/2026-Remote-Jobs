@@ -1,16 +1,16 @@
-# Senior Specialist, Billing  at Moxie
+# CAHPS & HOS Program Lead at CareSource
 
 | Field | Details |
 |-------|---------|
-| Company | [Moxie](https://scoutify.ai/companies/moxie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Company | [CareSource](https://scoutify.ai/companies/caresource?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/moxie/f469385a-15f5-4d2d-8823-8501f9e7845e) |
+| Category | Program Manager |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/CAHPS---HOS-Program-Lead_R13704) |
 
 ## About This Role
 
-This corporate finance position at Moxie was posted on 2026-09-11.
+This program manager position at CareSource was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

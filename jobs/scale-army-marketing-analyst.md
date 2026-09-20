@@ -1,16 +1,16 @@
-# Accounts Payable Analyst at Sysco
+# Marketing Analyst at Scale Army
 
 | Field | Details |
 |-------|---------|
-| Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
+| Company | [Scale Army](https://scoutify.ai/companies/scale-army?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | Egypt |
+| Category | Data Analyst |
 | Posted | 2026-09-12 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Work-From-Home/Accounts-Payable-Analyst_R264473) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/79b27992-c771-47fd-aeb5-cad17e8337b8) |
 
 ## About This Role
 
-This corporate finance position at Sysco was posted on 2026-09-12.
+This data analyst position at Scale Army was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Specialist, Billing  at Moxie
+# Sr. Platform Engineer at EZCORP
 
 | Field | Details |
 |-------|---------|
-| Company | [Moxie](https://scoutify.ai/companies/moxie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
+| Company | [EZCORP](https://scoutify.ai/companies/ezcorp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | El Salvador |
+| Category | DevOps Engineer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/moxie/f469385a-15f5-4d2d-8823-8501f9e7845e) |
+| Apply | [View on company site](https://ezcorp.wd12.myworkdayjobs.com/ezcorp/job/Corporate-Remote-El-Salvador/Sr-Platform-Engineer_JR127157) |
 
 ## About This Role
 
-This corporate finance position at Moxie was posted on 2026-09-11.
+This devops engineer position at EZCORP was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
