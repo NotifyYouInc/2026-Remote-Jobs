@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Virginia, US |
-| Category | Venture Capital |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Virginia---Remote/Principal-Sales-Engineer_R02649) |
+| Location | North Carolina, US |
+| Category | Sales Engineer |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---North-Carolina---Remote/Principal-Sales-Engineer_R04722) |
 
 ## About This Role
 
-This venture capital position at Cohesity was posted on 2026-02-10.
+This sales engineer position at Cohesity was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cornerstone Building Brands](https://scoutify.ai/companies/cornerstonebuildingbrands?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Seattle, Washington, United States |
 | Category | Sales Leadership |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990014755474-district-sales-manager-pemb) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990015232157-district-sales-manager-pemb) |
 
 ## About This Role
 
-This sales leadership position at Cornerstone Building Brands was posted on 2026-08-21.
+This sales leadership position at Cornerstone Building Brands was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

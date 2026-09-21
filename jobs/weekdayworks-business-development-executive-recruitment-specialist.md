@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Weekdayworks](https://scoutify.ai/companies/weekdayworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | India |
-| Category | Sales Development (SDR / BDR) |
+| Category | Talent Acquisition / Recruiting |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://jobs.lever.co/weekdayworks/70eed192-777b-4dc8-932d-c9b9e02554c2) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Weekdayworks was posted on 2026-09-12.
+This talent acquisition / recruiting position at Weekdayworks was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

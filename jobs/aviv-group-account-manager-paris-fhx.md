@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AVIV Group](https://scoutify.ai/companies/avivgroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Sales |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AVIVGroup/744000147892989-account-manager-paris-fhx) |
+| Category | Account Manager |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AVIVGroup/744000149260986-account-manager-paris-fhx) |
 
 ## About This Role
 
-This sales position at AVIV Group was posted on 2026-09-07.
+This account manager position at AVIV Group was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Germany |
-| Category | Sales |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000146433190-sales-executive-business-development-manager-mfd-defence-cybersecurity-uncrewed-systems) |
+| Category | Account Executive |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000149250719-sales-executive-business-development-manager-mfd-defence-cybersecurity-uncrewed-systems) |
 
 ## About This Role
 
-This sales position at SGS was posted on 2026-08-31.
+This account executive position at SGS was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

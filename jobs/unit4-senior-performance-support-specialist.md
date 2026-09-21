@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Database Administration |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000147949136-senior-performance-support-specialist) |
+| Category | Technical Support Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000149300326-senior-performance-support-specialist) |
 
 ## About This Role
 
-This database administration position at Unit4 was posted on 2026-09-07.
+This technical support engineer position at Unit4 was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Marketing |
-| Posted | 2026-06-24 |
+| Category | Product Marketing |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Memory-Product-Marketing-Manager--m-f-d-_R109307) |
 
 ## About This Role
 
-This marketing position at Samsung was posted on 2026-06-24.
+This product marketing position at Samsung was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ERGOMED](https://scoutify.ai/companies/ergomed?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Sales |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ergomed/744000141650719-sales-development-account-manager) |
+| Location | California, US |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ergomed/744000149331809-sales-development-account-manager) |
 
 ## About This Role
 
-This sales position at ERGOMED was posted on 2026-08-05.
+This sales development (sdr / bdr) position at ERGOMED was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

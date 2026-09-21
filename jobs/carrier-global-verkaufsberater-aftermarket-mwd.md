@@ -1,16 +1,16 @@
-# Verkaufsberater Aftermarket (m/w/d)  at Carrier Global
+# Verkaufsberater Aftermarket (m/w/d) at Carrier Global
 
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Sales |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Germany-Remote/Verkaufsberater-Aftermarket--m-w-d--_30216192-1) |
+| Location | 4 locations |
+| Category | Account Manager |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Germany--Remote/Verkaufsberater-Aftermarket--m-w-d-_30214224-1) |
 
 ## About This Role
 
-This sales position at Carrier Global was posted on 2026-08-31.
+This account manager position at Carrier Global was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

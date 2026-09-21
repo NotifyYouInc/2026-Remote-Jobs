@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thanx](https://scoutify.ai/companies/thanx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Not specified |
-| Category | Customer Success |
+| Category | Customer Success Manager |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/thanx/jobs/7865661003) |
 
 ## About This Role
 
-This customer success position at Thanx was posted on 2026-09-11.
+This customer success manager position at Thanx was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

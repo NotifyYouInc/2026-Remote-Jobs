@@ -1,16 +1,16 @@
-# Sales Representative I. at Medtronic
+# Sales Representative I at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Juan, San Juan, Puerto Rico |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Account Executive |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Juan-Puerto-Rico-United-States-of-America/Sales-Representative-I_R68601-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bangkok-Bangkok-Thailand/Sales-Representative-I_R76959-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-06-12.
+This account executive position at Medtronic was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

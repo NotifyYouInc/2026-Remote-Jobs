@@ -1,16 +1,16 @@
-# Comptable Gérance H/F at Evoriel
+# Comptable gérance H/F at Evoriel
 
 | Field | Details |
 |-------|---------|
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bois-Colombes, Île-de-France, France |
-| Category | Accounting |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000147196689-comptable-gerance-hf) |
+| Location | Limoges, Nouvelle-Aquitaine, France |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000149321314-comptable-gerance-hf) |
 
 ## About This Role
 
-This accounting position at Evoriel was posted on 2026-09-03.
+This corporate finance position at Evoriel was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

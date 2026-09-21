@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Wuhan, Hubei, China |
 | Category | Account Executive |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/CHN---Guangzhou-Office/Sales-Representative_JR266843) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/CHN---Wuhan/Sales-Representative_JR2612245) |
 
 ## About This Role
 
-This account executive position at PPG Industries was posted on 2026-06-15.
+This account executive position at PPG Industries was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

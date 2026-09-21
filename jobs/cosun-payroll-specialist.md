@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cosun](https://scoutify.ai/companies/cosun?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Breda, North Brabant, The Netherlands |
-| Category | Accounting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cosun2/744000137059159-payroll-specialist) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cosun2/744000149263321-payroll-specialist) |
 
 ## About This Role
 
-This accounting position at Cosun was posted on 2026-07-10.
+This human resources / people ops position at Cosun was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

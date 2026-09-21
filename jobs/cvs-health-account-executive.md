@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Texas, US |
 | Category | Account Executive |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/ME---Work-from-home/Account-Executive_R0881808) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Account-Executive_R1026434-1) |
 
 ## About This Role
 
-This account executive position at CVS Health was posted on 2026-04-20.
+This account executive position at CVS Health was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOTI](https://scoutify.ai/companies/soti?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Belgium |
+| Location | Germany |
 | Category | Account Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Belgium---Remote/Account-Manager_R10413) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Germany---Remote/Account-Manager_R10138) |
 
 ## About This Role
 
-This account manager position at SOTI was posted on 2026-08-25.
+This account manager position at SOTI was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Colomiers, Occitanie, France |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000147473198-stage-analyste-cybersecurite-response-toulouse) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149306388-stage-analyste-cybersecurite-response-toulouse) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sopra Steria was posted on 2026-09-04.
+This cybersecurity engineer position at Sopra Steria was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

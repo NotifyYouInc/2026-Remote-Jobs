@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-India/Safety-Writer-III_R-01342268) |
+| Location | Bulgaria |
+| Category | Technical Writer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Greece/Safety-Writer-III_R-01366382) |
 
 ## About This Role
 
-This compliance & risk management position at Thermo Fisher Scientific was posted on 2026-02-25.
+This technical writer position at Thermo Fisher Scientific was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

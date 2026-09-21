@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Texas, US |
-| Category | Customer Success |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/Resident-Engineer_1197809-3) |
+| Location | 2 locations |
+| Category | Deployment Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Taichung-Taichung-City-Taiwan/Resident-Engineer_1212027-2) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-03-18.
+This deployment engineer position at Hewlett Packard Enterprise was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

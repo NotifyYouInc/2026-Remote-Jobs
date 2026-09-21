@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SmithRx](https://scoutify.ai/companies/smithrx?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Operations |
-| Posted | 2026-09-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smithrx/jobs/8784939002) |
+| Category | Strategy & Operations |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smithrx/jobs/8805737002) |
 
 ## About This Role
 
-This operations position at SmithRx was posted on 2026-09-05.
+This strategy & operations position at SmithRx was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

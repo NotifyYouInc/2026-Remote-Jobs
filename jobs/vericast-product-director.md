@@ -5,12 +5,12 @@
 | Company | [Vericast](https://scoutify.ai/companies/vericast?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000147596789-product-director) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000149340519-product-director) |
 
 ## About This Role
 
-This product manager position at Vericast was posted on 2026-09-04.
+This product manager position at Vericast was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
