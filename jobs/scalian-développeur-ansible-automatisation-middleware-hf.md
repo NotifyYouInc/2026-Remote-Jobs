@@ -1,16 +1,16 @@
-# Développeur Ansible / Automatisation Middleware – H/F at Scalian
+# Développeur Ansible / Automatisation Middleware H/F at Scalian
 
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bruz, Brittany, France |
 | Category | DevOps Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000147979988-developpeur-ansible-automatisation-middleware-hf) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000149531798-developpeur-ansible-automatisation-middleware-hf) |
 
 ## About This Role
 
-This devops engineer position at Scalian was posted on 2026-09-07.
+This devops engineer position at Scalian was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

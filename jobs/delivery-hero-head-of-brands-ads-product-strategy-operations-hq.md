@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Strategy & Operations |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000149280959-head-of-brands-ads-product-strategy-operations-hq) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000149568767-head-of-brands-ads-product-strategy-operations-hq) |
 
 ## About This Role
 
-This strategy & operations position at Delivery Hero was posted on 2026-09-14.
+This strategy & operations position at Delivery Hero was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

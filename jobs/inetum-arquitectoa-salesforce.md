@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Bilbao, Basque Country, Spain |
+| Location | Madrid, Madrid, Spain |
 | Category | Technology / IT Consulting |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000148188659-arquitectoa-salesforce) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000149528819-arquitectoa-salesforce) |
 
 ## About This Role
 
-This technology / it consulting position at Inetum was posted on 2026-09-08.
+This technology / it consulting position at Inetum was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

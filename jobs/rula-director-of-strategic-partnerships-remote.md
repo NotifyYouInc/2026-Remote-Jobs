@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rula](https://scoutify.ai/companies/rula?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Business Development |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/rula/52f7fdee-65d5-480b-ba84-e1802a91a779) |
+| Category | Strategic Partnerships |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/rula/e9e57572-a39a-44d3-9cba-70e2c6d083f8) |
 
 ## About This Role
 
-This business development position at Rula was posted on 2026-04-14.
+This strategic partnerships position at Rula was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

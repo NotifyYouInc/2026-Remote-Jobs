@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Retell Ai](https://scoutify.ai/companies/retell-ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/retell-ai/6ae071ab-8b07-4e8f-871a-04df97484f67) |
+| Category | Customer Success Manager |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/retell-ai/f492185e-32ed-407c-9aea-c87b0dbfec15) |
 
 ## About This Role
 
-This technical & solutions architect position at Retell Ai was posted on 2026-08-19.
+This customer success manager position at Retell Ai was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

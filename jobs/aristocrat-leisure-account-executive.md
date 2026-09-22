@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Kirkland, Washington, United States |
+| Location | Brisbane, Queensland, Australia |
 | Category | Account Executive |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Kirkland-WA-US/Account-Executive_R0022463) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Brisbane/Account-Executive_R0022582) |
 
 ## About This Role
 
-This account executive position at Aristocrat Leisure was posted on 2026-08-22.
+This account executive position at Aristocrat Leisure was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

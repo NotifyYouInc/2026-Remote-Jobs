@@ -5,12 +5,12 @@
 | Company | [Multitude](https://scoutify.ai/companies/multitude?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://multitude.wd103.myworkdayjobs.com/careers_multitude/job/Vilnius-Office/Data-Scientist_JR100135-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://multitude.wd103.myworkdayjobs.com/careers_multitude/job/Vilnius-Office/Data-Scientist_JR100247) |
 
 ## About This Role
 
-This data scientist position at Multitude was posted on 2026-04-24.
+This data scientist position at Multitude was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

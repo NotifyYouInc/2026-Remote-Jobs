@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Minnesota, US |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Staff-Engineer_REQ-47641) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/MN---Minneapolis/Staff-Engineer_REQ-48338) |
 
 ## About This Role
 
-This software engineer position at Thrivent was posted on 2026-07-24.
+This software engineer position at Thrivent was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

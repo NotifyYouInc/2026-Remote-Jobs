@@ -5,12 +5,12 @@
 | Company | [Cambium Learning](https://scoutify.ai/companies/cambiumlearning?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Project Manager |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Project-Coordinator_REQ-4572) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Project-Coordinator_REQ-4620) |
 
 ## About This Role
 
-This project manager position at Cambium Learning was posted on 2026-08-17.
+This project manager position at Cambium Learning was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

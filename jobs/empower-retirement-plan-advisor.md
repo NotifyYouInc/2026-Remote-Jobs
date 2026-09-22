@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/UT-Salt-Lake-City---Remote/Retirement-Plan-Advisor_R0059803) |
+| Location | Atlanta, Georgia, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/GA-Atlanta---Remote/Retirement-Plan-Advisor_R0062345-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Empower was posted on 2026-07-23.
+This corporate finance position at Empower was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

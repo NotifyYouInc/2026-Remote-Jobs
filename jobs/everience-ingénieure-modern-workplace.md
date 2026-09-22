@@ -1,16 +1,16 @@
-# Ingénieur·e Modern Workplace  at Everience
+# Ingénieur.e modern workplace at Everience
 
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Montreuil, Île-de-France, France |
-| Category | IT & Systems Administration |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000148182379-ingenieure-modern-workplace) |
+| Location | Saint-Denis, Île-de-France, France |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000149525489-ingenieure-modern-workplace) |
 
 ## About This Role
 
-This it & systems administration position at Everience was posted on 2026-09-08.
+This technology / it consulting position at Everience was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Italy |
-| Category | Implementation / Professional Services |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/ITA---Remote/Field-Application-Specialist_R1314436) |
+| Location | Taiwan |
+| Category | Sales Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/TWN---Remote/Field-Application-Specialist_R1318421) |
 
 ## About This Role
 
-This implementation / professional services position at Danaher was posted on 2026-07-24.
+This sales engineer position at Danaher was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

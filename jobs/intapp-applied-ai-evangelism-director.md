@@ -5,12 +5,12 @@
 | Company | [Intapp](https://scoutify.ai/companies/intapp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Marketing |
-| Posted | 2026-09-05 |
-| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Palo-Alto-CA/Applied-AI-Evangelism-Director_R2025330-2) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Palo-Alto-CA/Applied-AI-Evangelism-Director_R2025346-1) |
 
 ## About This Role
 
-This marketing position at Intapp was posted on 2026-09-05.
+This marketing position at Intapp was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

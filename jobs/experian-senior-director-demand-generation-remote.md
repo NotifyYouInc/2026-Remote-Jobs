@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Costa Mesa, California, United States |
+| Location | United States |
 | Category | Growth Marketing |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135350829-senior-director-demand-generation-remote) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000149460539-senior-director-demand-generation-remote) |
 
 ## About This Role
 
-This growth marketing position at Experian was posted on 2026-07-01.
+This growth marketing position at Experian was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

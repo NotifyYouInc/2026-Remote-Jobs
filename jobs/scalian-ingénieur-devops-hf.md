@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Nantes, Pays de la Loire, France |
+| Location | Bruz, Brittany, France |
 | Category | DevOps Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000147870609-ingenieur-devops-hf) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000149532898-ingenieur-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Scalian was posted on 2026-09-07.
+This devops engineer position at Scalian was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

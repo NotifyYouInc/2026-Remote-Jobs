@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Riga, Riga, Latvia |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Program Manager |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000147944657-central-monitoring-manager) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000149574657-central-monitoring-manager) |
 
 ## About This Role
 
-This program manager position at Psi Cro was posted on 2026-09-07.
+This program manager position at Psi Cro was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

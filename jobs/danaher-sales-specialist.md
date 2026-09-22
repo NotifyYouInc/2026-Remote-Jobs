@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Account Executive |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/VNM---Ho-Chi-Minh-City---Pall-Corporation/Sales-Specialist_R1313048) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Tokyo-Japan/Sales-Specialist_R1318628) |
 
 ## About This Role
 
-This account executive position at Danaher was posted on 2026-07-08.
+This account executive position at Danaher was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

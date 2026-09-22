@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Project Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Project-Coordinator_RQ112937) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Project-Coordinator_RQ115697-1) |
 
 ## About This Role
 
-This project manager position at BP was posted on 2026-07-14.
+This project manager position at BP was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

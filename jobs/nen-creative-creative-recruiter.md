@@ -1,0 +1,22 @@
+# Creative Recruiter at Nen Creative
+
+| Field | Details |
+|-------|---------|
+| Company | [Nen Creative](https://scoutify.ai/companies/nen-creative?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | New York City, New York, United States |
+| Category | Talent Acquisition / Recruiting |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nen-creative/7898647b-e7e2-4ef5-b0ee-8faeb4d64d55) |
+
+## About This Role
+
+This talent acquisition / recruiting position at Nen Creative was posted on 2026-09-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

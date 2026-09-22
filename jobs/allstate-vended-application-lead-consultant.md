@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Illinois, US |
-| Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Vended-Application-Lead-Consultant_R27508) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Vended-Application-Lead-Consultant_R35093) |
 
 ## About This Role
 
-This devops engineer position at Allstate was posted on 2026-03-18.
+This technology / it consulting position at Allstate was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

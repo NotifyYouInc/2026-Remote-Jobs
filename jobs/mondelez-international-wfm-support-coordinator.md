@@ -1,16 +1,16 @@
-# WFM Support Coordinator at Mondelez International
+# WFM support coordinator at Mondelez International
 
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/India-Remote/WFM-Support-Coordinator_R-171887) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/India-Remote/WFM-support-coordinator_R-173513) |
 
 ## About This Role
 
-This it & systems administration position at Mondelez International was posted on 2026-07-17.
+This it & systems administration position at Mondelez International was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

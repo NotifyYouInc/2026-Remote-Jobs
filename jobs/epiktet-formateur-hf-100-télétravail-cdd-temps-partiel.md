@@ -5,12 +5,12 @@
 | Company | [Epiktet](https://scoutify.ai/companies/epiktet?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Learning & Development |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/epiktet/744000147456389-formateur-hf-100-teletravail-cdd-temps-partiel) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/epiktet/744000149558094-formateur-hf-100-teletravail-cdd-temps-partiel) |
 
 ## About This Role
 
-This learning & development position at Epiktet was posted on 2026-09-04.
+This learning & development position at Epiktet was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

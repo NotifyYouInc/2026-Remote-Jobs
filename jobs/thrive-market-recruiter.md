@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thrive Market](https://scoutify.ai/companies/thrive-market?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | California, US |
+| Location | Vista, California, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://thrivemarketjobs.com/job_posting.html?id=4245918009&gh_jid=4245918009) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://thrivemarketjobs.com/job_posting.html?id=4406096009&gh_jid=4406096009) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Thrive Market was posted on 2026-05-11.
+This talent acquisition / recruiting position at Thrive Market was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

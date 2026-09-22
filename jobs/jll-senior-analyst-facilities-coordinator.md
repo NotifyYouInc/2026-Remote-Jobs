@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Facilities-Coordinator_REQ489271) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Facilities-Coordinator_REQ523542-1) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-15.
+This technology / it consulting position at JLL was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

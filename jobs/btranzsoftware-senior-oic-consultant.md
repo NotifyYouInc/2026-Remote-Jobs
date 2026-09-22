@@ -5,12 +5,12 @@
 | Company | [btranzsoftware](https://scoutify.ai/companies/btranzsoftware?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000145491959-senior-oic-consultant) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000149514699-senior-oic-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at btranzsoftware was posted on 2026-08-25.
+This technology / it consulting position at btranzsoftware was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

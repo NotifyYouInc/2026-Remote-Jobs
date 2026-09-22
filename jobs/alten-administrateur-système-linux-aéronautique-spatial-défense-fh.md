@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139025844-administrateur-systeme-linux-aeronautique-spatial-defense-fh) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000149519819-administrateur-systeme-linux-aeronautique-spatial-defense-fh) |
 
 ## About This Role
 
-This it & systems administration position at ALTEN was posted on 2026-07-22.
+This it & systems administration position at ALTEN was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

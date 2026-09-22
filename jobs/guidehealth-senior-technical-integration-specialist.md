@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehealth](https://scoutify.ai/companies/guidehealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/guidehealth/3743990014070616-senior-technical-integration-specialist) |
+| Location | Atlanta, Georgia, United States |
+| Category | Customer Success |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/guidehealth/3743990015253582-senior-technical-integration-specialist) |
 
 ## About This Role
 
-This implementation / professional services position at Guidehealth was posted on 2026-07-13.
+This customer success position at Guidehealth was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Rennes, Brittany, France |
-| Category | Sales |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000148756159-directeurtrice-centre-de-relation-client-et-expertise-rennes-35-hf) |
+| Category | Sales Leadership |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000149550310-directeurtrice-centre-de-relation-client-et-expertise-rennes-35-hf) |
 
 ## About This Role
 
-This sales position at REXEL was posted on 2026-09-10.
+This sales leadership position at REXEL was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

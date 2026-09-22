@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Singapore, Singapore |
+| Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/cf5cac8c-90a5-4743-96dd-4098f7c3825b) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/2556ed81-1407-48f1-b595-c97b0ec5f429) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Bjak was posted on 2026-09-14.
+This talent acquisition / recruiting position at Bjak was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

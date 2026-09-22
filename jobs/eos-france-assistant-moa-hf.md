@@ -5,12 +5,12 @@
 | Company | [EOS France](https://scoutify.ai/companies/eosfrance?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Wasquehal, Hauts-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EOSFrance/744000148146359-assistant-moa-hf) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EOSFrance/744000149589949-assistant-moa-hf) |
 
 ## About This Role
 
-This business analyst position at EOS France was posted on 2026-09-08.
+This business analyst position at EOS France was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

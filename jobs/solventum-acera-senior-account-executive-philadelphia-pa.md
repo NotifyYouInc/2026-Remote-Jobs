@@ -5,12 +5,12 @@
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Pennsylvania, US |
 | Category | Account Executive |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Pennsylvania/Acera-Senior-Account-Executive---Philadelphia--PA_R01130274-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Pennsylvania/Acera-Senior-Account-Executive---Philadelphia--PA_R01133794-1) |
 
 ## About This Role
 
-This account executive position at Solventum was posted on 2026-07-30.
+This account executive position at Solventum was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

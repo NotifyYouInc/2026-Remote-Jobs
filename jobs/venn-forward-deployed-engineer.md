@@ -5,12 +5,12 @@
 | Company | [Venn](https://scoutify.ai/companies/venncity?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Forward Deployed Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/venncity/jobs/4716429005) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/venncity/jobs/4733828005) |
 
 ## About This Role
 
-This forward deployed engineer position at Venn was posted on 2026-07-17.
+This forward deployed engineer position at Venn was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

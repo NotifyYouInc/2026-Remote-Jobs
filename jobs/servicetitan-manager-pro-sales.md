@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Customer Success Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Manager--Pro-Sales_JR115442-1) |
+| Category | Sales Leadership |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Manager--Pro-Sales_JR115962-1) |
 
 ## About This Role
 
-This customer success manager position at ServiceTitan was posted on 2026-07-16.
+This sales leadership position at ServiceTitan was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
