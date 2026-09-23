@@ -5,12 +5,12 @@
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8203433) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8207264) |
 
 ## About This Role
 
-This corporate finance position at Capco was posted on 2026-09-15.
+This corporate finance position at Capco was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

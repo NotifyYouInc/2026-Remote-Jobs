@@ -5,12 +5,12 @@
 | Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Málaga, Andalusia, Spain |
 | Category | IT & Systems Administration |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000149557885-microsoft-365-administrator-sharepoint-teams) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000149782999-microsoft-365-administrator-sharepoint-teams) |
 
 ## About This Role
 
-This it & systems administration position at Drees & Sommer was posted on 2026-09-15.
+This it & systems administration position at Drees & Sommer was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

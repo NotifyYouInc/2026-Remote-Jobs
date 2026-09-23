@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | New York, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10541168/security-engineer-compliance-penetration-testing) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10544101/security-engineer-compliance-penetration-testing) |
 
 ## About This Role
 
-This cybersecurity engineer position at Amazon was posted on 2026-09-15.
+This cybersecurity engineer position at Amazon was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

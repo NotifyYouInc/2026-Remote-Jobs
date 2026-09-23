@@ -5,12 +5,12 @@
 | Company | [Sentilink](https://scoutify.ai/companies/sentilink?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Account Executive |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sentilink/042f6536-1aa2-4509-9a3a-82129fcbbbc3) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sentilink/bec9d34c-abae-42d3-80ab-c27c915123d2) |
 
 ## About This Role
 
-This account executive position at Sentilink was posted on 2026-05-29.
+This account executive position at Sentilink was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

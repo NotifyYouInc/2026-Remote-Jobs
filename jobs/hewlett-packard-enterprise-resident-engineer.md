@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Beijing, Beijing, China |
 | Category | Deployment Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Taichung-Taichung-City-Taiwan/Resident-Engineer_1212027-2) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Beijing-Beijing-China/Resident-Engineer_1212023) |
 
 ## About This Role
 
-This deployment engineer position at Hewlett Packard Enterprise was posted on 2026-09-14.
+This deployment engineer position at Hewlett Packard Enterprise was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

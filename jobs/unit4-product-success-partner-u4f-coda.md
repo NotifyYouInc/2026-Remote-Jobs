@@ -5,12 +5,12 @@
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
 | Category | Customer Success Manager |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000149274159-product-success-partner-u4f-coda) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000149790180-product-success-partner-u4f-coda) |
 
 ## About This Role
 
-This customer success manager position at Unit4 was posted on 2026-09-14.
+This customer success manager position at Unit4 was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

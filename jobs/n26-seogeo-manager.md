@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [N26](https://scoutify.ai/companies/n26?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Growth Marketing |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://n26.com/en-eu/careers/positions/8166707?gh_jid=8166707) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://n26.com/en-eu/careers/positions/8207228?gh_jid=8207228) |
 
 ## About This Role
 
-This growth marketing position at N26 was posted on 2026-09-08.
+This growth marketing position at N26 was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

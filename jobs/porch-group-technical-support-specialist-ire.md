@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Porch Group](https://scoutify.ai/companies/porch-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Colorado, US |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/CO-Remote/Technical-Support-Specialist--IRE_JR101390) |
+| Category | Customer Success |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/CO-Remote/Technical-Support-Specialist--IRE_JR101323) |
 
 ## About This Role
 
-This technical support engineer position at Porch Group was posted on 2026-07-23.
+This customer success position at Porch Group was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

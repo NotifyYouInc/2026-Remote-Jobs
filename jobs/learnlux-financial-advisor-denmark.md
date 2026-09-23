@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LearnLux](https://scoutify.ai/companies/learnlux?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Denmark |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/learnlux/jobs/5326010008) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/learnlux/jobs/5419494008) |
 
 ## About This Role
 
-This wealth management / private banking position at LearnLux was posted on 2026-07-10.
+This corporate finance position at LearnLux was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

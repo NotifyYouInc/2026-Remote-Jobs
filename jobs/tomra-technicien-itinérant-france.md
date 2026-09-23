@@ -5,12 +5,12 @@
 | Company | [TOMRA](https://scoutify.ai/companies/tomra?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Locminé, Brittany, France |
 | Category | Industrial Automation |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000138251044-technicien-itinerant-france) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000149777239-technicien-itinerant-france) |
 
 ## About This Role
 
-This industrial automation position at TOMRA was posted on 2026-07-17.
+This industrial automation position at TOMRA was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

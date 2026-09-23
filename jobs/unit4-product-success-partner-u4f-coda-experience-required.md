@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Customer Success |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000146935587-product-success-partner-u4f-coda-experience-required) |
+| Category | Customer Success Manager |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000149789360-product-success-partner-u4f-coda-experience-required) |
 
 ## About This Role
 
-This customer success position at Unit4 was posted on 2026-09-02.
+This customer success manager position at Unit4 was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

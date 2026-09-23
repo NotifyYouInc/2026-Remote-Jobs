@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Naples, Campania, Italy |
-| Category | Sales |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000142057480-key-customer-manager) |
+| Location | Munich, Bavaria, Germany |
+| Category | Account Manager |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000149816098-key-customer-manager) |
 
 ## About This Role
 
-This sales position at Intuitive Surgical was posted on 2026-08-07.
+This account manager position at Intuitive Surgical was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

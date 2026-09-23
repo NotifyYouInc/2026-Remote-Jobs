@@ -5,12 +5,12 @@
 | Company | [FactSet](https://scoutify.ai/companies/factset?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 3 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-08 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/AI-Developer-Enablement-Engineer_R32477) |
 
 ## About This Role
 
-This ai / llm engineer position at FactSet was posted on 2026-06-08.
+This ai / llm engineer position at FactSet was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

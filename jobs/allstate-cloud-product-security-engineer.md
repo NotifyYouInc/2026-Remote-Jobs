@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-04-28 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Cloud-Product-Security-Engineer_R29721) |
 
 ## About This Role
 
-This security engineer position at Allstate was posted on 2026-04-28.
+This cybersecurity engineer position at Allstate was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
