@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ollioules, Provence-Alpes-Côte d'Azur, France |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000147883510-ingenieur-systeme-hf) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000150065589-ingenieur-systeme-hf) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Scalian was posted on 2026-09-07.
+This embedded / firmware engineer position at Scalian was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

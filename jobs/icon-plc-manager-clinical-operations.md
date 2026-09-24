@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Blue Bell, Pennsylvania, United States |
 | Category | Program Manager |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Taiwan-Taipei/Manager--Clinical-Operations_JR159507) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Manager--Clinical-Operations_JR159978-1) |
 
 ## About This Role
 
-This program manager position at ICON plc was posted on 2026-09-09.
+This program manager position at ICON plc was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

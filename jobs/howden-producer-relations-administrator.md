@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | San Diego, California, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/San-Diego--350-10th-Avenue/Producer-Relations-Administrator_R0018448-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/San-Diego--350-10th-Avenue/Producer-Relations-Administrator_R0019285-1) |
 
 ## About This Role
 
-This compliance & risk management position at Howden was posted on 2026-07-23.
+This compliance & risk management position at Howden was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

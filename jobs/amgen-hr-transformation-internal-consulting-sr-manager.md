@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Human Resources / People Ops |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/HR-Transformation--Internal-Consulting---Sr-Manager_R-246813) |
+| Category | Strategy & Operations |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/HR-Transformation--Internal-Consulting---Sr-Manager_R-255595) |
 
 ## About This Role
 
-This human resources / people ops position at Amgen was posted on 2026-06-04.
+This strategy & operations position at Amgen was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

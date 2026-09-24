@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Oklahoma, US |
+| Location | Arizona, US |
 | Category | Account Manager |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OK/Provider-Engagement-Account-Manager_1651931) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-AZ/Provider-Engagement-Account-Manager_1659334) |
 
 ## About This Role
 
-This account manager position at Centene was posted on 2026-08-18.
+This account manager position at Centene was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

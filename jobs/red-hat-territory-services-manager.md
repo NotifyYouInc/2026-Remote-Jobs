@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Raleigh, North Carolina, United States |
-| Category | Sales |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tysons-Corner/Territory-Services-Manager_R-058811) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Account Manager |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Amsterdam---MSO/Territory-Services-Manager_R-058981-1) |
 
 ## About This Role
 
-This sales position at Red Hat was posted on 2026-08-14.
+This account manager position at Red Hat was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

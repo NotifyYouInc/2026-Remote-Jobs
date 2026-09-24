@@ -5,12 +5,12 @@
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Product Designer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000147612879-senior-experience-designer-webiva) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000149957029-senior-experience-designer-webiva) |
 
 ## About This Role
 
-This product designer position at EVERSANA was posted on 2026-09-04.
+This product designer position at EVERSANA was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

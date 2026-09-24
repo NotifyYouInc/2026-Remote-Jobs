@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Albany, New York, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Sales Leadership |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Albany-New-York-United-States/District-Manager_R-170455-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Springfield-Missouri-United-States/District-Manager_R-170449-1) |
 
 ## About This Role
 
-This sales leadership position at Mondelez International was posted on 2026-07-14.
+This sales leadership position at Mondelez International was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Salinasvalleyhealth](https://scoutify.ai/companies/salinasvalleyhealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | California, US |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://salinasvalleyhealth.wd5.myworkdayjobs.com/salinasvalleyhealth/job/Remote-California/Human-Resources-Specialist---PD_SVH-103318) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://salinasvalleyhealth.wd5.myworkdayjobs.com/salinasvalleyhealth/job/Remote-California/Human-Resources-Specialist---Per-Diem_SVH-103540) |
 
 ## About This Role
 
-This human resources / people ops position at Salinasvalleyhealth was posted on 2026-07-10.
+This human resources / people ops position at Salinasvalleyhealth was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

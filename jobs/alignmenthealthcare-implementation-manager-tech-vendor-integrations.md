@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alignmenthealthcare](https://scoutify.ai/companies/alignmenthealthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Customer Success |
-| Posted | 2026-09-05 |
-| Apply | [View on company site](https://alignmenthealthcare.wd12.myworkdayjobs.com/ahc_external/job/Anywhere-in-the-US/Implementation-Manager---Tech---Vendor-Integrations_R2494) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://alignmenthealthcare.wd12.myworkdayjobs.com/ahc_external/job/Anywhere-in-the-US/Implementation-Manager---Tech---Vendor-Integrations_R2553) |
 
 ## About This Role
 
-This customer success position at Alignmenthealthcare was posted on 2026-09-05.
+This customer success position at Alignmenthealthcare was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# (Senior) Project Manager - Regulatory Compliance at Parexel
+# Senior Project Manager - Regulatory Compliance at Parexel
 
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 5 locations |
-| Category | Project Manager |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/South-Korea-Remote/XMLNAME--Senior--Project-Manager---Regulatory-Compliance_R0000045552) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/South-Korea-Remote/Senior-Project-Manager---Regulatory-Compliance_R0000045534-1) |
 
 ## About This Role
 
-This project manager position at Parexel was posted on 2026-09-03.
+This compliance & risk management position at Parexel was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Frankfurt am Main, Hesse, Germany |
+| Location | Germany |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000149528719-eu-digital-wealth-channel-marketing-manager) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000150083089-eu-digital-wealth-channel-marketing-manager) |
 
 ## About This Role
 
-This digital / performance marketing position at Legal & General was posted on 2026-09-15.
+This digital / performance marketing position at Legal & General was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

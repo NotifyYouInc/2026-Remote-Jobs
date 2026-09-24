@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Program Manager |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Transaction-Manager_REQ535391) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Transaction-Manager_REQ532296) |
 
 ## About This Role
 
-This program manager position at JLL was posted on 2026-09-11.
+This program manager position at JLL was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

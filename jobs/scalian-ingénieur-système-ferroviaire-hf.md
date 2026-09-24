@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Technology / IT Consulting |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000147879196-ingenieur-systeme-ferroviaire-hf) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000150065949-ingenieur-systeme-ferroviaire-hf) |
 
 ## About This Role
 
-This technology / it consulting position at Scalian was posted on 2026-09-07.
+This technology / it consulting position at Scalian was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

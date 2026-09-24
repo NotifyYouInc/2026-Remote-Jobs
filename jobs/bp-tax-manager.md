@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United Kingdom |
+| Location | Rotterdam, South Holland, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/Tax-Manager_RQ114126-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Netherlands---Europoort-Rotterdam/Tax-Manager_RQ115518-1) |
 
 ## About This Role
 
-This corporate finance position at BP was posted on 2026-08-07.
+This corporate finance position at BP was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PerkinElmer Canada](https://scoutify.ai/companies/perkinelmer-canada?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/Italy---Remote-Home-Based/Regional-Product-Manager_REQ-058325) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/Germany-Remote/Regional-Product-Manager_REQ-058502) |
 
 ## About This Role
 
-This product manager position at PerkinElmer Canada was posted on 2026-09-15.
+This product manager position at PerkinElmer Canada was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

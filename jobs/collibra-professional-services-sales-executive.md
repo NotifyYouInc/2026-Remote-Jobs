@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Collibra](https://scoutify.ai/companies/collibra?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Australia |
 | Category | Account Executive |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8064005) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8208559) |
 
 ## About This Role
 
-This account executive position at Collibra was posted on 2026-07-14.
+This account executive position at Collibra was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

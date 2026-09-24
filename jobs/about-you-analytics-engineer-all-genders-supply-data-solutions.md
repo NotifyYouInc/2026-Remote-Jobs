@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Hamburg, Hamburg, Germany |
-| Category | Data Analyst |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000147445859-analytics-engineer-all-genders-supply-data-solutions) |
+| Category | Data Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000150021709-analytics-engineer-all-genders-supply-data-solutions) |
 
 ## About This Role
 
-This data analyst position at About You was posted on 2026-09-04.
+This data engineer position at About You was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haufe Group](https://scoutify.ai/companies/haufegroup?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Germany |
-| Category | Growth Marketing |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HaufeGroup/744000144542426-senior-marketing-managerin-fur-bestandskunden-und-account-based-marketing-dmw-remote-50-80) |
+| Location | Baden-Wurttemberg, DE |
+| Category | Product Marketing |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HaufeGroup/744000150013739-senior-marketing-managerin-fur-bestandskunden-und-account-based-marketing-dmw-remote-50-80) |
 
 ## About This Role
 
-This growth marketing position at Haufe Group was posted on 2026-08-20.
+This product marketing position at Haufe Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

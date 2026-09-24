@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 4 locations |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10469731/gss-tech-sourcing-recruiter-wwas-ta-c-sourcing) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10551533/gss-tech-sourcing-recruiter-wwas-ta-c-sourcing) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Amazon was posted on 2026-07-09.
+This talent acquisition / recruiting position at Amazon was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

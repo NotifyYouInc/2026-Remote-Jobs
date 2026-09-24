@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Bellevue, Washington, United States |
-| Category | Mobile Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Principal-Engineers--Software_REQ362183) |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Principal-Engineers--Software_REQ373671) |
 
 ## About This Role
 
-This mobile engineer position at T-Mobile was posted on 2026-07-16.
+This software engineer position at T-Mobile was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

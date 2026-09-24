@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ollioules, Provence-Alpes-Côte d'Azur, France |
 | Category | QA Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000147888819-ingenieur-verification-validation-et-qualification-hf) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000150065444-ingenieur-verification-validation-et-qualification-hf) |
 
 ## About This Role
 
-This qa engineer position at Scalian was posted on 2026-09-07.
+This qa engineer position at Scalian was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

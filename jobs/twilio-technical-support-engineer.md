@@ -1,16 +1,16 @@
-# Technical Support Engineer  at Twilio
+# Technical Support Engineer at Twilio
 
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Ireland |
 | Category | Customer Success |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7592249) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8208126) |
 
 ## About This Role
 
-This customer success position at Twilio was posted on 2026-02-11.
+This customer success position at Twilio was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

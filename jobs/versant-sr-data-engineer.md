@@ -1,16 +1,16 @@
-# Sr Data Engineer at Versant
+# Sr. Data Engineer at Versant
 
 | Field | Details |
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131968097-sr-data-engineer) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000150006839-sr-data-engineer) |
 
 ## About This Role
 
-This data engineer position at Versant was posted on 2026-06-12.
+This data engineer position at Versant was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

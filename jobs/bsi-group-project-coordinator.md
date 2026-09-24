@@ -5,12 +5,12 @@
 | Company | [BSI Group](https://scoutify.ai/companies/bsi-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United Kingdom |
 | Category | Project Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://bsigroup.wd3.myworkdayjobs.com/bsi_careers/job/United-Kingdom---Homebased/Project-Coordinator_JR0020245) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://bsigroup.wd3.myworkdayjobs.com/bsi_careers/job/United-Kingdom---Homebased/Project-Coordinator_JR0020885-1) |
 
 ## About This Role
 
-This project manager position at BSI Group was posted on 2026-05-18.
+This project manager position at BSI Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Legal |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000148166056-stage-juriste-droit-social-hf) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000150088044-stage-juriste-droit-social-hf) |
 
 ## About This Role
 
-This legal position at REXEL was posted on 2026-09-08.
+This legal position at REXEL was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

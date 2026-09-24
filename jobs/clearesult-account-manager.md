@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Michigan, US |
+| Location | New Mexico, US |
 | Category | Account Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Michigan/Account-Manager_R0017865) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---New-Mexico/Account-Manager_R0018148-1) |
 
 ## About This Role
 
-This account manager position at CLEAResult was posted on 2026-07-30.
+This account manager position at CLEAResult was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

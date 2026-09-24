@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Adelaide, South Australia, Australia |
+| Location | 4 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Adelaide-South-Australia-Australia/Principal-Electrical-Engineer_R2119870) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Adelaide-South-Australia-Australia/Principal-Electrical-Engineer_R2129593) |
 
 ## About This Role
 
-This electrical / hardware engineer position at KBR was posted on 2026-03-04.
+This electrical / hardware engineer position at KBR was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

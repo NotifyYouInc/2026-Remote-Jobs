@@ -1,16 +1,16 @@
-# Contract IT Specialist  at Customer.io
+# Contract IT Specialist at Customer.io
 
 | Field | Details |
 |-------|---------|
 | Company | [Customer.io](https://scoutify.ai/companies/customerio?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/customerio/jobs/8076149) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/customerio/jobs/8209174) |
 
 ## About This Role
 
-This it & systems administration position at Customer.io was posted on 2026-07-21.
+This it & systems administration position at Customer.io was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

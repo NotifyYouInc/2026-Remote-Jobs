@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Security Engineer |
-| Posted | 2026-07-02 |
+| Location | Cupertino, California, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200670724/security-software-engineer-secure-transports-sear) |
 
 ## About This Role
 
-This security engineer position at Apple was posted on 2026-07-02.
+This cybersecurity engineer position at Apple was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

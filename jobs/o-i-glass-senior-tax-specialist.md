@@ -5,12 +5,12 @@
 | Company | [O-I Glass](https://scoutify.ai/companies/oiglass?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Poznań, Greater Poland, Poland |
 | Category | Corporate Finance |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000134728761-senior-tax-specialist) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000150011049-senior-tax-specialist) |
 
 ## About This Role
 
-This corporate finance position at O-I Glass was posted on 2026-06-29.
+This corporate finance position at O-I Glass was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

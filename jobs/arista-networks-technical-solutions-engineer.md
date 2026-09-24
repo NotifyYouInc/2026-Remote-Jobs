@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000135241910-technical-solutions-engineer) |
+| Category | Customer Success |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000149957679-technical-solutions-engineer) |
 
 ## About This Role
 
-This technical support engineer position at Arista Networks was posted on 2026-07-01.
+This customer success position at Arista Networks was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Vice President of Total Rewards at Pyramid Healthcare
+
+| Field | Details |
+|-------|---------|
+| Company | [Pyramid Healthcare](https://scoutify.ai/companies/pyramid-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
+| Location | United States |
+| Category | Human Resources / People Ops |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/1pyra)mid_health&care/jobs/5423495008) |
+
+## About This Role
+
+This human resources / people ops position at Pyramid Healthcare was posted on 2026-09-16.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Grand Rapids, Michigan, United States |
-| Category | Wealth Management / Private Banking |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Grand-Rapids/Wealth-Management-Client-Associate_26032233-2) |
+| Location | Auburn Hills, Michigan, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Auburn-Hills/Wealth-Management-Client-Associate_26033942-1) |
 
 ## About This Role
 
-This wealth management / private banking position at Bank of America was posted on 2026-09-03.
+This corporate finance position at Bank of America was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

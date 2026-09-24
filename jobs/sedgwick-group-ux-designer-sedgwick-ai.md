@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Arkansas, US |
-| Category | UX Researcher |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-TN/UX-Designer---Sedgwick-AI_R71454) |
+| Category | Product Designer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-TN/UX-Designer---Sedgwick-AI_R78185) |
 
 ## About This Role
 
-This ux researcher position at Sedgwick Group was posted on 2026-03-09.
+This product designer position at Sedgwick Group was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

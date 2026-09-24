@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Shanghai, Shanghai, China |
 | Category | Account Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011954146-key-account-manager) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015331926-key-account-manager) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-03-03.
+This account manager position at AbbVie was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Bothell, Washington, United States |
 | Category | QA Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Lead-Quality-Assurance_R-106634) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bothell-Washington/Lead-Quality-Assurance_R-118701) |
 
 ## About This Role
 
-This qa engineer position at AT&T was posted on 2026-04-10.
+This qa engineer position at AT&T was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
