@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Not specified |
 | Category | Sales Leadership |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/ABDG-Regional-Sales-Director_R26_1321) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/ABDG-Regional-Sales-Director_R26_3780-1) |
 
 ## About This Role
 
-This sales leadership position at Ameriprise Financial was posted on 2026-04-07.
+This sales leadership position at Ameriprise Financial was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

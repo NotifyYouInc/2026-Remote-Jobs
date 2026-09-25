@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Revalize](https://scoutify.ai/companies/revalize?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Sales |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/revalize/744000141848726-account-executive-cpq-solutions) |
+| Category | Account Executive |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/revalize/744000150358259-account-executive-cpq-solutions) |
 
 ## About This Role
 
-This sales position at Revalize was posted on 2026-08-06.
+This account executive position at Revalize was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Consultant- Agentic Change Enablement at Egen
+# Senior Consultant, Agentic Change Enablement at Egen
 
 | Field | Details |
 |-------|---------|
 | Company | [Egen](https://scoutify.ai/companies/egen?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.lever.co/egen/6ad107ec-6dbf-4157-86a2-a58e17f38078) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.lever.co/egen/80fff01e-84fd-42fd-9b9b-bf59824a053c) |
 
 ## About This Role
 
-This strategy / management consulting position at Egen was posted on 2026-06-24.
+This technology / it consulting position at Egen was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

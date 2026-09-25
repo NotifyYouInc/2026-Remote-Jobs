@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PLACE Corporate Careers](https://scoutify.ai/companies/place-corporate-careers?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://place.com/corporate-careers/4730998005?gh_jid=4730998005) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://place.com/corporate-careers/4735351005?gh_jid=4735351005) |
 
 ## About This Role
 
-This human resources / people ops position at PLACE Corporate Careers was posted on 2026-09-03.
+This human resources / people ops position at PLACE Corporate Careers was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Brazil |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-Brazil/Cloud-Consultant_R-057486-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-Brazil/Cloud-Consultant_R-059659-1) |
 
 ## About This Role
 
-This technology / it consulting position at Red Hat was posted on 2026-06-20.
+This technology / it consulting position at Red Hat was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

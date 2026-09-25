@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Huntress](https://scoutify.ai/companies/huntress?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Australia |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/huntress/jobs/7978528003) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/huntress/jobs/7998473003) |
 
 ## About This Role
 
-This soc & incident response position at Huntress was posted on 2026-08-28.
+This cybersecurity engineer position at Huntress was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

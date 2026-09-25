@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Reno, Nevada, United States |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Reno-Nevada/Senior-Sales-System-Engineer-2-Ter_R-120196-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Ghent-Kentucky/Senior-Sales-System-Engineer-2-Ter_R-122752) |
 
 ## About This Role
 
-This sales engineer position at AT&T was posted on 2026-08-20.
+This sales engineer position at AT&T was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000146639369-mso-openstack-engineer) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000150289019-mso-openstack-engineer) |
 
 ## About This Role
 
-This devops engineer position at Software Mind was posted on 2026-09-01.
+This devops engineer position at Software Mind was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

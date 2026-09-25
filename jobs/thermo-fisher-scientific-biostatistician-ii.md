@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | North Carolina, US |
+| Location | United Kingdom |
 | Category | Bioinformatics / Computational Biology |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Biostatistician-II_R-01364119) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-United-Kingdom/Biostatistician-II_R-01366869) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Thermo Fisher Scientific was posted on 2026-08-19.
+This bioinformatics / computational biology position at Thermo Fisher Scientific was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

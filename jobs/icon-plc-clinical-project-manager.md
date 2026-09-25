@@ -5,12 +5,12 @@
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 8 locations |
 | Category | Project Manager |
-| Posted | 2026-07-08 |
+| Posted | 2026-09-18 |
 | Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Spain-Madrid/Global-Study-Lead_JR152025) |
 
 ## About This Role
 
-This project manager position at ICON plc was posted on 2026-07-08.
+This project manager position at ICON plc was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

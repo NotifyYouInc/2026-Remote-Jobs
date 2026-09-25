@@ -5,12 +5,12 @@
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000135935630-mid-level-interaction-designer-3-month-contract) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000150296280-mid-level-interaction-designer-3-month-contract) |
 
 ## About This Role
 
-This product designer position at Northgate Information Solutions was posted on 2026-07-06.
+This product designer position at Northgate Information Solutions was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

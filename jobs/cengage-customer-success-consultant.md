@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cengage](https://scoutify.ai/companies/cengage?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Wisconsin, US |
-| Category | Customer Success Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://cengage.wd5.myworkdayjobs.com/cengagenorthamericacareers/job/Wisconsin-USA/Customer-Success-Consultant_R2026-854) |
+| Location | Kentucky, US |
+| Category | Customer Success |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://cengage.wd5.myworkdayjobs.com/cengagenorthamericacareers/job/Kentucky-USA/Customer-Success-Consultant_R2026-1182) |
 
 ## About This Role
 
-This customer success manager position at Cengage was posted on 2026-07-20.
+This customer success position at Cengage was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

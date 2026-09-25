@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 2 locations |
+| Location | Bucharest, București, Romania |
 | Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Minneapolis-MN/Occupancy-Planner_REQ514707) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bucharest-ROU/Occupancy-Planner_REQ534479) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-06-23.
+This business analyst position at JLL was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

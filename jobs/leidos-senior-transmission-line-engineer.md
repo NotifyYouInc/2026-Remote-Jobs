@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 23 locations |
+| Location | 10 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Transmission-Line-Engineer_R-00191471) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Transmission-Line-Engineer_R-00192571) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Leidos was posted on 2026-09-03.
+This electrical / hardware engineer position at Leidos was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

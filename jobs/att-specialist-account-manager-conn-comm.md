@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Specialist-Account-Manager-Conn-Comm_R-105214) |
+| Location | San Francisco, California, United States |
+| Category | Account Manager |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Francisco-California/Specialist-Account-Manager-Conn-Comm_R-121686-1) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-03-30.
+This account manager position at AT&T was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

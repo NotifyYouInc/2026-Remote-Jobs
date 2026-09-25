@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LaunchDarkly](https://scoutify.ai/companies/launchdarkly?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/launchdarkly/jobs/7736270003) |
+| Location | West, Texas, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/launchdarkly/jobs/7998757003) |
 
 ## About This Role
 
-This security engineer position at LaunchDarkly was posted on 2026-05-15.
+This cybersecurity engineer position at LaunchDarkly was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

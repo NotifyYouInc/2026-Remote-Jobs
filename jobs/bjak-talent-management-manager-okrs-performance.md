@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | China |
+| Location | United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/0ce9b026-2e89-4788-9be2-5c945ba69d83) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/623946f2-5200-485a-8a91-b911eef92b60) |
 
 ## About This Role
 
-This human resources / people ops position at Bjak was posted on 2026-08-27.
+This human resources / people ops position at Bjak was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

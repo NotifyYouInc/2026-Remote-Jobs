@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nourish](https://scoutify.ai/companies/nourish-usenourish?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Evansville, Indiana, United States |
-| Category | Sales |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/usenourish/jobs/5416565008) |
+| Location | Houston, Texas, United States |
+| Category | Strategic Partnerships |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/usenourish/jobs/5427560008) |
 
 ## About This Role
 
-This sales position at Nourish was posted on 2026-09-04.
+This strategic partnerships position at Nourish was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

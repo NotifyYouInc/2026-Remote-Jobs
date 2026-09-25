@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Orlando-Florida/Business-Sales-Representative---Territory-Accounts_R-121310) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USANCWilmington--N-4Th-St---Co102-N-4Th-St/Business-Sales-Representative---Territory-Accounts_R-122890-1) |
 
 ## About This Role
 
-This account executive position at AT&T was posted on 2026-09-15.
+This account executive position at AT&T was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

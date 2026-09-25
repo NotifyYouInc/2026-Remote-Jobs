@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Japan |
-| Category | Account Executive |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3439) |
+| Location | United Arab Emirates |
+| Category | Channel / Partner Sales |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3969) |
 
 ## About This Role
 
-This account executive position at Akamai was posted on 2026-08-07.
+This channel / partner sales position at Akamai was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

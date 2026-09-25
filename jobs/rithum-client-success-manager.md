@@ -5,12 +5,12 @@
 | Company | [Rithum](https://scoutify.ai/companies/rithum?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Customer Success |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rithum/jobs/7918906) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rithum/jobs/8212061) |
 
 ## About This Role
 
-This customer success position at Rithum was posted on 2026-05-14.
+This customer success position at Rithum was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

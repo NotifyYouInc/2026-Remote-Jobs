@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LeafLink](https://scoutify.ai/companies/leaflink?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
-| Category | Account Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/leaflink/jobs/8573960002) |
+| Location | United States |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/leaflink/jobs/8817872002) |
 
 ## About This Role
 
-This account manager position at LeafLink was posted on 2026-07-07.
+This treasury & capital markets position at LeafLink was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

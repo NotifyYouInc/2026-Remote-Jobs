@@ -1,16 +1,16 @@
-# Senior Manager- AI Engineer at CVS Health
+# Senior Manager AI Engineer at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Connecticut, US |
-| Category | Engineering Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Senior-Manager--AI-Engineer_R0945552) |
+| Location | Florida, US |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Manager-AI-Engineer_R1044745) |
 
 ## About This Role
 
-This engineering manager position at CVS Health was posted on 2026-06-23.
+This ai / llm engineer position at CVS Health was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Work-From-Home/Finance-Transformation-Domain-Architect_R236131) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Work-From-Home/Finance-Transformation-Domain-Architect_R264705) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Sysco was posted on 2026-03-02.
+This fp&a / strategic finance position at Sysco was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rithum LinkedIn Board](https://scoutify.ai/companies/rithum-linkedin-board?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rithumliboard/jobs/7923369) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rithumliboard/jobs/8212438) |
 
 ## About This Role
 
-This customer success position at Rithum LinkedIn Board was posted on 2026-05-14.
+This customer success position at Rithum LinkedIn Board was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

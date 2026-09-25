@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Montrouge, Île-de-France, France |
-| Category | Technology / IT Consulting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000145909495-integrateur-packageur) |
+| Category | Deployment Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000150360869-integrateur-packageur) |
 
 ## About This Role
 
-This technology / it consulting position at Everience was posted on 2026-08-27.
+This deployment engineer position at Everience was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
