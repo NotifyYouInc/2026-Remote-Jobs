@@ -5,12 +5,12 @@
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Lead-Analyst--Business-Resiliency_R049015) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Lead-Analyst--Business-Resiliency_R051472) |
 
 ## About This Role
 
-This compliance & risk management position at Ensemble Health Partners was posted on 2026-08-20.
+This compliance & risk management position at Ensemble Health Partners was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

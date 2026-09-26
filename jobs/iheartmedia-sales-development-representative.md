@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [iHeartMedia](https://scoutify.ai/companies/iheartmedia?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Florida, US |
-| Category | Sales |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Virtual-FL/Sales-Development-Representative_Req39084-4) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Virtual-FL/Sales-Development-Representative_Req39342-1) |
 
 ## About This Role
 
-This sales position at iHeartMedia was posted on 2026-08-12.
+This sales development (sdr / bdr) position at iHeartMedia was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

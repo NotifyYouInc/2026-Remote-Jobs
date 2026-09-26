@@ -5,12 +5,12 @@
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | 2 locations |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Bilingual-Service-Center-Specialist-II_R202674428) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Orlando-FL/Bilingual-Service-Center-Specialist-II_R202682566) |
 
 ## About This Role
 
-This human resources / people ops position at Cox was posted on 2026-03-12.
+This human resources / people ops position at Cox was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

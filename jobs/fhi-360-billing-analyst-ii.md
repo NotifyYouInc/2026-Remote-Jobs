@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fhi 360](https://scoutify.ai/companies/fhi-360?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | District of Columbia, US |
-| Category | Accounting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/USA-Remote-Any/Billing-Analyst-II_Requisition-2026201041) |
+| Category | Corporate Finance |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/USA-Remote-Any/Billing-Analyst-II_Requisition-2026201276) |
 
 ## About This Role
 
-This accounting position at Fhi 360 was posted on 2026-07-10.
+This corporate finance position at Fhi 360 was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

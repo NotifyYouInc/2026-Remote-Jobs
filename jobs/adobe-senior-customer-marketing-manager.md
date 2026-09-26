@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Los Angeles, California, United States |
 | Category | Growth Marketing |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Customer-Marketing-Manager_R169114) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Los-Angeles/Senior-Customer-Marketing-Manager_R171951) |
 
 ## About This Role
 
-This growth marketing position at Adobe was posted on 2026-05-28.
+This growth marketing position at Adobe was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

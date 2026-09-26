@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Technology / IT Consulting |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Toronto-40-King-St-W-Corp/ServiceNow-Business-Process-Consultant_R00354346) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Toronto-40-King-St-W-Corp/ServiceNow-Business-Process-Consultant_R00356212) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-09-16.
+This technology / it consulting position at Accenture was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

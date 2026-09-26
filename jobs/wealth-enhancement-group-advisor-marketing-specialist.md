@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wealth Enhancement Group](https://scoutify.ai/companies/wealthenhancement?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
-| Category | Growth Marketing |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Remote/Advisor-Marketing-Specialist_R-102381) |
+| Category | Field & Event Marketing |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Remote/Advisor-Marketing-Specialist_R-102745) |
 
 ## About This Role
 
-This growth marketing position at Wealth Enhancement Group was posted on 2026-04-29.
+This field & event marketing position at Wealth Enhancement Group was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

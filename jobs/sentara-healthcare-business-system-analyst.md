@@ -1,16 +1,16 @@
-# Business System Analyst at Sentara Healthcare
+# BUSINESS SYSTEM ANALYST at Sentara Healthcare
 
 | Field | Details |
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Elizabeth City, North Carolina, United States |
+| Location | Norfolk, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Remote---TN/Business-System-Analyst_JR-94938) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Norfolk-VA/BUSINESS-SYSTEM-ANALYST_JR-105824) |
 
 ## About This Role
 
-This business analyst position at Sentara Healthcare was posted on 2026-03-03.
+This business analyst position at Sentara Healthcare was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

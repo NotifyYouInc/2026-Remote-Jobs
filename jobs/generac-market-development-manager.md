@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Generac](https://scoutify.ai/companies/generac?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | 23 locations |
-| Category | Engineering Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Berlin-WI---USA/Market-Development-Manager_JR14543) |
+| Location | 3 locations |
+| Category | Channel / Partner Sales |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/South-Portland-ME---USA/Market-Development-Manager_JR16938) |
 
 ## About This Role
 
-This engineering manager position at Generac was posted on 2026-06-05.
+This channel / partner sales position at Generac was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

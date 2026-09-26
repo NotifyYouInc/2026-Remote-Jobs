@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | South Carolina, US |
+| Location | Illinois, US |
 | Category | Account Executive |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-South-Carolina-USA/Enterprise-Account-Executive_R012928) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-Illinois-USA/Enterprise-Account-Executive_R014200) |
 
 ## About This Role
 
-This account executive position at SailPoint Technologies was posted on 2026-03-12.
+This account executive position at SailPoint Technologies was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

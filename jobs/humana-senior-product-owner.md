@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | United States |
+| Location | Kentucky, US |
 | Category | Product Manager |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Product-Owner_R-424441-1) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Senior-Product-Owner_R-431060) |
 
 ## About This Role
 
-This product manager position at Humana was posted on 2026-08-06.
+This product manager position at Humana was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

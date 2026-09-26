@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal-Cybersecurity-Analyst_R10243724) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Principal-Cybersecurity-Analyst_R10251193) |
 
 ## About This Role
 
-This cybersecurity engineer position at Northrop Grumman was posted on 2026-08-09.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

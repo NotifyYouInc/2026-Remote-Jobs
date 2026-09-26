@@ -5,12 +5,12 @@
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | United States |
 | Category | Operations |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09514---California-Remote/Manager--Revenue-Operations--ROPS-_R0474640) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/19511---Pennsylvania-Remote/Manager--Revenue-Operations--ROPS-_R0477892-1) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-08-25.
+This operations position at DaVita was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | North Carolina, US |
 | Category | Project Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Project-Manager--REMS-Team---Remote-based-in-the-US_R-01346000) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Project-Manager--REMS-Team---Remote-based-in-the-US_R-01367402) |
 
 ## About This Role
 
-This project manager position at Thermo Fisher Scientific was posted on 2026-03-19.
+This project manager position at Thermo Fisher Scientific was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

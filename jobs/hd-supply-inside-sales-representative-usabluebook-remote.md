@@ -1,16 +1,16 @@
-# Inside Sales Representative  (USABlueBook) - Remote at HD Supply
+# Inside Sales Representative (USABlueBook) - Remote at HD Supply
 
 | Field | Details |
 |-------|---------|
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Illinois, US |
-| Category | Sales |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Remote-IL-US/Inside-Sales-Representative---USABlueBook----Remote_R26004690) |
+| Location | Waukegan, Illinois, United States |
+| Category | Account Executive |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Waukegan-IL-US/Inside-Sales-Representative--USABlueBook----Remote_R26005165) |
 
 ## About This Role
 
-This sales position at HD Supply was posted on 2026-09-01.
+This account executive position at HD Supply was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Norfolk, Virginia, United States |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Norfolk-VA/Regional-Sales-Manager_REQ2026069324-1) |
+| Category | Sales Leadership |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Norfolk-VA/Regional-Sales-Manager_REQ2026080992) |
 
 ## About This Role
 
-This sales position at Valeo was posted on 2026-02-06.
+This sales leadership position at Valeo was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Etsy](https://scoutify.ai/companies/etsy?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
 | Location | Brooklyn, New York, United States |
 | Category | Trust & Safety |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Policy-Enforcement-Manager--Creativity-Standards_JR5588-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Policy-Enforcement-Manager--Creativity-Standards_JR5847-1) |
 
 ## About This Role
 
-This trust & safety position at Etsy was posted on 2026-05-29.
+This trust & safety position at Etsy was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

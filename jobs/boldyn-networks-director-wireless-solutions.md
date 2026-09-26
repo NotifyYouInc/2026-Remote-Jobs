@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boldyn Networks](https://scoutify.ai/companies/baicommunications?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Broadway, Virginia, United States |
-| Category | Account Executive |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://baicommunications.wd3.myworkdayjobs.com/external/job/New-York---Broadway/Director--Wireless-Solutions_JR1534) |
+| Location | Texas, US |
+| Category | Sales Leadership |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://baicommunications.wd3.myworkdayjobs.com/external/job/Texas-Remote/Director--Wireless-Solutions_JR1535) |
 
 ## About This Role
 
-This account executive position at Boldyn Networks was posted on 2026-09-11.
+This sales leadership position at Boldyn Networks was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

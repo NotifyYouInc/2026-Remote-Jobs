@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | El Paso, Texas, United States |
-| Category | Sales |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/El-Paso-TX/Portfolio-Manager-III---NextGear-Capital_R202682090) |
+| Location | Alabama, US |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Alabama/Portfolio-Manager-III---NextGear-Capital_R202682699) |
 
 ## About This Role
 
-This sales position at Cox was posted on 2026-09-04.
+This asset management / portfolio management position at Cox was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

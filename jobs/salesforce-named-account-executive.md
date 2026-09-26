@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Chile |
-| Category | Sales |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Chile---Remote/Named-Account-Executive_JR357338) |
+| Location | Florida, US |
+| Category | Account Executive |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Florida---Remote/Named-Account-Executive_JR359491) |
 
 ## About This Role
 
-This sales position at Salesforce was posted on 2026-08-28.
+This account executive position at Salesforce was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

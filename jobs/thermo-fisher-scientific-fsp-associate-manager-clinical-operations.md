@@ -1,16 +1,16 @@
-# FSP Associate Manager, Clinical Operations at Thermo Fisher Scientific
+# FSP Associate Manager Clinical Operations at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=remote-jobs) |
-| Location | Philippines |
+| Location | Mexico |
 | Category | Program Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Philippines/FSP-Associate-Manager--Clinical-Operations_R-01360022) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/FSP-Associate-Manager-Clinical-Operations_R-01368302) |
 
 ## About This Role
 
-This program manager position at Thermo Fisher Scientific was posted on 2026-07-16.
+This program manager position at Thermo Fisher Scientific was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
